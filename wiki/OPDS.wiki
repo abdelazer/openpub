@@ -239,7 +239,9 @@ In additional to statically declared or manually entered OPDS catalogs, OPDS cat
   # Desktop software acting as a companion for a dedicated reading device that wants to enable synchronization of libraries without requiring physical device tethering.
 
 Finally, Reading Systems will typically also provide the ability for some catalogs to be listed in their default Online Catalog section. Mechanisms for handling such default listings are Reading System dependent and outside the scope of the OPDS specification.
-Summary of Atom Compatibility in OPDS
+
+
+== Summary of Atom Compatibility in OPDS==
 
 
 Most of the OPDS features described above simply represent a particular set of conventions for using Atom and HTTP, compatible with the Atom specifications.  These include 

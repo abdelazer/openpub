@@ -136,7 +136,7 @@ For example, if you have the following link:
     href="http://www.billybobsbooks.com/search.php?q={searchTerms}"/>
 }}}
 
-And if the user enters "The Great Gatsby" into the search field and submits, a compatible Reading System will fetch the next catalog by going to the URL "http://www.billybobsbooks.com/search.php?q=The+Great+Gatsby". 
+And if the user enters "The Great Gatsby" into the search field and submits, a compatible Reading System will fetch the next catalog by going to the URL {{{http://www.billybobsbooks.com/search.php?q=The+Great+Gatsby}}}. 
 
 
 Reading Systems are required to not put any constraints on the search terms you enter or the meaning of the search. For example, if your top-level catalog has an "Authors" sub-catalog, you could have the search URL that comes up in that catalog prioritize author names. Alternatively, you could have all search URLs always go to a single global search URL (which is the decision that most catalogs choose).  
@@ -152,7 +152,7 @@ Reading Systems handle links of type {{{application/opds+atom+xml}}} by loading 
 One way in which a browser session is frequently used is as a mechanism for the user to register an account with a bookstore, or to perform the purchase transaction (as the Open Publication Distribution System does not yet define any built-in transaction processing abilities). A book store's catalog may allow users to browse and search for books using the familiar and efficient catalog Atom XML interface, but then when they want to purchase and download the book, they might enter the (embedded or separate window) browser to log in and complete the transaction. Another way in which the browser feature is used is to provide links to other sites that might have additional useful information like book reviews. 
 
 
-In addition to HTML links described above, catalogs can provide enhanced visual experience for applications that support it, by providing links to interactive web content, such as Flash or Java applets. An application can choose to use such link as an alternative to HTML.  Rel attribute for such links should be set to "http://opds-spec.org/opds-content-acquisition". This rel value can be placed on HTML links as well to make the meaning of such link unambiguous. All applications should be able to recognize it.
+In addition to HTML links described above, catalogs can provide enhanced visual experience for applications that support it, by providing links to interactive web content, such as Flash or Java applets. An application can choose to use such link as an alternative to HTML.  Rel attribute for such links should be set to {{{http://opds-spec.org/opds-content-acquisition}}}. This rel value can be placed on HTML links as well to make the meaning of such link unambiguous. All applications should be able to recognize it.
 
 
 ===Catalog Description Page===
@@ -182,9 +182,9 @@ A book description can contain one or more link elements, which will be displaye
 Additional types may be supported, for example if a catalog offers a format other than EPUB, that may be made available as an additional type (e.g.  {{{application/pdf}}}, intended to download the specified link and imports the book as a PDF file). However, there is no guarantee that an OPDS-compatible Reading System will support such additional types; if unsupported, Reading Systems must ignore them.
 Having links in the book description is essential for providing the ability for the user to perform additional actions for the book. For example, the book may have an {{{application/xhtml+xml}}} link that goes to a web page that contains book reviews, an {{{application/opds+atom+xml}}} that links to a "People Also Purchased..." catalog of similar books, and an {{{application/epub+zip}}} link that allows the user to download a free sample of the book. 
 
-Links to books should specify rel value "http://opds-spec.org/opds-content". Usage of rel attribute is optional for EPUB content, but required for all other content formats (e.g. PDF).
+Links to books should specify rel value {{{http://opds-spec.org/opds-content}}}. Usage of rel attribute is optional for EPUB content, but required for all other content formats (e.g. PDF).
 
-Links to book samples (a incomplete variant of the book) must specify rel value "http://opds-spec.org/opds-content-sample".
+Links to book samples (a incomplete variant of the book) must specify rel value {{{http://opds-spec.org/opds-content-sample}}}.
 
 Links to subcatalogs and additional book information must specify title attribute with the human-readable description of the content (e.g. "Other books by this author" or "Reviews on acmebooks.com".
 
@@ -225,13 +225,13 @@ OPDS-compatible Reading Systems must support basic HTTP authentication, which ca
 An OPDS-compatible Reading System must enable users to add additional catalogs to their online catalog listing, by specifying a full URL. The specific UI affordance(s) for managing such user-added catalogs are Reading System dependent.
 
 
-If an HTML link's href attribute utilizes the "opds+http://" URL scheme, the remainder of the URL represents an OPDS catalog endpoint. OPDS-compatible Reading Systems should, as allowed by platforms/browsers, register to handle this URL scheme, which will result in, when the link is activated, launching the Reading System application which will add the specified address a new custom catalog. For example, if your catalog located at "http://www.billybobsbooks.com/catalog.atom", accessing a link of the format "opds+http://www.billybobsbooks.com/catalog.atom" on a system where a compatible OPDS Reading System has been installed will result in that catalog being added to the user's catalog listing. Reading Systems are required to support HTTP access; they may, optionally, support other protocols using schemes like "opds+https://" for HTTP over SSL and "opds+ftp://" for FTP access.
+If an HTML link's href attribute utilizes the {{{opds+http://}}} URL scheme, the remainder of the URL represents an OPDS catalog endpoint. OPDS-compatible Reading Systems should, as allowed by platforms/browsers, register to handle this URL scheme, which will result in, when the link is activated, launching the Reading System application which will add the specified address a new custom catalog. For example, if your catalog located at {{{http://www.billybobsbooks.com/catalog.atom}}}, accessing a link of the format "opds+http://www.billybobsbooks.com/catalog.atom" on a system where a compatible OPDS Reading System has been installed will result in that catalog being added to the user's catalog listing. Reading Systems are required to support HTTP access; they may, optionally, support other protocols using schemes like "opds+https://" for HTTP over SSL and "opds+ftp://" for FTP access.
 
 
 An OPDS-compatible Reading System should support auto-discovery of such OPDS catalog endpoints by enabling a user to type in a partial URL (typically a domain name) and retrieving and searching the HTML file for intances of links with the "opds+http://" URL scheme defined above. This handles the situation where the platform/browser may not support binding to custom URL schemes, and the situation where multiple OPDS-compatible Reading Systems are installed. This auto-discovery convention is based on to the de facto standard for RSS feed auto-discovery in HTML web pages (see http://www.petefreitag.com/item/384.cfm ).
 
 
-In additional to statically declared or manually entered OPDS catalogs, OPDS catalogs can be "discoverable" by being advertized on a local network using DNS based Service Discovery (DNS-SD), which is a "ZeroConf" technique that has many free and popular implementations, such as Bonjour on Apple Macintosh and Avahi on Linux/UNIX. Reading Systems that support DNS-SD will discover catalogs on the local network by searching for DNS-SD records of type "_opds._tcp", and using the "path" attribute to specify the HTTP URL path of the catalog. Discoverable catalogs can be useful in the following scenarios:
+In additional to statically declared or manually entered OPDS catalogs, OPDS catalogs can be "discoverable" by being advertized on a local network using DNS based Service Discovery (DNS-SD), which is a "ZeroConf" technique that has many free and popular implementations, such as Bonjour on Apple Macintosh and Avahi on Linux/UNIX. Reading Systems that support DNS-SD will discover catalogs on the local network by searching for DNS-SD records of type {{{_opds._tcp}}}, and using the "path" attribute to specify the HTTP URL path of the catalog. Discoverable catalogs can be useful in the following scenarios:
 
 
   # Public libraries that want to allow local users to browse and download books without requiring them to perform manual configuration steps.
@@ -252,5 +252,3 @@ Most of the OPDS features described above simply represent a particular set of c
 Data URL support in thumbnail image definitions A few OPDS features represent extensions to Atom, these include:
   * Searching: the OpenSearch-based URL template syntax is not defined by the Atom specifications. As "{" and "}" are designated as "unsafe" characters which must be encoded in URLs (per RFC 1738 - [http://www.freesoft.org/CIE/RFC/1738/4.htm]), Atom-conforming processing software may not successfully process search links in catalogs.
   * Icons: the use of new link "rel" attribute types is a conformant extension to the base Atom specification and such links are required to be ignored by Atom software that does not support them.
-
-

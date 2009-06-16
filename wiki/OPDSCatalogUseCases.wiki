@@ -15,7 +15,7 @@ The following is a list of proposed use cases for OPDS Catalogs.
 
   * An OPDS catalog should support certain common search functions, particularly for each of the above three use cases.  Which is to say it should contain any metadata needed for such searches. {SJ}
 
-  * An OPDS catalog should be compressible.  It should support revision and enhancement of a fixed-size catalog with access to changing `quantity, quality` information.  A device with limited storage space should be able to maintain over time the 'most useful' set of information in its OPDS catalog for a set of interesting works.  So if each work has 100k of associated metadata, a catalog of 100,000 titles restricted to 10MB of space should include sufficient meta-information about importance, interest, &c to identify how much information to store. 
+  * An OPDS catalog should be compressible.  It should support revision and enhancement of a fixed-size catalog with access to changing `quantity, quality` information.  A device with limited storage space should be able to maintain over time the 'most useful' set of information in its OPDS catalog for a set of interesting works.  So if each work has 100k of associated metadata, a catalog of 100,000 titles restricted to 10MB of space should include sufficient meta-information about importance, interest, &c to identify how much information to store. {SJ}
 
 
   * Self-publishers should be able to create OPDS Catalogs of their titles (even if they only have one) {KHF}

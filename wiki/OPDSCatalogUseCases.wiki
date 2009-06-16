@@ -7,53 +7,32 @@ The following is a list of proposed use cases for OPDS Catalogs.
 
 = Proposed Use Cases =
 
-* Users should be able to carry around an OPDS catalog of books they
-are or may be interested in.  Their personal catalog should contain
-information on where individual books might be located, specifically
-distinguishing on-disk, local-network, local-server, and global-
-internet catalogs (each of which may be an aggregator of multiple
-catalogs). {SJ}
+  * Users should be able to carry around an OPDS catalog of books they are or may be interested in.  Their personal catalog should contain information on where individual books might be located, specifically distinguishing on-disk, local-network, local-server, and global-internet catalogs (each of which may be an aggregator of multiple catalogs). {SJ}
 
-* An OPDS catalog should be amenable to automatic updating,
-particularly with availability information (again, with 'availability'
-captured in the catalog in many facets, since a catalog user may have
-access to the catalog but to only a subset of possible bookshelves). {SJ}
+  * An OPDS catalog should be amenable to automatic updating, particularly with availability information (again, with 'availability' captured in the catalog in many facets, since a catalog user may have access to the catalog but to only a subset of possible bookshelves). {SJ}
 
-* An OPDS catalog should be able to interface with available
-interlibrary loan processes (for both digital and physical books) to
-help derive the ''shortest path" between a user and a copy of a work.
-Some capture of likelihood / frequency of availability and 'distance'
-in time and money to access is important. {SJ}
+  * An OPDS catalog should be able to interface with available interlibrary loan processes (for both digital and physical books) to help derive the ''shortest path" between a user and a copy of a work. Some capture of likelihood / frequency of availability and 'distance' in time and money to access is important. {SJ}
 
-* An OPDS catalog should support certain common search functions,
-particularly for each of the above three use cases.  Which is to say
-it should contain any metadata needed for such searches. {SJ}
+  * An OPDS catalog should support certain common search functions, particularly for each of the above three use cases.  Which is to say it should contain any metadata needed for such searches. {SJ}
 
-* An OPDS catalog should be compressible.  It should support revision
-and enhancement of a fixed-size catalog with access to changing
-[quantity, quality] information.  A device with limited storage space
-should be able to maintain over time the 'most useful' set of
-information in its OPDS catalog for a set of interesting works.  So if
-each work has 100k of associated metadata, a catalog of 100,000 titles
-restricted to 10MB of space should include sufficient meta-information
-about importance, interest, &c to identify how much information to
+  * An OPDS catalog should be compressible.  It should support revision and enhancement of a fixed-size catalog with access to changing `quantity, quality` information.  A device with limited storage space should be able to maintain over time the 'most useful' set of information in its OPDS catalog for a set of interesting works.  So if each work has 100k of associated metadata, a catalog of 100,000 titles restricted to 10MB of space should include sufficient meta-information about importance, interest, &c to identify how much information to
 store. 
 
 
-* Self-publishers should be able to create OPDS Catalogs of their titles (even if they only have one) {KHF}
-* Traditional publishers should be able to create OPDS Catalogs of all of their electronically-available frontlist and backlist titles {KHF}
-* Traditional libraries should be able to create OPDS Catalogs of their available electronic holdings {KHF}
-* Digital libraries should be able to create OPDS Catalogs of their available electronic holdings {KHF}
-* Users should be able to create OPDS Catalogs of the electronic books they own {KHF}
-* Digital distribution service vendors should be able to create OPDS Catalogs of the electronic books they are able to provide {KHF}
+  * Self-publishers should be able to create OPDS Catalogs of their titles (even if they only have one) {KHF}
+  * Traditional publishers should be able to create OPDS Catalogs of all of their electronically-available frontlist and backlist titles {KHF}
+  * Traditional libraries should be able to create OPDS Catalogs of their available electronic holdings {KHF}
+  * Digital libraries should be able to create OPDS Catalogs of their available electronic holdings {KHF}
+  * Users should be able to create OPDS Catalogs of the electronic books they own {KHF}
+  * Digital distribution service vendors should be able to create OPDS Catalogs of the electronic books they are able to provide {KHF}
 
-* Aggregators should be able to combine OPDS Catalogs before republishing {KHF}
-* Aggregators should be able to enrich OPDS Catalogs before republishing {KHF}
+  * Aggregators should be able to combine OPDS Catalogs before republishing {KHF}
+  * Aggregators should be able to enrich OPDS Catalogs before republishing {KHF}
 
-* Discovery portals should be able to crawl the web for OPDS Catalogs {KHF}
+  * Discovery portals should be able to crawl the web for OPDS Catalogs {KHF}
 
-* Acquisition portals should be able to allow readers to acquire titles via OPDS Catalogs {KHF}
+  * Acquisition portals should be able to allow readers to acquire titles via OPDS Catalogs {KHF}
 
-* Library management systems should be able to import complete OPDS Catalogs {KHF}
+  * Library management systems should be able to import complete OPDS Catalogs {KHF}
 
-* Reading systems should be able to allow readers to browse OPDS Catalogs {KHF}
+  * Reading systems should be able to allow readers to browse OPDS Catalogs {KHF}

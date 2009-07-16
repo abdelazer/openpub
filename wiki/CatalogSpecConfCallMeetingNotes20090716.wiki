@@ -17,7 +17,7 @@
 
 *Bold* indicates an action item for someone.
 
-== [#Intro Introduction to OPDS/Bookserver] ==
+== [CatalogSpecConfCallMeetingNotes20090716 #Intro Introduction to OPDS/Bookserver] ==
 
 Peter introduced the October deadline and its background in the annual Internet Archive
 [IA] meeting.
@@ -28,7 +28,7 @@ two reading systems, two catalog providers, etc. These will have working impleme
 by October.
   * This call will focus exclusively on the OPDS piece of Bookserver.
 
-==[#UseCases Use Cases]==
+==[CatalogSpecConfCallMeetingNotes20090716 #UseCases Use Cases]==
 
 Keith began the discussion of whether we should start with approving the use cases.
 
@@ -43,7 +43,7 @@ Keith asked whether it would be sufficient to approve/change use cases via onlin
 
   * It was agreed that we would have discussion online and move to calls if there were significant disagreement.
 
-==[#IssueTracking Issue Tracking]==
+==[CatalogSpecConfCallMeetingNotes20090716 #IssueTracking Issue Tracking]==
 
 Steph asked if we should use the Google Code tracker to manage issues and responsibilities.
 
@@ -63,7 +63,7 @@ Steph asked about how we should use the ownership field in the tracker.
   * It was decided that whoever raised the issue will be responsible for getting it assigned to someone who will resolve it.
   * Keith changed the settings on the project to email all issue updates to the mailing list. This will be revisited if it is too verbose.
 
-== [#SpecUpdate Updating the Existing Specification]==
+== [CatalogSpecConfCallMeetingNotes20090716 #SpecUpdate Updating the Existing Specification]==
 
 Hadrien asked if we should update the existing draft spec with changes that are already (informally) finalized.
 
@@ -72,7 +72,7 @@ Hadrien asked if we should update the existing draft spec with changes that are 
 *Keith will write the first revision for each update and others can make changes as
 necessary.*
 
-==[#roadmap OPDS Roadmap]==
+==[CatalogSpecConfCallMeetingNotes20090716 #roadmap OPDS Roadmap]==
 
 Steph reviewed the existing roadmap on the Wiki. There were no major questions.
 

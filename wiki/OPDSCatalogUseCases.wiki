@@ -25,8 +25,16 @@ The following is a list of proposed use cases for OPDS Catalogs.
   * Users should be able to create OPDS Catalogs of the electronic books they own {KHF}
   * Digital distribution service vendors should be able to create OPDS Catalogs of the electronic books they are able to provide {KHF}
 
+
+
   * Aggregators should be able to combine OPDS Catalogs before republishing {KHF}
   * Aggregators should be able to enrich OPDS Catalogs before republishing {KHF}
+  
+  * Catalog publishers should be able to provide private, secure Catalogs {KHF}
+  * Catalog publishers should be able to provide public, unsecured Catalogs {KHF}
+  * Catalog publishers should be able to provide metadata-rich Catalogs {KHF}
+  * Catalog publishers should be able to provide minimal, metadata-poor Catalogs {KHF}
+
 
   * Discovery portals should be able to crawl the web for OPDS Catalogs {KHF}
   * Discovery portals should be able to index complete OPDS Catalogs in order to provide multi-Catalog search & browsing interfaces {KHF}

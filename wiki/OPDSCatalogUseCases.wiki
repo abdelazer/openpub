@@ -9,11 +9,11 @@ Please continue the numbering but do not edit any existing numbers.
 
 = Proposed Use Cases =
 
-  * 1. Users should be able to carry around an OPDS catalog of books they are or may be interested in.  Their personal catalog should contain information on where individual books might be located, specifically distinguishing on-disk, local-network, local-server, and global-internet catalogs (each of which may be an aggregator of multiple catalogs). {SJ}
+  * 1. Users should be able to carry around an OPDS catalog of publications they are or may be interested in.  Their personal catalog should contain information on where individual publications might be located, specifically distinguishing on-disk, local-network, local-server, and global-internet catalogs (each of which may be an aggregator of multiple catalogs). {SJ}
 
-  * 2. An OPDS catalog should be amenable to automatic updating, particularly with availability information (again, with 'availability' captured in the catalog in many facets, since a catalog user may have access to the catalog but to only a subset of possible bookshelves). {SJ}
+  * 2. An OPDS catalog should be amenable to automatic updating, particularly with availability information (again, with 'availability' captured in the catalog in many facets, since a catalog user may have access to the catalog but to only a subset of possible shelves). {SJ}
 
-  * 3. An OPDS catalog should be able to interface with available interlibrary loan processes (for both digital and physical books) to help derive the ''shortest path" between a user and a copy of a work. Some capture of likelihood / frequency of availability and 'distance' in time and money to access is important. {SJ}
+  * 3. An OPDS catalog should be able to interface with available interlibrary loan processes (for both digital and physical publications) to help derive the ''shortest path" between a user and a copy of a work. Some capture of likelihood / frequency of availability and 'distance' in time and money to access is important. {SJ}
 
   * 4. An OPDS catalog should support certain common search functions, particularly for each of the above three use cases.  Which is to say it should contain any metadata needed for such searches. {SJ}
 
@@ -24,8 +24,8 @@ Please continue the numbering but do not edit any existing numbers.
   * 7. Traditional publishers should be able to create OPDS Catalogs of all of their electronically-available frontlist and backlist titles {KHF}
   * 8. Traditional libraries should be able to create OPDS Catalogs of their available electronic holdings {KHF}
   * 9. Digital libraries should be able to create OPDS Catalogs of their available electronic holdings {KHF}
-  * 10. Users should be able to create OPDS Catalogs of the electronic books they own {KHF}
-  * 11. Digital distribution service vendors should be able to create OPDS Catalogs of the electronic books they are able to provide {KHF}
+  * 10. Users should be able to create OPDS Catalogs of the electronic publications they own {KHF}
+  * 11. Digital distribution service vendors should be able to create OPDS Catalogs of the electronic publications they are able to provide {KHF}
   * 12. A journal publisher should be able to create OPDS Catalogs of their available electronic issues {KHF}
 
 

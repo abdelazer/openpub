@@ -29,9 +29,15 @@ The following is a list of proposed use cases for OPDS Catalogs.
   * Aggregators should be able to enrich OPDS Catalogs before republishing {KHF}
 
   * Discovery portals should be able to crawl the web for OPDS Catalogs {KHF}
+  * Discovery portals should be able to index complete OPDS Catalogs in order to provide multi-Catalog search & browsing interfaces {KHF}
 
-  * Acquisition portals should be able to allow readers to acquire titles via OPDS Catalogs {KHF}
+  * Acquisition portals should be able to allow readers to acquire free titles via OPDS Catalogs (download) {KHF}
+  * Acquisition portals should be able to allow readers to acquire titles with payment via OPDS Catalogs (vend) {KHF}
+  * Acquisition portals should be able to allow readers to acquire titles for a limited period via OPDS Catalogs (lend) {KHF}
 
   * Library management systems should be able to import complete OPDS Catalogs {KHF}
+  * Library management systems should be able to export a reader's complete OPDS Catalogs {KHF}
 
   * Reading systems should be able to allow readers to browse OPDS Catalogs {KHF}
+  * Bandwidth-limited reading systems should be able to allow readers to browse OPDS Catalogs {KHF}
+  * Resource-limited reading systems should be able to allow readers to browse OPDS Catalogs {KHF}

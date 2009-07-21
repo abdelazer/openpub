@@ -1,6 +1,6 @@
 #summary This is a preliminary list for words that need clarification
 
-= Specification keywords =
+== Specification keywords ==
 
 From [http://www.ietf.org/rfc/rfc2119.txt RFC2119]:
 
@@ -10,7 +10,7 @@ From [http://www.ietf.org/rfc/rfc2119.txt RFC2119]:
   # *SHOULD NOT* --  This phrase, or the phrase "NOT RECOMMENDED" mean that there may exist valid reasons in particular circumstances when the particular behavior is acceptable or even useful, but the full implications should be understood and the case carefully weighed before implementing any behavior described with this label.
 
 
-= Domain Terminology in Use Cases =
+== Domain terminology =
 
   # *Publications* is used instead of "books" to also include magazines, conference proceedings etc. 
   # *Acquire* is used instead of "buy" or "lend". 

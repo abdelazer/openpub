@@ -51,3 +51,8 @@ Please continue the numbering but do not edit any existing numbers.
   * 26. Reading systems should be able to allow readers to browse OPDS Catalogs {KHF}
   * 27. Bandwidth-limited reading systems should be able to allow readers to browse OPDS Catalogs {KHF}
   * 28. Resource-limited reading systems should be able to allow readers to browse OPDS Catalogs {KHF}
+
+  * 29. An OPDS catalog should be able to provide available price metadata for a publication.{TJ}
+  * 30. An OPDS catalog should be able to provide a link to reviews in the publication metadata {TJ}
+  * 31. An OPDS catalog should be able to specify an item acquisition (purchase, download, etc) url for the publication in its metadata. {TJ}
+  * 32. An OPDS catalog should be able to provide the number of elements contained in a given catalog entry (cumulatively, including all sub-catalogs) in publication metadata.

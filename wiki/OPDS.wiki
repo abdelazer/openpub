@@ -168,7 +168,8 @@ It is generally recommended that the first entry in your top-level of a catalog 
 }}}
 
 It is recommended that the resulting XHTML page be as simple as possible, and conform to the UI guidelines of the mobile Operating System(s) that you expect Reading Systems to utilize. As guidance, Reading System vendors may offer suitable style sheets that you can utilize for best results. 
-Links in Book Descriptions
+
+===Links in Book Descriptions===
 
 
 A book description can contain one or more link elements, which will be displayed beneath the book's description in the catalog. The rel for these links is not currently used, but the links must be of a supported type. I.e., they need to be one of: 
@@ -191,7 +192,9 @@ Links to subcatalogs and additional book information must specify title attribut
 ===Results Pagination===
 
 Since users may be on slow cellular networks when accessing your catalog, you should avoid sending very large batches of responses to any requests. In general, we recommend paginating results in batches of 20 or 30. As defined by the Atom specifications, if a catalog has a link with {{{rel='next'}}}, then that will cause OPDS-compatible Reading Systems to display an interface element that allows the user to load the additional results. When traversed, the URL in the link will be hit, and additional results will be loaded and presented to the user. 
-Catalog Subdescriptions
+
+===Catalog Subdescriptions===
+
 Sub-catalogs can have a small piece of descriptive text that appears below the catalog name. This is useful for summarizing the catalog contents or providing additional hints. This is accomplished by using code like: 
 
 {{{

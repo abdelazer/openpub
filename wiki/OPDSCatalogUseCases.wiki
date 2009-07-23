@@ -57,7 +57,7 @@ Please continue the numbering but do not edit any existing numbers.
   * 31. An OPDS catalog should be able to specify an item acquisition (purchase, download, etc) url for the publication in its metadata. {TJ}
   * 32. An OPDS catalog should be able to provide the number of elements contained in a given catalog entry (cumulatively, including all sub-catalogs) in publication metadata. {TJ}
 
-* 33. Magazines/newspapers should be automatically checked and updated when a new version is available {HG}
-* 34. A user should be able to synchronize his bookshelf and automatically download new acquisitions {HG}
-* 35. A user should be able to authenticate for a given catalog {HG}
-* 36. A user should be able to stay authenticated, without using sessions/cookies {HG}
+  * 33. Magazines/newspapers should be automatically checked and updated when a new version is available {HG}
+  * 34. A user should be able to synchronize his bookshelf and automatically download new acquisitions {HG}
+  * 35. A user should be able to authenticate for a given catalog {HG}
+  * 36. A user should be able to stay authenticated, without using sessions/cookies {HG}

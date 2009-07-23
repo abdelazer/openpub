@@ -5,6 +5,11 @@
 
 (The actual current draft follows, until "Other Text")
 
+----
+
 = Other Text =
 
 Bits of potentially useful text that have yet to be integrated into the actual draft.
+
+Catalog providers SHOULD provide an OPDS Catalog or redirect to a catalog when a HTTP request Accept header indicates the OPDS Catalog mimetype (application/atom
++xml;profile=opds).

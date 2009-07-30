@@ -48,11 +48,11 @@ Please continue the numbering but do not edit any existing numbers.
   * 27. Bandwidth-limited reading systems should be able to allow readers to browse OPDS Catalogs {KHF}
   * 28. Resource-limited reading systems should be able to allow readers to browse OPDS Catalogs {KHF}
 
-  * 29. An OPDS catalog should be able to provide available price metadata for a publication.{TJ}
-  * 30. An OPDS catalog should be able to provide a link to reviews in the publication metadata {TJ}
-  * 31. An OPDS catalog should be able to specify an item acquisition (purchase, download, etc) url for the publication in its metadata. This acquisition URL should included the specific epub container format used e.g. ACS4epub, plain "epub", "mobi", etc.{TJ} 
-  * 32. An OPDS catalog should be able to provide the number of elements contained in a given catalog entry (cumulatively, including all sub-catalogs) in publication metadata. {TJ}
-  * 33. Acquisition links should allow the reader to enter their own affiliate information, possibly through a method similar to OPDS search functionality. {TJ}
+  * 29. Catalog publishers should be able to provide price data for entries in a catalog.{TJ}
+  * 30. Catalog publishers should be able to provide links to reviews for entries in a catalog {TJ}
+  * 31. Reading systems should be able to filter possible acquisition links for compatibility with the reading system.{TJ}
+  * 32. Catalog publishers should be able to provide the total number of entries found in sub-catalogs.{TJ}
+  * 33. Catalog publishers should be able to describe expected affiliate data (format, url, anything else?){TJ}
 
   * 34. Magazines/newspapers should be automatically checked and updated when a new version is available {HG}
   * 35. A user should be able to synchronize their bookshelf and automatically download new acquisitions {HG}

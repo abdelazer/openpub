@@ -31,7 +31,8 @@ Please continue the numbering but do not edit any existing numbers.
 
   * 13. Aggregators should be able to combine and enrich OPDS Catalogs before republishing {KHF}
   
-  * 15. Catalog publishers should be able to provide private or public, secured or unsecured Catalogs {KHF}
+  * 15. Catalog publishers should be able to provide authenticated,
+authorized, or public Catalogs
 
   * 17. Catalog publishers should be able to provide metadata-rich Catalogs {KHF}
   * 18. Catalog publishers should be able to provide minimal, metadata-poor Catalogs {KHF}
@@ -61,3 +62,6 @@ Please continue the numbering but do not edit any existing numbers.
 
   * 38. Catalogs should be able to support multiple, alternative acquisition scenarios for each publication
   * 39. Catalogs should be able to support affiliate systems
+
+  * 40. Catalog consumers should be able to handle changes in Catalogs due to
+additions, updates, or deletions

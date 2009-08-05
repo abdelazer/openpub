@@ -58,3 +58,6 @@ Please continue the numbering but do not edit any existing numbers.
   * 35. A user should be able to synchronize their bookshelf and automatically download new acquisitions {HG}
   * 36. A user should be able to authenticate for a given catalog {HG}
   * 37. A user should be able to stay authenticated, without using sessions/cookies {HG}
+
+  * 38. Catalogs should be able to support multiple, alternative acquisition scenarios for each publication
+  * 39. Catalogs should be able to support affiliate systems

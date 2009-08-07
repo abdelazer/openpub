@@ -19,66 +19,41 @@ Please continue the numbering but do not edit any existing numbers.
 = Confirmed Use Cases =
 
 
- * 1. Self-publishers should be able to create OPDS Catalogs of their
-titles (even if they only have one) (P6)
- * 2. Traditional publishers should be able to create OPDS Catalogs
-of all of their electronically-available frontlist and backlist titles (P7)
- * 3. Traditional libraries should be able to create OPDS Catalogs of
-their available electronic holdings (P8)
- * 4. Digital libraries should be able to create OPDS Catalogs of
-their available electronic holdings (P9)
+ * 1. Self-publishers should be able to create OPDS Catalogs of their titles (even if they only have one) (P6)
+ * 2. Traditional publishers should be able to create OPDS Catalogs of all of their electronically-available frontlist and backlist titles (P7)
+ * 3. Traditional libraries should be able to create OPDS Catalogs of their available electronic holdings (P8)
+ * 4. Digital libraries should be able to create OPDS Catalogs of their available electronic holdings (P9)
 
- * 5.  Library management systems should be able to create OPDS
-Catalogs of their electronic publications  (P10)
+ * 5.  Library management systems should be able to create OPDS Catalogs of their electronic publications  (P10)
 
- * 6. Digital distribution service vendors should be able to create
-OPDS Catalogs of the electronic publications they are able to provide (P11)
- * 7. A journal publisher should be able to create OPDS Catalogs of
-their available electronic issues (P12)
- * 8. Aggregators should be able to combine and enrich OPDS Catalogs
-before republishing (P13)
- * 9. Catalog publishers should be able to provide authenticated,
-authorized, or public Catalogs (P15)
+ * 6. Digital distribution service vendors should be able to create OPDS Catalogs of the electronic publications they are able to provide (P11)
+ * 7. A journal publisher should be able to create OPDS Catalogs of their available electronic issues (P12)
+ * 8. Aggregators should be able to combine and enrich OPDS Catalogs before republishing (P13)
+ * 9. Catalog publishers should be able to provide authenticated, authorized, or public Catalogs (P15)
 
- * 10. Catalog publishers should be able to provide metadata-rich
-Catalogs (P17)
- * 11. Catalog publishers should be able to provide minimal,
-metadata-poor Catalogs (P18)
- * 12. Discovery portals should be able to crawl the web for OPDS
-Catalogs (P19)
- * 13. Discovery portals should be able to index complete OPDS
-Catalogs in order to provide multi-Catalog search & browsing
-interfaces (P20)
- * 14. Acquisition portals should be able to allow readers to acquire
-free titles via OPDS Catalogs (download) (P21)
- * 15. Acquisition portals should be able to allow readers to acquire
-titles with payment via OPDS Catalogs (vend) (P22)
- * 16. Acquisition portals should be able to allow readers to acquire
-titles for a limited period via OPDS Catalogs (lend) (P23)
- * 17. Reading systems should be able to allow readers to browse OPDS
-Catalogs (P26)
+ * 10. Catalog publishers should be able to provide metadata-rich Catalogs (P17)
+ * 11. Catalog publishers should be able to provide minimal, metadata-poor Catalogs (P18)
+ * 12. Discovery portals should be able to crawl the web for OPDS Catalogs (P19)
+ * 13. Discovery portals should be able to index complete OPDS Catalogs in order to provide multi-Catalog search & browsing interfaces (P20)
+ * 14. Acquisition portals should be able to allow readers to acquire free titles via OPDS Catalogs (download) (P21)
+ * 15. Acquisition portals should be able to allow readers to acquire titles with payment via OPDS Catalogs (vend) (P22)
+ * 16. Acquisition portals should be able to allow readers to acquire titles for a limited period via OPDS Catalogs (lend) (P23)
+ * 17. Reading systems should be able to allow readers to browse OPDS Catalogs (P26)
 
- * 18. Resource-limited reading systems should be able to allow
-readers to browse OPDS Catalogs (P28)
+ * 18. Resource-limited reading systems should be able to allow readers to browse OPDS Catalogs (P28)
 
- * 19. Catalog publishers should be able to provide links to reviews
-for entries in a catalog (P30)
+ * 19. Catalog publishers should be able to provide links to reviews for entries in a catalog (P30)
 
- * 20. Reading systems should be able to filter possible acquisition
-links for compatibility with the reading system (P31)
+ * 20. Reading systems should be able to filter possible acquisition links for compatibility with the reading system (P31)
 
- * 21. Catalog publishers should be able to provide the total number
-of entries found in sub-catalogs. (P32)
+ * 21. Catalog publishers should be able to provide the total number of entries found in sub-catalogs. (P32)
 
- * 22. A Reading system should be able to acquire/update their
-entire personal Catalog from a Library management system (P35)
+ * 22. A Reading system should be able to acquire/update their entire personal Catalog from a Library management system (P35)
 
- * 23. Catalogs should be able to support multiple, alternative
-acquisition scenarios for each publication (P38)
+ * 23. Catalogs should be able to support multiple, alternative acquisition scenarios for each publication (P38)
  * 24. Catalogs should be able to support affiliate systems (P39)
 
- * 25. Catalog consumers should be able to handle changes in Catalogs
-due to additions, updates, or deletions (P40)
+ * 25. Catalog consumers should be able to handle changes in Catalogs due to additions, updates, or deletions (P40)
 
 = Proposed Use Cases =
 

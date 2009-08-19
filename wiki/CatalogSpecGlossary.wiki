@@ -1,14 +1,5 @@
 #summary This is a preliminary list for words that need clarification
 
-== Specification keywords ==
-
-From [http://www.ietf.org/rfc/rfc2119.txt RFC2119]:
-
-  # *MUST* --  This word, or the terms "REQUIRED" or "SHALL", mean that the definition is an absolute requirement of the specification.
-  # *MUST NOT* --   This phrase, or the phrase "SHALL NOT", mean that the definition is an absolute prohibition of the specification.
-  # *SHOULD* --   This word, or the adjective "RECOMMENDED", mean that there may exist valid reasons in particular circumstances to ignore a particular item, but the full implications must be understood and carefully weighed before choosing a different course.
-  # *SHOULD NOT* --  This phrase, or the phrase "NOT RECOMMENDED" mean that there may exist valid reasons in particular circumstances when the particular behavior is acceptable or even useful, but the full implications should be understood and the case carefully weighed before implementing any behavior described with this label.
-
 
 == Domain terminology =
 
@@ -19,5 +10,4 @@ From [http://www.ietf.org/rfc/rfc2119.txt RFC2119]:
  * *Catalog Publisher*: A Catalog Publisher creates and allows access to Catalogs of titles.
  * *Discovery System*: A Discovery System consumes Catalogs with the goal of helping readers find titles.
  * *Library Management System*: A Library Management System maintains a centralized store of a reader's titles and may consume new titles from Catalogs or publish personal catalogs to other systems.
- * *Reading Systems*: A Reading System acquires titles from a Catalog and provides them to
-a reader for consumption.
+ * *Reading Systems*: A Reading System acquires titles from a Catalog and provides them to a reader for consumption.

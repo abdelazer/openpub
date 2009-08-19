@@ -69,7 +69,7 @@ The namespace name TODO_NS is reserved for forward-compatible revisions of the C
 
 == Element Definitions ==
 
-== Conformance
+== Conformance ==
 
 Producers of OPDS Catalogs SHOULD use the "type" parameter.
 
@@ -110,7 +110,35 @@ Server implementations are strongly encouraged to verify that external content i
 
 Additional information about XHTML and HTML content safety can be found in Section 8.1 of [RFC4287].
 
+== References ==
 
+=== Normative References ==
+
+
+  * \[REC-xml\]  Yergeau, F., Paoli, J., Bray, T., Sperberg-McQueen, C., and E. Maler, "Extensible Markup Language (XML) 1.0 (Fourth Edition)", World Wide Web Consortium Recommendation REC-xml-20060816, August 2006, http://www.w3.org/TR/2006/REC-xml-20060816.
+  * \[REC-xml-infoset\] Cowan, J. and R. Tobin, "XML Information Set (Second Edition)", World Wide Web Consortium Recommendation REC-xml-infoset-20040204, February 2004, http://www.w3.org/TR/2004/REC-xml-infoset-20040204.
+
+TODO
+
+== Appendix A. Contributors ==
+
+
+The content and concepts within are a product of the [openpub] community and the
+TODO
+
+== Appendix B. RELAX NG Compact Schema ==
+
+
+This appendix is informative.
+
+The Relax NG schema explicitly excludes elements in the TODO_NS namespace that are not defined in this revision of the specification. Requirements for Atom Protocol processors encountering such markup are given in Sections 6.2 and 6.3 of [RFC4287].
+
+The Schema for OPDS Catalogs:
+{{{
+   # -*- rnc -*- # RELAX NG Compact Syntax Grammar for OPDS Catalogs 
+
+TODO
+}}}
 ----
 
 = Other Text =

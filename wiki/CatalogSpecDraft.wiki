@@ -22,8 +22,8 @@ The Open Publication Distribution System (OPDS) Catalog format is a syndication 
 
 The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publications based on Atom [RFC4287] and HTTP [RFC2616]. OPDS Catalogs enable electronic publications to be:
 
-* discovered, using optional search or a range of optional browsing (?)
-* acquired, using direct downloads, lending, or vending
+  * discovered, using optional search or a range of optional browsing (?)
+  * acquired, using direct downloads, lending, or vending
 
 OPDS Catalogs may be aggregated and combined into larger OPDS Catalogs.
 
@@ -46,6 +46,19 @@ The Infoset terms "Element Information Item" and "Attribute Information Item" ar
 == RELAX NG Schema ==
 
 Some sections of this specification are illustrated with fragments of a non-normative RELAX NG Compact schema [RNC].  However, the text of this specification provides the definition of conformance.  Complete schemas appear in (?).
+
+
+== Terminology ==
+
+For convenience, this format can be referred to as the "OPDS Catalog." The following terminology is used by this specification:
+
+  * URI - A Uniform Resource Identifier as defined in [RFC3986]. In this specification, the phrase "the URI of a document" is shorthand for "a URI which, when dereferenced, is expected to produce that document as a representation".
+  * IRI - An Internationalized Resource Identifier as defined in [RFC3987].  Before an IRI found in a document is used by HTTP, the IRI is first converted to a URI. 
+  * Resource - A network-accessible data object or service identified by an IRI, as defined in [RFC2616].  See [REC-webarch] for further discussion on Resources.
+  * relation (or "relation of") - Refers to the "rel" attribute value of an atom:link element.
+  * Representation - An entity included with a request or response as defined in [RFC2616].
+  
+TODO From our glossary
 
 ----
 

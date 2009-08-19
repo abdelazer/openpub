@@ -22,7 +22,7 @@ The Open Publication Distribution System (OPDS) Catalog format is a syndication 
 
 The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publications based on Atom [RFC4287] and HTTP [RFC2616]. OPDS Catalogs enable electronic publications to be:
 
-  * discovered, using optional search or a range of optional browsing (?)
+  * discovered, using optional search or a range of optional browsing techniques TODO
   * acquired, using direct downloads, lending, or vending
 
 OPDS Catalogs may be aggregated and combined into larger OPDS Catalogs.
@@ -45,7 +45,7 @@ The Infoset terms "Element Information Item" and "Attribute Information Item" ar
 
 == RELAX NG Schema ==
 
-Some sections of this specification are illustrated with fragments of a non-normative RELAX NG Compact schema [RNC].  However, the text of this specification provides the definition of conformance.  Complete schemas appear in (?).
+Some sections of this specification are illustrated with fragments of a non-normative RELAX NG Compact schema [RNC].  However, the text of this specification provides the definition of conformance.  Complete schemas appear in TODO.
 
 
 == Terminology ==
@@ -59,6 +59,57 @@ For convenience, this format can be referred to as the "OPDS Catalog." The follo
   * Representation - An entity included with a request or response as defined in [RFC2616].
   
 TODO From our glossary
+
+== Document Extensibility ==
+
+Unrecognized markup in an OPDS Catalog is considered "foreign markup" as defined in Section 6 of the Atom Syndication Format [RFC4287]. Foreign markup can be used anywhere
+ within a Catalog unless it is explicitly forbidden.  Processors that encounter foreign markup MUST NOT stop processing and MUST NOT signal an error.  Clients SHOULD preserve foreign markup when transmitting such documents.
+
+The namespace name TODO_NS is reserved for forward-compatible revisions of the Catalog format. This does not exclude the addition of elements and attributes that might not be recognized by processors conformant to this specification.  Such unrecognized markup from the TODO_NS namespace MUST be treated as foreign markup.
+
+== Element Definitions ==
+
+== Conformance
+
+Producers of OPDS Catalogs SHOULD use the "type" parameter.
+
+Producers of OPDS Catalog SHOULD produce Catalog documents that are conformant to both Atom and the OPDS Catalog Relax NG schemas.
+
+== Securing OPDS Catalogs ==
+
+OPDS Catalogs are delivered over HTTP.  Authentication requirements for HTTP are covered in Section 11 of [RFC2616].
+
+TODO_GETHELP Point to Atom's description here?
+
+The choice of authentication mechanism will impact interoperability.....
+
+The minimum level of security referenced above (Basic Authentication with TLS) is considered good practice for Internet applications at the time of publication of this specification and sufficient for establishing a baseline for interoperability.  Implementers are encouraged to investigate and use alternative mechanisms regarded as equivalently good or better at the time of deployment. It is RECOMMENDED that clients be implemented in such a way that new authentication schemes can be deployed.
+
+Because this protocol uses HTTP response status codes as the primary means of reporting the result of a request, servers are advised to respond to unauthorized or unauthenticated requests using an appropriate 4xx HTTP response code (e.g., 401 "Unauthorized" or 403 "Forbidden") in accordance with [RFC2617].
+
+== Security Considerations ==
+
+
+OPDS Catalogs are delivered over HTTP and thus subject to the security considerations found in Section 15 of [RFC2616].
+
+TODO_GETHELP
+
+=== Linked Resources ===
+
+OPDS Catalogs can contain XML External Entities as defined in Section 4.2.2 of [REC-xml].  Catalog implementations are not required to load external entities.  External entities are subject to the same security concerns as any network operation and can alter the semantics of a Catalog document.  The same issues exist for Resources linked to by Catalog elements such as atom:link and atom:content.
+
+=== URIs and IRIs ===
+
+OPDS Catalog implementations handle URIs and IRIs.  See Section 7 of [RFC3986] and Section 8 of [RFC3987] for security considerations related to their handling and use.
+
+=== Code Injection and Cross Site Scripting ===
+
+OPDS Catalogs can contain a broad range of content types including code that might be executable in some contexts. Malicious clients could attempt to attack servers or other clients by injecting code into a Collection Document's Entry or Media Resources.
+
+Server implementations are strongly encouraged to verify that external content is safe prior to aggregating, processing, or publishing it.  In the case of HTML, experience indicates that verification based on a white list of acceptable content is more effective than a black list of forbidden content.
+
+Additional information about XHTML and HTML content safety can be found in Section 8.1 of [RFC4287].
+
 
 ----
 

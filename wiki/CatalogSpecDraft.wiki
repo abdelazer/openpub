@@ -5,6 +5,48 @@
 
 (The actual current draft follows, until "Other Text")
 
+== Status of this Draft ==
+
+This document specifies a draft of the OPDS Catalog specification. Distribution of this memo is unlimited.
+
+== License ==
+
+This document is licensed under [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-Share Alike].
+
+== Abstract ==
+
+The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publications based on Atom and HTTP. Catalogs enable the aggregation, distribution, discovery, and acquisition of electronic publications. OPDS Catalogs use existing or emergent open standards and conventions, with a priority on simplicity. 
+
+== Introduction ==
+
+
+The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publications based on Atom [RFC4287] and HTTP [RFC2616]. OPDS Catalogs enable electronic publications to be:
+
+* discovered, using optional search or a range of optional browsing (?)
+* acquired, using direct downloads, lending, or vending
+
+OPDS Catalogs may be aggregated and combined into larger OPDS Catalogs.
+
+
+== Notational Conventions ==
+
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+"SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this
+document are to be interpreted as described in [RFC2119].
+
+== XML-Related Conventions ==
+
+=== Referring to Information Items ===
+
+The OPDS Catalog format is specified in terms of the XML Information Set 
+[REC-xml-infoset], serialized as XML 1.0 [REC-xml].
+
+The Infoset terms "Element Information Item" and "Attribute Information Item" are shortened to "element" and "attribute" respectively.  Therefore, when this specification uses the term "element", it is referring to an Element Information Item, and when it uses the term "attribute", it is referring to an Attribute Information Item.
+
+== RELAX NG Schema ==
+
+Some sections of this specification are illustrated with fragments of a non-normative RELAX NG Compact schema [RNC].  However, the text of this specification provides the definition of conformance.  Complete schemas appear in (?).
+
 ----
 
 = Other Text =

@@ -64,7 +64,7 @@ Valda has found Inherent Vice in Reading System B. Reading System B has an exist
    <updated>2009-08-12T00:44:20+00:00</updated>
  ...
    <link type="application/pdf"
-            href="https://www.nerdishbooks.com/book/1984.epub">
+            href="https://www.nerdishbooks.com/book/1984.pdf">
      <opds:acqusitiontype>vend</opds:acqusitiontype>
      <opds:price currencycode="USD">18.99</opds:price>
      <opds:paymentgateway>https://www.paypal.com/us/</opds:paymentgateway>
@@ -79,7 +79,7 @@ Valda has found Inherent Vice in Reading System B. Reading System B has an exist
   # Reading System X opens an embedded web browser and POSTs to PayPal the details of the transaction for $18.99USD on Shelley's behalf using Reading System X's PayPal merchant account.
   # Shelley is presented an HTML PayPal login screen inside Reading System X's browser, logs in, and confirms that she wants to pay the amount
   # Reading System X does a callback over HTTP to confirm the transaction succeeded
-  # Reading System X now initiates an authenticated HTTPS request with nerdishbooks.com to download the PDF bytes from https://www.nerdishbooks.com/book/1984.epub.
+  # Reading System X now initiates an authenticated HTTPS request with nerdishbooks.com to download the PDF bytes from https://www.nerdishbooks.com/book/1984.pdf.
   # Reading System X processes the PDF content and loads it into storage
   # Reading System X displays the PDF to Shelley.
 

@@ -147,3 +147,6 @@ Bits of potentially useful text that have yet to be integrated into the actual d
 
 Catalog providers SHOULD provide an OPDS Catalog or redirect to a catalog when a HTTP request Accept header indicates the OPDS Catalog mimetype (application/atom
 +xml;profile=opds).
+
+
+(Something about extensions all being documented in a centralized place)

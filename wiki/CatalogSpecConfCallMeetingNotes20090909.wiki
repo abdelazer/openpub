@@ -26,3 +26,11 @@
   * September 23: Stakeholders' call. First draft of prioritized items on spec draft completed.
   * September 30: Additional stakeholders' call (to be confirmed)
   * October 8: Final stakeholders' call (phase 1)
+
+= Search =
+
+* Cart is unsure why we're using OpenSearch, may be worth investigating options with RSS Cloud and PubSub Hubbub.
+* Steph mentions perhaps this may have to do with maturity/adoption of the standards?
+* Tim: Google's implementation of search protocol uses Open Search.
+
+**Cart will begin a discussion on mailing list on relevance of RSS Cloud and PubSub Hubbub.*

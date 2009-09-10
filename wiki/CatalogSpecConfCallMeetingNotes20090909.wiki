@@ -31,7 +31,7 @@
 
 == Search ==
 
-  * Cart is unsure why we're using OpenSearch, may be worth investigating options with RSS Cloud and PubSub Hubbub.
+  * Cart is unsure why we're using OpenSearch, may be worth investigating options with RSS Cloud and pubsubhubbub.
   * Tim: Google's implementation of search protocol uses Open Search.
 
 *Cart will begin a discussion on mailing list on relevance of RssCloud and pubsubhubbub.*
@@ -93,6 +93,4 @@
   * Raj: since there aren't any feeds out there, would it make sense for me to start aggregating Atom feeds as well?
   * Keith: that would be the pragmatic way of doing it.
   * Keith: stanza's are not valid Atom feeds. We want to be more rigorous. Chicken & egg problem re spec not yet written, therefore no "valid" feeds yet.
-
-
 

@@ -1,0 +1,40 @@
+#summary List of metadata and link relations in OPDS
+
+= Metadata =
+
+== Required in partial entry ==
+
+  * atom:author
+  * atom:title
+  * atom:summary
+  * dcterms:issued
+
+== If present, must be in partial entry ==
+
+  * atom:category
+  * atom:rights
+  * dc:language
+  * dc:publisher
+  * prism:issue
+  * prism:volume
+
+== Full entry ==
+
+All of the elements above and anything else
+
+= Link Relations =
+
+== Feed-level ==
+
+  * http://opds-spec.org/bookshelf 
+  * http://opds-spec.org/subscriptions 
+
+== Entry-level ==
+
+  * http://opds-spec.org/acquisition
+  * http://opds-spec.org/buying
+  * http://opds-spec.org/lending
+  * http://opds-spec.org/subscription
+  * http://opds-spec.org/sample
+  * http://opds-spec.org/cover
+  * http://opds-spec.org/thumbnail

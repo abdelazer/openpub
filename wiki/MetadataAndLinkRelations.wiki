@@ -1,17 +1,28 @@
 #summary List of metadata and link relations in OPDS
 
+Like in AtomPub, an entry in an OPDS feed SHOULD NOT be considered to be a full entry.
+Partial entries, MAY have a full entry identified by link@rel="alternate" and the "application/atom+xml;type=entry" mimetype.
+
 = Metadata =
+
+Metadata in OPDS can be:
+  * required in the partial entry
+  * allowed in the partial entry, and MUST be in the partial entry if they're used
+  * strictly allowed in the full entry
+If a property is in the partial entry, it MUST be in the full entry too.
 
 == Required in partial entry ==
 
   * atom:author
   * atom:title
-  * atom:summary
-  * dcterms:issued
+  * atom:summary _(In Atom, you need an atom:content OR an atom:summary. In OPDS we require an atom:summary)_
+  * atom:id
+  * atom:published _(Corresponds to the publication of the Atom entry, NOT the publication)_
+  * dcterms:issued _(Publication date)_
 
 == If present, must be in partial entry ==
 
-  * atom:category
+  * atom:category _(Should use a scheme and a label)_
   * atom:rights
   * dc:language
   * dc:publisher
@@ -20,9 +31,12 @@
 
 == Full entry ==
 
-All of the elements above and anything else
+All of the elements above and anything else.
+Anything in the partial entry MUST be in the full entry too (aside from the link to the full entry).
 
 = Link Relations =
+
+Aside from common link relations (as defined in the [http://tools.ietf.org/html/draft-nottingham-http-link-header-06 Link Header draft] rather than the current [http://www.iana.org/assignments/link-relations/link-relations.xhtml IANA link registry]), several OPDS-specific link relations are created.
 
 == Feed-level ==
 

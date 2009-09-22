@@ -17,7 +17,7 @@ If a property is in the partial entry, it MUST be in the full entry too.
   * atom:title
   * atom:summary _(In Atom, you need an atom:content OR an atom:summary. In OPDS we require an atom:summary)_
   * atom:id
-  * atom:published _(Corresponds to the publication of the Atom entry, NOT the publication)_
+  * atom:updated _(Corresponds to the latest update of the Atom entry, NOT the publication)_
   * dcterms:issued _(Publication date)_
 
 == If present, must be in partial entry ==

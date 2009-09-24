@@ -2,7 +2,7 @@
 
 = Summary =
 
-During this meeting we concentrated on interoperability issues. Keith plans to devote more time to OPDS and resolving interop issues over the next few weeks, and Hadrien will initiate a conversation on authentication. 
+During this meeting we concentrated on interoperability issues. Keith plans to devote more time to OPDS and resolving interop issues over the next few weeks, and Hadrien will initiate a conversation on authentication. Keith and Peter will be demo'ing in Frankfurt the week before SF meeting. There will be an additional call next week on Sept 30th. 
 
 = Attendees =
 
@@ -170,7 +170,7 @@ Keith: this will be a significantly less techie audience.
 
 Keith hopes to dedicate about an hour a day to OPDS for as long as he can. 
 
-Hadrien: one thing we haven't talked about a lot: authentication. We will support basic HTTP Auth,but that's not going to be enough to support feedbooks. Need to have this discussion with other stakeholders, about more advanced authentication methods.
+Hadrien: one thing we haven't talked about a lot: authentication. We will support basic HTTP Auth, but that's not going to be enough to support feedbooks. Need to have this discussion with other stakeholders, about more advanced authentication methods.
 
 Keith: start an exploratory conversation on the implementers' list? 
 
@@ -180,7 +180,7 @@ Peter: IA is also interested in auth because of lending profile problem, no solu
 
 Hadrien: we should probably have a discussion about this. 
 
-Peter & Hadrien and Raj will have a conversation on how to handle it.
+Peter, Hadrien and Raj will have a conversation on how to handle it.
 
 Keith wants to know why this is important - not a highly critical issue for O'Reilly, need to understand better for other people - hence suggested private list, in case people can't talk about this publicly.
 

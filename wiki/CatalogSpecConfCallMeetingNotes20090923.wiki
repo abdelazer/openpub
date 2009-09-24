@@ -148,7 +148,7 @@ Hadrien: It should be up to the catalog provider using the user+agent + IP to sw
 
 Keith: we don't need to solve this today, this is currently handled in a complex way today.
 
-Keith: we are going to have a price element in an OPDS namespace, that's going to have the ISO4217, 3 letter country code as an attribute and the decimal as the value (0.00 or 0,00 is a valid value).
+Keith: *we are going to have a price element in an OPDS namespace, that's going to have the ISO4217, 3 letter country code as an attribute and the decimal as the value (0.00 or 0,00 is a valid value).*
 
 Hadrien: because we have a single-type attribute, we can't express what's behind the HTML.
 

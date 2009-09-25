@@ -64,8 +64,8 @@ Valda has found Inherent Vice in Reading System B. Reading System B has an exist
    <updated>2009-08-12T00:44:20+00:00</updated>
  ...
    <link type="application/pdf"
-            href="https://www.nerdishbooks.com/book/1984.pdf">
-     <opds:acqusitiontype>vend</opds:acqusitiontype>
+            href="https://www.nerdishbooks.com/book/1984.pdf"
+            rel="http://opds-spec.org/buying">
      <opds:price currencycode="USD">18.99</opds:price>
      <opds:paymentgateway>https://www.paypal.com/us/</opds:paymentgateway>
    </link>

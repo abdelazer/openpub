@@ -24,16 +24,18 @@ If a property is in the partial entry, it MUST be in the full entry too.
   * atom:summary
   * atom:category _(Should use a scheme and a label)_
   * atom:rights
-  * dc:language
-  * dc:publisher
-  * dcterms:issued
+  * dcterms:language
+  * dcterms:publisher
+  * dcterms:issued _(publicaton date)_
   * prism:issue
   * prism:volume
+  * opds:price with three-letter [http://en.wikipedia.org/wiki/ISO_4217 ISO 4217] countrycode attribute
+  * opds:paymentgateway _(e.g. https://www.paypal.com/us/ or http://checkout.google.com)_
 
 == Full entry ==
 
 All of the elements above and anything else.
-Anything in the partial entry MUST be in the full entry too (aside from the link to the full entry).
+Anything in the partial entry MUST be in the full entry too (aside from the link to the full entry). It is recommended that OPDS feed publishers use the dcterms: namespace for additional metadata.
 
 = Link Relations =
 

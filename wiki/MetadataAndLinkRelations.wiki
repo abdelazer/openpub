@@ -30,7 +30,7 @@ If a property is in the partial entry, it MUST be in the full entry too.
   * prism:issue
   * prism:volume
   * opds:price with three-letter [http://en.wikipedia.org/wiki/ISO_4217 ISO 4217] currencycode attribute
-  * opds:paymentgateway _(e.g. https://www.paypal.com/us/ or http://checkout.google.com)_
+  * opds:paymentgateway _(e.g. https://www.paypal.com/us/ or http://checkout.google.com )_
 
 == Full entry ==
 

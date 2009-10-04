@@ -1,0 +1,32 @@
+#summary A list of standardized search scenarios that OPDS clients should be able to perform for book discovery.
+
+= Search Standardization =
+
+The ability for OPDS clients/readers to be able to search multiple catalogs in a standardized manner is important.
+
+Here are some scenarios involving search that I think we should tackle. Please help in completing and correcting the examples below!
+
+= Simple search =
+
+A client should be able to query a catalog for a for a search term or phrase.
+
+Example: A search for "Mark Twain" will return both books authored by Mark Twain and books about Mark Twain. Books about Mark Twain might include:
+  * books with "Mark Twain" in atom:title
+  * books with "Mark Twain" atom:category
+  * books with "Mark Twain" in the body of the text
+
+Example OpenSearch URL template:
+{{{
+<Url type="application/atom+xml" template="http://example.com/?q={searchTerms}&amp;pw={startPage?}&amp;format=atom"/>
+}}}
+
+= Advanced search =
+
+A client should be able to query a catalog for a for a search term or phrase, and further limit the results by a specific metadata term.
+
+Example: A search for "Missouri" AND author:"Mark Twain" should return books about Missouri written by Mark Twain.
+
+Example OpenSearch URL template: *TODO:* what namespace to we use for author name? Atom or dcterms?
+{{{
+<Url type="application/atom+xml" xmlns:atom="http://www.w3.org/2005/Atom" template="http://example.com/?q={searchTerms}&amp;author={startPage?}&amp;page={atom:author?}&amp;format=atom"/>
+}}}

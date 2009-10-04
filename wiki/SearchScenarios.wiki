@@ -35,7 +35,7 @@ Example OpenSearch URL template: *TODO:* what namespace to we use for author nam
 
 Example query:
 {{{
-http://example.com/?q=Missouri%20and%20author%3A%22Mark%20Twain%22
+http://example.com/?q=Missouri%20and%20author%3A%22Mark%20Twain%22&format=atom
 }}}
 ----
 

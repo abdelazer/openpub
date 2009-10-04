@@ -30,7 +30,7 @@ Example: A search for "Missouri" AND author:"Mark Twain" should return books abo
 
 Example OpenSearch URL template: *TODO:* what namespace to we use for author name? Atom or dcterms?
 {{{
-<Url type="application/atom+xml" xmlns:atom="http://www.w3.org/2005/Atom" template="http://example.com/?q={searchTerms}&amp;author={startPage?}&amp;page={atom:author?}&amp;format=atom"/>
+<Url type="application/atom+xml" xmlns:atom="http://www.w3.org/2005/Atom" template="http://example.com/?q={searchTerms}&amp;page={atom:author?}&amp;author={startPage?}&amp;format=atom"/>
 }}}
 ----
 

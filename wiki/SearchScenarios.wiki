@@ -47,7 +47,7 @@ Example: A search for author:"Mark Twain" should return just books written by Ma
 
 Example OpenSearch URL template: *TODO:* can we just make q= be an optional parameter?
 {{{
-<Url type="application/atom+xml" xmlns:atom="http://www.w3.org/2005/Atom" template="http://example.com/?q={searchTerms?}&amp;author={startPage?}&amp;page={atom:author?}&amp;format=atom"/>
+<Url xmlns:author="http://www.w3.org/2005/Atom" template="http://example.com/?q={searchTerms?}&amp;author={author:name?}&amp;page={startPage?}" type="application/atom+xml" />
 }}}
 ----
 

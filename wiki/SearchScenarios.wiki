@@ -18,7 +18,7 @@ Example: A search for "Mark Twain" will return both books authored by Mark Twain
 
 Example OpenSearch URL template:
 {{{
-<Url template="http://example.com/?q={searchTerms}&amp;pw={startPage?}" type="application/atom+xml"/>
+<Url template="http://example.com/?q={searchTerms}&amp;page={startPage?}" type="application/atom+xml"/>
 }}}
 ----
 

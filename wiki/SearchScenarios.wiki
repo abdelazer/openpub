@@ -5,6 +5,7 @@
 The ability for OPDS clients/readers to be able to search multiple catalogs in a standardized manner is important.
 
 Here are some scenarios involving search that I think we should tackle. Please help in completing and correcting the examples below!
+----
 
 = Simple search =
 
@@ -19,6 +20,7 @@ Example OpenSearch URL template:
 {{{
 <Url type="application/atom+xml" template="http://example.com/?q={searchTerms}&amp;pw={startPage?}&amp;format=atom"/>
 }}}
+----
 
 = Advanced search =
 
@@ -30,3 +32,41 @@ Example OpenSearch URL template: *TODO:* what namespace to we use for author nam
 {{{
 <Url type="application/atom+xml" xmlns:atom="http://www.w3.org/2005/Atom" template="http://example.com/?q={searchTerms}&amp;author={startPage?}&amp;page={atom:author?}&amp;format=atom"/>
 }}}
+----
+
+= Advanced search for just bibliographic metadata =
+
+Similar to the above scenario, but no general search term is included.
+
+Example: A search for author:"Mark Twain" should return just books written by Mark Twain.
+
+Example OpenSearch URL template: *TODO:* can we just make q= be an optional parameter?
+{{{
+<Url type="application/atom+xml" xmlns:atom="http://www.w3.org/2005/Atom" template="http://example.com/?q={searchTerms?}&amp;author={startPage?}&amp;page={atom:author?}&amp;format=atom"/>
+}}}
+----
+
+= Search restricted by language =
+If an OPDS client knows that the user is only interested in books written specific language, it should be able to automatically restrict the search to just this language.
+
+The [http://www.opensearch.org/Specifications/OpenSearch/1.1#Parameter_names OpenSearch Parameter name reference] states:
+ An OpenSearch description document should include one "Language" element for each language that the search  engine supports. If the search engine also supports queries for any arbitrary language then the OpenSearch description document should include a Language element with a value of "`*`". The "language" template parameter in the OpenSearch URL template can be used to allow the search client to choose among the available languages.
+
+*TODO* Example OpenSearch URL template: 
+----
+
+= Search restricted by format =
+If an OPDS client is only able to handle certain kinds of formats, it should be able to query OPDS catalogs for just books in the formats it can read.
+
+Example: A client application can only read EPUB files, and not PDFs or other ebook formats. It should be able to query for just this kind of format.
+
+*TODO* Example OpenSearch URL template: 
+----
+
+= Search restricted by drm modality =
+If an OPDS client is only able handle certain kinds of DRM, it should be able to query OPDS catalogs for just those books.
+
+Example: A client application that does not implement the Adobe ACS SDK can only read non-DRM'ed PDFs and EPUBs. It should be able to restrict search results to just these books that it can read.
+
+*TODO* Example OpenSearch URL template: 
+----

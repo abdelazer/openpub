@@ -44,17 +44,24 @@ Aside from common link relations (as defined in the [http://tools.ietf.org/html/
 == Feed-level ==
 
   * http://opds-spec.org/bookshelf 
-  * http://opds-spec.org/subscriptions 
+  * http://opds-spec.org/subscriptions
+
+*Sorting publications*
+
+  * http://opds-spec.org/sort/new
+  * http://opds-spec.org/sort/popular
+  * http://opds-spec.org/sort/featured
+
 
 == Entry-level ==
 
 *Acquisition Links*
 
   * http://opds-spec.org/acquisition
-  * http://opds-spec.org/buying
-  * http://opds-spec.org/lending
-  * http://opds-spec.org/subscription
-  * http://opds-spec.org/sample
+  * http://opds-spec.org/acquisition/buying
+  * http://opds-spec.org/acquisition/lending
+  * http://opds-spec.org/acquisition/subscription
+  * http://opds-spec.org/acquisition/sample
 
 *Other*
 

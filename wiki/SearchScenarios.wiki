@@ -20,6 +20,14 @@ Example OpenSearch URL template:
 {{{
 <Url template="http://example.com/?q={searchTerms}&amp;page={startPage?}" type="application/atom+xml"/>
 }}}
+
+Catalogs that implement simple OpenSearch:
+  * Feedbooks
+  * IA
+
+Clients that implement simple OpenSearch:
+  * TBA
+
 ----
 
 = Advanced search =

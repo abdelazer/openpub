@@ -38,15 +38,14 @@ A client should be able to query a catalog for a for a search term or phrase, an
 
 Example: A search for "Missouri" AND author:"Mark Twain" should return titles about Missouri written by Mark Twain.
 
-Example OpenSearch URL template: *TODO:* what namespace to we use for author name? Atom or dcterms?
-{{{
-<Url xmlns:author="http://www.w3.org/2005/Atom" template="http://example.com/?q={searchTerms}&amp;author={author:name?}&amp;page={startPage?}" type="application/atom+xml" />
-}}}
-
 Example query:
 {{{
-http://example.com/?q=Missouri&author=%22Mark%20Twain%22&page=2
+http://bookserver.archive.org/catalog/opensearch?q=Missouri+AND+creator:Mark+Twain
 }}}
+
+
+*TODO:* Example OpenSearch URL template.
+
 ----
 
 = Advanced search for just bibliographic metadata =
@@ -55,10 +54,13 @@ Similar to the above scenario, but no general search term is included.
 
 Example: A search for author:"Mark Twain" should return just titles written by Mark Twain.
 
-Example OpenSearch URL template: *TODO:* can we just make q= be an optional parameter?
+Example query:
 {{{
-<Url xmlns:author="http://www.w3.org/2005/Atom" template="http://example.com/?q={searchTerms?}&amp;author={author:name?}&amp;page={startPage?}" type="application/atom+xml" />
+http://bookserver.archive.org/catalog/opensearch?q=creator:Mark+Twain
 }}}
+
+*TODO:* Example OpenSearch URL template
+
 ----
 
 = Search restricted by language =
@@ -67,7 +69,14 @@ If an OPDS client knows that the user is only interested in titles written speci
 The [http://www.opensearch.org/Specifications/OpenSearch/1.1#Parameter_names OpenSearch Parameter name reference] states:
  An OpenSearch description document should include one "Language" element for each language that the search  engine supports. If the search engine also supports queries for any arbitrary language then the OpenSearch description document should include a Language element with a value of "`*`". The "language" template parameter in the OpenSearch URL template can be used to allow the search client to choose among the available languages.
 
-*TODO* Example OpenSearch URL template: 
+*TODO* Example OpenSearch URL template
+
+Example query
+{{{
+http://bookserver.archive.org/aggregator/opensearch?q=language:hi
+}}}
+
+Some catalogs will also support filtering by language using the HTTP 1.1 *Accept-Language* header
 ----
 
 = Search restricted by format =
@@ -76,6 +85,12 @@ If an OPDS client is only able to handle certain kinds of formats, it should be 
 Example: A client application can only read EPUB files, and not PDFs or other ebook formats. It should be able to query for just this kind of format.
 
 *TODO* Example OpenSearch URL template: 
+
+Using HTTP 1.1 *Accept:* header
+  * for epubs with no drm
+    * Accept: application/atom+xml;profile=opds application/epub+zip 
+  * for epubs with no drm plus epubs with ACS4 drm.
+    * Accept: application/atom+xml;profile=opds application/epub+zip application/epub+zip;drm=http://ns.adobe.com/adept
 ----
 
 = Search restricted by drm modality =

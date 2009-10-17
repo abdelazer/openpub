@@ -31,6 +31,13 @@ Clients that implement simple OpenSearch:
   * archive.org [http://www.archive.org/bookserver/catalog/ HTML OPDS client]
 
 ----
+= Advanced search using SRU in OpenSearch =
+
+  * http://www.crossref.org/CrossTech/2009/06/aligning_opensearch_and_sru.html
+  * http://www.nature.com/opensearch/opensearch.xml
+
+----
+
 
 = Advanced search =
 
@@ -84,13 +91,17 @@ If an OPDS client is only able to handle certain kinds of formats, it should be 
 
 Example: A client application can only read EPUB files, and not PDFs or other ebook formats. It should be able to query for just this kind of format.
 
-*TODO* Example OpenSearch URL template: 
-
 Using HTTP 1.1 *Accept:* header
   * for epubs with no drm
     * Accept: application/atom+xml;profile=opds application/epub+zip 
-  * for epubs with no drm plus epubs with ACS4 drm.
-    * Accept: application/atom+xml;profile=opds application/epub+zip application/epub+zip;drm=http://ns.adobe.com/adept
+
+Using search args:
+{{{
+http://bookserver.archive.org/aggregator/opensearch?q=format:epub
+}}}
+
+*TODO* Example OpenSearch URL template: 
+
 ----
 
 = Search restricted by drm modality =
@@ -98,12 +109,21 @@ If an OPDS client is only able handle certain kinds of DRM, it should be able to
 
 Example: A client application that does not implement the Adobe ACS SDK can only read non-DRM'ed PDFs and EPUBs. It should be able to restrict search results to just these titles that it can read.
 
+Using HTTP 1.1 *Accept:* header
+  * for epubs with no drm plus epubs with ACS4 drm.
+    * Accept: application/atom+xml;profile=opds application/epub+zip application/epub+zip;drm=http://ns.adobe.com/adept
+
+*TODO* Using search args
+
 *TODO* Example OpenSearch URL template: 
 ----
 
 = Search an aggregator for all titles sold by a particular feed provider =
 
 Example: Search the IA aggregator for all titles sold by O'Reilly.
+{{{
+http://bookserver.archive.org/aggregator/opensearch?q=provider:OReilly
+}}}
 
 *TODO:* Add OpenSerach URL template and example. Is this based on atom:source? 
 
@@ -111,7 +131,12 @@ Example: Search the IA aggregator for all titles sold by O'Reilly.
 
 = Search an aggregator for a particular title sold by a particular feed provider =
 
-*TODO:* Add OpenSerach URL template and example 
+Example query:
+{{{
+http://bookserver.archive.org/aggregator/opensearch?q=title:perl+AND+provider:OReilly
+}}}
+
+*TODO:* Add OpenSerach URL template 
 
 ----
 

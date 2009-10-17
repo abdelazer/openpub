@@ -97,11 +97,14 @@ To link to the actual books in your catalog, your link tags must be of the type 
       <name>Orwell, George</name>
     </author>
     <updated>2008-09-12T00:44:20+00:00</updated>
-    <link type="application/epub+zip" href="http://www.billybobsbooks.com/book/1984.epub"/>
-    <link rel="http://opds-spec.org/opds-cover-image-thumbnail" type="image/png"
+    <link type="application/epub+zip" href="http://www.billybobsbooks.com/book/1984.epub" 
+        rel="http://opds-spec.org/acquisition/>
+    <link rel="http://opds-spec.org/thumbnail" type="image/png"
+      href="http://www.billybobsbooks.com/book/1984thumb.png"/>
+    <link rel="http://opds-spec.org/cover" type="image/png"
       href="http://www.billybobsbooks.com/book/1984.png"/>
-    <link rel="http://opds-spec.org/opds-cover-image" type="image/png"
-      href="http://www.billybobsbooks.com/book/1984.png"/>
+    <dcterms:language>en</dcterm:language>
+    <dcterms:issued>1949</dcterms:issued>
   </entry>
   <entry>
     <title>The Art of War</title>
@@ -115,11 +118,13 @@ To link to the actual books in your catalog, your link tags must be of the type 
       <name>Sun Tzu</name>
     </author>
     <updated>2008-09-12T00:44:20+00:00</updated>
-    <link type="application/epub+zip" href="http://www.billybobsbooks.com/book/artofwar.epub"/>
-    <link rel="http://opds-spec.org/opds-cover-image-thumbnail" type="image/png"
+    <link type="application/epub+zip" href="http://www.billybobsbooks.com/book/artofwar.epub" rel="http://opds-spec.org/acquisition/>
+    <link rel="http://opds-spec.org/cover" type="image/png"
       href="http://www.billybobsbooks.com/book/artofwar.png"/>
-    <link rel="http://opds-spec.org/opds-cover-image" type="image/png"
-      href="http://www.billybobsbooks.com/book/artofwar.png"/>
+    <link rel="http://opds-spec.org/thumbnail" type="image/png"
+      href="http://www.billybobsbooks.com/book/artofwarthumb.png"/>
+    <dcterms:language>en</dcterm:language>
+    <dcterms:issued>−0005</dcterms:issued>
   </entry>
 </feed>
 }}}

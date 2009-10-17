@@ -42,7 +42,7 @@ Anything in the partial entry MUST be in the full entry too (aside from the link
 
 Aside from common link relations (as defined in the [http://tools.ietf.org/html/draft-nottingham-http-link-header-06 Link Header draft] rather than the current [http://www.iana.org/assignments/link-relations/link-relations.xhtml IANA link registry]), several OPDS-specific link relations are created.
 
-== Feed-level ==
+== Feed-level (defined in the OPDS specs) ==
 
   * http://opds-spec.org/bookshelf 
   * http://opds-spec.org/subscriptions
@@ -54,8 +54,20 @@ Aside from common link relations (as defined in the [http://tools.ietf.org/html/
   * http://opds-spec.org/sort/popular
   * http://opds-spec.org/sort/featured
 
+== Feed-level (from the link header draft) ==
 
-== Entry-level ==
+  * search _(not actually defined in the draft, which is something that we should consider)_
+  * next _(pagination)_
+  * previous _(pagination)_
+  * first _(pagination)_
+  * last _(pagination)_
+  * start _(points to the main OPDS catalog)_
+  * alternate
+  * self
+  * related _(best way to suggest related OPDS collection feeds. For example while browsing new release in romance, a related link could suggest the most popular publications in romance)_
+  * help
+
+== Entry-level (defined in the OPDS specs) ==
 
 *Acquisition Links*
 
@@ -69,3 +81,10 @@ Aside from common link relations (as defined in the [http://tools.ietf.org/html/
 
   * http://opds-spec.org/cover
   * http://opds-spec.org/thumbnail
+
+== Entry-level (from the link header draft) ==
+  * alternate
+  * related
+  * copyright
+  * license
+  * replies _(for comments)_

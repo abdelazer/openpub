@@ -5,9 +5,10 @@
 
 We need to collect real world acquisition scenarios for each of the four types of supported classes:
   * http://opds-spec.org/acquisition would be a generic acquisition link (useful for free content)
-  * http://opds-spec.org/buying for content that you can buy
-  * http://opds-spec.org/lending for content that you can lend
-  * http://opds-spec.org/subscription for content that you can subscribe to
+  * http://opds-spec.org/acquisition/buying for content that you can buy
+  * http://opds-spec.org/acquisition/lending for content that you can lend
+  * http://opds-spec.org/acquisition/subscription for content that you can subscribe to
+  * http://opds-spec.org/acquisition/sample for preview content
 
 The following do *not* include a discussion of how the client/user _discovered_ the entry.
 

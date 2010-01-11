@@ -5,6 +5,8 @@
 
 (The actual current draft follows, until "Other Text")
 
+----
+
 == Status of this Draft ==
 
 This document specifies a draft of the OPDS Catalog specification. Distribution of this memo is unlimited.
@@ -19,12 +21,12 @@ The Open Publication Distribution System (OPDS) Catalog format is a syndication 
 
 == Introduction ==
 
-The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publications based on Atom [RFC4287] and HTTP [RFC2616]. OPDS Catalogs enable electronic publications to be:
+The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publications based on Atom [RFC4287] and HTTP [RFC2616]. OPDS Catalogs enable available electronic publications to be:
 
   * discovered, using optional search or a range of optional browsing techniques TODO
   * acquired, using direct downloads, lending, or vending
 
-An OPDS Catalog is made up of one or more Feeds. Each Feed is either a list of links to other Feeds or a list of Entries. An Entry describes an available electronic publication and includes basic metadata, the publication's format, and how the publication can be acquired.
+An OPDS Catalog is made up of one or more Feeds. Each Feed is either a list of links to other Feeds or a list of Entries. An Entry describes an available electronic publication and includes basic metadata, the publication's format, and how the publication can be acquired. An Entry may have a more extensive, standalone representation at a unique URI.
 
 OPDS Catalogs may be aggregated and combined into larger OPDS Catalogs.
 
@@ -48,7 +50,7 @@ Some sections of this specification are illustrated with fragments of a non-norm
 
 == Terminology ==
 
-For convenience, this format can be referred to as the "OPDS Catalog." The following terminology is used by this specification:
+For convenience, this format can be referred to as an "OPDS Catalog." The following terminology is used by this specification:
 
   * URI - A Uniform Resource Identifier as defined in [RFC3986]. In this specification, the phrase "the URI of a document" is shorthand for "a URI which, when dereferenced, is expected to produce that document as a representation".
   * IRI - An Internationalized Resource Identifier as defined in [RFC3987]. Before an IRI found in a document is used by HTTP, the IRI is first converted to a URI. 
@@ -58,9 +60,9 @@ For convenience, this format can be referred to as the "OPDS Catalog." The follo
   
 TODO From our glossary
 
-= OPDS Documents =
+== OPDS Documents ==
 
-== Document Formats ==
+=== Document Types ===
 
 This specification defines two kinds of documents -- OPDS Catalog Documents and OPDS Catalog Entry Documents.
 
@@ -77,26 +79,62 @@ OPDS Catalog XML Documents MUST be "namespace-well-formed" as specified in Secti
 This specification uses the prefix "opds:" for the namespace name. The prefix "atom:" is used for "http://opds-spec.org/2010/Catalog", the namespace name of the Atom Syndication Format [RFC4287]. These namespace prefixes are not semantically significant.
 
 
-== Document Extensibility ==
+=== Document Extensibility ===
 
 Unrecognized markup in an OPDS Catalog is considered "foreign markup" as defined in Section 6 of the Atom Syndication Format [RFC4287]. Foreign markup can be used anywhere within a Catalog unless it is explicitly forbidden. Processors that encounter foreign markup MUST NOT stop processing and MUST NOT signal an error. Clients SHOULD preserve foreign markup when transmitting such documents.
 
 The namespace name TODO_NS is reserved for forward-compatible revisions of the Catalog format. This does not exclude the addition of elements and attributes that might not be recognized by processors conformant to this specification. Such unrecognized markup from the TODO_NS namespace MUST be treated as foreign markup.
 
-= OPDS Catalog Documents =
+== OPDS Catalog Documents ==
 
-OPDS Catalog Documents TODO...
+OPDS Catalog Documents are Atom [RDF4285] Feed documents that contain either OPDS Catalog Entries or atom:entry elements whose atom:link references another OPDS Catalog Document. The relationship between OPDS Catalog Documents describes a desired heirarchy from the Catalog publisher. OPDS Catalog Documents MAY contain relations that allow for a non-heirarchical consumption and presentation of the OPDS Catalog Documents.
 
-== Element Definitions ==
+A Root OPDS Catalog Document TODO...
+An OPDS Catalog Document SHOULD contain an atom:link element with a link relation of "start", which references the Root OPDS Catalog Document URI.
 
-= OPDS Catalog Entry Documents =
+
+=== Example ===
+
+A Root OPDS Catalog Document that references two other OPDS Catalog Documents and begins a heirarchy:
+{{{
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:uuid:2853dacf-ed79-42f5-8e8a-a7bb3d1ae6a2</id>
+  <link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" rel="self" href="/opds-catalogs/root.xml"/>
+  <link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" rel="start" href="/opds-catalogs/root.xml"/>
+  <title>Root OPDS Catalog Example</title>
+  <updated>2010-01-10T10:01:10Z</updated>
+  <author>
+    <name>Spec Writer</name>
+    <uri>http://opds-spec.org</uri>
+  </author>
+  <entry>
+	<title>Popular Publications</title>
+	<link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" rel="start" href="/opds-catalogs/popular.xml"/>
+	<updated>2010-01-10T10:01:01Z</updated>
+	<id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
+	<content type="text">Popular publications from this catalog based on downloads.</content>
+  </entry>
+  <entry>
+	<title>New Publications</title>
+	<link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" href="/opds-catalogs/new.xml"/>
+	<updated>2010-01-10T10:01:00Z</updated>
+	<id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
+	<content type="text">Popular publications from this catalog based on downloads.</content>
+  </entry>
+</feed>
+}}}
+
+=== Element Definitions ===
+
+== OPDS Catalog Entry Documents ==
 
 OPDS Catalog Entry Documents TODO...
 
-== Element Definitions ==
+=== Element Definitions ===
 
 
-= The Atom Format Type Parameter =
+== The Atom Format Type Parameter ==
 
 The Atom Publishing Protocol [RFC5023] defines the Atom Format Type Parameter.
 
@@ -104,7 +142,7 @@ Producers of OPDS Catalogs SHOULD use the "type" parameter.
 
 Producers of OPDS Catalog SHOULD produce Catalog Documents that are conformant to both Atom and the OPDS Catalog Relax NG schemas.
 
-= The Atom Format Profile Parameter =
+== The Atom Format Profile Parameter ===
 
 TODO Do we want to reference http://buzzword.org.uk/2009/draft-inkster-profile-parameter-00.html or discuss http://markmail.org/thread/nkecztyqs7m6luhb ?
 
@@ -146,6 +184,8 @@ Additional information about XHTML and HTML content safety can be found in Secti
 
 === Normative References ==
 
+* Web Linking http://www.ietf.org/id/draft-nottingham-http-link-header-06.txt
+
 
   * \[REC-xml\]  Yergeau, F., Paoli, J., Bray, T., Sperberg-McQueen, C., and E. Maler, "Extensible Markup Language (XML) 1.0 (Fourth Edition)", World Wide Web Consortium Recommendation REC-xml-20060816, August 2006, http://www.w3.org/TR/2006/REC-xml-20060816.
   * \[REC-xml-infoset\] Cowan, J. and R. Tobin, "XML Information Set (Second Edition)", World Wide Web Consortium Recommendation REC-xml-infoset-20040204, February 2004, http://www.w3.org/TR/2004/REC-xml-infoset-20040204.
@@ -170,6 +210,7 @@ The Schema for OPDS Catalogs:
 
 TODO
 }}}
+
 ----
 
 = Other Text =

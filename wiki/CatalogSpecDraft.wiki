@@ -90,13 +90,19 @@ The namespace name TODO_NS is reserved for forward-compatible revisions of the C
 OPDS Catalog Documents are Atom [RDF4285] Feed documents have two serve two purposes:
 
 * To reference other OPDS Catalog Documents as part of a heirarchy. These Catalog Documents are referred to as Heirarchical Collections. 
-* To collect a set of OPDS Catalog Entries. These Catalog Documents are referred to as Entry Collections. 
+* To collect a set of OPDS Catalog Entries. These Catalog Documents are referred to as Publication Collections. 
 
 Hierarchical Collections describe a desired heirarchy from the Catalog publisher, but OPDS Catalog Documents MAY contain other relations that allow for a non-heirarchical consumption and presentation of the OPDS Catalog Documents.
 
 A Root OPDS Catalog Document TODO...
 
 Each OPDS Catalog Document SHOULD contain an atom:link element with a link relation of "start", which references the Root OPDS Catalog Document URI.
+
+=== Hierarchical Collections ===
+
+=== Publication Collections ===
+
+
 
 === Examples ===
 
@@ -131,7 +137,7 @@ A Root OPDS Catalog Document that is the top of a set of Heirarchical Collection
 </feed>
 }}}
 
-An Entry Collection listing OPDS Catalog Entries:
+A Publication Collection listing OPDS Catalog Entries:
 {{{
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"
@@ -180,6 +186,8 @@ An Entry Collection listing OPDS Catalog Entries:
       <uri>http://opds-spec.org/authors/21283</uri>
     </author>
     <updated>2010-01-10T10:01:10Z</updated>
+  <dc:identifier>urn:isbn:978029536341X</dc:identifer>
+  <dc:publisher>StampMeOnline, Inc.</dc:publisher>
     <dc:language>en</dc:language>
     <dc:issued>2009-10-01</dc:issued>
     <summary>The definitive reference for the web-curious philatelist.</summary>
@@ -195,12 +203,75 @@ An Entry Collection listing OPDS Catalog Entries:
 
 === Element Definitions ===
 
+==== The "atom:feed" Element ====
+
+The "atom:feed" element is the document (i.e., top-level) element of an OPDS Catalog Document, acting as a container for metadata, hierarchy, and publications associated with the Catalog.  Its element children consist of metadata elements followed by zero or more atom:entry child elements.
+
+The following child elements are refined by this specification:
+
+* OPDS Catalog Documents SHOULD contain one atom:link element with a rel attribute value of "self".  This is the preferred URI for retrieving the atom:feed representing this OPDS Catalog Document.
+
 == OPDS Catalog Entry Documents ==
 
 OPDS Catalog Entry Documents TODO...
 
 === Element Definitions ===
 
+==== The "atom:entry" Element ====
+
+The "atom:entry" element is the document (i.e., top-level) element of an OPDS Catalog Entry Feed Document, acting as a container for metadata and data associated with available publication.
+
+The following child elements are refined by this specification:
+
+* OPDS Catalog Entry Documents SHOULD contain one atom:link element with a rel attribute value of "http://opds-spec.org/acquisition", "http://opds-spec.org/acquisition/buy", "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample".
+
+==== The "atom:link" Element ====
+
+The "atom:link" element defines a reference from an entry or feed to a Web resource. 
+
+   s:rule [
+     context = "atom:link["@rel='http://opds-spec.org/acquisition/buy']"
+     s:assert [
+         test = "opds:price"
+         "An atom:link must have at least one opds:price element "
+         ~ "with a rel attribute of 'http://opds-spec.org/acquisition/buy'."
+     ]
+   ]
+   atomLink =
+      element atom:link {
+         atomCommonAttributes,
+         attribute href { atomUri },
+         attribute rel { atomNCName | atomUri }?,
+         attribute type { atomMediaType }?,
+         attribute hreflang { atomLanguageTag }?,
+         attribute title { text }?,
+         attribute length { text }?,
+         opdsPrice?,
+         undefinedContent
+      }
+
+The following child elements are defined by this specification:
+
+* atom:link elements with a rel attribute value of "http://opds-spec.org/acquisition/buy" MUST contain one opds:price element.
+* atom:link elements with a rel attribute of "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample" MAY contain one opds:price element.
+
+==== The "opds:price" Element ====
+
+The "opds:price" element represents the acquisiton price of an individual publication in a particular format from a particular provider. This element can appear as a child of the atom:entry element (in OPDS Catalog Entry Documents). 
+
+The content of opds:price is text describing a currency value.
+
+   opdsPrice = 
+      element opds:price {
+         attribute currencycode { text },
+         text
+      }
+
+TODO: xsd:float for price?
+
+===== The "currencycode" Attribute =====
+
+On the opds:price element, the value of the "currencycode" attribute MUST be an "Alphabetic code" from [ISO4127]. It defines the currency code used for the content of the opds:price element.
 
 == The Atom Format Type Parameter ==
 
@@ -254,6 +325,9 @@ Additional information about XHTML and HTML content safety can be found in Secti
 
 * Web Linking http://www.ietf.org/id/draft-nottingham-http-link-header-06.txt
 
+*  Using International Standard Book Numbers as Uniform Resource Names [RFC3187] http://tools.ietf.org/html/rfc3187
+
+* [ISO4217] ISO 4217 currency and funds name and code elements http://www.iso.org/iso/support/faqs/faqs_widely_used_standards/widely_used_standards_other/currency_codes/currency_codes_list-1.htm
 
   * \[REC-xml\]  Yergeau, F., Paoli, J., Bray, T., Sperberg-McQueen, C., and E. Maler, "Extensible Markup Language (XML) 1.0 (Fourth Edition)", World Wide Web Consortium Recommendation REC-xml-20060816, August 2006, http://www.w3.org/TR/2006/REC-xml-20060816.
   * \[REC-xml-infoset\] Cowan, J. and R. Tobin, "XML Information Set (Second Edition)", World Wide Web Consortium Recommendation REC-xml-infoset-20040204, February 2004, http://www.w3.org/TR/2004/REC-xml-infoset-20040204.

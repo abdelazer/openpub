@@ -1,25 +1,21 @@
 ﻿#summary The current bleeding-edge draft of the OPDS Catalog specification.
 #labels Featured,Phase-Design
 
-= Included Content =
+<wiki:toc max_depth="4" />
 
-(The actual current draft follows, until "Other Text")
-
-----
-
-== Status of this Draft ==
+= Status of this Draft =
 
 This document specifies a draft of the OPDS Catalog specification. Distribution of this memo is unlimited.
 
-== License ==
+= License =
 
 This document is licensed under [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-Share Alike].
 
-== Abstract ==
+= Abstract =
 
 The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publications based on Atom and HTTP. Catalogs enable the aggregation, distribution, discovery, and acquisition of electronic publications. OPDS Catalogs use existing or emergent open standards and conventions, with a priority on simplicity. 
 
-== Introduction ==
+= Introduction =
 
 The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publications based on Atom [RFC4287] and HTTP [RFC2616]. OPDS Catalogs enable available electronic publications to be:
 
@@ -30,25 +26,25 @@ An OPDS Catalog is made up of one or more Feeds. Each Feed is either a list of l
 
 OPDS Catalogs may be aggregated and combined into larger OPDS Catalogs.
 
-== Notational Conventions ==
+= Notational Conventions =
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
 "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this
 document are to be interpreted as described in [RFC2119].
 
-== XML-Related Conventions ==
+= XML-Related Conventions =
 
-=== Referring to Information Items ===
+== Referring to Information Items ==
 
 The OPDS Catalog format is specified in terms of the XML Information Set [REC-xml-infoset], serialized as XML 1.0 [REC-xml].
 
 The Infoset terms "Element Information Item" and "Attribute Information Item" are shortened to "element" and "attribute" respectively. Therefore, when this specification uses the term "element", it is referring to an Element Information Item, and when it uses the term "attribute", it is referring to an Attribute Information Item.
 
-== RELAX NG Schema ==
+= RELAX NG Schema =
 
 Some sections of this specification are illustrated with fragments of a non-normative RELAX NG Compact schema [RNC]. However, the text of this specification provides the definition of conformance. Complete schemas appear in TODO.
 
-== Terminology ==
+= Terminology =
 
 For convenience, this format can be referred to as an "OPDS Catalog." The following terminology is used by this specification:
 
@@ -60,9 +56,9 @@ For convenience, this format can be referred to as an "OPDS Catalog." The follow
   
 TODO From our glossary
 
-== OPDS Documents ==
+= OPDS Documents =
 
-=== Document Types ===
+== Document Types ==
 
 This specification defines two kinds of documents -- OPDS Catalog Documents and OPDS Catalog Entry Documents.
 
@@ -79,13 +75,13 @@ OPDS Catalog XML Documents MUST be "namespace-well-formed" as specified in Secti
 This specification uses the prefix "opds:" for the namespace name. The prefix "atom:" is used for "http://opds-spec.org/2010/Catalog", the namespace name of the Atom Syndication Format [RFC4287]. These namespace prefixes are not semantically significant.
 
 
-=== Document Extensibility ===
+== Document Extensibility ==
 
 Unrecognized markup in an OPDS Catalog is considered "foreign markup" as defined in Section 6 of the Atom Syndication Format [RFC4287]. Foreign markup can be used anywhere within a Catalog unless it is explicitly forbidden. Processors that encounter foreign markup MUST NOT stop processing and MUST NOT signal an error. Clients SHOULD preserve foreign markup when transmitting such documents.
 
 The namespace name TODO_NS is reserved for forward-compatible revisions of the Catalog format. This does not exclude the addition of elements and attributes that might not be recognized by processors conformant to this specification. Such unrecognized markup from the TODO_NS namespace MUST be treated as foreign markup.
 
-== OPDS Catalog Documents ==
+= OPDS Catalog Documents =
 
 OPDS Catalog Documents are Atom [RDF4285] Feed documents have two serve two purposes:
 
@@ -98,13 +94,13 @@ A Root OPDS Catalog Document TODO...
 
 Each OPDS Catalog Document SHOULD contain an atom:link element with a link relation of "start", which references the Root OPDS Catalog Document URI.
 
-=== Hierarchical Collections ===
+== Hierarchical Collections ==
 
-=== Publication Collections ===
+== Publication Collections ==
 
 
 
-=== Examples ===
+== Examples ==
 
 A Root OPDS Catalog Document that is the top of a set of Heirarchical Collections. This Catalog Document references two other Catalog Documents using atom:links:
 {{{
@@ -201,9 +197,9 @@ A Publication Collection listing OPDS Catalog Entries:
 </feed>
 }}}
 
-=== Element Definitions ===
+== Element Definitions ==
 
-==== The "atom:feed" Element ====
+=== The "atom:feed" Element ===
 
 The "atom:feed" element is the document (i.e., top-level) element of an OPDS Catalog Document, acting as a container for metadata, hierarchy, and publications associated with the Catalog.  Its element children consist of metadata elements followed by zero or more atom:entry child elements.
 
@@ -211,13 +207,13 @@ The following child elements are refined by this specification:
 
   * OPDS Catalog Documents SHOULD contain one atom:link element with a rel attribute value of "self".  This is the preferred URI for retrieving the atom:feed representing this OPDS Catalog Document.
 
-== OPDS Catalog Entry Documents ==
+= OPDS Catalog Entry Documents =
 
 OPDS Catalog Entry Documents TODO...
 
-=== Element Definitions ===
+== Element Definitions ==
 
-==== The "atom:entry" Element ====
+=== The "atom:entry" Element ===
 
 The "atom:entry" element is the document (i.e., top-level) element of an OPDS Catalog Entry Feed Document, acting as a container for metadata and data associated with available publication.
 
@@ -225,7 +221,7 @@ The following child elements are refined by this specification:
 
   * OPDS Catalog Entry Documents SHOULD contain one atom:link element with a rel attribute value of "http://opds-spec.org/acquisition", "http://opds-spec.org/acquisition/buy", "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample".
 
-==== The "atom:link" Element ====
+=== The "atom:link" Element ===
 
 The "atom:link" element defines a reference from an entry or feed to a Web resource. 
 
@@ -257,7 +253,7 @@ The following child elements are defined by this specification:
   * atom:link elements with a rel attribute value of "http://opds-spec.org/acquisition/buy" MUST contain one opds:price element.
   * atom:link elements with a rel attribute of "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample" MAY contain one opds:price element.
 
-==== The "opds:price" Element ====
+=== The "opds:price" Element ===
 
 The "opds:price" element represents the acquisiton price of an individual publication in a particular format from a particular provider. This element can appear as a child of the atom:entry element (in OPDS Catalog Entry Documents). 
 
@@ -273,11 +269,11 @@ opdsPrice =
 
 TODO: xsd:float for price?
 
-===== The "currencycode" Attribute =====
+==== The "currencycode" Attribute ====
 
 On the opds:price element, the value of the "currencycode" attribute MUST be an "Alphabetic code" from [ISO4127]. It defines the currency code used for the content of the opds:price element.
 
-== The Atom Format Type Parameter ==
+= The Atom Format Type Parameter =
 
 The Atom Publishing Protocol [RFC5023] defines the Atom Format Type Parameter.
 
@@ -285,11 +281,11 @@ Producers of OPDS Catalogs SHOULD use the "type" parameter.
 
 Producers of OPDS Catalog SHOULD produce Catalog Documents that are conformant to both Atom and the OPDS Catalog Relax NG schemas.
 
-== The Atom Format Profile Parameter ===
+= The Atom Format Profile Parameter ==
 
 TODO Do we want to reference http://buzzword.org.uk/2009/draft-inkster-profile-parameter-00.html or discuss http://markmail.org/thread/nkecztyqs7m6luhb ?
 
-== Securing OPDS Catalogs ==
+= Securing OPDS Catalogs =
 
 OPDS Catalogs are delivered over HTTP. Authentication requirements for HTTP are covered in Section 11 of [RFC2616].
 
@@ -301,21 +297,21 @@ The minimum level of security referenced above (Basic Authentication with TLS) i
 
 Because this protocol uses HTTP response status codes as the primary means of reporting the result of a request, servers are advised to respond to unauthorized or unauthenticated requests using an appropriate 4xx HTTP response code (e.g., 401 "Unauthorized" or 403 "Forbidden") in accordance with [RFC2617].
 
-== Security Considerations ==
+= Security Considerations =
 
 OPDS Catalogs are delivered over HTTP and thus subject to the security considerations found in Section 15 of [RFC2616].
 
 TODO_GETHELP
 
-=== Linked Resources ===
+== Linked Resources ==
 
 OPDS Catalogs can contain XML External Entities as defined in Section 4.2.2 of [REC-xml]. Catalog implementations are not required to load external entities. External entities are subject to the same security concerns as any network operation and can alter the semantics of a Catalog document. The same issues exist for Resources linked to by Catalog elements such as atom:link and atom:content.
 
-=== URIs and IRIs ===
+== URIs and IRIs ==
 
 OPDS Catalog implementations handle URIs and IRIs. See Section 7 of [RFC3986] and Section 8 of [RFC3987] for security considerations related to their handling and use.
 
-=== Code Injection and Cross Site Scripting ===
+== Code Injection and Cross Site Scripting ==
 
 OPDS Catalogs can contain a broad range of content types including code that might be executable in some contexts. Malicious publishers could attempt to attack servers or other clients by injecting code into OPDS Catalog Documents or OPDS Catalog Entry Documents or Media Resources.
 
@@ -323,9 +319,9 @@ Server implementations are strongly encouraged to verify that external content i
 
 Additional information about XHTML and HTML content safety can be found in Section 8.1 of [RFC4287].
 
-== References ==
+= References =
 
-=== Normative References ==
+== Normative References =
 
   * \[Draft-Web-Linking\] Web Linking http://www.ietf.org/id/draft-nottingham-http-link-header-06.txt
   * \[RFC3187\] Using International Standard Book Numbers as Uniform Resource Names http://tools.ietf.org/html/rfc3187
@@ -335,12 +331,12 @@ Additional information about XHTML and HTML content safety can be found in Secti
 
 TODO
 
-== Appendix A. Contributors ==
+= Appendix A. Contributors =
 
 The content and concepts within are a product of the [openpub] community and the
 TODO
 
-== Appendix B. RELAX NG Compact Schema ==
+= Appendix B. RELAX NG Compact Schema =
 
 
 This appendix is informative.
@@ -350,17 +346,6 @@ The Relax NG schema explicitly excludes elements in the TODO_NS namespace that a
 The Schema for OPDS Catalogs:
 {{{
    # -*- rnc -*- # RELAX NG Compact Syntax Grammar for OPDS Catalogs 
-
 TODO
 }}}
 
-----
-
-= Other Text =
-
-Bits of potentially useful text that have yet to be integrated into the actual draft.
-
-Catalog providers SHOULD provide an OPDS Catalog or redirect to a catalog when a HTTP request Accept header indicates the OPDS Catalog mimetype (application/atom
-+xml;profile=opds).
-
-(Something about extensions all being documented in a centralized place)

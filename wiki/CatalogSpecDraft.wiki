@@ -87,41 +87,109 @@ The namespace name TODO_NS is reserved for forward-compatible revisions of the C
 
 == OPDS Catalog Documents ==
 
-OPDS Catalog Documents are Atom [RDF4285] Feed documents that contain either OPDS Catalog Entries or atom:entry elements whose atom:link references another OPDS Catalog Document. The relationship between OPDS Catalog Documents describes a desired heirarchy from the Catalog publisher. OPDS Catalog Documents MAY contain relations that allow for a non-heirarchical consumption and presentation of the OPDS Catalog Documents.
+OPDS Catalog Documents are Atom [RDF4285] Feed documents have two serve two purposes:
+
+* To reference other OPDS Catalog Documents as part of a heirarchy. These Catalog Documents are referred to as Heirarchical Collections. 
+* To collect a set of OPDS Catalog Entries. These Catalog Documents are referred to as Entry Collections. 
+
+Hierarchical Collections describe a desired heirarchy from the Catalog publisher, but OPDS Catalog Documents MAY contain other relations that allow for a non-heirarchical consumption and presentation of the OPDS Catalog Documents.
 
 A Root OPDS Catalog Document TODO...
-An OPDS Catalog Document SHOULD contain an atom:link element with a link relation of "start", which references the Root OPDS Catalog Document URI.
 
+Each OPDS Catalog Document SHOULD contain an atom:link element with a link relation of "start", which references the Root OPDS Catalog Document URI.
 
-=== Example ===
+=== Examples ===
 
-A Root OPDS Catalog Document that references two other OPDS Catalog Documents and begins a heirarchy:
+A Root OPDS Catalog Document that is the top of a set of Heirarchical Collections. This Catalog Document references two other Catalog Documents using atom:links:
 {{{
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:uuid:2853dacf-ed79-42f5-8e8a-a7bb3d1ae6a2</id>
-  <link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" rel="self" href="/opds-catalogs/root.xml"/>
-  <link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" rel="start" href="/opds-catalogs/root.xml"/>
+  <link rel="self"  href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog"/>
+  <link rel="start" href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog"/>
   <title>Root OPDS Catalog Example</title>
   <updated>2010-01-10T10:01:10Z</updated>
   <author>
     <name>Spec Writer</name>
     <uri>http://opds-spec.org</uri>
   </author>
+
   <entry>
-	<title>Popular Publications</title>
-	<link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" rel="start" href="/opds-catalogs/popular.xml"/>
-	<updated>2010-01-10T10:01:01Z</updated>
-	<id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
-	<content type="text">Popular publications from this catalog based on downloads.</content>
+  <title>Popular Publications</title>
+  <link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" rel="start" href="/opds-catalogs/popular.xml"/>
+  <updated>2010-01-10T10:01:01Z</updated>
+  <id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
+  <content type="text">Popular publications from this catalog based on downloads.</content>
   </entry>
   <entry>
-	<title>New Publications</title>
-	<link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" href="/opds-catalogs/new.xml"/>
-	<updated>2010-01-10T10:01:00Z</updated>
-	<id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
-	<content type="text">Popular publications from this catalog based on downloads.</content>
+  <title>New Publications</title>
+  <link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" href="/opds-catalogs/new.xml"/>
+  <updated>2010-01-10T10:01:00Z</updated>
+  <id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
+  <content type="text">Recent publications from this catalog.</content>
   </entry>
+</feed>
+}}}
+
+An Entry Collection listing OPDS Catalog Entries:
+{{{
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <id>urn:uuid:433a5d6a-0b8c-4933-af65-4ca4f02763eb</id>
+  <link rel="self"  href="/opds-catalogs/new.xml" type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog"/>
+  <link rel="start" href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog"/>
+  <title>New Publications</title>
+  <updated>2010-01-10T10:01:11Z</updated>
+  <author>
+    <name>Spec Writer</name>
+    <uri>http://opds-spec.org</uri>
+  </author>
+
+  <entry>
+    <title>Bob, Son of Bob</title>
+    <id>urn:uuid:6409a00b-7bf2-405e-826c-3fdff0fd0734</id>
+    <author>
+      <name>Bob the Recursive</name>
+      <uri>http://opds-spec.org/authors/1285</uri>
+    </author>
+    <updated>2010-01-10T10:01:11Z</updated>
+    <dc:language>en</dc:language>
+    <dc:issued>1917</dc:issued>
+    <summary>The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</summary>
+    <link type="application/epub+zip"           rel="http://opds-spec.org/acquisition" href="http://opds-spec.org/content/free/4561.epub"/>
+    <link type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" href="http://opds-spec.org/content/free/4561.mobi"/>
+    <link type="image/png" rel="http://opds-spec.org/cover"           href="http://opds-spec.org/covers/4561.lrg.png"/>
+    <link type="image/png" rel="http://opds-spec.org/cover-thumbnail" href="http://opds-spec.org/covers/4561.thmb.png"/>
+ </entry>
+
+ <entry>
+    <title>Modern Online Philately</title>
+    <id>urn:uuid:7b595b0c-e15c-4755-bf9a-b7019f5c1dab</id>
+    <author>
+      <name>Stampy McGee</name>
+      <uri>http://opds-spec.org/authors/21285</uri>
+    </author>
+    <author>
+      <name>Alice McGee</name>
+      <uri>http://opds-spec.org/authors/21284</uri>
+    </author>
+    <author>
+      <name>Harold McGee</name>
+      <uri>http://opds-spec.org/authors/21283</uri>
+    </author>
+    <updated>2010-01-10T10:01:10Z</updated>
+    <dc:language>en</dc:language>
+    <dc:issued>2009-10-01</dc:issued>
+    <summary>The definitive reference for the web-curious philatelist.</summary>
+    <link type="image/png" rel="http://opds-spec.org/cover" href="http://opds-spec.org/covers/11241.lrg.png"/>
+    <link type="application/epub+zip"           
+          rel="http://opds-spec.org/acquisition/buy" 
+          href="http://opds-spec.org/content/buy/11241.epub"/>
+      <opds:price currencycode="USD">18.99</opds:price>
+    </link>
+ </entry>
 </feed>
 }}}
 
@@ -174,7 +242,7 @@ OPDS Catalog implementations handle URIs and IRIs. See Section 7 of [RFC3986] an
 
 === Code Injection and Cross Site Scripting ===
 
-OPDS Catalogs can contain a broad range of content types including code that might be executable in some contexts. Malicious clients could attempt to attack servers or other clients by injecting code into a Collection Document's Entry or Media Resources.
+OPDS Catalogs can contain a broad range of content types including code that might be executable in some contexts. Malicious publishers could attempt to attack servers or other clients by injecting code into OPDS Catalog Documents or OPDS Catalog Entry Documents or Media Resources.
 
 Server implementations are strongly encouraged to verify that external content is safe prior to aggregating, processing, or publishing it. In the case of HTML, experience indicates that verification based on a white list of acceptable content is more effective than a black list of forbidden content.
 

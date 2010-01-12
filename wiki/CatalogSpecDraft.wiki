@@ -17,7 +17,7 @@ The Open Publication Distribution System (OPDS) Catalog format is a syndication 
 
 = Introduction =
 
-The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publications based on Atom [RFC4287] and HTTP [RFC2616]. OPDS Catalogs enable available electronic publications to be:
+The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publications based on Atom `[RFC4287]` and HTTP `[RFC2616]`. OPDS Catalogs enable available electronic publications to be:
 
   * discovered, using optional search or a range of optional browsing techniques TODO
   * acquired, using direct downloads, lending, or vending
@@ -28,62 +28,59 @@ OPDS Catalogs may be aggregated and combined into larger OPDS Catalogs.
 
 = Notational Conventions =
 
-The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
-"SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this
-document are to be interpreted as described in [RFC2119].
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in `[RFC2119]`.
 
 = XML-Related Conventions =
 
 == Referring to Information Items ==
 
-The OPDS Catalog format is specified in terms of the XML Information Set [REC-xml-infoset], serialized as XML 1.0 [REC-xml].
+The OPDS Catalog format is specified in terms of the XML Information Set `[REC-xml-infoset]`, serialized as XML 1.0 `[REC-xml]`.
 
 The Infoset terms "Element Information Item" and "Attribute Information Item" are shortened to "element" and "attribute" respectively. Therefore, when this specification uses the term "element", it is referring to an Element Information Item, and when it uses the term "attribute", it is referring to an Attribute Information Item.
 
 = RELAX NG Schema =
 
-Some sections of this specification are illustrated with fragments of a non-normative RELAX NG Compact schema [RNC]. However, the text of this specification provides the definition of conformance. Complete schemas appear in TODO.
+Some sections of this specification are illustrated with fragments of a non-normative RELAX NG Compact schema `[RNC]`. However, the text of this specification provides the definition of conformance. Complete schemas appear in TODO.
 
 = Terminology =
 
 For convenience, this format can be referred to as an "OPDS Catalog." The following terminology is used by this specification:
 
-  * URI - A Uniform Resource Identifier as defined in [RFC3986]. In this specification, the phrase "the URI of a document" is shorthand for "a URI which, when dereferenced, is expected to produce that document as a representation".
-  * IRI - An Internationalized Resource Identifier as defined in [RFC3987]. Before an IRI found in a document is used by HTTP, the IRI is first converted to a URI. 
-  * Resource - A network-accessible data object or service identified by an IRI, as defined in [RFC2616]. See [REC-webarch] for further discussion on Resources.
+  * URI - A Uniform Resource Identifier as defined in `[RFC3986]`. In this specification, the phrase "the URI of a document" is shorthand for "a URI which, when dereferenced, is expected to produce that document as a representation".
+  * IRI - An Internationalized Resource Identifier as defined in `[RFC3987]`. Before an IRI found in a document is used by HTTP, the IRI is first converted to a URI. 
+  * Resource - A network-accessible data object or service identified by an IRI, as defined in `[RFC2616]`. See `[REC-webarch]` for further discussion on Resources.
   * relation (or "relation of") - Refers to the "rel" attribute value of an atom:link element.
-  * Representation - An entity included with a request or response as defined in [RFC2616].
+  * Representation - An entity included with a request or response as defined in `[RFC2616]`.
   
 TODO From our glossary
 
-= OPDS Documents =
-
-== Document Types ==
+= Document Types =
 
 This specification defines two kinds of documents -- OPDS Catalog Documents and OPDS Catalog Entry Documents.
 
-An OPDS Catalog Document is a refinement of an "atom:feed" from the Atom Syndication Format [RFC4287].
+An OPDS Catalog Document is a refinement of an "atom:feed" from the Atom Syndication Format `[RFC4287]`.
 
-An OPDS Catalog Entry Document is a refinement of an "atom:entry" from the Atom Syndication Format [RFC4287].
+An OPDS Catalog Entry Document is a refinement of an "atom:entry" from the Atom Syndication Format `[RFC4287]`.
 
-The namespace name [REC-xml-names] for either kind of document is:
+The namespace name `[REC-xml-names]` for either kind of document is:
 
 http://opds-spec.org/2010/catalog
 
-OPDS Catalog XML Documents MUST be "namespace-well-formed" as specified in Section 7 of [REC-xml-names].
+OPDS Catalog XML Documents MUST be "namespace-well-formed" as specified in Section 7 of `[REC-xml-names]`.
 
-This specification uses the prefix "opds:" for the namespace name. The prefix "atom:" is used for "http://opds-spec.org/2010/Catalog", the namespace name of the Atom Syndication Format [RFC4287]. These namespace prefixes are not semantically significant.
-
+This specification uses the prefix "opds:" for the namespace name. The prefix "atom:" is used for "http://opds-spec.org/2010/Catalog", the namespace name of the Atom Syndication Format `[RFC4287]`. These namespace prefixes are not semantically significant.
 
 == Document Extensibility ==
 
-Unrecognized markup in an OPDS Catalog is considered "foreign markup" as defined in Section 6 of the Atom Syndication Format [RFC4287]. Foreign markup can be used anywhere within a Catalog unless it is explicitly forbidden. Processors that encounter foreign markup MUST NOT stop processing and MUST NOT signal an error. Clients SHOULD preserve foreign markup when transmitting such documents.
+Unrecognized markup in an OPDS Catalog is considered "foreign markup" as defined in Section 6 of the Atom Syndication Format `[RFC4287]`. Foreign markup can be used anywhere within a Catalog unless it is explicitly forbidden. Processors that encounter foreign markup MUST NOT stop processing and MUST NOT signal an error. Clients SHOULD preserve foreign markup when transmitting such documents.
 
-The namespace name TODO_NS is reserved for forward-compatible revisions of the Catalog format. This does not exclude the addition of elements and attributes that might not be recognized by processors conformant to this specification. Such unrecognized markup from the TODO_NS namespace MUST be treated as foreign markup.
+The namespace name OPDS is reserved for forward-compatible revisions of the Catalog format. This does not exclude the addition of elements and attributes that might not be recognized by processors conformant to this specification. Such unrecognized markup from the OPDS namespace MUST be treated as foreign markup.
+
+TODO: Confirm that the above is our desired forward-compability goal.
 
 = OPDS Catalog Documents =
 
-OPDS Catalog Documents are Atom [RDF4285] Feed documents have two serve two purposes:
+OPDS Catalog Documents are Atom `[RFC4287]` Feed documents have two serve two purposes:
 
   * To reference other OPDS Catalog Documents as part of a heirarchy. These Catalog Documents are referred to as Heirarchical Collections. 
   * To collect a set of OPDS Catalog Entries. These Catalog Documents are referred to as Publication Collections. 
@@ -97,7 +94,6 @@ Each OPDS Catalog Document SHOULD contain an atom:link element with a link relat
 == Hierarchical Collections ==
 
 == Publication Collections ==
-
 
 
 == Examples ==
@@ -205,7 +201,7 @@ The "atom:feed" element is the document (i.e., top-level) element of an OPDS Cat
 
 The following child elements are refined by this specification:
 
-  * OPDS Catalog Documents SHOULD contain one atom:link element with a rel attribute value of "self".  This is the preferred URI for retrieving the atom:feed representing this OPDS Catalog Document.
+  * OPDS Catalog Documents SHOULD contain one atom:link element with a rel attribute value of "self". This is the preferred URI for retrieving the atom:feed representing this OPDS Catalog Document.
 
 = OPDS Catalog Entry Documents =
 
@@ -271,11 +267,11 @@ TODO: xsd:float for price?
 
 ==== The "currencycode" Attribute ====
 
-On the opds:price element, the value of the "currencycode" attribute MUST be an "Alphabetic code" from [ISO4127]. It defines the currency code used for the content of the opds:price element.
+On the opds:price element, the value of the "currencycode" attribute MUST be an "Alphabetic code" from `[ISO4127]`. It defines the currency code used for the content of the opds:price element.
 
 = The Atom Format Type Parameter =
 
-The Atom Publishing Protocol [RFC5023] defines the Atom Format Type Parameter.
+The Atom Publishing Protocol `[RFC5023]` defines the Atom Format Type Parameter.
 
 Producers of OPDS Catalogs SHOULD use the "type" parameter. 
 
@@ -285,9 +281,13 @@ Producers of OPDS Catalog SHOULD produce Catalog Documents that are conformant t
 
 TODO Do we want to reference http://buzzword.org.uk/2009/draft-inkster-profile-parameter-00.html or discuss http://markmail.org/thread/nkecztyqs7m6luhb ?
 
+= Listing Publiction Collections =
+
+OPDS Catalog Documents, especially Publication Collections, can contain large numbers of Resources. A client such as a web spider or web browser might be overwhelmed if the response to a GET contained every OPDS Catalog Entry in a Publication Collection -- in turn the server might also waste bandwidth and processing time on generating a response that cannot be handled. For this reason, servers MAY respond to Publication Collection GET requests with a OPDS Catalog Document containing a partial list of the Publication Collection's members, and a link to the next partial list feed, if it exists, as defined in Section 3 of `[RFC5005]`. 
+
 = Securing OPDS Catalogs =
 
-OPDS Catalogs are delivered over HTTP. Authentication requirements for HTTP are covered in Section 11 of [RFC2616].
+OPDS Catalogs are delivered over HTTP. Authentication requirements for HTTP are covered in Section 11 of `[RFC2616]`.
 
 TODO_GETHELP Point to Atom's description here?
 
@@ -295,21 +295,21 @@ The choice of authentication mechanism will impact interoperability.....
 
 The minimum level of security referenced above (Basic Authentication with TLS) is considered good practice for Internet applications at the time of publication of this specification and sufficient for establishing a baseline for interoperability. Implementers are encouraged to investigate and use alternative mechanisms regarded as equivalently good or better at the time of deployment. It is RECOMMENDED that clients be implemented in such a way that new authentication schemes can be deployed.
 
-Because this protocol uses HTTP response status codes as the primary means of reporting the result of a request, servers are advised to respond to unauthorized or unauthenticated requests using an appropriate 4xx HTTP response code (e.g., 401 "Unauthorized" or 403 "Forbidden") in accordance with [RFC2617].
+Because this protocol uses HTTP response status codes as the primary means of reporting the result of a request, servers are advised to respond to unauthorized or unauthenticated requests using an appropriate 4xx HTTP response code (e.g., 401 "Unauthorized" or 403 "Forbidden") in accordance with `[RFC2617]`.
 
 = Security Considerations =
 
-OPDS Catalogs are delivered over HTTP and thus subject to the security considerations found in Section 15 of [RFC2616].
+OPDS Catalogs are delivered over HTTP and thus subject to the security considerations found in Section 15 of `[RFC2616]`.
 
 TODO_GETHELP
 
 == Linked Resources ==
 
-OPDS Catalogs can contain XML External Entities as defined in Section 4.2.2 of [REC-xml]. Catalog implementations are not required to load external entities. External entities are subject to the same security concerns as any network operation and can alter the semantics of a Catalog document. The same issues exist for Resources linked to by Catalog elements such as atom:link and atom:content.
+OPDS Catalogs can contain XML External Entities as defined in Section 4.2.2 of `[REC-xml]`. Catalog implementations are not required to load external entities. External entities are subject to the same security concerns as any network operation and can alter the semantics of a Catalog document. The same issues exist for Resources linked to by Catalog elements such as atom:link and atom:content.
 
 == URIs and IRIs ==
 
-OPDS Catalog implementations handle URIs and IRIs. See Section 7 of [RFC3986] and Section 8 of [RFC3987] for security considerations related to their handling and use.
+OPDS Catalog implementations handle URIs and IRIs. See Section 7 of `[RFC3986]` and Section 8 of `[RFC3987]` for security considerations related to their handling and use.
 
 == Code Injection and Cross Site Scripting ==
 
@@ -317,35 +317,51 @@ OPDS Catalogs can contain a broad range of content types including code that mig
 
 Server implementations are strongly encouraged to verify that external content is safe prior to aggregating, processing, or publishing it. In the case of HTML, experience indicates that verification based on a white list of acceptable content is more effective than a black list of forbidden content.
 
-Additional information about XHTML and HTML content safety can be found in Section 8.1 of [RFC4287].
+Additional information about XHTML and HTML content safety can be found in Section 8.1 of `[RFC4287]`.
 
 = References =
 
 == Normative References =
 
-  * \[Draft-Web-Linking\] Web Linking http://www.ietf.org/id/draft-nottingham-http-link-header-06.txt
-  * \[RFC3187\] Using International Standard Book Numbers as Uniform Resource Names http://tools.ietf.org/html/rfc3187
-  * \[ISO4217\] ISO 4217 currency and funds name and code elements http://www.iso.org/iso/support/faqs/faqs_widely_used_standards/widely_used_standards_other/currency_codes/currency_codes_list-1.htm
-  * \[REC-xml\]  Yergeau, F., Paoli, J., Bray, T., Sperberg-McQueen, C., and E. Maler, "Extensible Markup Language (XML) 1.0 (Fourth Edition)", World Wide Web Consortium Recommendation REC-xml-20060816, August 2006, http://www.w3.org/TR/2006/REC-xml-20060816.
-  * \[REC-xml-infoset\] Cowan, J. and R. Tobin, "XML Information Set (Second Edition)", World Wide Web Consortium Recommendation REC-xml-infoset-20040204, February 2004, http://www.w3.org/TR/2004/REC-xml-infoset-20040204.
+  * `[DRAFT-Web-Linking]` Nottingham, M., "Web Linking", draft-nottingham-http-link-header-06, June 2009, http://www.ietf.org/id/draft-nottingham-http-link-header-06.txt.
+  * `[ISO4217]` "ISO 4217 currency and funds name and code elements", International Standard ISO 4217, http://www.iso.org/iso/en/prods-services/popstds/currencycodeslist.html.
+  * `[REC-xml]` Yergeau, F., Paoli, J., Bray, T., Sperberg-McQueen, C., and E. Maler, "Extensible Markup Language (XML) 1.0 (Fourth Edition)", World Wide Web Consortium Recommendation REC-xml-20060816, August 2006, http://www.w3.org/TR/2006/REC-xml-20060816.
+  * `[REC-xml-infoset]` Cowan, J. and R. Tobin, "XML Information Set (Second Edition)", World Wide Web Consortium Recommendation REC-xml-infoset-20040204, February 2004, http://www.w3.org/TR/2004/REC-xml-infoset-20040204.
+  * `[REC-xml-names]` Hollander, D., Bray, T., Tobin, R., and A. Layman, "Namespaces in XML 1.0 (Second Edition)", World Wide Web Consortium Recommendation REC-xml-names-20060816, August 2006, http://www.w3.org/TR/2006/REC-xml-names-20060816.
+  * `[RFC2119]` Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997.
+  * `[RFC2616]` Fielding, R., Gettys, J., Mogul, J., Frystyk, H., Masinter, L., Leach, P., and T. Berners-Lee, "Hypertext Transfer Protocol -- HTTP/1.1", RFC 2616, June 1999.
+  * `[RFC2617]`  Franks, J., Hallam-Baker, P., Hostetler, J., Lawrence, S., Leach, P., Luotonen, A., and L. Stewart, "HTTP Authentication: Basic and Digest Access Authentication", RFC 2617, June 1999.
+  * `[RFC3187]` J. Hakala, J. and H. Walravens, "Using International Standard Book Numbers as Uniform Resource Names", RFC 3187, October 2001.
+  * `[RFC3986]` Berners-Lee, T., Fielding, R., and L. Masinter, "Uniform Resource Identifier (URI): Generic Syntax", STD 66, RFC 3986, January 2005.
+  * `[RFC3987]` Duerst, M. and M. Suignard, "Internationalized Resource Identifiers (IRIs)", RFC 3987, January 2005.
+  * `[RFC4287]` Nottingham, M. and R. Sayre, "The Atom Syndication Format", RFC 4287, December 2005.  
+  * `[RFC5005]` Nottingham, M., "Feed Paging and Archiving", RFC 5005, September 2007.   
+  * `[RFC5012]` Gregorio, J. and B. de hOra, "The Atom Publishing Protocol", RFC 5023, October 2007.
 
-TODO
+== Informative References ==
+
+  * `[REC-webarch]` Walsh, N. and I. Jacobs, "Architecture of the World Wide Web, Volume One", W3C REC REC-webarch-20041215, December 2004, http://www.w3.org/TR/2004/REC-webarch-20041215.
+  * `[RNC]` Clark, J., "RELAX NG Compact Syntax", December 2001, http://www.oasis-open.org/committees/relax-ng/compact-20021121.html.
 
 = Appendix A. Contributors =
 
-The content and concepts within are a product of the [openpub] community and the
-TODO
+The content and concepts within are a product of the OpenPub community.
 
 = Appendix B. RELAX NG Compact Schema =
 
-
 This appendix is informative.
 
-The Relax NG schema explicitly excludes elements in the TODO_NS namespace that are not defined in this revision of the specification. Requirements for Atom Protocol processors encountering such markup are given in Sections 6.2 and 6.3 of [RFC4287].
+The Relax NG schema explicitly excludes elements in the OPDS namespace that are not defined in this revision of the specification. Requirements for Atom Protocol processors encountering such markup are given in Sections 6.2 and 6.3 of `[RFC4287]`.
 
-The Schema for OPDS Catalogs:
-{{{
-   # -*- rnc -*- # RELAX NG Compact Syntax Grammar for OPDS Catalogs 
 TODO
+
+The Schema for OPDS Catalog Documents:
+{{{
+# -*- rnc -*- # RELAX NG Compact Syntax Grammar for OPDS Catalog Documents:
+}}}
+
+The Schema for OPDS Catalog Entry Documents:
+{{{
+# -*- rnc -*- # RELAX NG Compact Syntax Grammar for OPDS Catalog Entry Documents:
 }}}
 

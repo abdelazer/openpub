@@ -4,3 +4,5 @@ namespace local = ""
 
 include "atom.rnc"
 
+start = atomFeed
+

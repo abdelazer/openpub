@@ -1,0 +1,29 @@
+ <entry xmlns="http://www.w3.org/2005/Atom"
+        xmlns:dc="http://purl.org/dc/terms/"
+        xmlns:opds="http://opds-spec.org/2010/catalog">
+    <title>Modern Online Philately</title>
+    <id>urn:uuid:7b595b0c-e15c-4755-bf9a-b7019f5c1dab</id>
+    <author>
+      <name>Stampy McGee</name>
+      <uri>http://opds-spec.org/authors/21285</uri>
+    </author>
+    <author>
+      <name>Alice McGee</name>
+      <uri>http://opds-spec.org/authors/21284</uri>
+    </author>
+    <author>
+      <name>Harold McGee</name>
+      <uri>http://opds-spec.org/authors/21283</uri>
+    </author>
+    <updated>2010-01-10T10:01:10Z</updated>
+    <dc:identifier>urn:isbn:978029536341X</dc:identifier>
+    <dc:publisher>StampMeOnline, Inc.</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:issued>2009-10-01</dc:issued>
+    <content type="text">The definitive reference for the web-curious philatelist.</content>
+    <link type="image/png" rel="http://opds-spec.org/cover" href="http://opds-spec.org/covers/11241.lrg.png"/>
+    <link type="application/epub+zip"           
+          rel="http://opds-spec.org/acquisition/buy" 
+          href="http://opds-spec.org/content/buy/11241.epub"/>
+ </entry>
+

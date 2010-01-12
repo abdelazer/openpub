@@ -1,0 +1,80 @@
+namespace atom = "http://www.w3.org/2005/Atom"
+namespace opds = "http://opds-spec.org/2010/catalog"
+namespace s = "http://www.ascc.net/xml/schematron"
+namespace local = ""
+
+include "atom.rnc"
+
+start = atomOPDSEntry
+
+atomOPDSEntry =
+  [
+      s:rule [
+        context = "atom:entry"
+        s:assert [
+            test = "atom:link[@rel='alternate'] "
+            ~ "or atom:link[not(@rel)] "
+            ~ "or atom:content"
+            "An atom:entry must have at least one atom:link element "
+            ~ "with a rel attribute of 'alternate' "
+            ~ "or an atom:content."
+        ]
+      ]
+      s:rule [
+        context = "atom:entry"
+        s:assert [
+            test = "atom:author or "
+            ~ "../atom:author or atom:source/atom:author"
+            "An atom:entry must have an atom:author "
+            ~ "if its feed does not."
+        ]
+      ]
+  ]
+  element atom:entry {
+      atomCommonAttributes,
+      (atomAuthor*
+      & atomCategory*
+      & atomContent?
+      & atomContributor*
+      & atomId
+      & atomOPDSLink*
+      & atomPublished?
+      & atomRights?
+      & atomSource?
+      & atomSummary?
+      & atomTitle
+      & atomUpdated
+      & extensionElement*)
+  }
+
+
+atomOPDSLink =
+  [
+    s:rule [
+      context = "atom:link[@rel='http://opds-spec.org/acquisition/buy']"
+      s:assert [
+        test = "opds:price"
+        "An atom:link must have at least one opds:price element "
+        ~ "with a rel attribute of 'http://opds-spec.org/acquisition/buy'."
+      ]
+    ]
+  ]
+  element atom:link {
+    atomCommonAttributes,
+    attribute href { atomUri },
+    attribute rel { atomNCName | atomUri }?,
+    attribute type { atomMediaType }?,
+    attribute hreflang { atomLanguageTag }?,
+    attribute title { text }?,
+    attribute length { text }?,
+    opdsPrice?,
+    undefinedContent
+  }
+
+opdsPrice = 
+  element opds:price {
+    attribute currencycode { opdsPriceCurrencyCode },
+    text
+  }
+
+opdsPriceCurrencyCode = xsd:string { pattern = "[A-Z]{3,3}" }

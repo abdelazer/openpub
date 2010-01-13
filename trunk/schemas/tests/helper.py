@@ -23,6 +23,6 @@ class RelamesValidator(object):
         p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         output, errors = p.communicate()
         if 'NOT valid' in output:
-            self.error_log = errors
+            self.error_log = output
             raise DocumentInvalid()
 

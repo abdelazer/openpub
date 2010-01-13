@@ -95,6 +95,7 @@ Each OPDS Catalog Document SHOULD contain an atom:link element with a link relat
 
 == Publication Collections ==
 
+For further details on limiting the size of Publication Collections, see Listing Publication Collections.
 
 == Examples ==
 
@@ -113,18 +114,18 @@ A Root OPDS Catalog Document that is the top of a set of Heirarchical Collection
   </author>
 
   <entry>
-  <title>Popular Publications</title>
-  <link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" rel="start" href="/opds-catalogs/popular.xml"/>
-  <updated>2010-01-10T10:01:01Z</updated>
-  <id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
-  <content type="text">Popular publications from this catalog based on downloads.</content>
-  </entry>
-  <entry>
-  <title>New Publications</title>
-  <link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" href="/opds-catalogs/new.xml"/>
-  <updated>2010-01-10T10:01:00Z</updated>
-  <id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
-  <content type="text">Recent publications from this catalog.</content>
+	<title>Popular Publications</title>
+	<link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" rel="start" href="/opds-catalogs/popular.xml"/>
+	<updated>2010-01-10T10:01:01Z</updated>
+	<id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
+	<content type="text">Popular publications from this catalog based on downloads.</content>
+	</entry>
+	<entry>
+	<title>New Publications</title>
+	<link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" href="/opds-catalogs/new.xml"/>
+	<updated>2010-01-10T10:01:00Z</updated>
+	<id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
+	<content type="text">Recent publications from this catalog.</content>
   </entry>
 </feed>
 }}}
@@ -155,7 +156,7 @@ A Publication Collection listing OPDS Catalog Entries:
     <updated>2010-01-10T10:01:11Z</updated>
     <dc:language>en</dc:language>
     <dc:issued>1917</dc:issued>
-    <summary>The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</summary>
+    <content type="text">The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</content>
     <link type="application/epub+zip"           rel="http://opds-spec.org/acquisition" href="http://opds-spec.org/content/free/4561.epub"/>
     <link type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" href="http://opds-spec.org/content/free/4561.mobi"/>
     <link type="image/png" rel="http://opds-spec.org/cover"           href="http://opds-spec.org/covers/4561.lrg.png"/>
@@ -178,15 +179,15 @@ A Publication Collection listing OPDS Catalog Entries:
       <uri>http://opds-spec.org/authors/21283</uri>
     </author>
     <updated>2010-01-10T10:01:10Z</updated>
-  <dc:identifier>urn:isbn:978029536341X</dc:identifer>
-  <dc:publisher>StampMeOnline, Inc.</dc:publisher>
+    <dc:identifier>urn:isbn:978029536341X</dc:identifier>
+    <dc:publisher>StampMeOnline, Inc.</dc:publisher>
     <dc:language>en</dc:language>
     <dc:issued>2009-10-01</dc:issued>
-    <summary>The definitive reference for the web-curious philatelist.</summary>
+    <content type="text">The definitive reference for the web-curious philatelist.</content>
     <link type="image/png" rel="http://opds-spec.org/cover" href="http://opds-spec.org/covers/11241.lrg.png"/>
     <link type="application/epub+zip"           
           rel="http://opds-spec.org/acquisition/buy" 
-          href="http://opds-spec.org/content/buy/11241.epub"/>
+          href="http://opds-spec.org/content/buy/11241.epub">
       <opds:price currencycode="USD">18.99</opds:price>
     </link>
  </entry>
@@ -205,13 +206,13 @@ The following child elements are refined by this specification:
 
 = OPDS Catalog Entry Documents =
 
-OPDS Catalog Entry Documents TODO...
+OPDS Catalog Entry Documents are Atom `[RFC4287]` Entry documents that provide a complete representation of the metadata and data associated with an available electronic publication.
 
 == Element Definitions ==
 
 === The "atom:entry" Element ===
 
-The "atom:entry" element is the document (i.e., top-level) element of an OPDS Catalog Entry Feed Document, acting as a container for metadata and data associated with available publication.
+The "atom:entry" element is the document (i.e., top-level) element of an OPDS Catalog Entry Feed Document, acting as a container for metadata and data associated with an available electronic publication.
 
 The following child elements are refined by this specification:
 
@@ -222,25 +223,27 @@ The following child elements are refined by this specification:
 The "atom:link" element defines a reference from an entry or feed to a Web resource. 
 
 {{{
-s:rule [
-  context = "atom:link["@rel='http://opds-spec.org/acquisition/buy']"
-  s:assert [
-	  test = "opds:price"
-	  "An atom:link must have at least one opds:price element "
-	  ~ "with a rel attribute of 'http://opds-spec.org/acquisition/buy'."
-  ]
-]
 atomLink =
+  [
+    s:rule [
+      context = "atom:link[@rel='http://opds-spec.org/acquisition/buy']"
+      s:assert [
+        test = "opds:price"
+        "An atom:link must have at least one opds:price element "
+        ~ "with a rel attribute of 'http://opds-spec.org/acquisition/buy'."
+      ]
+    ]
+  ]
   element atom:link {
-	  atomCommonAttributes,
-	  attribute href { atomUri },
-	  attribute rel { atomNCName | atomUri }?,
-	  attribute type { atomMediaType }?,
-	  attribute hreflang { atomLanguageTag }?,
-	  attribute title { text }?,
-	  attribute length { text }?,
-	  opdsPrice?,
-	  undefinedContent
+    atomCommonAttributes,
+    attribute href { atomUri },
+    attribute rel { atomNCName | atomUri }?,
+    attribute type { atomMediaType }?,
+    attribute hreflang { atomLanguageTag }?,
+    attribute title { text }?,
+    attribute length { text }?,
+    opdsPrice?,
+    undefinedContent
   }
 }}}
 
@@ -258,12 +261,11 @@ The content of opds:price is text describing a currency value.
 {{{
 opdsPrice = 
   element opds:price {
-	  attribute currencycode { text },
-	  text
+    attribute currencycode xsd:string { pattern = "[A-Z]{3,3}" },
+    text
   }
-}}}
 
-TODO: xsd:float for price?
+}}}
 
 ==== The "currencycode" Attribute ====
 
@@ -284,6 +286,19 @@ TODO Do we want to reference http://buzzword.org.uk/2009/draft-inkster-profile-p
 = Listing Publiction Collections =
 
 OPDS Catalog Documents, especially Publication Collections, can contain large numbers of Resources. A client such as a web spider or web browser might be overwhelmed if the response to a GET contained every OPDS Catalog Entry in a Publication Collection -- in turn the server might also waste bandwidth and processing time on generating a response that cannot be handled. For this reason, servers MAY respond to Publication Collection GET requests with a OPDS Catalog Document containing a partial list of the Publication Collection's members, and a link to the next partial list feed, if it exists, as defined in Section 3 of `[RFC5005]`. 
+
+Additionally, clients MUST NOT assume that an Atom Entry returned in the Publication Collection is a full representation of an OPDS Catalog Entry Resource if the entry includes a link relation of "alternate". If such alternate representations of the OPDS Catalog Entry Resources as standalone OPDS Catalog Entry Documents, the partial representation SHOULD include the following elements if they are present in the complete OPDS Catalog Entry Document:
+
+  * atom:category 
+  * atom:rights
+  * dc:extent
+  * dc:identifier
+  * dc:issued 
+  * dc:language
+  * dc:publisher
+  * opds:price 
+  * prism:issue
+  * prism:volume
 
 = Securing OPDS Catalogs =
 

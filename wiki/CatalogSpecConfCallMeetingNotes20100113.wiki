@@ -10,6 +10,7 @@ Wednesday, January 13, 2010 at 16:00:00UTC
 == Attendees ==
 
   * Keith Fahlgren (Threepress)
+  * Hadrien Gardeur (Feedbooks)
 
 == Regrets ==
 
@@ -41,11 +42,17 @@ Wednesday, January 13, 2010 at 16:00:00UTC
 == Semantic model for borrow and subscribe acquisition types ==
 
 == Client requirements for buy, borrow, and subscribe acquisitions ==
+  
+  * XML attributes in OPDS feeds/entries
+  * HTTP headers
 
 == Discovering OPDS Catalogs ==
+
+  * HTTP
+  * XHTML
+  * Atom
+  * Local network
 
 == Authentication and authorization use cases and requirements ==
 
 == Explicit specification of OPDS Catalog search techniques ==
-
-

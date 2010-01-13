@@ -7,6 +7,15 @@ include "atom.rnc"
 
 start = atomOPDSEntry
 
+undefinedOPDSContent = (text|anyOPDSForeignElement)*
+
+anyOPDSForeignElement =
+  element * - (atom:* | opds:*) {
+      (attribute * { text }
+      | text
+      | anyElement)*
+  }
+
 atomOPDSEntry =
   [
       s:rule [
@@ -54,8 +63,8 @@ atomOPDSLink =
       context = "atom:link[@rel='http://opds-spec.org/acquisition/buy']"
       s:assert [
         test = "opds:price"
-        "An atom:link must have at least one opds:price element "
-        ~ "with a rel attribute of 'http://opds-spec.org/acquisition/buy'."
+        "An atom:link with a rel attribute of 'http://opds-spec.org/acquisition/buy'"
+        ~ "must have at least one opds:price element."
       ]
     ]
   ]
@@ -68,7 +77,7 @@ atomOPDSLink =
     attribute title { text }?,
     attribute length { text }?,
     opdsPrice?,
-    undefinedContent
+    undefinedOPDSContent
   }
 
 opdsPrice = 

@@ -34,7 +34,6 @@ Peter B, Hadrien G, Raj K, Keith F, Roger S
   * Keith just added a section, Complete Publication Collections to the CatalogSpecDraft.
   * The basic recommendation is to make a single, consolidated atom:feed with fh:complete and serve it GZip'd.
   * Raj thinks (nonbindingly) that this sounds like a good start. He would like to see more Catalogs reference a crawlable feed. 
-  * 
 
 ==  Update from IA and Ingram on semantic model for borrow and subscribe acquisition types ==
 
@@ -49,10 +48,15 @@ Peter B, Hadrien G, Raj K, Keith F, Roger S
   * Roger asks for clarification on the distinction between Hierarchical Collections versus Publication Collections.
   * Keith notes that the spec is missing description of Hierarchical Collections. He'll work on that next.
   * Hadrien expects the display of Hierarchical Collections to be the default.
+  * Hadrien wonders whether his http://opds-spec.org/sort/new & http://opds-spec.org/sort/popular relations are actually being used. Keith asserts that Ibis Reader is using them.
 
 == Consensus on markup for intermediated acquisition links ==
-
 
 == Client requirements for buy, borrow, and subscribe acquisitions ==
 
 == Querying feeds for included acquisition formats ==
+
+= Future =
+
+Roger would like a future agenda to include:
+  * What are the provisions for adding metadata from external sources?

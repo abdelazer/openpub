@@ -309,7 +309,7 @@ TODO
 
 = Complete Publication Collections =
 
-A server MAY provide a single, consolidated Publication Collection that includes the complete representation of every OPDS Catalog Entry Document in an OPDS Catalog in a single, unpaged atom:feed to faciliate crawling and aggregation. This represenation is called a Complete Publication Collection. If available, each OPDS Catalog Document in the OPDS Catalog SHOULD contain an atom:link element with a the relation of "http://opds-spec.org/crawlable" that references the Complete Publication Collection URI. A Complete Publication Collection MUST include an fh:complete element. See Section 2 of `[RFC5005]` for the specification of the fh:complete element.Servers SHOULD use a compressed Content-Encoding when transmitting Complete Publication Collections over HTTP if possible. See Section 14.11 of `[RFC2616]`.
+A server MAY provide a single, consolidated Publication Collection that includes the complete representation of every OPDS Catalog Entry Document in an OPDS Catalog in a single, unpaged atom:feed to faciliate crawling and aggregation. This represenation is called a Complete Publication Collection. If available, each OPDS Catalog Document in the OPDS Catalog SHOULD contain an atom:link element with a the relation of "http://opds-spec.org/crawlable" that references the Complete Publication Collection URI. A Complete Publication Collection MUST include an fh:complete element. See Section 2 of `[RFC5005]` for the specification of the fh:complete element. Servers SHOULD use a compressed Content-Encoding when transmitting Complete Publication Collections over HTTP if possible. See Section 14.11 of `[RFC2616]`.
 
 = Securing OPDS Catalogs =
 
@@ -385,9 +385,11 @@ The Schema for OPDS Catalog Documents:
 {{{
 # -*- rnc -*- # RELAX NG Compact Syntax Grammar for OPDS Catalog Documents:
 }}}
+http://openpub.googlecode.com/svn/trunk/schemas/opds_catalog.rnc
 
 The Schema for OPDS Catalog Entry Documents:
 {{{
 # -*- rnc -*- # RELAX NG Compact Syntax Grammar for OPDS Catalog Entry Documents:
 }}}
+http://openpub.googlecode.com/svn/trunk/schemas/opds_catalog_entry.rnc
 

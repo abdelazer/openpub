@@ -46,6 +46,7 @@ Some sections of this specification are illustrated with fragments of a non-norm
 
 For convenience, this format can be referred to as an "OPDS Catalog." The following terminology is used by this specification:
 
+  * Acqusition Link - An atom:link element with a relation that begins "http://opds-spec.org/acquisition" and represents the URI from which the content's complete representation in a particular media type MAY be requested.
   * URI - A Uniform Resource Identifier as defined in `[RFC3986]`. In this specification, the phrase "the URI of a document" is shorthand for "a URI which, when dereferenced, is expected to produce that document as a representation".
   * IRI - An Internationalized Resource Identifier as defined in `[RFC3987]`. Before an IRI found in a document is used by HTTP, the IRI is first converted to a URI. 
   * Resource - A network-accessible data object or service identified by an IRI, as defined in `[RFC2616]`. See `[REC-webarch]` for further discussion on Resources.
@@ -216,7 +217,7 @@ The "atom:entry" element is the document (i.e., top-level) element of an OPDS Ca
 
 The following child elements are refined by this specification:
 
-  * OPDS Catalog Entry Documents SHOULD contain one atom:link element with a rel attribute value of "http://opds-spec.org/acquisition", "http://opds-spec.org/acquisition/buy", "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample".
+  * OPDS Catalog Entry Documents SHOULD contain at least one Acqusition Link, an atom:link element with a rel attribute value of "http://opds-spec.org/acquisition", "http://opds-spec.org/acquisition/buy", "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample".
 
 === The "atom:link" Element ===
 
@@ -299,6 +300,16 @@ Additionally, clients MUST NOT assume that an Atom Entry returned in the Publica
   * opds:price 
   * prism:issue
   * prism:volume
+
+= Filtering Publication Collections =
+
+Many consumers of OPDS Catalog Documents will not be able to process every media type and will want to filter Publication Collections by the media type's of Acqusition Links. A server MAY allow the filtering of Publication Collections by a set of media types using...
+
+TODO
+
+= Complete Publication Collections =
+
+A server MAY provide a single, consolidated Publication Collection that includes the complete representation of every OPDS Catalog Entry Document in an OPDS Catalog in a single, unpaged atom:feed to faciliate crawling and aggregation. This represenation is called a Complete Publication Collection. If available, each OPDS Catalog Document in the OPDS Catalog SHOULD contain an atom:link element with a the relation of "http://opds-spec.org/crawlable" that references the Complete Publication Collection URI. A Complete Publication Collection MUST include an fh:complete element. See Section 2 of `[RFC5005]` for the specification of the fh:complete element.Servers SHOULD use a compressed Content-Encoding when transmitting Complete Publication Collections over HTTP if possible. See Section 14.11 of `[RFC2616]`.
 
 = Securing OPDS Catalogs =
 

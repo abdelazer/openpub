@@ -1,6 +1,18 @@
- <entry xmlns="http://www.w3.org/2005/Atom"
-        xmlns:dc="http://purl.org/dc/terms/"
-        xmlns:opds="http://opds-spec.org/2010/catalog">
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <id>urn:uuid:433a5d6a-0b8c-4933-af65-4ca4f02763eb</id>
+  <link rel="self"  href="/opds-catalogs/new.xml" type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog"/>
+  <link rel="start" href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog"/>
+  <title>New Publications</title>
+  <updated>2010-01-10T10:01:11Z</updated>
+  <author>
+    <name>Spec Writer</name>
+    <uri>http://opds-spec.org</uri>
+  </author>
+
+ <entry>
     <title>Modern Online Philately</title>
     <id>urn:uuid:7b595b0c-e15c-4755-bf9a-b7019f5c1dab</id>
     <author>
@@ -22,10 +34,11 @@
     <dc:issued>2009-10-01</dc:issued>
     <content type="text">The definitive reference for the web-curious philatelist.</content>
     <link type="image/png" rel="http://opds-spec.org/cover" href="http://opds-spec.org/covers/11241.lrg.png"/>
-    <link type="application/epub+zip"           
+    <link type="text/html"           
           rel="http://opds-spec.org/acquisition/buy" 
           href="http://opds-spec.org/content/buy/11241.epub">
-      <dc:format>application/epub+zip</dc:format>
+      <!-- dc:format omitted -->
+      <opds:price currencycode="USD">18.99</opds:price>
     </link>
  </entry>
-
+</feed>

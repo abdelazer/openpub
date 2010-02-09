@@ -24,8 +24,12 @@
     <dc:issued>1917</dc:issued>
     <summary>The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</summary>
     <content src="http://opds-spec.org/descriptions/4561.html" type="text/html"/>
-    <link type="application/epub+zip"           rel="http://opds-spec.org/acquisition" href="http://opds-spec.org/content/free/4561.epub"/>
-    <link type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" href="http://opds-spec.org/content/free/4561.mobi"/>
+    <link type="application/epub+zip"           rel="http://opds-spec.org/acquisition" href="http://opds-spec.org/content/free/4561.epub">
+      <dc:format>application/epub+zip</dc:format>
+    </link>      
+    <link type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" href="http://opds-spec.org/content/free/4561.mobi">
+      <dc:format>application/x-mobipocket-ebook</dc:format>
+    </link>      
     <link type="image/png" rel="http://opds-spec.org/cover"           href="http://opds-spec.org/covers/4561.lrg.png"/>
     <link type="image/png" rel="http://opds-spec.org/cover-thumbnail" href="http://opds-spec.org/covers/4561.thmb.png"/>
  </entry>

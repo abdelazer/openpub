@@ -1,23 +1,48 @@
-#summary Meeting notes from the February 10, 2010 call
+﻿#summary Meeting notes from the February 10, 2010 call
 
 = Roll call =
 
-Raj K, Keith F, Roger S, Bill K, Ed S, Liza D, Tim J
-
+Raj K, Keith F, Roger S, Bill K, Ed S, Liza D, Tim J, Hadrien G, Peter B
 
 
 = Agenda =
 
-  * Addition of dc:format to Acquisition Links
   * Developing the spec draft
+  * Addition of dc:format to Acquisition Links
   * What are the provisions for adding metadata from external sources?
   * Global identifiers and associating Entries with identifiers
 
 = Discussion =
 
-== Addition of dc:format to Acquisition Links ==
 == Developing the spec draft ==
+
+Keith continues to be concerned about the development of the spec document.
+
+Roger raises concerns about the Document Extensibility and the reservation of the opds: prefix and the OPDS namespace name. 
+
+== Addition of dc:format to Acquisition Links ==
+
+Hadrien thinks that requiring dc:format inside all Acquisition Links is redundant and unnecessary. Keith asserts providing the dc:format in every entry for consistency.
+
+Two goals:
+  * Filter OPDS Catalog Entries by the available content types
+  * Filter based on client requirements 
+
 == What are the provisions for adding metadata from external sources? ==
- == Global identifiers and associating Entries with identifiers ==
+
+Our hope is that "Processors that encounter foreign markup MUST NOT stop processing and MUST NOT signal an error. Clients SHOULD preserve foreign markup when transmitting such documents." We encourage foreign metadata to be added into the complete OPDS Catalog Entry representations (and discourage too much foreign metadata in partial Collections). 
+
+Hadrien likes the approach to metadata & extensibility that XMPP used. They wrote a simple first document but then wrote more specifications in the future to describe more advanced features.
+
+== Global identifiers and associating Entries with identifiers ==
+
+Keith discusses growth of ISTC
+
+Hadrien suggests we encourage Catalog producers to include *multiple* identifiers, as that's the only pragmatic solution. Whenever possible, *all* identifiers should be included in every representation of a Catalog Entry.
+
+Is it better 
+
+Roger notes that consumers are desiring more 
+
 
 = Future =

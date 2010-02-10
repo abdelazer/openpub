@@ -88,6 +88,8 @@ OPDS Catalog Documents are Atom `[RFC4287]` Feed documents have two serve two pu
 
 Hierarchical Collections describe a desired heirarchy from the Catalog publisher, but OPDS Catalog Documents MAY contain other relations that allow for a non-heirarchical consumption and presentation of the OPDS Catalog Documents.
 
+Every OPDS Catalog Document MUST either be a Heirarchical Collection or a Publication Collection. A Publication Collection can be identified by the presence of Acqusition Links in each atom:entry.
+
 A Root OPDS Catalog Document TODO...
 
 Each OPDS Catalog Document SHOULD contain an atom:link element with a link relation of "start", which references the Root OPDS Catalog Document URI.
@@ -158,10 +160,19 @@ A Publication Collection listing OPDS Catalog Entries:
     <dc:language>en</dc:language>
     <dc:issued>1917</dc:issued>
     <content type="text">The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</content>
-    <link type="application/epub+zip"           rel="http://opds-spec.org/acquisition" href="http://opds-spec.org/content/free/4561.epub"/>
-    <link type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" href="http://opds-spec.org/content/free/4561.mobi"/>
     <link type="image/png" rel="http://opds-spec.org/cover"           href="http://opds-spec.org/covers/4561.lrg.png"/>
     <link type="image/png" rel="http://opds-spec.org/cover-thumbnail" href="http://opds-spec.org/covers/4561.thmb.png"/>
+
+    <link type="application/epub+zip"           
+          rel="http://opds-spec.org/acquisition" 
+          href="http://opds-spec.org/content/free/4561.epub">
+      <dc:format>application/epub+zip</dc:format>
+    </link>      
+    <link type="application/x-mobipocket-ebook" 
+          rel="http://opds-spec.org/acquisition" 
+          href="http://opds-spec.org/content/free/4561.mobi">
+      <dc:format>application/x-mobipocket-ebook</dc:format>
+    </link>      
  </entry>
 
  <entry>
@@ -186,9 +197,11 @@ A Publication Collection listing OPDS Catalog Entries:
     <dc:issued>2009-10-01</dc:issued>
     <content type="text">The definitive reference for the web-curious philatelist.</content>
     <link type="image/png" rel="http://opds-spec.org/cover" href="http://opds-spec.org/covers/11241.lrg.png"/>
-    <link type="application/epub+zip"           
+
+    <link type="text/html"           
           rel="http://opds-spec.org/acquisition/buy" 
           href="http://opds-spec.org/content/buy/11241.epub">
+      <dc:format>application/epub+zip</dc:format>
       <opds:price currencycode="USD">18.99</opds:price>
     </link>
  </entry>
@@ -224,33 +237,42 @@ The following child elements are refined by this specification:
 The "atom:link" element defines a reference from an entry or feed to a Web resource. 
 
 {{{
-atomLink =
-  [
-    s:rule [
-      context = "atom:link[@rel='http://opds-spec.org/acquisition/buy']"
-      s:assert [
-        test = "opds:price"
-        "An atom:link with a rel attribute of 'http://opds-spec.org/acquisition/buy'"
-        ~ "must have at least one opds:price element."
+  atomLink =
+    [
+      s:rule [
+        context = "atom:link[@rel='http://opds-spec.org/acquisition/buy']"
+        s:assert [
+          test = "opds:price"
+          "An atom:link with a rel attribute of 'http://opds-spec.org/acquisition/buy' "
+          ~ "must have at least one opds:price element."
+        ]
+      ]
+      s:rule [
+        context = "atom:link[@rel='http://opds-spec.org/acquisition']"
+        s:assert [
+          test = "dc:format"
+          "An atom:link with a rel attribute like 'http://opds-spec.org/acquisition' "
+          ~ "must have at least one dc:format element."
+        ]
       ]
     ]
-  ]
-  element atom:link {
-    atomCommonAttributes,
-    attribute href { atomUri },
-    attribute rel { atomNCName | atomUri }?,
-    attribute type { atomMediaType }?,
-    attribute hreflang { atomLanguageTag }?,
-    attribute title { text }?,
-    attribute length { text }?,
-    opdsPrice?,
-    undefinedContent
-  }
+    element atom:link {
+      atomCommonAttributes,
+      attribute href { atomUri },
+      attribute rel { atomNCName | atomUri }?,
+      attribute type { atomMediaType }?,
+      attribute hreflang { atomLanguageTag }?,
+      attribute title { text }?,
+      attribute length { text }?,
+      opdsPrice?,
+      undefinedOPDSContent
+    }
 }}}
 
 The following child elements are defined by this specification:
 
   * atom:link elements with a rel attribute value of "http://opds-spec.org/acquisition/buy" MUST contain one opds:price element.
+  * atom:link elements with a rel attribute of "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample" MUST contain at least one dc:format element.
   * atom:link elements with a rel attribute of "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample" MAY contain one opds:price element.
 
 === The "opds:price" Element ===
@@ -284,7 +306,7 @@ Producers of OPDS Catalog SHOULD produce Catalog Documents that are conformant t
 
 TODO Do we want to reference http://buzzword.org.uk/2009/draft-inkster-profile-parameter-00.html or discuss http://markmail.org/thread/nkecztyqs7m6luhb ?
 
-= Listing Publiction Collections =
+= Listing Publication Collections =
 
 OPDS Catalog Documents, especially Publication Collections, can contain large numbers of Resources. A client such as a web spider or web browser might be overwhelmed if the response to a GET contained every OPDS Catalog Entry in a Publication Collection -- in turn the server might also waste bandwidth and processing time on generating a response that cannot be handled. For this reason, servers MAY respond to Publication Collection GET requests with a OPDS Catalog Document containing a partial list of the Publication Collection's members, and a link to the next partial list feed, if it exists, as defined in Section 3 of `[RFC5005]`. 
 

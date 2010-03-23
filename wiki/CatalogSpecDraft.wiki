@@ -22,7 +22,7 @@ The Open Publication Distribution System (OPDS) Catalog format is a syndication 
   * discovered, using optional search or a range of optional browsing techniques TODO
   * acquired, using direct downloads, lending, or vending
 
-An OPDS Catalog is made up of one or more Feeds. Each Feed is either a list of links to other Feeds or a list of Entries. An Entry describes an available electronic publication and includes basic metadata, the publication's format, and how the publication can be acquired. An Entry may have a more extensive, standalone representation at a unique URI.
+An OPDS Catalog is made up of one or more Atom Feeds. As with Atom, each Feed is a list of Entries. Each Entry either points to another Feed and is part of the Catalog's hierarchy or else it describes an available electronic publication, including basic metadata, the publication's format, and how the publication can be acquired. An Entry may have a more extensive, standalone representation outside of the version included in the Feed at a unique URI.
 
 OPDS Catalogs may be aggregated and combined into larger OPDS Catalogs.
 
@@ -40,21 +40,25 @@ The Infoset terms "Element Information Item" and "Attribute Information Item" ar
 
 = RELAX NG Schema =
 
-Some sections of this specification are illustrated with fragments of a non-normative RELAX NG Compact schema `[RNC]`. However, the text of this specification provides the definition of conformance. Complete schemas appear in TODO.
+Some sections of this specification are illustrated with fragments of a non-normative RELAX NG Compact schema `[RNC]`. However, the text of this specification provides the definition of conformance. Complete schemas appear in Appendix B.
 
 = Terminology =
 
-For convenience, this format can be referred to as an "OPDS Catalog." The following terminology is used by this specification:
+For convenience, instances of this format can be referred to as "OPDS Catalogs" or "OPDS Catalog Documents." The following terminology is used by this specification:
 
   * Acqusition Link - An atom:link element with a relation that begins "http://opds-spec.org/acquisition" and represents the URI from which the content's complete representation in a particular media type MAY be requested.
-  * URI - A Uniform Resource Identifier as defined in `[RFC3986]`. In this specification, the phrase "the URI of a document" is shorthand for "a URI which, when dereferenced, is expected to produce that document as a representation".
+  * Entry - An Atom Entry as defined in `[RFC4287]`. 
+  * Feed - An Atom Feed as defined in `[RFC4287]`. 
+  * Hierarchical Collection - A Feed whose Entries are themselves pointers to other Feeds. Catalog publishers use Hierarchical Collections to establish a suggested presentation hierarchy.
   * IRI - An Internationalized Resource Identifier as defined in `[RFC3987]`. Before an IRI found in a document is used by HTTP, the IRI is first converted to a URI. 
-  * Resource - A network-accessible data object or service identified by an IRI, as defined in `[RFC2616]`. See `[REC-webarch]` for further discussion on Resources.
+  * OPDS Catalog Entry - An Entry provides a representation of an available electronic publication and includes an Acqusition Link. 
+  * OPDS Catalog Root - The Feed that represents either the complete Catalog if it is a Publication Collection or else is the first Feed in a set of Hierarchical Collections.
+  * Publication Collection - A Feed whose Entries are OPDS Catalog Entries. 
   * relation (or "relation of") - Refers to the "rel" attribute value of an atom:link element.
   * Representation - An entity included with a request or response as defined in `[RFC2616]`.
+  * Resource - A network-accessible data object or service identified by an IRI, as defined in `[RFC2616]`. See `[REC-webarch]` for further discussion on Resources.
+  * URI - A Uniform Resource Identifier as defined in `[RFC3986]`. In this specification, the phrase "the URI of a document" is shorthand for "a URI which, when dereferenced, is expected to produce that document as a representation".
   
-TODO From our glossary
-
 = Document Types =
 
 This specification defines two kinds of documents -- OPDS Catalog Documents and OPDS Catalog Entry Documents.
@@ -63,19 +67,19 @@ An OPDS Catalog Document is a refinement of an "atom:feed" from the Atom Syndica
 
 An OPDS Catalog Entry Document is a refinement of an "atom:entry" from the Atom Syndication Format `[RFC4287]`.
 
-The namespace name `[REC-xml-names]` for either kind of document is:
+The namespace name `[REC-xml-names]` for elements defined in this specification and used in OPDS Catalog Documents and OPDS Catalog Entry Documents is:
 
 http://opds-spec.org/2010/catalog
 
-OPDS Catalog XML Documents MUST be "namespace-well-formed" as specified in Section 7 of `[REC-xml-names]`.
+OPDS Catalog Documents MUST be "namespace-well-formed" as specified in Section 7 of `[REC-xml-names]`.
 
-This specification uses the prefix "opds:" for the namespace name. The prefix "atom:" is used for "http://opds-spec.org/2010/Catalog", the namespace name of the Atom Syndication Format `[RFC4287]`. These namespace prefixes are not semantically significant.
+This specification uses the prefix "opds:" for the namespace name. The prefix "atom:" is used for "http://www.w3.org/2005/Atom ", the namespace name of the Atom Syndication Format `[RFC4287]`. These namespace prefixes are not semantically significant.
 
 == Document Extensibility ==
 
 Unrecognized markup in an OPDS Catalog is considered "foreign markup" as defined in Section 6 of the Atom Syndication Format `[RFC4287]`. Foreign markup can be used anywhere within a Catalog unless it is explicitly forbidden. Processors that encounter foreign markup MUST NOT stop processing and MUST NOT signal an error. Clients SHOULD preserve foreign markup when transmitting such documents.
 
-The namespace name OPDS is reserved for forward-compatible revisions of the Catalog format. This does not exclude the addition of elements and attributes that might not be recognized by processors conformant to this specification. Such unrecognized markup from the OPDS namespace MUST be treated as foreign markup.
+The namespace name "http://opds-spec.org/2010/catalog" is reserved for forward-compatible revisions of the Catalog format. This does not exclude the addition of elements and attributes that might not be recognized by processors conformant to this specification. Such unrecognized markup from the "http://opds-spec.org/2010/catalog" namespace MUST be treated as foreign markup.
 
 TODO: Confirm that the above is our desired forward-compability goal.
 
@@ -83,16 +87,18 @@ TODO: Confirm that the above is our desired forward-compability goal.
 
 OPDS Catalog Documents are Atom `[RFC4287]` Feed documents have two serve two purposes:
 
-  * To reference other OPDS Catalog Documents as part of a heirarchy. These Catalog Documents are referred to as Heirarchical Collections. 
+  * To create a hierarchy of other OPDS Catalog Documents. These Catalog Documents are referred to as Heirarchical Collections. 
   * To collect a set of OPDS Catalog Entries. These Catalog Documents are referred to as Publication Collections. 
 
-Hierarchical Collections describe a desired heirarchy from the Catalog publisher, but OPDS Catalog Documents MAY contain other relations that allow for a non-heirarchical consumption and presentation of the OPDS Catalog Documents.
+While Hierarchical Collections do provide a suggested heirarchy from the Catalog publisher, OPDS Catalog Documents MAY contain other relations that allow for other methods of consumption and display.
 
-Every OPDS Catalog Document MUST either be a Heirarchical Collection or a Publication Collection. A Publication Collection can be identified by the presence of Acqusition Links in each atom:entry.
+Every OPDS Catalog Document MUST either be a Heirarchical Collection or a Publication Collection. A Publication Collection can be identified by the presence of Acqusition Links in each Entry.
 
-A Root OPDS Catalog Document TODO...
+== OPDS Catalog Root ==
 
-Each OPDS Catalog Document SHOULD contain an atom:link element with a link relation of "start", which references the Root OPDS Catalog Document URI.
+Every OPDS Catalog MUST have one and only one OPDS Catalog Root. 
+
+Each OPDS Catalog Document SHOULD contain an atom:link element with a link relation of "start", which references the OPDS Catalog Root URI.
 
 == Hierarchical Collections ==
 
@@ -102,14 +108,14 @@ For further details on limiting the size of Publication Collections, see Listing
 
 == Examples ==
 
-A Root OPDS Catalog Document that is the top of a set of Heirarchical Collections. This Catalog Document references two other Catalog Documents using atom:links:
+A OPDS Catalog Root that is the top of a set of Heirarchical Collections. This Catalog Document references two other Catalog Documents using atom:links:
 {{{
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:uuid:2853dacf-ed79-42f5-8e8a-a7bb3d1ae6a2</id>
   <link rel="self"  href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog"/>
   <link rel="start" href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog"/>
-  <title>Root OPDS Catalog Example</title>
+  <title>OPDS Catalog Root Example</title>
   <updated>2010-01-10T10:01:10Z</updated>
   <author>
     <name>Spec Writer</name>
@@ -304,7 +310,15 @@ Producers of OPDS Catalog SHOULD produce Catalog Documents that are conformant t
 
 = The Atom Format Profile Parameter ==
 
-TODO Do we want to reference http://buzzword.org.uk/2009/draft-inkster-profile-parameter-00.html or discuss http://markmail.org/thread/nkecztyqs7m6luhb ?
+Relations to OPDS Catalog Document Resources SHOULD use a "profile" parameter from Section 4.3 of `[RFC4288]` with the value "opds-catalog". This profile parameter clients with an advisory hint that the Resource should be an OPDS Catalog.
+
+The complete media type for a relation to an OPDS Catalog Entry Document MAY be:
+
+application/atom+xml;type=entry;profile=opds-catalog
+
+The complete media type for a relation to an OPDS Catalog Document MAY be:
+
+application/atom+xml;type=feed;profile=opds-catalog
 
 = Listing Publication Collections =
 
@@ -353,7 +367,7 @@ TODO_GETHELP
 
 == Linked Resources ==
 
-OPDS Catalogs can contain XML External Entities as defined in Section 4.2.2 of `[REC-xml]`. Catalog implementations are not required to load external entities. External entities are subject to the same security concerns as any network operation and can alter the semantics of a Catalog document. The same issues exist for Resources linked to by Catalog elements such as atom:link and atom:content.
+OPDS Catalogs can contain XML External Entities as defined in Section 4.2.2 of `[REC-xml]`. OPDS Catalog implementations are not required to load external entities. External entities are subject to the same security concerns as any network operation and can alter the semantics of an OPDS Catalog Document. The same issues exist for Resources linked to by Catalog elements such as atom:link and atom:content.
 
 == URIs and IRIs ==
 
@@ -378,11 +392,12 @@ Additional information about XHTML and HTML content safety can be found in Secti
   * `[REC-xml-names]` Hollander, D., Bray, T., Tobin, R., and A. Layman, "Namespaces in XML 1.0 (Second Edition)", World Wide Web Consortium Recommendation REC-xml-names-20060816, August 2006, http://www.w3.org/TR/2006/REC-xml-names-20060816.
   * `[RFC2119]` Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997.
   * `[RFC2616]` Fielding, R., Gettys, J., Mogul, J., Frystyk, H., Masinter, L., Leach, P., and T. Berners-Lee, "Hypertext Transfer Protocol -- HTTP/1.1", RFC 2616, June 1999.
-  * `[RFC2617]`  Franks, J., Hallam-Baker, P., Hostetler, J., Lawrence, S., Leach, P., Luotonen, A., and L. Stewart, "HTTP Authentication: Basic and Digest Access Authentication", RFC 2617, June 1999.
+  * `[RFC2617]` Franks, J., Hallam-Baker, P., Hostetler, J., Lawrence, S., Leach, P., Luotonen, A., and L. Stewart, "HTTP Authentication: Basic and Digest Access Authentication", RFC 2617, June 1999.
   * `[RFC3187]` J. Hakala, J. and H. Walravens, "Using International Standard Book Numbers as Uniform Resource Names", RFC 3187, October 2001.
   * `[RFC3986]` Berners-Lee, T., Fielding, R., and L. Masinter, "Uniform Resource Identifier (URI): Generic Syntax", STD 66, RFC 3986, January 2005.
   * `[RFC3987]` Duerst, M. and M. Suignard, "Internationalized Resource Identifiers (IRIs)", RFC 3987, January 2005.
   * `[RFC4287]` Nottingham, M. and R. Sayre, "The Atom Syndication Format", RFC 4287, December 2005.  
+  * `[RFC4288]` Freed, N. and J. Klensin, "Media Type Specifications and Registration Procedures", RFC 4288, December 2005.  
   * `[RFC5005]` Nottingham, M., "Feed Paging and Archiving", RFC 5005, September 2007.   
   * `[RFC5012]` Gregorio, J. and B. de hOra, "The Atom Publishing Protocol", RFC 5023, October 2007.
 
@@ -390,6 +405,7 @@ Additional information about XHTML and HTML content safety can be found in Secti
 
   * `[REC-webarch]` Walsh, N. and I. Jacobs, "Architecture of the World Wide Web, Volume One", W3C REC REC-webarch-20041215, December 2004, http://www.w3.org/TR/2004/REC-webarch-20041215.
   * `[RNC]` Clark, J., "RELAX NG Compact Syntax", December 2001, http://www.oasis-open.org/committees/relax-ng/compact-20021121.html.
+  * `[DRAFT-parameter]` Inkster, T., "The Profile Media Type Parameter," October 2009, http://buzzword.org.uk/2009/draft-inkster-profile-parameter-00.html.
 
 = Appendix A. Contributors =
 
@@ -397,7 +413,7 @@ The content and concepts within are a product of the OpenPub community.
 
 = Appendix B. RELAX NG Compact Schema =
 
-This appendix is informative.
+This appendix is normative.
 
 The Relax NG schema explicitly excludes elements in the OPDS namespace that are not defined in this revision of the specification. Requirements for Atom Protocol processors encountering such markup are given in Sections 6.2 and 6.3 of `[RFC4287]`.
 

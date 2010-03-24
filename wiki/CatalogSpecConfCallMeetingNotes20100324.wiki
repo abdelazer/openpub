@@ -3,6 +3,7 @@
 = Roll call =
 
 Present: Roger S, Raj K, Eric H, Keith F, Cart R
+
 Regrets: Peter B, Liza D, Ed S
 
 = Agenda =
@@ -80,5 +81,7 @@ He is most concerned that the slashes we would encode, `profile=http://opds-spec
 
 He proposes we move to this `@type`:
 
-	<link rel="self"  href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=opds-catalog"/>
+{{{
+<link rel="self"  href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=opds-catalog"/>
+}}}
 

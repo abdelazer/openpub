@@ -113,8 +113,8 @@ A OPDS Catalog Root that is the top of a set of Heirarchical Collections. This C
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:uuid:2853dacf-ed79-42f5-8e8a-a7bb3d1ae6a2</id>
-  <link rel="self"  href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog"/>
-  <link rel="start" href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog"/>
+  <link rel="self"  href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=opds-catalog"/>
+  <link rel="start" href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=opds-catalog"/>
   <title>OPDS Catalog Root Example</title>
   <updated>2010-01-10T10:01:10Z</updated>
   <author>
@@ -124,14 +124,14 @@ A OPDS Catalog Root that is the top of a set of Heirarchical Collections. This C
 
   <entry>
 	<title>Popular Publications</title>
-	<link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" rel="start" href="/opds-catalogs/popular.xml"/>
+	<link type="application/atom+xml;type=feed;profile=opds-catalog" rel="start" href="/opds-catalogs/popular.xml"/>
 	<updated>2010-01-10T10:01:01Z</updated>
 	<id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
 	<content type="text">Popular publications from this catalog based on downloads.</content>
 	</entry>
 	<entry>
 	<title>New Publications</title>
-	<link type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog" href="/opds-catalogs/new.xml"/>
+	<link type="application/atom+xml;type=feed;profile=opds-catalog" href="/opds-catalogs/new.xml"/>
 	<updated>2010-01-10T10:01:00Z</updated>
 	<id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
 	<content type="text">Recent publications from this catalog.</content>
@@ -146,8 +146,8 @@ A Publication Collection listing OPDS Catalog Entries:
       xmlns:dc="http://purl.org/dc/terms/"
       xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:433a5d6a-0b8c-4933-af65-4ca4f02763eb</id>
-  <link rel="self"  href="/opds-catalogs/new.xml" type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog"/>
-  <link rel="start" href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=http://opds-spec.org/2010/catalog"/>
+  <link rel="self"  href="/opds-catalogs/new.xml" type="application/atom+xml;type=feed;profile=opds-catalog"/>
+  <link rel="start" href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=opds-catalog"/>
   <title>New Publications</title>
   <updated>2010-01-10T10:01:11Z</updated>
   <author>

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=44&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=44&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=44&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 44 | Feedbooks</title>
+  <updated>2010-04-07T18:24:59Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>861</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=43&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=45&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Storm Over Warlock</title>
+<id>http://www.feedbooks.com/book/862</id>
+<author>
+  <name>Andre Alice Norton</name>
+  <uri>http://www.feedbooks.com/author/159</uri>
+</author>
+<updated>2009-09-16T10:31:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Stranded on the alien world of Warlock, Shann Lantree's expedition camp has been wiped out by the Throgs, beings so alien that humans have yet to communicate with them. Lantree must quickly learn how to survive under harsh conditions while being chased by the Throgs -- and how to distinguish the real from the dreamed when he meets the mysterious Wyverns.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/862.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/862.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/862.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/862.png?t=20090916103158" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/862.png?size=smaller&amp;t=20090916103158" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/862.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Father Goriot</title>
+<id>http://www.feedbooks.com/book/1631</id>
+<author>
+  <name>Honor&#233; de  Balzac</name>
+  <uri>http://www.feedbooks.com/author/51</uri>
+</author>
+<updated>2009-12-04T18:43:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1834</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>The novel takes place during the Bourbon Restoration, which brought about profound changes in French society; the struggle of individuals to secure upper-class status is ubiquitous in the book. The city of Paris also impresses itself on the characters &#8211; especially young Rastignac, who grew up in the provinces of southern France. Balzac analyzes, through Goriot and others, the nature of family and marriage, providing a pessimistic view of these institutions.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1631.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1631.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1631.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1631.png?t=20091204184335" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1631.png?size=smaller&amp;t=20091204184335" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1631.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Laodicean: a Story of To-day</title>
+<id>http://www.feedbooks.com/book/4075</id>
+<author>
+  <name>Thomas Hardy</name>
+  <uri>http://www.feedbooks.com/author/48</uri>
+</author>
+<updated>2009-11-06T14:11:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1881</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Religion" label="Religion"/>
+<summary>A vacillating young woman is thrust onto the horns of religious and romantic dilemmas.</summary>
+<dcterms:source>Gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4075.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4075.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4075.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4075.png?t=20091106141135" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4075.png?size=smaller&amp;t=20091106141135" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4075.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Country Doctor</title>
+<id>http://www.feedbooks.com/book/192</id>
+<author>
+  <name>Franz Kafka</name>
+  <uri>http://www.feedbooks.com/author/6</uri>
+</author>
+<updated>2009-09-16T10:13:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/192.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/192.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/192.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/192.png?t=20090916101314" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/192.png?size=smaller&amp;t=20090916101314" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/192.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Hound</title>
+<id>http://www.feedbooks.com/book/258</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1924</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/258.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/258.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/258.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/258.png?t=20090916101530" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/258.png?size=smaller&amp;t=20090916101530" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/258.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Fire of Asshurbanipal</title>
+<id>http://www.feedbooks.com/book/1667</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T11:07:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1667.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1667.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1667.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1667.png?t=20090916110757" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1667.png?size=smaller&amp;t=20090916110757" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1667.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Uncle Silas</title>
+<id>http://www.feedbooks.com/book/1505</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T10:56:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1864</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Gothic" label="Gothic"/>
+<summary>Uncle Silas is a Victorian Gothic mystery/thriller novel by the Anglo-Irish writer J. Sheridan Le Fanu. It is notable as one of the earliest examples of the locked room mystery subgenre. It is not a novel of the supernatural (despite a few creepily ambiguous touches), but does show a strong interest in the occult and in the ideas of Swedenborg.
+Like many of Le Fanu's novels, it grew out of an earlier short story, &quot;A Passage in the Secret History of an Irish Countess&quot; (1839), which he also published as &quot;The Murdered Cousin&quot; in the 1851 collection Ghost Stories and Tales of Mystery. The setting of the original story was Irish; presumably it was changed to Derbyshire for the novel because this would appeal more to a British audience.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1505.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1505.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1505.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1505.png?t=20090916105636" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1505.png?size=smaller&amp;t=20090916105636" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1505.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Through Russia</title>
+<id>http://www.feedbooks.com/book/3920</id>
+<author>
+  <name>Maxim Gorky</name>
+  <uri>http://www.feedbooks.com/author/1063</uri>
+</author>
+<updated>2009-08-18T01:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1906</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<category term="Travel" label="Travel"/>
+<summary>A collection of short stories about Russia.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/2288</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3920.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3920.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3920.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3920.png?t=20090818011816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3920.png?size=smaller&amp;t=20090818011816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3920.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Cave Girl</title>
+<id>http://www.feedbooks.com/book/141</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:11:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Blueblooded mama's boy Waldo Emerson Smith-Jones is swept overboard during a south seas voyage for his lifelong ill health. He finds himself on a jungle island. His bookish education has not prepared him to cope with these surroundings, and he is a coward. He is terrified when he encounters primitive, violent men, ape-like throwbacks in mankind's evolutionary history.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/141.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/141.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/141.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/141.png?t=20090916101105" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/141.png?size=smaller&amp;t=20090916101105" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/141.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ashton-Kirk, Criminologist</title>
+<id>http://www.feedbooks.com/book/4578</id>
+<author>
+  <name>John T. McIntyre</name>
+  <uri>http://www.feedbooks.com/author/1337</uri>
+</author>
+<updated>2010-01-18T10:39:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Who held the old-fashioned brass candlestick that struck down &quot;the Bounder&quot;--and set mystery a-throbbing in the quiet suburb of Stanwick? Bat Scanlon, athletic trainer and good sport, found a clue in the dark hotel office where the little Swiss sharpened his murderous knife. But it was Ashton-Kirk who discovered the pat a beautiful woman played in the drama.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30838</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4578.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4578.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4578.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4578.png?t=20100118103951" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4578.png?size=smaller&amp;t=20100118103951" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4578.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Young Goodman Brown</title>
+<id>http://www.feedbooks.com/book/1675</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:10:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1835</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1675.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1675.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1675.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1675.png?t=20090916111024" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1675.png?size=smaller&amp;t=20090916111024" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1675.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Dueling Machine</title>
+<id>http://www.feedbooks.com/book/4530</id>
+<author>
+  <name>Ben Bova</name>
+  <uri>http://www.feedbooks.com/author/945</uri>
+</author>
+<updated>2009-12-30T18:48:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The trouble with great ideas is that someone is sure to expend enormous effort and ingenuity figuring out how to louse them up.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30796</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4530.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4530.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4530.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4530.png?t=20091230184824" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4530.png?size=smaller&amp;t=20091230184824" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4530.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Child's Dream of a Star</title>
+<id>http://www.feedbooks.com/book/304</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:16:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1850</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/304.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/304.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/304.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/304.png?t=20090916101602" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/304.png?size=smaller&amp;t=20090916101602" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/304.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The World Set Free</title>
+<id>http://www.feedbooks.com/book/831</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:30:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>THE WORLD SET FREE was written in 1913 and published early in 1914, and it is the latest of a series of three fantasias of possibility, stories which all turn on the possible developments in the future of some contemporary force or group of forces. The World Set Free was written under the immediate shadow of the Great War. Every intelligent person in the world felt that disaster was impending and knew no way of averting it, but few of us realised in the earlier half of 1914 how near the crash was to us. The reader will be amused to find that here it is put off until the year 1956.
+
+Noteworthy for its depiction of fictional ''atomic bombs'' which eerily prefigure the development of real nuclear weapons.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/831.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/831.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/831.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/831.png?t=20090916103053" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/831.png?size=smaller&amp;t=20090916103053" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/831.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Monster Men</title>
+<id>http://www.feedbooks.com/book/855</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:31:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Professor Maxon performs secret experiments to make a &quot;perfect race&quot; of humans, finally succeeding with &quot;Number Thirteen.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/855.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/855.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/855.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/855.png?t=20090916103139" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/855.png?size=smaller&amp;t=20090916103139" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/855.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Well at the World's End</title>
+<id>http://www.feedbooks.com/book/3628</id>
+<author>
+  <name>William Morris</name>
+  <uri>http://www.feedbooks.com/author/372</uri>
+</author>
+<updated>2009-08-18T01:18:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1892</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Using language with elements of the medieval tales which were his models, Morris tells the story of Ralph of Upmeads, the fourth and youngest son of a minor king, who sets out, contrary to his parents' wishes, to find knightly adventure and seek the Well at the World's End, a magic well which will confer a near-immortality and strengthened destiny on those who drink from it.
+Although the novel is relatively obscure by today's standards it has had a significant influence on many notable fantasy authors. C. S. Lewis and J. R. R. Tolkien both seem to have found inspiration in The Well at the World's End: ancient tables of stone, a &quot;King Peter&quot;, a quick, white horse named &quot;Silverfax&quot;, and a character named &quot;Gandalf&quot; are only a few, to say nothing of Ralph's journey home as denouement, anticipating the Hobbits' return and battle for the Shire.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3628.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3628.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3628.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3628.png?t=20090818011810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3628.png?size=smaller&amp;t=20090818011810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3628.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Story of the Amulet</title>
+<id>http://www.feedbooks.com/book/1602</id>
+<author>
+  <name>Edith Nesbit</name>
+  <uri>http://www.feedbooks.com/author/210</uri>
+</author>
+<updated>2009-09-16T11:07:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1905</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>When Cyril, Robert, Anthea and Jane rescue the magic sand-fairy from a pet shop, they have no idea of the astonishing adventures to come!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1602.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1602.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1602.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1602.png?t=20090916110755" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1602.png?size=smaller&amp;t=20090916110755" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1602.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>For the Defence, Dr. Thorndyke</title>
+<id>http://www.feedbooks.com/book/2096</id>
+<author>
+  <name>R. Austin Freeman</name>
+  <uri>http://www.feedbooks.com/author/288</uri>
+</author>
+<updated>2009-09-16T11:38:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1934</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>This is the story of Andrew, a handsome artist living with his beautiful wife. Andrew witnesses a man being shot one night by two masked assailants and on the advice of his wife, decides to remain silent about what he has seen. But when a meeting with his cousin Ronald proves to be fatal, Andrew finds himself suspecting foul play, as Ronald lies crushed on beach sands. And soon, Andrew is a suspect himself.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2096.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2096.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2096.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2096.png?t=20090916113850" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2096.png?size=smaller&amp;t=20090916113850" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2096.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Yearling</title>
+<id>http://www.feedbooks.com/book/2125</id>
+<author>
+  <name>Marjorie Kinnan Rawlings</name>
+  <uri>http://www.feedbooks.com/author/300</uri>
+</author>
+<updated>2009-09-16T11:46:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1938</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2125.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2125.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2125.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2125.png?t=20090916114602" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2125.png?size=smaller&amp;t=20090916114602" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2125.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Way We Live Now</title>
+<id>http://www.feedbooks.com/book/3881</id>
+<author>
+  <name>Anthony Trollope</name>
+  <uri>http://www.feedbooks.com/author/281</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1875</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>The Way We Live Now is a scathing satirical novel published in London in 1875 by Anthony Trollope, after a popular serialisation. It was regarded by many of Trollope's contemporaries as his finest work.
+One of his longest novels (it contains a hundred chapters), The Way We Live Now is particularly rich in sub-plot. It was inspired by the financial scandals of the early 1870s, and lashes at the pervading dishonesty of the age, commercial, political, moral, and intellectual. It is one of the last significant Victorian novels to have been published in monthly parts.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3881.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3881.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3881.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3881.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3881.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3881.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

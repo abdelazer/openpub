@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=60</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=60" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=60" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 60 | Feedbooks</title>
+  <updated>2010-04-07T18:26:54Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1181</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=59" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=61" rel="next" title="Next Page"/>
+<entry>
+<title>The Fourth Invasion</title>
+<id>http://www.feedbooks.com/book/2505</id>
+<author>
+  <name>Henry Josephs</name>
+  <uri>http://www.feedbooks.com/author/421</uri>
+</author>
+<updated>2009-09-16T12:09:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Psychopathology has offered possible answers to why, from time to time, people in large quantities &quot;see&quot; strange things in the sky which manage to evade trained scientific observers, or conform to what is known about the behavior of falling or flying bodies. And mass hysteria is by no means a product of the present century. But--what if these human foibles were deliberately being exploited?</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2505.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2505.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2505.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2505.png?t=20090916120931" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2505.png?size=smaller&amp;t=20090916120931" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2505.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>General Max Shorter</title>
+<id>http://www.feedbooks.com/book/2504</id>
+<author>
+  <name>Kris Ottman Neville</name>
+  <uri>http://www.feedbooks.com/author/420</uri>
+</author>
+<updated>2009-09-16T12:09:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>To spread Mankind to the stars carries a high cost in lives--and not all of them are human!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2504.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2504.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2504.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2504.png?t=20090916120931" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2504.png?size=smaller&amp;t=20090916120931" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2504.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Giants on the Earth</title>
+<id>http://www.feedbooks.com/book/2503</id>
+<author>
+  <name>Sterner St. Paul Meek</name>
+  <uri>http://www.feedbooks.com/author/419</uri>
+</author>
+<updated>2009-09-16T12:09:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The yoke of Jovian oppression rests heavily on the dwellers of Earth--until Damis, the Nepthalim, comes forward to lead them in spirited revolt.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2503.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2503.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2503.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2503.png?t=20090916120930" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2503.png?size=smaller&amp;t=20090916120930" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2503.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Gift Bearer</title>
+<id>http://www.feedbooks.com/book/2502</id>
+<author>
+  <name>Charles Louis Fontenay</name>
+  <uri>http://www.feedbooks.com/author/172</uri>
+</author>
+<updated>2009-09-16T12:09:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>This could well have been Montcalm's greatest opportunity; a chance to bring mankind priceless gifts from worlds beyond. But Montcalm was a solid family man--and what about that nude statue in the park?</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2502.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2502.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2502.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2502.png?t=20090916120927" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2502.png?size=smaller&amp;t=20090916120927" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2502.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Gladiator</title>
+<id>http://www.feedbooks.com/book/2501</id>
+<author>
+  <name>Philip Gordon Wylie</name>
+  <uri>http://www.feedbooks.com/author/418</uri>
+</author>
+<updated>2009-09-16T12:09:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1930</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>With Burrough's Mars series, Wylie's Hugo Danner is generally credited as the ancestor of both Clark Kent and Clark Savage, Jr. Danner, the product of a strength serum given to his mother during pregnancy, is able to lift 4,000 pounds, leap 40 feet in the air, and so forth. Unlike Superman and Doc Savage, however, Danner is never happy with his skills, hating the isolation and at times using his strength for monetary gain. Also, you can't imagine Doc Savage spending his summer after freshman year the way Danner did.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2501.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2501.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2501.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2501.png?t=20090916120927" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2501.png?size=smaller&amp;t=20090916120927" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2501.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Glory of Ippling</title>
+<id>http://www.feedbooks.com/book/2500</id>
+<author>
+  <name>Helen M. Urban</name>
+  <uri>http://www.feedbooks.com/author/417</uri>
+</author>
+<updated>2009-09-16T12:09:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>He brought them life and hope. Why wouldn't the fools take it from him?</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2500.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2500.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2500.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2500.png?t=20090916120919" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2500.png?size=smaller&amp;t=20090916120919" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2500.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Golden Judge</title>
+<id>http://www.feedbooks.com/book/2499</id>
+<author>
+  <name>Nathaniel Gordon</name>
+  <uri>http://www.feedbooks.com/author/416</uri>
+</author>
+<updated>2009-09-16T12:09:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A suggestion and a highly intriguing one--on how to settle the problems that involve face-saving among nations!</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2499.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2499.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2499.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2499.png?t=20090916120919" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2499.png?size=smaller&amp;t=20090916120919" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2499.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Great Potlatch Riots</title>
+<id>http://www.feedbooks.com/book/2498</id>
+<author>
+  <name>Allen Kim Lang</name>
+  <uri>http://www.feedbooks.com/author/415</uri>
+</author>
+<updated>2009-09-16T12:09:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Oh, leave it to the bureaucrats and they'll figure out new ways to make you buy more and more.... But there was only one way the poor consumer could rise up in his wrath.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2498.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2498.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2498.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2498.png?t=20090916120918" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2498.png?size=smaller&amp;t=20090916120918" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2498.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Blind Man's Lantern</title>
+<id>http://www.feedbooks.com/book/2497</id>
+<author>
+  <name>Allen Kim Lang</name>
+  <uri>http://www.feedbooks.com/author/415</uri>
+</author>
+<updated>2009-09-16T12:09:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Successful colonies among the stars require interstellar ships&#8212;but they require, also, a very special kind of man. A kind you might not think to look for &quot;Blind Man's Lantern&quot;.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2497.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2497.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2497.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2497.png?t=20090916120918" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2497.png?size=smaller&amp;t=20090916120918" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2497.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Guardians</title>
+<id>http://www.feedbooks.com/book/2495</id>
+<author>
+  <name>Irving Cox</name>
+  <uri>http://www.feedbooks.com/author/413</uri>
+</author>
+<updated>2009-09-16T11:32:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It&#8217;s not always &#8220;The Truth shall set you free!&#8221; Sometimes it&#8217;s &#8220;Want of the Truth shall drive you to escape!&#8221; And that can be dangerous!</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2495.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2495.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2495.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2495.png?t=20090916113225" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2495.png?size=smaller&amp;t=20090916113225" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2495.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Hills of Home</title>
+<id>http://www.feedbooks.com/book/2494</id>
+<author>
+  <name>Alfred Coppel</name>
+  <uri>http://www.feedbooks.com/author/412</uri>
+</author>
+<updated>2009-09-16T11:20:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>''Normality'' is a myth; we're all a little neurotic, and the study of neurosis has been able to classify the general types of disturbance which are most common. And some types (providing the subject is not suffering so extreme a case as to have crossed the border into psychosis) can be not only useful, but perhaps necessary for certain kinds of work....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2494.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2494.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2494.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2494.png?t=20090916112046" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2494.png?size=smaller&amp;t=20090916112046" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2494.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Happy Unfortunate</title>
+<id>http://www.feedbooks.com/book/2493</id>
+<author>
+  <name>Robert Silverberg</name>
+  <uri>http://www.feedbooks.com/author/411</uri>
+</author>
+<updated>2009-09-16T11:57:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1957</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Dekker, back from space, found great physical changes in the people of Earth; changes that would have horrified him five years before. But now, he wanted to be like the rest--even if he had to lose an eye and both ears to do it.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2493.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2493.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2493.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2493.png?t=20090916115730" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2493.png?size=smaller&amp;t=20090916115730" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2493.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In the Control Tower</title>
+<id>http://www.feedbooks.com/book/2490</id>
+<author>
+  <name>Will Mohler</name>
+  <uri>http://www.feedbooks.com/author/409</uri>
+</author>
+<updated>2009-09-16T11:54:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Shadows haunted the dying alleys. Madness stalked the wide streets. And what lay at the city's heart?</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2490.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2490.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2490.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2490.png?t=20090916115436" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2490.png?size=smaller&amp;t=20090916115436" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2490.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In the Clutch of the War-God</title>
+<id>http://www.feedbooks.com/book/2489</id>
+<author>
+  <name>Milo Milton Hastings</name>
+  <uri>http://www.feedbooks.com/author/177</uri>
+</author>
+<updated>2009-09-16T11:47:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1911</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="War" label="War"/>
+<summary>FOREWORD: In this strange story of another day, the author has ''dipped into the future'' and viewed with his mind's eye the ultimate effect of America's self-satisfied complacency, and her persistent refusal to heed the lessons of Oriental progress. I can safely promise the reader who takes up this unique recital of the twentieth century warfare, that his interest will be sustained to the very end by the interesting deductions and the keen insight into the possibilities of the present trend of international affairs exhibited by the author.
+--Bernarr Macfadden.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2489.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2489.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2489.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2489.png?t=20090916114714" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2489.png?size=smaller&amp;t=20090916114714" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2489.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Hunters</title>
+<id>http://www.feedbooks.com/book/2487</id>
+<author>
+  <name>William Douglas Morrison</name>
+  <uri>http://www.feedbooks.com/author/408</uri>
+</author>
+<updated>2009-09-16T11:55:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>To all who didn't know him, Curt George was a mighty hunter and actor. But this time he was up against others who could really act, and whose business was the hunting of whole worlds.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2487.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2487.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2487.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2487.png?t=20090916115559" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2487.png?size=smaller&amp;t=20090916115559" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2487.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Divinity</title>
+<id>http://www.feedbooks.com/book/2486</id>
+<author>
+  <name>William Douglas Morrison</name>
+  <uri>http://www.feedbooks.com/author/408</uri>
+</author>
+<updated>2009-09-16T12:07:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Bradley had one fear in his life. He had to escape regeneration. To do that, he was willing to take any chance, coward though he was--even if it meant that he had to become a god!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2486.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2486.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2486.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2486.png?t=20090916120712" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2486.png?size=smaller&amp;t=20090916120712" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2486.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Hunters Out of Space</title>
+<id>http://www.feedbooks.com/book/2485</id>
+<author>
+  <name>Joseph Everidge Kelleam</name>
+  <uri>http://www.feedbooks.com/author/407</uri>
+</author>
+<updated>2009-09-16T11:29:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2485.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2485.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2485.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2485.png?t=20090916112941" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2485.png?size=smaller&amp;t=20090916112941" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2485.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Trouble on Titan</title>
+<id>http://www.feedbooks.com/book/2483</id>
+<author>
+  <name>Arthur K. Barnes</name>
+  <uri>http://www.feedbooks.com/author/405</uri>
+</author>
+<updated>2009-09-16T11:59:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1941</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>When the Queen of the Spaceways meets the King of the Interplanetary Wilds, there's a checkmate in the stalking of Saturn's most dangerous game!</summary>
+<dcterms:source>http://manybooks.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2483.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2483.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2483.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2483.png?t=20090916115923" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2483.png?size=smaller&amp;t=20090916115923" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2483.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Interplanetary Hunter</title>
+<id>http://www.feedbooks.com/book/2482</id>
+<author>
+  <name>Arthur K. Barnes</name>
+  <uri>http://www.feedbooks.com/author/405</uri>
+</author>
+<updated>2009-09-16T12:09:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>This book collects and blends five previously published stories about Gerry Carlyle, a worldwide celebrity who travels to different planets collecting alien animals for the Interplanetary Zoo in London. </summary>
+<dcterms:source>http://www.manybooks.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2482.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2482.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2482.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2482.png?t=20090916120918" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2482.png?size=smaller&amp;t=20090916120918" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2482.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Indulgence of Negu Mah</title>
+<id>http://www.feedbooks.com/book/2481</id>
+<author>
+  <name>Robert Andrew Arthur</name>
+  <uri>http://www.feedbooks.com/author/404</uri>
+</author>
+<updated>2009-09-16T12:09:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1941</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2481.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2481.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2481.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2481.png?t=20090916120909" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2481.png?size=smaller&amp;t=20090916120909" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2481.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

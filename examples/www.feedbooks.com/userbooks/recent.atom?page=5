@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=5</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=5" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=5" rel="self"/>
+  <title>Original Books / New Releases / Page 5 | Feedbooks</title>
+  <updated>2010-04-07T18:23:49Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>81</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=4" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=6" rel="next" title="Next Page"/>
+<entry>
+<title>The Old Kind</title>
+<id>http://www.feedbooks.com/userbook/11003</id>
+<author>
+  <name>Claire Farrell</name>
+  <uri>http://www.feedbooks.com/user/80314/profile#Claire%20Farrell</uri>
+</author>
+<updated>2010-03-17T17:36:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>A Short Sci-Fi tale. Lila has been hiding underground her whole life, constantly aware of the threat of an alien race who have enslaved most of the human race. When her clan finally trap one of the Raffians, she is tasked with watching over him during the celebrations. He reveals news to her that could change her life forever. 
+</summary>
+<category term="fantasy"/>
+<category term="alien"/>
+<category term="short story"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11003.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11003.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11003.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11003.png?t=20100317173614" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11003.png?size=smaller&amp;t=20100317173614" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11003.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>THE BOOK</title>
+<id>http://www.feedbooks.com/userbook/10889</id>
+<author>
+  <name>Pete Anstice</name>
+  <uri>http://www.feedbooks.com/user/72438/profile#Pete%20Anstice</uri>
+</author>
+<updated>2010-03-16T22:53:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Nine short chapters, 3,827 words(ish) and no mushrooms. 
+
+Early morning, okay, afternoon.  Door bell will not let him sleep, knocking on the window makes it harder and the shouting of his name through the letter box makes it impossible.  So he answers the door naked, apart from socks, and an old, maybe unknown, woman hands him a book.  An old book, a heavy book, a fluffy kitten embossed book.  Where will this lead?  To be honest, I have no idea...</summary>
+<category term="short story"/>
+<category term="Fluffy"/>
+<category term="weird"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10889.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10889.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10889.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10889.png?t=20100316225337" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10889.png?size=smaller&amp;t=20100316225337" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10889.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Power of Hymns</title>
+<id>http://www.feedbooks.com/userbook/10980</id>
+<author>
+  <name>Bruce T. Forbes</name>
+  <uri>http://www.feedbooks.com/user/78864/profile#Bruce%20T.%20Forbes</uri>
+</author>
+<updated>2010-04-05T11:08:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>ADDITIONS, APRIL 2010 ... Music and song have a power like no other. Hymns, to me, are the most powerful of all music. This is a compilation of my own writings on the subject coupled with addresses and quotes from others.</summary>
+<category term="hymn"/>
+<category term="religion"/>
+<category term="music"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10980.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10980.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10980.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10980.png?t=20100405110800" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10980.png?size=smaller&amp;t=20100405110800" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10980.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>NEW FRONTIERS</title>
+<id>http://www.feedbooks.com/userbook/10966</id>
+<author>
+  <name>S.R. Davis</name>
+  <uri>http://www.feedbooks.com/user/76746/profile#S.R.%20Davis</uri>
+</author>
+<updated>2010-03-24T16:13:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>She&#8217;s looking at me with eyes so blue it seems as though they&#8217;re ice chipped from a glacier. 
+Looking at&#8230; me&#8230;
+For a second I forget why we&#8217;re staring at each other, then Sully nudges me and I remember to order.
+</summary>
+<category term="futuristic"/>
+<category term="future"/>
+<category term="androids"/>
+<category term="android"/>
+<category term="Loyalty"/>
+<category term="friendship"/>
+<category term="relationships"/>
+<category term="computers"/>
+<category term="computer"/>
+<category term="Technical"/>
+<category term="robots"/>
+<category term="robot"/>
+<category term="3 Laws"/>
+<category term="Three Laws of Robotics"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10966.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10966.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10966.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10966.png?t=20100324161357" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10966.png?size=smaller&amp;t=20100324161357" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10966.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Barnabus Meets Ratatooee</title>
+<id>http://www.feedbooks.com/userbook/10962</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-03-30T09:54:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>It's Christmas Eve and all is well in Barbabus' church, that is until there is a scratch on the door and the appearance of a very hungry Romanian rat.  Should they say there is no room, or let him and his companions in?</summary>
+<category term="Sunday School"/>
+<category term="Barnabus"/>
+<category term="Bedtime Story"/>
+<category term="Childrens Story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10962.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10962.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10962.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10962.png?t=20100330095448" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10962.png?size=smaller&amp;t=20100330095448" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10962.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Batman #21</title>
+<id>http://www.feedbooks.com/userbook/10945</id>
+<author>
+  <name>Grant LaFleche</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Grant%20LaFleche</uri>
+</author>
+<updated>2010-03-14T22:37:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Batman: Trauma, Part 1.
+
+</summary>
+<category term="Vicki Vale"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Firefly"/>
+<category term="Nightwing"/>
+<category term="Wrath"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10945.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10945.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10945.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10945.png?t=20100314223708" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10945.png?size=smaller&amp;t=20100314223708" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10945.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #21</title>
+<id>http://www.feedbooks.com/userbook/10939</id>
+<author>
+  <name>Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brian%20Burchette</uri>
+</author>
+<updated>2010-03-14T22:36:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Detective Comics: First Impressions
+
+Bruce Wayne meets Tim Drake! James Gordon meets Renee Montoya! And just wait until you see who Two-Face meets...</summary>
+<category term="Two-Face"/>
+<category term="Black Mask"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="robin"/>
+<category term="Penguin"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10939.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10939.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10939.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10939.png?t=20100314223630" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10939.png?size=smaller&amp;t=20100314223630" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10939.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rogues Gallery #14</title>
+<id>http://www.feedbooks.com/userbook/10943</id>
+<author>
+  <name>Jayson Morriseau-Lussier</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Jayson%20Morriseau-Lussier</uri>
+</author>
+<updated>2010-03-14T22:35:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Rogues Gallery: Morgaine Le Fey.
+
+Hundreds of years ago, at the dawn of civilization, evil took on a frightful face. Step back with us as we explore one of history's most misunderstood but villainous enchantresses: Morgaine Le Fey!
+
+Special Guest Appearances by Jason Blood &amp; Arion the Immortal!</summary>
+<category term="Jason Blood"/>
+<category term="Morgaine Le Fey"/>
+<category term="The Demon"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Arion"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10943.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10943.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10943.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10943.png?t=20100314223557" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10943.png?size=smaller&amp;t=20100314223557" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10943.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Shazam! #10</title>
+<id>http://www.feedbooks.com/userbook/10942</id>
+<author>
+  <name>Krystaledragon and Mischief</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Krystaledragon%20and%20Mischief</uri>
+</author>
+<updated>2010-03-24T01:30:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Shazam!: The Evil Within, Part 1.
+
+A new murder has Fawcett City's finest looking to the students of its high school for its suspects. Someone returns to Fawcett City with a corporate takeover. And more things continue to be happening on the Rock of Eternity.</summary>
+<category term="Shazam"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Doctor Sivana"/>
+<category term="Kid Marvel"/>
+<category term="Captain Marvel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10942.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10942.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10942.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10942.png?t=20100324013027" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10942.png?size=smaller&amp;t=20100324013027" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10942.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Rising</title>
+<id>http://www.feedbooks.com/userbook/10382</id>
+<author>
+  <name>Crystal Rodriguez</name>
+  <uri>http://www.feedbooks.com/user/75480/profile#Crystal%20Rodriguez</uri>
+</author>
+<updated>2010-03-16T03:08:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>This story is about a normal day that has basically turned into the end of the world. We find a group of people fighting to survive by evading the undead and using what they can find in order to defend themselves.</summary>
+<category term="zombies"/>
+<category term="horror"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10382.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10382.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10382.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10382.png?t=20100316030858" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10382.png?size=smaller&amp;t=20100316030858" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10382.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Barnabus Prepares for Bonfire Night</title>
+<id>http://www.feedbooks.com/userbook/10904</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-03-30T09:45:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Fireworks can be pretty and bonfires can be warming, but to hedgehogs they can be deadly.  Barnabus works out a plan to keep the hedgehogs safe, but it is not that simple.</summary>
+<category term="Sunday School"/>
+<category term="Barnabus"/>
+<category term="Bedtime Story"/>
+<category term="Childrens Story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10904.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10904.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10904.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10904.png?t=20100330094500" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10904.png?size=smaller&amp;t=20100330094500" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10904.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Barnabus Makes Someone Smile</title>
+<id>http://www.feedbooks.com/userbook/10903</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-03-30T09:57:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Barnabus notices a smal child who does not seen to smile, ever.  However, with a little lesson from a peculiar cat Barnabus learns how to make him smile.</summary>
+<category term="Sunday School"/>
+<category term="Barnabus"/>
+<category term="Bedtime Story"/>
+<category term="Childrens Story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10903.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10903.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10903.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10903.png?t=20100330095704" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10903.png?size=smaller&amp;t=20100330095704" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10903.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Barnabus Trusts a Cat</title>
+<id>http://www.feedbooks.com/userbook/10902</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-03-30T09:58:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Barnabus, the church mouse, doesn't like cats very much and certainly wouldn't normally trust one with his life, but one Christmas...</summary>
+<category term="Sunday School"/>
+<category term="Bedtime Story"/>
+<category term="Childrens Story"/>
+<category term="Barnabus"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10902.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10902.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10902.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10902.png?t=20100330095808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10902.png?size=smaller&amp;t=20100330095808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10902.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Barnabus and the Lost Spider</title>
+<id>http://www.feedbooks.com/userbook/10901</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-03-30T09:50:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Barnabus, the church mouse, believes that everything in his church is in exactly the right place.  Then he opens the boiler room door and finds...</summary>
+<category term="Sunday School"/>
+<category term="Bedtime Story"/>
+<category term="Barnabus"/>
+<category term="Childrens Story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10901.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10901.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10901.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10901.png?t=20100330095002" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10901.png?size=smaller&amp;t=20100330095002" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10901.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Concrete Underground</title>
+<id>http://www.feedbooks.com/userbook/10818</id>
+<author>
+  <name>Moxie Mezcal</name>
+  <uri>http://www.feedbooks.com/user/51003/profile#Moxie%20Mezcal</uri>
+</author>
+<updated>2010-03-14T12:16:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>An idealistic journalist sets out to expose corruption among the city's elite and soon finds himself immersed in a conspiracy of murder, blackmail, espionage, and human trafficking.  Pitted against the enigmatic CEO of one of the world's largest tech companies, he must play a deadly game threatens to unearth its players' darkest secrets.
+
+CONCRETE UNDERGROUND is postmodern pulp fiction - a gritty, labyrinthine murder mystery about identity and alienation in the digital age.</summary>
+<category term="symbolism"/>
+<category term="abstract"/>
+<category term="Magic"/>
+<category term="mystic"/>
+<category term="surreal"/>
+<category term="Sex"/>
+<category term="gender"/>
+<category term="alienation"/>
+<category term="reporter"/>
+<category term="journalism"/>
+<category term="Identity"/>
+<category term="dot-com"/>
+<category term="ceo"/>
+<category term="technology"/>
+<category term="Corporate"/>
+<category term="noir"/>
+<category term="pulp"/>
+<category term="postmodern"/>
+<category term="thriller"/>
+<category term="murder"/>
+<category term="mystery"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10818.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10818.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10818.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10818.png?t=20100314121646" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10818.png?size=smaller&amp;t=20100314121646" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10818.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Consumerism Essay</title>
+<id>http://www.feedbooks.com/userbook/10895</id>
+<author>
+  <name>Esra Froese</name>
+  <uri>http://www.feedbooks.com/user/79231/profile#Esra%20Froese</uri>
+</author>
+<updated>2010-03-13T01:22:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Consumerism is what keeps some economic systems going. If a recession hits, though, the economies that rely on consumerism are screwed. Our consumerist habits mess up the futures of young people in the Third World, and a somewhat planned economy provides a fall back in the case of recession. Canada&#8217;s economy should be partly controlled by consumerism, but only partly, so if the economy tanks, we have a fall back.</summary>
+<category term="economics"/>
+<category term="consumerism"/>
+<category term="recession"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10895.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10895.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10895.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10895.png?t=20100313012217" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10895.png?size=smaller&amp;t=20100313012217" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10895.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Water Essay</title>
+<id>http://www.feedbooks.com/userbook/10894</id>
+<author>
+  <name>Esra Froese</name>
+  <uri>http://www.feedbooks.com/user/79231/profile#Esra%20Froese</uri>
+</author>
+<updated>2010-03-13T01:17:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Developing nations need clean water to grow. Developed nations are taking that clean water from the developing nations for their own purposes. We have a water crisis, the fate of the world in our water consumption habits. Climate change, increasing populations and technology developments, as well as reliance on technology, has all factored into creating this problem. All of this creates a state of concern for our future.</summary>
+<category term="global crisis"/>
+<category term="water"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10894.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10894.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10894.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10894.png?t=20100313011734" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10894.png?size=smaller&amp;t=20100313011734" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10894.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>War on Terror Essay</title>
+<id>http://www.feedbooks.com/userbook/10893</id>
+<author>
+  <name>Esra Froese</name>
+  <uri>http://www.feedbooks.com/user/79231/profile#Esra%20Froese</uri>
+</author>
+<updated>2010-03-13T01:06:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>The War on Terror has made foreign policy more stringent on people who are of the Islamic faith, and has led to hate between different cultural groups, as well as the downfall of modern human rights.</summary>
+<category term="war on terror"/>
+<category term="war on freedom"/>
+<category term="terrorism"/>
+<category term="freedom"/>
+<category term="war"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10893.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10893.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10893.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10893.png?t=20100313010618" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10893.png?size=smaller&amp;t=20100313010618" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10893.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Ether Dispute: Revisiting Einstein's argument that space is a physical substance</title>
+<id>http://www.feedbooks.com/userbook/10878</id>
+<author>
+  <name>Richard J. Wilson</name>
+  <uri>http://www.feedbooks.com/user/77991/profile#Richard%20J.%20Wilson</uri>
+</author>
+<updated>2010-03-25T02:17:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>
+
+There&#8217;s an unresolved dispute over the physical nature of space. It occurs because of what Bacon called our &#8220;dull and deceptive human senses.&#8221; On one hand, space appears empty. This led biblical and modern cosmologists to conclude space is an &#8220;empty vacuum.&#8221; But, when astrophysicists from Newton to Einstein studied space, they found it exhibits physical behaviors &#8211; i.e. it carries light and heat. This led them to conclude space is an invisible substance called &#8220;the ether.&#8221; The author explores the ether dispute, and the pressing need to resolve it scientifically.
+</summary>
+<category term="science"/>
+<category term="astrophysics"/>
+<category term="Cosmology"/>
+<category term="Astronomy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10878.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10878.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10878.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10878.png?t=20100325021734" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10878.png?size=smaller&amp;t=20100325021734" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10878.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Barnabus and the Winter Supply</title>
+<id>http://www.feedbooks.com/userbook/10882</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-03-30T09:59:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Barnabus has been a diligent Church Mouse, he has stored enough food to feed all the mice in his church for the whole of the winter, but then it starts to rain up North and other mice are in trouble, what should he do?</summary>
+<category term="Sunday School"/>
+<category term="Bedtime Story"/>
+<category term="Childrens Story"/>
+<category term="Barnabus"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10882.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10882.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10882.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10882.png?t=20100330095921" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10882.png?size=smaller&amp;t=20100330095921" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10882.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

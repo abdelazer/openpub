@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=71&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=71&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=71&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 71 | Feedbooks</title>
+  <updated>2010-04-07T18:25:15Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1401</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=70&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=72&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Gladiator</title>
+<id>http://www.feedbooks.com/book/2501</id>
+<author>
+  <name>Philip Gordon Wylie</name>
+  <uri>http://www.feedbooks.com/author/418</uri>
+</author>
+<updated>2009-09-16T12:09:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1930</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>With Burrough's Mars series, Wylie's Hugo Danner is generally credited as the ancestor of both Clark Kent and Clark Savage, Jr. Danner, the product of a strength serum given to his mother during pregnancy, is able to lift 4,000 pounds, leap 40 feet in the air, and so forth. Unlike Superman and Doc Savage, however, Danner is never happy with his skills, hating the isolation and at times using his strength for monetary gain. Also, you can't imagine Doc Savage spending his summer after freshman year the way Danner did.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2501.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2501.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2501.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2501.png?t=20090916120927" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2501.png?size=smaller&amp;t=20090916120927" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2501.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Alchymical Romance</title>
+<id>http://www.feedbooks.com/book/3005</id>
+<author>
+  <name>Lee Battersby</name>
+  <uri>http://www.feedbooks.com/author/637</uri>
+</author>
+<updated>2009-09-16T12:41:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Romance" label="Romance"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.remixmylit.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3005.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3005.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3005.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3005.png?t=20090916124114" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3005.png?size=smaller&amp;t=20090916124114" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3005.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Seven Out of Time</title>
+<id>http://www.feedbooks.com/book/3060</id>
+<author>
+  <name>Arthur Leo Zagat</name>
+  <uri>http://www.feedbooks.com/author/652</uri>
+</author>
+<updated>2009-09-16T12:50:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1939</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The novel concerns scientists from the future who pull seven people out of time in order to study emotion which has been lost to the human race.</summary>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3060.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3060.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3060.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3060.png?t=20090916125049" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3060.png?size=smaller&amp;t=20090916125049" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3060.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Bobbsey Twins at Meadow Brook</title>
+<id>http://www.feedbooks.com/book/4599</id>
+<author>
+  <name>Laura Lee Hope</name>
+  <uri>http://www.feedbooks.com/author/653</uri>
+</author>
+<updated>2010-01-26T16:09:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/6576</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4599.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4599.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4599.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4599.png?t=20100126160900" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4599.png?size=smaller&amp;t=20100126160900" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4599.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Wailing Asteroid</title>
+<id>http://www.feedbooks.com/book/900</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2009-09-16T10:33:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>THE PUBLIC ABRUPTLY ceased to be interested in news of the signals. Rather, it suddenly wanted to stop thinking about them. The public was scared. Throughout all human history, the most horrifying of all ideas has been the idea of something which was as intelligent as a man, but wasn't human.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/900.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/900.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/900.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/900.png?t=20090916103349" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/900.png?size=smaller&amp;t=20090916103349" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/900.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Lad and the Lion</title>
+<id>http://www.feedbooks.com/book/1475</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:53:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1938</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1475.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1475.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1475.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1475.png?t=20090916105301" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1475.png?size=smaller&amp;t=20090916105301" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1475.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The History of Henry Esmond</title>
+<id>http://www.feedbooks.com/book/1552</id>
+<author>
+  <name>William Makepeace Thackeray</name>
+  <uri>http://www.feedbooks.com/author/226</uri>
+</author>
+<updated>2009-09-16T10:58:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1852</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<summary>he story of Henry Esmond, a colonel in the service of Queen Anne of England, begins in his youth, as the illegitimate and orphaned cousin of the Viscount and Lady of Castlewood. The Jacobite family gradually embraces Henry as one of their own. When Henry comes of age he joins the campaign to restore James Stuart to the throne, but is eventually forced to accept the Protestant future of England.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1552.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1552.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1552.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1552.png?t=20090916105853" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1552.png?size=smaller&amp;t=20090916105853" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1552.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Colonel Chabert</title>
+<id>http://www.feedbooks.com/book/1639</id>
+<author>
+  <name>Honor&#233; de  Balzac</name>
+  <uri>http://www.feedbooks.com/author/51</uri>
+</author>
+<updated>2009-09-16T11:08:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1832</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1639.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1639.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1639.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1639.png?t=20090916110837" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1639.png?size=smaller&amp;t=20090916110837" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1639.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Pigeons from Hell</title>
+<id>http://www.feedbooks.com/book/1793</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T11:16:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1938</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1793.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1793.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1793.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1793.png?t=20090916111651" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1793.png?size=smaller&amp;t=20090916111651" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1793.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rebel Raider</title>
+<id>http://www.feedbooks.com/book/2326</id>
+<author>
+  <name>Henry Beam Piper</name>
+  <uri>http://www.feedbooks.com/author/114</uri>
+</author>
+<updated>2009-09-16T12:01:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1950</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="History" label="History"/>
+<category term="War" label="War"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2326.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2326.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2326.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2326.png?t=20090916120113" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2326.png?size=smaller&amp;t=20090916120113" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2326.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tom Swift and His Motor-Cycle</title>
+<id>http://www.feedbooks.com/book/2327</id>
+<author>
+  <name>Victor Appleton</name>
+  <uri>http://www.feedbooks.com/author/341</uri>
+</author>
+<updated>2009-09-16T12:01:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1910</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2327.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2327.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2327.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2327.png?t=20090916120120" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2327.png?size=smaller&amp;t=20090916120120" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2327.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tom Swift and His Airship</title>
+<id>http://www.feedbooks.com/book/2329</id>
+<author>
+  <name>Victor Appleton</name>
+  <uri>http://www.feedbooks.com/author/341</uri>
+</author>
+<updated>2009-09-16T12:01:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1910</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2329.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2329.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2329.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2329.png?t=20090916120134" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2329.png?size=smaller&amp;t=20090916120134" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2329.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sabotage in Space</title>
+<id>http://www.feedbooks.com/book/2377</id>
+<author>
+  <name>Carey Rockwell</name>
+  <uri>http://www.feedbooks.com/author/350</uri>
+</author>
+<updated>2009-09-16T12:06:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>What started out as an innocent campus prank at Space Academy almost cost the Polaris unit the chance to become officers in the Solar Guard. For punishment, Tom, Roger, and Astro were assigned to spend all their spare time on guard duty in the vicinity of a new building which housed the latest hush-hush project so important to the solar universe.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2377.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2377.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2377.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2377.png?t=20090916120628" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2377.png?size=smaller&amp;t=20090916120628" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2377.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Machine That Saved The World</title>
+<id>http://www.feedbooks.com/book/2733</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2009-09-16T12:25:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1957</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>They were broadcasts from nowhere--sinister emanations flooding in from space--smashing any receiver that picked them up. What defense could Earth devise against science such as this?</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2733.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2733.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2733.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2733.png?t=20090916122520" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2733.png?size=smaller&amp;t=20090916122520" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2733.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Dualitists</title>
+<id>http://www.feedbooks.com/book/2963</id>
+<author>
+  <name>Bram Stoker</name>
+  <uri>http://www.feedbooks.com/author/31</uri>
+</author>
+<updated>2009-09-16T12:37:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1887</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>Twins and their strange taste for destruction.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2963.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2963.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2963.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2963.png?t=20090916123709" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2963.png?size=smaller&amp;t=20090916123709" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2963.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Panchronicon</title>
+<id>http://www.feedbooks.com/book/3573</id>
+<author>
+  <name>Harold Steele MacKaye</name>
+  <uri>http://www.feedbooks.com/author/903</uri>
+</author>
+<updated>2009-08-18T01:18:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1904</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A novel about time travel.
+Excerpt:
+&quot;Don't have to keep count,&quot; he replied. &quot;See that indicator?&quot; he continued, pointing to a dial in the ceiling which had not been noticed before. &quot;That reads May 3, 1898, now, don't it? Well, it's fixed to keep always tellin' the right date. It counts the whirls we make an' keeps tabs on every day we go backward. Any time all ye hev to do is to read that thing an' it'll tell ye jest what day 'tis.&quot;
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3573.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3573.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3573.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3573.png?t=20090818011810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3573.png?size=smaller&amp;t=20090818011810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3573.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Twelve Men</title>
+<id>http://www.feedbooks.com/book/4366</id>
+<author>
+  <name>Theodore Dreiser</name>
+  <uri>http://www.feedbooks.com/author/1249</uri>
+</author>
+<updated>2009-11-02T17:22:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Biography" label="Biography"/>
+<category term="Collections" label="Collections"/>
+<summary>Character sketches, combining the best of biography with the finest of narrative - short and illustrative.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/14717</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4366.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4366.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4366.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4366.png?t=20091102172234" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4366.png?size=smaller&amp;t=20091102172234" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4366.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Through Russian Snows</title>
+<id>http://www.feedbooks.com/book/4389</id>
+<author>
+  <name>G. A. Henty</name>
+  <uri>http://www.feedbooks.com/author/1257</uri>
+</author>
+<updated>2009-11-12T17:13:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1895</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<summary>There are few campaigns that, either in point of the immense scale upon which it was undertaken, the completeness of its failure, or the enormous loss of life entailed, appeal to the imagination in so great a degree as that of Napoleon against Russia. Fortunately, we have in the narratives of Sir Robert Wilson, British commissioner with the Russian army, and of Count Segur, who was upon Napoleon's staff, minute descriptions of the events as seen by eye-witnesses, and besides these the campaign has been treated fully by various military writers. I have as usual avoided going into details of horrors and of acts of cruelty and ferocity on both sides, surpassing anything in modern warfare, and have given a mere outline of the operations, with a full account of the stern fight at Smolensk and the terrible struggle at Borodino.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30457</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4389.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4389.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4389.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4389.png?t=20091112171350" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4389.png?size=smaller&amp;t=20091112171350" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4389.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Makers of Canada: George Brown</title>
+<id>http://www.feedbooks.com/book/4445</id>
+<author>
+  <name>John Lewis</name>
+  <uri>http://www.feedbooks.com/author/1276</uri>
+</author>
+<updated>2009-11-26T18:08:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1906</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Biography" label="Biography"/>
+<category term="Politics" label="Politics"/>
+<summary>George Brown (November 29, 1818 &#8211; March 9, 1880) was a Scottish-born Canadian journalist, politician Fathers of Confederation. A noted Reform politician, he was also the founder and editor of the Toronto Globe, which is today (having merged with other newspapers) known as the The Globe and Mail.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30546</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4445.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4445.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4445.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4445.png?t=20091126180853" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4445.png?size=smaller&amp;t=20091126180853" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4445.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Baree, Son of Kazan</title>
+<id>http://www.feedbooks.com/book/4561</id>
+<author>
+  <name>James Oliver Curwood</name>
+  <uri>http://www.feedbooks.com/author/1285</uri>
+</author>
+<updated>2010-01-11T16:58:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Western" label="Western"/>
+<summary>The story of the son of the blind Grey Wolf and the gallant part he played in the lives of a man and a woman.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/4748</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4561.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4561.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4561.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4561.png?t=20100111165827" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4561.png?size=smaller&amp;t=20100111165827" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4561.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

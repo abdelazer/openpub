@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=57&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=57&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=57&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 57 | Feedbooks</title>
+  <updated>2010-04-07T18:25:06Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1121</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=56&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=58&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Flyboy Action Figure Comes with Gasmask</title>
+<id>http://www.feedbooks.com/book/669</id>
+<author>
+  <name>Jim Munroe</name>
+  <uri>http://www.feedbooks.com/author/142</uri>
+</author>
+<updated>2009-09-16T10:28:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1999</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Ryan is a university student dealing with the normal problems of a 22-year-old guy -- shyness, virginity, weird roommates, and a massive crush on Cassandra, a waitress at his local greasy spoon. (Oh, and a freakish ability to change into a fly.) When he finally gets up the nerve to ask Cassandra for a date, he learns that the two have more in common than they first thought. (Turns out that Cassandra can make things disappear.)
+
+Sharing their secrets for the first time, Ryan and Cassandra realize they were made for each other...and to battle forces of evil! Inspired by Sailor Moon, they team up to fight the villians in their own backyard, taking on cigarette barons, right wing newspapers, and the overzealous local police. But can the Superheroes for Social Justice transform the world in time? Find out in...</summary>
+<dcterms:source>http://nomediakings.org/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/669.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/669.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/669.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/669.png?t=20090916102803" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/669.png?size=smaller&amp;t=20090916102803" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/669.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The American in Paris - Vol. I</title>
+<id>http://www.feedbooks.com/book/3331</id>
+<author>
+  <name>John Sanderson</name>
+  <uri>http://www.feedbooks.com/author/785</uri>
+</author>
+<updated>2009-08-18T01:18:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1838</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Biography" label="Biography"/>
+<summary>(Two volumes.) Sketches of Paris and French people : In Familiar Letters to His Friends. An account of the teacher and writer's experiences and perceptions of France, where he had traveled for health reasons in 1835. Noted for its astute and striking descriptions, it became popular in the United States, is published in London as The American in Paris (1838), and would be later translated into French by Jules Janin.</summary>
+<dcterms:source>books.google.com</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3331.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3331.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3331.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3331.png?t=20090818011804" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3331.png?size=smaller&amp;t=20090818011804" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3331.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Paliser case</title>
+<id>http://www.feedbooks.com/book/4137</id>
+<author>
+  <name>Edgar Saltus</name>
+  <uri>http://www.feedbooks.com/author/1175</uri>
+</author>
+<updated>2009-08-31T10:11:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>A drama of gold, of pain, of curious crime and the heart of a girl, by one of America's most brilliant writers.
+
+Mystery, tragedy, comedy, glimpses of a Harlem Bohemia, and the blas&#233; social atmosphere of multi-millionaires are overlaid with the freshness and vitality of the Spanish singer Cassy Cara, a wholly delightful girl. The development of the plot is piquant and most engaging.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29847</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4137.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4137.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4137.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4137.png?t=20090831101153" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4137.png?size=smaller&amp;t=20090831101153" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4137.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Daniel Deronda</title>
+<id>http://www.feedbooks.com/book/4391</id>
+<author>
+  <name>George Eliot</name>
+  <uri>http://www.feedbooks.com/author/132</uri>
+</author>
+<updated>2009-11-12T18:04:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1876</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Daniel Deronda is a novel by George Eliot, first published in 1876. It was the last novel she completed and the only one set in the contemporary Victorian society of her day. Its mixture of social satire and moral searching, along with a sympathetic rendering of Jewish proto-Zionist and Kaballistic ideas has made it a controversial final statement of one of the greatest of Victorian novelists.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/7469</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4391.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4391.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4391.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4391.png?t=20091112180459" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4391.png?size=smaller&amp;t=20091112180459" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4391.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Celephais</title>
+<id>http://www.feedbooks.com/book/240</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/240.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/240.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/240.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/240.png?t=20090916101527" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/240.png?size=smaller&amp;t=20090916101527" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/240.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Festival</title>
+<id>http://www.feedbooks.com/book/251</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1925</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/251.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/251.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/251.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/251.png?t=20090916101528" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/251.png?size=smaller&amp;t=20090916101528" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/251.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Silver Key</title>
+<id>http://www.feedbooks.com/book/283</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1929</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/283.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/283.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/283.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/283.png?t=20090916101540" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/283.png?size=smaller&amp;t=20090916101540" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/283.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Spirit of the Border</title>
+<id>http://www.feedbooks.com/book/1861</id>
+<author>
+  <name>Zane Grey</name>
+  <uri>http://www.feedbooks.com/author/255</uri>
+</author>
+<updated>2009-09-16T11:19:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1906</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>He was known as Deathwind to the Ohio Valley Indians, and now Lewis Wetzel must single-handedly save Fort Henry. Armed only with his long rifle and knife, he heads out on a one-man rampage to stop the bloody border wars, to face down Chief Wingenund and to avenge the brutal missionary massacre at Village of Peace.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1861.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1861.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1861.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1861.png?t=20090916111905" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1861.png?size=smaller&amp;t=20090916111905" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1861.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Next Logical Step</title>
+<id>http://www.feedbooks.com/book/3663</id>
+<author>
+  <name>Ben Bova</name>
+  <uri>http://www.feedbooks.com/author/945</uri>
+</author>
+<updated>2009-08-18T01:18:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Ordinarily the military least wants to have the others know the final details of their war plans. But, logically, there would be times-- The Next Logical Step.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3663.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3663.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3663.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3663.png?t=20090818011811" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3663.png?size=smaller&amp;t=20090818011811" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3663.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Fire-Tongue</title>
+<id>http://www.feedbooks.com/book/3770</id>
+<author>
+  <name>Sax Rohmer</name>
+  <uri>http://www.feedbooks.com/author/778</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>An impossible murder, an occult detective tale, and a tale within a tale -- with a solution suggested by Harry Houdini.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3770.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3770.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3770.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3770.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3770.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3770.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sister Carrie</title>
+<id>http://www.feedbooks.com/book/4361</id>
+<author>
+  <name>Theodore Dreiser</name>
+  <uri>http://www.feedbooks.com/author/1249</uri>
+</author>
+<updated>2009-11-02T15:50:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1900</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Sister Carrie (1900) is a novel by Theodore Dreiser about a young country girl who moves to the big city where she starts realizing her own American Dream by first becoming a mistress to men that she perceives as superior and later as a famous actress.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/233</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4361.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4361.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4361.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4361.png?t=20091102155003" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4361.png?size=smaller&amp;t=20091102155003" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4361.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ibid</title>
+<id>http://www.feedbooks.com/book/263</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1938</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/263.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/263.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/263.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/263.png?t=20090916101536" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/263.png?size=smaller&amp;t=20090916101536" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/263.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Tale of the Ragged Mountains</title>
+<id>http://www.feedbooks.com/book/813</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1843</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/813.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/813.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/813.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/813.png?t=20090916103022" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/813.png?size=smaller&amp;t=20090916103022" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/813.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Golden Scorpion</title>
+<id>http://www.feedbooks.com/book/3458</id>
+<author>
+  <name>Sax Rohmer</name>
+  <uri>http://www.feedbooks.com/author/778</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>The Golden Scorpion linked the story lines developed in the Yellow Claw (1915) with Dr. Fu Manchu who appears but is not named.  &quot;He wore a plain yellow robe and had a little black cap on his head. His face, his wonderful evil face I can never forget, and his eyes -- I fear you will think I exaggerate -- but his eyes were green as emeralds!&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3458.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3458.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3458.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3458.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3458.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3458.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Adam Bede</title>
+<id>http://www.feedbooks.com/book/3743</id>
+<author>
+  <name>George Eliot</name>
+  <uri>http://www.feedbooks.com/author/132</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1859</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<summary>Adam Bede, the first novel written by George Eliot (the pen name of Mary Ann Evans), was published in 1859. It was published pseudonymously, even though Evans was a well-published and highly respected scholar of her time.
+The story's plot follows four characters' rural lives in the fictional community of Hayslope&#8212;a rural, pastoral and close-knit community in 1799. The novel revolves around a love triangle between beautiful but self-absorbed Hetty Sorrel, Captain Arthur Donnithorne, the young squire who seduces her, Adam Bede, her unacknowledged suitor, and Dinah Morris, Hetty's cousin, a fervent, virtuous and beautiful Methodist lay preacher.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3743.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3743.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3743.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3743.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3743.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3743.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Burial of the Rats</title>
+<id>http://www.feedbooks.com/book/465</id>
+<author>
+  <name>Bram Stoker</name>
+  <uri>http://www.feedbooks.com/author/31</uri>
+</author>
+<updated>2009-09-16T10:22:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/465.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/465.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/465.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/465.png?t=20090916102230" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/465.png?size=smaller&amp;t=20090916102230" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/465.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Martin Chuzzlewit</title>
+<id>http://www.feedbooks.com/book/671</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:28:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1844</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/671.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/671.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/671.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/671.png?t=20090916102812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/671.png?size=smaller&amp;t=20090916102812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/671.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Black Canaan</title>
+<id>http://www.feedbooks.com/book/1738</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T11:11:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1936</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1738.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1738.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1738.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1738.png?t=20090916111114" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1738.png?size=smaller&amp;t=20090916111114" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1738.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mr J G Reeder Returns</title>
+<id>http://www.feedbooks.com/book/1779</id>
+<author>
+  <name>Edgar Wallace</name>
+  <uri>http://www.feedbooks.com/author/253</uri>
+</author>
+<updated>2009-09-16T11:14:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1779.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1779.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1779.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1779.png?t=20090916111412" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1779.png?size=smaller&amp;t=20090916111412" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1779.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Helen Vardon's Confession</title>
+<id>http://www.feedbooks.com/book/2077</id>
+<author>
+  <name>R. Austin Freeman</name>
+  <uri>http://www.feedbooks.com/author/288</uri>
+</author>
+<updated>2009-09-16T11:40:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Through the open door of a library, Helen Vardon hears an argument that changes her life forever. Helen's father and a man called Otway argue over missing funds in a trust one night. Otway proposes a marriage between him and Helen in exchange for his cooperation and silence. What transpires is a captivating tale of blackmail, fraud and death. Dr Thorndyke is left to piece together the clues in this enticing mystery.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2077.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2077.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2077.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2077.png?t=20090916114033" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2077.png?size=smaller&amp;t=20090916114033" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2077.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

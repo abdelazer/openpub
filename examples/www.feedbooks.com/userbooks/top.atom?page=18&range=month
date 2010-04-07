@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:app="http://www.w3.org/2007/app" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=18&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=18&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=18&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 18 | Feedbooks</title>
+  <updated>2010-04-07T18:23:17Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>341</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=17&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=19&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Katie's Rescue</title>
+<id>http://www.feedbooks.com/userbook/8727</id>
+<author>
+  <name>Michael Graeme</name>
+  <uri>http://www.feedbooks.com/user/21538/profile#Michael%20Graeme</uri>
+</author>
+<updated>2009-12-05T19:59:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A thirty minute read: It felt odd, driving into Raworth, because where I come from Raworth does not exist. I know that stretch of road, you see? It dips down to the river Warfe, crosses over by the old bridge, then rises up the dale on the other side. Ordinarily there's just a steep wooded ravine and a picturesque waterfall on the river but, like I said, on this occasion, there was also Raworth,...</summary>
+<category term="romantic"/>
+<category term="speculative"/>
+<category term="romance"/>
+<category term="time slip"/>
+<category term="short story"/>
+<category term="paranormal romance"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8727.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8727.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8727.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8727.png?t=20091205195907" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8727.png?size=smaller&amp;t=20091205195907" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8727.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #14</title>
+<id>http://www.feedbooks.com/userbook/9338</id>
+<author>
+  <name>Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brian%20Burchette</uri>
+</author>
+<updated>2010-01-04T20:00:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Detective Comics: Boiling Point.</summary>
+<category term="Vicki Vale"/>
+<category term="Black Mask"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Scarface"/>
+<category term="Ventriloquist"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9338.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9338.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9338.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9338.png?t=20100104200030" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9338.png?size=smaller&amp;t=20100104200030" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9338.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Challengers of the Unknown #3</title>
+<id>http://www.feedbooks.com/userbook/10827</id>
+<author>
+  <name>Kevin Hill</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Kevin%20Hill</uri>
+</author>
+<updated>2010-03-10T10:49:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Challengers of the Unknown: Out of Time, Part 3.</summary>
+<category term="Metal Men"/>
+<category term="Swamp Thing"/>
+<category term="Multi Man"/>
+<category term="Element Girl"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Metamorpho"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10827.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10827.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10827.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10827.png?t=20100310104940" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10827.png?size=smaller&amp;t=20100310104940" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10827.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>the Zany Time Travels of Warble McGorkle</title>
+<id>http://www.feedbooks.com/userbook/3631</id>
+<author>
+  <name>Blackbird Crow Raven</name>
+  <uri>http://www.feedbooks.com/user/26772/profile#Blackbird%20Crow%20Raven</uri>
+</author>
+<updated>2009-08-17T16:26:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Warble McGorkle and his entourage travel back in time to alter history. Their meddling in Revolutionary Times, at Custer's Last Stand, the Alamo, Woodstock, as well as a detour to 1st century Jerusalem to kidnap Jesus--or Judas--leads to catastrophic consequences for those living in modern times. Among the things Warble and his gang perpetrate are: 1. The origin of Preemptive Strikes (umpires calling strikes before the ball is thrown) 2. George Washington being banished to England for inventing the peanut (and thus being responsible for &quot;Peanut Envy&quot;) 3. Changing song lyrics and altering drugs at Woodstock to change the politics and personalities of the hippies there 4. &quot;Helping out&quot; at the Alamo, so that it's the Mexicans who ultimately get &quot;saddled&quot; with Texas. These are just a few of the hilarious shenanigans that culminate in a climactic scene as the protagonists return to the present and see what their changes have wrought. 
+</summary>
+<category term="Satire"/>
+<category term="dystopia"/>
+<category term="time travel"/>
+<category term="science fiction"/>
+<category term="social commentary"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3631.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3631.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3631.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3631.png?t=20090817162651" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3631.png?size=smaller&amp;t=20090817162651" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3631.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Gotham: City of the Dead #2</title>
+<id>http://www.feedbooks.com/userbook/9575</id>
+<author>
+  <name>Chris Paugh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Chris%20Paugh</uri>
+</author>
+<updated>2010-01-13T02:26:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Gotham: City of the Dead, Part 2 (of 4).</summary>
+<category term="Blue Beetle"/>
+<category term="Green Arrow"/>
+<category term="Kid Flash"/>
+<category term="The Question"/>
+<category term="The Riddler"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Scarecrow"/>
+<category term="batgirl"/>
+<category term="Huntress"/>
+<category term="Nightwing"/>
+<category term="Question"/>
+<category term="Riddler"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9575.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9575.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9575.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9575.png?t=20100113022621" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9575.png?size=smaller&amp;t=20100113022621" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9575.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Barnabus Meets Ratatooee</title>
+<id>http://www.feedbooks.com/userbook/10962</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-03-30T09:54:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>It's Christmas Eve and all is well in Barbabus' church, that is until there is a scratch on the door and the appearance of a very hungry Romanian rat.  Should they say there is no room, or let him and his companions in?</summary>
+<category term="Sunday School"/>
+<category term="Barnabus"/>
+<category term="Bedtime Story"/>
+<category term="Childrens Story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10962.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10962.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10962.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10962.png?t=20100330095448" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10962.png?size=smaller&amp;t=20100330095448" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10962.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Union of Renegades: The Rys Chronicles Book I</title>
+<id>http://www.feedbooks.com/userbook/1954</id>
+<author>
+  <name>Tracy Falbe</name>
+  <uri>http://www.feedbooks.com/user/16410/profile#Tracy%20Falbe</uri>
+</author>
+<updated>2009-08-17T19:49:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Dreibrand Veta has killed for his country. At the frontlines of imperial expansion, he seeks to rebuild the fortune of his noble family. In his daring travels he encounters the rys, a race far more powerful than the human empire that bred him. Dreibrand cannot defy the rys Queen Onja nor defend his companion, Miranda, and her children from the wicked tyrant Queen. Desperate for help, Dreibrand and Miranda join Shan, a rys with emerging powers who plans to challenge Onja. In Shan&#8217;s pursuit of the rys throne, he exerts his magical powers, gathers his allies, and incites rebellion among Onja&#8217;s human subjects. Great wealth and power will reward the kings, warriors, and spies that align themselves with the rys pretender, but defeat could mean worse than death. Onja can imprison souls and her genocidal rage is legendary. Everything is at risk for Shan&#8217;s union of renegades. </summary>
+<category term="fantasy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/1954.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/1954.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/1954.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1954.png?t=20090817194938" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1954.png?size=smaller&amp;t=20090817194938" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/1954.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Reminiscences of a Stock Operator</title>
+<id>http://www.feedbooks.com/userbook/5507</id>
+<author>
+  <name>Edwin Lefevre</name>
+  <uri>http://www.feedbooks.com/user/39570/profile#Edwin%20Lefevre</uri>
+</author>
+<updated>2009-08-17T19:57:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1923</dcterms:issued>
+<summary>Jesse Livermore's Reminiscences of a Stock Operator, a 1923 classic considered by many, including us at Goldmau, to be one of the best books on investing ever written. 
+
+Source:
+http://new.goldmau.com/reference.php?id=56
+</summary>
+<category term="Investment"/>
+<category term="Stocks"/>
+<category term="Trading"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5507.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5507.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5507.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5507.png?t=20090817195716" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5507.png?size=smaller&amp;t=20090817195716" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5507.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #16</title>
+<id>http://www.feedbooks.com/userbook/9873</id>
+<author>
+  <name>Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brian%20Burchette</uri>
+</author>
+<updated>2010-01-23T02:14:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Detective Comics: Masks, Part 4 (of 4).</summary>
+<category term="Black Mask"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Deathstroke"/>
+<category term="Nightwing"/>
+<category term="batgirl"/>
+<category term="Penguin"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9873.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9873.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9873.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9873.png?t=20100123021425" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9873.png?size=smaller&amp;t=20100123021425" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9873.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Fake</title>
+<id>http://www.feedbooks.com/userbook/8750</id>
+<author>
+  <name>Moxie Mezcal</name>
+  <uri>http://www.feedbooks.com/user/51003/profile#Moxie%20Mezcal</uri>
+</author>
+<updated>2009-12-06T22:39:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A desperate journalist tries to make his girlfriend understand why he is guilty of orchestrating an elaborate hoax... and how, when he met a mysterious musician with an amazing gift, it seemed that his lies might be coming true.</summary>
+<category term="wild child"/>
+<category term="feral children"/>
+<category term="magical realism"/>
+<category term="music"/>
+<category term="journalism"/>
+<category term="Newspaper"/>
+<category term="reporter"/>
+<category term="hoax"/>
+<category term="lies"/>
+<category term="kidnapping"/>
+<category term="confession"/>
+<category term="surreal"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8750.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8750.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8750.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8750.png?t=20091206223902" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8750.png?size=smaller&amp;t=20091206223902" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8750.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #42</title>
+<id>http://www.feedbooks.com/userbook/8462</id>
+<author>
+  <name>Pat Owen</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Pat%20Owen</uri>
+</author>
+<updated>2009-11-21T02:05:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Action Comics: Ring of Fire, Part 1 (of 3).
+
+It's training day as Superman tries to show Conner the ropes and how to use his powers. Meanwhile, trouble is brewing in Metropolis that involves The Man of Steel's old friend Pete Ross. And if that isn't all, Lois finally gets her chance to interview the man who should be dead...Morgan Edge!</summary>
+<category term="Lois Lane"/>
+<category term="Lana Lang"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Superboy"/>
+<category term="Brainiac"/>
+<category term="Freaks"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8462.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8462.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8462.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8462.png?t=20091121020500" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8462.png?size=smaller&amp;t=20091121020500" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8462.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Art Of Decay - Part One?</title>
+<id>http://www.feedbooks.com/userbook/9989</id>
+<author>
+  <name>Pete Anstice</name>
+  <uri>http://www.feedbooks.com/user/72438/profile#Pete%20Anstice</uri>
+</author>
+<updated>2010-03-07T01:27:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>A short story.
+
+The idea being this;- start with one of the basic human questions, with no idea what the answer is and, well, type bollocks and see where we end up.</summary>
+<category term="3,000 Words"/>
+<category term="mushrooms"/>
+<category term="Anstice"/>
+<category term="fiction"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9989.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9989.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9989.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9989.png?t=20100307012708" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9989.png?size=smaller&amp;t=20100307012708" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9989.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>World's Finest #1: Wonder Woman</title>
+<id>http://www.feedbooks.com/userbook/4003</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T16:28:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Join us on Earth-X for the re-imagined Wonder Woman and her new adventures. </summary>
+<category term="Comics"/>
+<category term="Wonder Woman"/>
+<category term="DC3"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4003.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4003.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4003.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4003.png?t=20090817162838" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4003.png?size=smaller&amp;t=20090817162838" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4003.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Last Sun of Krypton #3</title>
+<id>http://www.feedbooks.com/userbook/3966</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T16:29:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Last Sun of Krypton, Part 3 (of 3).
+
+&quot;If Lyla had still been there to talk him out of it, Kal knew that he would never have even suggested this solution, let alone volunteered for it. He stood alone in the middle of a large, barren field, staring up at the monolith that was an energy plant, and he could feel the heat of the world gathering beneath his feet.
+
+Two days had already gone by, two more days of heartache and fear, of disbelief and thick, destructive denial. Despite the official pleas from the Board, and despite the few ready rockets off-world that had already left for the colonies, most of the population refused to budge from their homes on only the word of Jor-El.
+
+Kal&#8217;s breathing was quick and nervous in the heated air. All of those people were depending on his bravery, his intellect&#8230;
+
+&#8230;and on the nuclear bomb strapped to the hood of his small electric car. &quot;</summary>
+<category term="Krypton"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3966.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3966.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3966.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3966.png?t=20090817162902" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3966.png?size=smaller&amp;t=20090817162902" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3966.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ezra Pound - Selected Poems</title>
+<id>http://www.feedbooks.com/userbook/6477</id>
+<author>
+  <name>Ezra Pound</name>
+  <uri>http://www.feedbooks.com/user/45144/profile#Ezra%20Pound</uri>
+</author>
+<updated>2010-01-02T16:01:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Selection of Poetry</summary>
+<category term="poetry"/>
+<category term="ezra pound"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6477.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6477.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6477.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6477.png?t=20100102160137" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6477.png?size=smaller&amp;t=20100102160137" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6477.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>DC2 Special #2: World's Finest</title>
+<id>http://www.feedbooks.com/userbook/8715</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-12-05T20:37:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>DC2 Special: World's Finest.</summary>
+<category term="Lois Lane"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Batman"/>
+<category term="robin"/>
+<category term="Magpie"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8715.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8715.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8715.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8715.png?t=20091205203711" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8715.png?size=smaller&amp;t=20091205203711" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8715.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #15</title>
+<id>http://www.feedbooks.com/userbook/9572</id>
+<author>
+  <name>Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brian%20Burchette</uri>
+</author>
+<updated>2010-01-13T02:25:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Detective Comics: Masks, Part 2 (of 4).
+</summary>
+<category term="Black Mask"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Nightwing"/>
+<category term="batgirl"/>
+<category term="Penguin"/>
+<category term="Deathstroke"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9572.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9572.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9572.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9572.png?t=20100113022515" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9572.png?size=smaller&amp;t=20100113022515" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9572.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Adventures of Superman #3</title>
+<id>http://www.feedbooks.com/userbook/4434</id>
+<author>
+  <name>Woundedtrojan</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Woundedtrojan</uri>
+</author>
+<updated>2009-08-17T16:32:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>The Adventures of Superman: Black Magic Woman</summary>
+<category term="witch"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Lex Luthor"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4434.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4434.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4434.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4434.png?t=20090817163204" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4434.png?size=smaller&amp;t=20090817163204" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4434.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #20</title>
+<id>http://www.feedbooks.com/userbook/5677</id>
+<author>
+  <name>Roy Flinchum</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Roy%20Flinchum</uri>
+</author>
+<updated>2009-08-17T16:39:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: Friends and Enemies (a Justice League vs. America tie-in)</summary>
+<category term="Starro"/>
+<category term="Bloodsport"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Lois Lane"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5677.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5677.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5677.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5677.png?t=20090817163917" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5677.png?size=smaller&amp;t=20090817163917" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5677.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Batman #22</title>
+<id>http://www.feedbooks.com/userbook/11113</id>
+<author>
+  <name>Grant LaFleche</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Grant%20LaFleche</uri>
+</author>
+<updated>2010-03-24T01:05:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Batman: Trauma, Part 2.
+
+Batman frantically tries to hunt down the Wrath, who has kidnapped Vicki Vale! Meanwhile, when another Gotham villain turns up dead, Batman is forced to come face to face with his greatest failure as a crime fighter.
+</summary>
+<category term="Vicki Vale"/>
+<category term="Red X"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Wrath"/>
+<category term="robin"/>
+<category term="Nightwing"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11113.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11113.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11113.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11113.png?t=20100324010547" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11113.png?size=smaller&amp;t=20100324010547" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11113.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

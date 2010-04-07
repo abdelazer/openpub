@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=40</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=40" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=40" rel="self"/>
+  <title>Original Books / New Releases / Page 40 | Feedbooks</title>
+  <updated>2010-04-07T18:24:20Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>781</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=39" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=41" rel="next" title="Next Page"/>
+<entry>
+<title>Batman: City of Crime #1</title>
+<id>http://www.feedbooks.com/userbook/5172</id>
+<author>
+  <name>Grant LaFleche</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Grant%20LaFleche</uri>
+</author>
+<updated>2009-08-17T21:22:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Batman: City of Crime, Part 1 (of 5): Shadows</summary>
+<category term="Comics"/>
+<category term="Matches Malone"/>
+<category term="Harvey Bullock"/>
+<category term="Mickey Fynn"/>
+<category term="DC2"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5172.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5172.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5172.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5172.png?t=20090817212202" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5172.png?size=smaller&amp;t=20090817212202" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5172.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #19</title>
+<id>http://www.feedbooks.com/userbook/5169</id>
+<author>
+  <name>Batkid</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Batkid</uri>
+</author>
+<updated>2009-08-17T16:37:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Nightwing: Little Boy Lost.
+
+Jake has disappeared and Nightwing's on his trail! But will he be too late?</summary>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Nightwing"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5169.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5169.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5169.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5169.png?t=20090817163756" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5169.png?size=smaller&amp;t=20090817163756" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5169.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics Annual #1</title>
+<id>http://www.feedbooks.com/userbook/5168</id>
+<author>
+  <name>Kevin Hill</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Kevin%20Hill</uri>
+</author>
+<updated>2009-08-17T18:00:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Action Comics: This Looks Like a Job For...</summary>
+<category term="Elastic Lad"/>
+<category term="Lois Lane"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Mxyzptlk"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5168.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5168.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5168.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5168.png?t=20090817180005" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5168.png?size=smaller&amp;t=20090817180005" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5168.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #14</title>
+<id>http://www.feedbooks.com/userbook/5166</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-08-18T00:26:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: Convergence, Part 2 (of 2): With Teeth!</summary>
+<category term="Lois Lane"/>
+<category term="Lex Luthor"/>
+<category term="Hal Jordan"/>
+<category term="Martian Manhunter"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Parasite"/>
+<category term="Steel"/>
+<category term="Bloodsport"/>
+<category term="Guardian"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5166.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5166.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5166.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5166.png?t=20090818002643" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5166.png?size=smaller&amp;t=20090818002643" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5166.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tales of the Green Lantern Corps #2</title>
+<id>http://www.feedbooks.com/userbook/5164</id>
+<author>
+  <name>Scott Kruger</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Scott%20Kruger</uri>
+</author>
+<updated>2009-08-17T16:37:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Tales of the Green Lantern Corps: The Legion Virus Saga, Part 1 (of 8): Last Stand on Graxos IV</summary>
+<category term="Sinestro"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Abin Sur"/>
+<category term="Green Lantern"/>
+<category term="Fentara"/>
+<category term="Arisia"/>
+<category term="Carthag"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5164.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5164.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5164.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5164.png?t=20090817163754" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5164.png?size=smaller&amp;t=20090817163754" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5164.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tales of the Green Lantern Corps #1</title>
+<id>http://www.feedbooks.com/userbook/5127</id>
+<author>
+  <name>Scott Kruger</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Scott%20Kruger</uri>
+</author>
+<updated>2009-08-17T16:37:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Tales of the Green Lantern Corps: The Legion Virus Saga, Part 1 (of 8)</summary>
+<category term="Green Lantern"/>
+<category term="Vril Dox"/>
+<category term="Katma Tui"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Sinestro"/>
+<category term="Carthag"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5127.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5127.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5127.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5127.png?t=20090817163736" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5127.png?size=smaller&amp;t=20090817163736" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5127.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #18</title>
+<id>http://www.feedbooks.com/userbook/5126</id>
+<author>
+  <name>Batkid</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Batkid</uri>
+</author>
+<updated>2009-08-17T16:37:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Nightwing: Heart of a Champion.
+
+Just as Nightwing starts to close in on the drug gang, more problems arise. He and Tiffany will have to move fast if they&#8217;re going to crack the case, but the team ends up with more than they bargained for! Can they solve the case before the crooks get away and before one character is written off&#8212;forever? Find out as the adventure continues in this exciting issue!</summary>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Nightwing"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5126.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5126.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5126.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5126.png?t=20090817163735" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5126.png?size=smaller&amp;t=20090817163735" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5126.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #13</title>
+<id>http://www.feedbooks.com/userbook/5125</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-08-17T21:20:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: Convergence, Part 1 (of 2): The Thing That Should Not Be...</summary>
+<category term="Lex Luthor"/>
+<category term="Lois Lane"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Parasite"/>
+<category term="Barrage"/>
+<category term="Bloodsport"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5125.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5125.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5125.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5125.png?t=20090817212055" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5125.png?size=smaller&amp;t=20090817212055" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5125.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tales of the Green Lantern Corps #0</title>
+<id>http://www.feedbooks.com/userbook/5105</id>
+<author>
+  <name>Scott Kruger</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Scott%20Kruger</uri>
+</author>
+<updated>2009-08-17T16:37:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Tales of the Green Lantern Corps: In the Beginning...</summary>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Hal Jordan"/>
+<category term="Abin Sur"/>
+<category term="Green Lantern"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5105.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5105.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5105.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5105.png?t=20090817163730" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5105.png?size=smaller&amp;t=20090817163730" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5105.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #17</title>
+<id>http://www.feedbooks.com/userbook/5104</id>
+<author>
+  <name>Batkid</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Batkid</uri>
+</author>
+<updated>2009-08-17T20:05:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Nightwing: Psychotic Reaction (A Justice League vs. America tie-in)</summary>
+<category term="Martian Manhunter"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Nightwing"/>
+<category term="Batman"/>
+<category term="Starro"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5104.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5104.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5104.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5104.png?t=20090817200541" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5104.png?size=smaller&amp;t=20090817200541" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5104.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #12</title>
+<id>http://www.feedbooks.com/userbook/5103</id>
+<author>
+  <name>Charles Wilkins and DrDread</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins%20and%20DrDread</uri>
+</author>
+<updated>2009-08-18T00:47:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: Return to Smallville, Part 4 (of 4)</summary>
+<category term="Lex Luthor"/>
+<category term="Lois Lane"/>
+<category term="Lana Lang"/>
+<category term="Martian Manhunter"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Smallville"/>
+<category term="Brainiac"/>
+<category term="Atom"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5103.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5103.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5103.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5103.png?t=20090818004727" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5103.png?size=smaller&amp;t=20090818004727" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5103.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mightiest Mortals #12</title>
+<id>http://www.feedbooks.com/userbook/5102</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:37:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Mightiest Mortals: By an Act of Love.
+
+This is it! Sabbac is on a rampage! Ibac sends his men out against the leaderless forces of his gangland opponent! Into the middle of this stands Captain Marvel and his allies! When the smoke clears, who will stand triumphant?</summary>
+<category term="Captain Marvel Jr."/>
+<category term="Captain Triumph"/>
+<category term="Captain Marvel"/>
+<category term="Kid Marvel"/>
+<category term="Kid Eternity"/>
+<category term="Boss Ibac"/>
+<category term="Sherlock Holmes"/>
+<category term="Comics"/>
+<category term="DC3"/>
+<category term="Shazam"/>
+<category term="Sabbac"/>
+<category term="Bulletman"/>
+<category term="Minerva"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5102.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5102.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5102.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5102.png?t=20090817163734" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5102.png?size=smaller&amp;t=20090817163734" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5102.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Magician of Monkton Pier</title>
+<id>http://www.feedbooks.com/userbook/5030</id>
+<author>
+  <name>Michael Graeme</name>
+  <uri>http://www.feedbooks.com/user/21538/profile#Michael%20Graeme</uri>
+</author>
+<updated>2009-08-17T19:50:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Short Story - a twenty five minute read.  
+
+Joshua is navigating his eco-boat, The Mattie Rat along a dark  and stinking stretch of the old canal through Monkton - a city overwhelmed by gangs and gun toting Militias. Joshua's seen it all before:  urban decay, corruption and the death of hope. Living on the water, and with no need for money, he's usually able to slip unnoticed through these town stretches and into the green beyond. But when he's tricked into picking up a pair of enigmatic hitchers, Joshua knows there's going to be trouble in Monkton. In spite of his best efforts, the wily old Waterman is about to become an accomplice in the biggest magical stunt of all time. And if the world no longer believes in magic, well, it only has itself to blame.</summary>
+<category term="Magic"/>
+<category term="romantic"/>
+<category term="philosophical"/>
+<category term="speculative"/>
+<category term="new age"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5030.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5030.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5030.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5030.png?t=20090817195005" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5030.png?size=smaller&amp;t=20090817195005" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5030.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Last Hundred Yards</title>
+<id>http://www.feedbooks.com/userbook/5002</id>
+<author>
+  <name>Jim Dayton</name>
+  <uri>http://www.feedbooks.com/user/23688/profile#Jim%20Dayton</uri>
+</author>
+<updated>2009-08-17T16:36:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Ever had the perfect day all planned out? It never quite goes as you hoped, does it?</summary>
+<category term="adultery"/>
+<category term="infidelity"/>
+<category term="cops"/>
+<category term="day"/>
+<category term="perfect"/>
+<category term="affair"/>
+<category term="investigators"/>
+<category term="private"/>
+<category term="divorce"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5002.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5002.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5002.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5002.png?t=20090817163654" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5002.png?size=smaller&amp;t=20090817163654" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5002.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mightiest Mortals #11</title>
+<id>http://www.feedbooks.com/userbook/4989</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:36:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Mightiest Mortals: The Tide of Heroism. 
+
+The beginning of the stunning two-part finale to Captain Marvel's first year! Sabbac has gone on a rampage, and Ibac is taking advantage of the chaos! Bulletman struggles to intervene, but everyone wants to know where Captain Marvel is! All this and more (and boy, do I really mean it this time)! </summary>
+<category term="Captain Marvel"/>
+<category term="Boss Ibac"/>
+<category term="Captain Triumph"/>
+<category term="Comics"/>
+<category term="DC3"/>
+<category term="Shazam"/>
+<category term="Bulletman"/>
+<category term="Sabbac"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4989.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4989.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4989.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4989.png?t=20090817163636" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4989.png?size=smaller&amp;t=20090817163636" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4989.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #16</title>
+<id>http://www.feedbooks.com/userbook/4988</id>
+<author>
+  <name>Batkid</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Batkid</uri>
+</author>
+<updated>2009-08-17T16:36:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Nightwing: Beauty and the Mess. </summary>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4988.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4988.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4988.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4988.png?t=20090817163636" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4988.png?size=smaller&amp;t=20090817163636" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4988.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #11</title>
+<id>http://www.feedbooks.com/userbook/4987</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T16:36:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Action Comics: Return to Smallville, Part 3 (of 4)</summary>
+<category term="Lana Lang"/>
+<category term="Lois Lane"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Smallville"/>
+<category term="Brainiac"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4987.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4987.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4987.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4987.png?t=20090817163641" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4987.png?size=smaller&amp;t=20090817163641" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4987.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail Vol. 1</title>
+<id>http://www.feedbooks.com/userbook/4955</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:36:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>This volume collects Danger Trail #1-12 as well as Danger Trail Annual #1. This is the complete first story arc in which our pulp heroes confront the treachery of the Blood Queen, the Dragon Queen and their mysterious backer. Stay tuned for Danger Trail #13 coming soon!</summary>
+<category term="Rima"/>
+<category term="Midnight"/>
+<category term="adventure"/>
+<category term="mystery"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Doctor Occult"/>
+<category term="Speed Saunders"/>
+<category term="Argent St. Cloud"/>
+<category term="King Faraday"/>
+<category term="Enemy Ace"/>
+<category term="pulp fiction"/>
+<category term="vampires"/>
+<category term="dragons"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4955.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4955.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4955.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4955.png?t=20090817163645" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4955.png?size=smaller&amp;t=20090817163645" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4955.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mightiest Mortals #10</title>
+<id>http://www.feedbooks.com/userbook/4953</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:36:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Mightiest Mortals: The Punishment of Good Deeds. 
+
+Amazing origins issue as we discover the secret behind the magic words, and the history of Sabbac and Ibac! Freddy walks into a deathtrap, Victor Craize starts to feel the power of the people, and the police make a startling discovery about Miss Minerva!</summary>
+<category term="Captain Marvel"/>
+<category term="Comics"/>
+<category term="DC3"/>
+<category term="Shazam"/>
+<category term="Sabbac"/>
+<category term="Minerva"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4953.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4953.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4953.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4953.png?t=20090817163646" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4953.png?size=smaller&amp;t=20090817163646" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4953.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #10</title>
+<id>http://www.feedbooks.com/userbook/4949</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T16:36:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Action Comics: Return to Smallville, Part 2 (of 4)</summary>
+<category term="Smallville"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Lana Lang"/>
+<category term="Lois Lane"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4949.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4949.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4949.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4949.png?t=20090817163644" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4949.png?size=smaller&amp;t=20090817163644" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4949.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

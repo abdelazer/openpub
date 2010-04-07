@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=41&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=41&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=41&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 41 | Feedbooks</title>
+  <updated>2010-04-07T18:23:33Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>801</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=40&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=42&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Danger Trail #12</title>
+<id>http://www.feedbooks.com/userbook/4214</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:30:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Danger Trail: The Stolen Myth Affair, Part 3 (of 3).
+
+Vandal Savage begins his plan to bring the world into his control! King Faraday, Speed Saunders and Midnight, along with their assembled allies, make their bid to stop him, but there are three queens in this game, and each one has their own vision for how the endgame should play out! It's the end of the first year on the Danger Trail...is it also just the end?</summary>
+<category term="Rima"/>
+<category term="Midnight"/>
+<category term="adventure"/>
+<category term="mystery"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Doctor Occult"/>
+<category term="Vandal Savage"/>
+<category term="Steven Savage"/>
+<category term="Enemy Ace"/>
+<category term="Argent St. Cloud"/>
+<category term="King Faraday"/>
+<category term="Speed Saunders"/>
+<category term="pulp fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4214.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4214.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4214.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4214.png?t=20090817163036" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4214.png?size=smaller&amp;t=20090817163036" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4214.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Moments of Silence</title>
+<id>http://www.feedbooks.com/userbook/4328</id>
+<author>
+  <name>Travis King</name>
+  <uri>http://www.feedbooks.com/user/24864/profile#Travis%20King</uri>
+</author>
+<updated>2009-08-17T18:45:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>This short story, &quot;Moments of Silence,&quot; is an eerie and heartwarming tale of love beyond the boundaries of death. </summary>
+<category term="supernatural"/>
+<category term="love"/>
+<category term="fantasy"/>
+<category term="short fiction"/>
+<category term="Creative Commons"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4328.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4328.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4328.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4328.png?t=20090817184534" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4328.png?size=smaller&amp;t=20090817184534" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4328.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Swimming Lessons</title>
+<id>http://www.feedbooks.com/userbook/6851</id>
+<author>
+  <name>Meryl McQueen</name>
+  <uri>http://www.feedbooks.com/user/41857/profile#Meryl%20McQueen</uri>
+</author>
+<updated>2009-08-18T00:48:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>A parent's worst nightmare: the loss of a child. A parent's only hope: a child's joy. What happens when all you have to give is not enough? A story about love, dreams, family, unexpected connections, and learning to swim. </summary>
+<category term="grief"/>
+<category term="family"/>
+<category term="womens fiction"/>
+<category term="commercial fiction"/>
+<category term="loss"/>
+<category term="death"/>
+<category term="suicide"/>
+<category term="autism"/>
+<category term="water"/>
+<category term="communication"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6851.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6851.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6851.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6851.png?t=20090818004821" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6851.png?size=smaller&amp;t=20090818004821" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6851.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>I Open It</title>
+<id>http://www.feedbooks.com/userbook/7425</id>
+<author>
+  <name>Bernadette Erikka Vanburen</name>
+  <uri>http://www.feedbooks.com/user/51318/profile#Bernadette%20Erikka%20Vanburen</uri>
+</author>
+<updated>2009-09-07T14:24:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Quick Fiction.</summary>
+<category term="quick"/>
+<category term="fiction"/>
+<category term="short"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7425.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7425.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7425.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7425.png?t=20090907142449" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7425.png?size=smaller&amp;t=20090907142449" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7425.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>M@ilbox</title>
+<id>http://www.feedbooks.com/userbook/7914</id>
+<author>
+  <name>Gabriel Prospero</name>
+  <uri>http://www.feedbooks.com/user/54869/profile#Gabriel%20Prospero</uri>
+</author>
+<updated>2009-10-20T05:33:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>The others know not that in this quarrel we perish. Back home after Seth's funeral, Kev sends him a final email, which receives a reply. A voice from beyond the grave, a computer hoax by a Rogerian hacker, a manipulation of no importance? It is in India, following the course of the Ganges, that the discussion will take shape and substance, and come to life.</summary>
+<category term="post death"/>
+<category term="science fiction"/>
+<category term="Ondin"/>
+<category term="Viviane"/>
+<category term="arthur"/>
+<category term="Puck"/>
+<category term="travel"/>
+<category term="road"/>
+<category term="mystery"/>
+<category term="Entropy"/>
+<category term="Turing"/>
+<category term="hacker"/>
+<category term="Celts"/>
+<category term="Merlin"/>
+<category term="India"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7914.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7914.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7914.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7914.png?t=20091020053307" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7914.png?size=smaller&amp;t=20091020053307" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7914.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tenzo Kyokun</title>
+<id>http://www.feedbooks.com/userbook/8882</id>
+<author>
+  <name>Eihei Dogen</name>
+  <uri>http://www.feedbooks.com/user/62565/profile#Eihei%20Dogen</uri>
+</author>
+<updated>2009-12-19T23:28:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1237</dcterms:issued>
+<summary>Tenzo Kyokun: Instructions for the Tenzo 
+by Eihei Dogen
+
+Written in the spring of 1237 for those of coming generations  who will practice the Way by Dogen, abbot of Kosho-(Horin-)ji.
+</summary>
+<category term="cooking"/>
+<category term="Zen"/>
+<category term="Tenzo"/>
+<category term="public domain"/>
+<category term="Tenzo Kyokun"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8882.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8882.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8882.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8882.png?t=20091219232810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8882.png?size=smaller&amp;t=20091219232810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8882.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aquaman #24</title>
+<id>http://www.feedbooks.com/userbook/8960</id>
+<author>
+  <name>Pat Owen</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Pat%20Owen</uri>
+</author>
+<updated>2009-12-18T20:58:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Aquaman: King's Reign, Chapter 4: The Ashes.
+
+With Aquaman gone and Ocean Master holding Poseidonis in an iron grip, all hopes seems lost. But deep within the home of an old enemy, a small shred of hope emerges from the depths of the ocean.... </summary>
+<category term="King Shark"/>
+<category term="Ocean Master"/>
+<category term="Black Manta"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Aquaman"/>
+<category term="Aqualad"/>
+<category term="Mera"/>
+<category term="Thanatos"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8960.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8960.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8960.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8960.png?t=20091218205845" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8960.png?size=smaller&amp;t=20091218205845" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8960.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #18</title>
+<id>http://www.feedbooks.com/userbook/9203</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-12-30T16:42:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Danger Trail: Affairs of Blood and Fate, Part Two: The Angel of Death!
+
+The strangest crossover of all times continues here, as Rose Psychic, Eel O'Brien, Speed Saunders, Midnight, Trin Dee and Andrew Bennett find themselves caught in a holy war between the forces of the Order of St. Dumas and the Sanguine Father, who offers a glimpse into a terrifying future for the world!</summary>
+<category term="pulp fiction"/>
+<category term="Speed Saunders"/>
+<category term="Rose Psychic"/>
+<category term="Plastic Man"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="pulp"/>
+<category term="Midnight"/>
+<category term="Azrael"/>
+<category term="adventure"/>
+<category term="mystery"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9203.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9203.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9203.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9203.png?t=20091230164231" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9203.png?size=smaller&amp;t=20091230164231" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9203.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Do Animals Have Souls?</title>
+<id>http://www.feedbooks.com/userbook/9591</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2010-01-14T06:53:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>     ALL FOUR TIMES THAT SOUL [nehphesh] IS USED IN GENESIS ONE, IT IS USED REFERRING TO ANIMALS, NOT TO A PERSON. ANIMALS WERE SOULS BEFORE ANY MAN EXISTED. &quot;Then God said, 'Let the waters teem with swarms of LIVING SOULS [soul-nehpheshs], and let birds fly above the earth in the open expanse of the heavens.' And God created the great sea monsters, and every LIVING SOUL [soul - nehphesh] that moves with which the waters swarmed after their kind, and every winged bird after its kind; and God saw that it was good. And God blessed them, saying, 'Be fruitful and multiply, and fill the waters in the seas, and let birds multiply on the earth.' And there was evening and there was morning, a fifth day. Then God said, 'Let the earth bring forth LIVING SOULS [soul-nehpheshs] after their kind: cattle and creeping thing and beasts of the earth after their kind'; and it was so...and to every beast of the earth, and to every fowl of the air, and to everything that creeps upon the earth, wherein there is LIFE [soul - nehphesh], I have given every green herb for meat&quot; [Genesis 1:20-30].</summary>
+<category term="soul"/>
+<category term="a"/>
+<category term="Have"/>
+<category term="animals"/>
+<category term="do"/>
+<category term="immortality"/>
+<category term="resurrection"/>
+<category term="immortal"/>
+<category term="Spirit"/>
+<category term="soul"/>
+<category term="death"/>
+<category term="life"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9591.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9591.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9591.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9591.png?t=20100114065336" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9591.png?size=smaller&amp;t=20100114065336" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9591.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ned the Automator</title>
+<id>http://www.feedbooks.com/userbook/2050</id>
+<author>
+  <name>Wiley Davis</name>
+  <uri>http://www.feedbooks.com/user/18753/profile#Wiley%20Davis</uri>
+</author>
+<updated>2009-08-17T20:41:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>In a world where relationships have been automated, only Ned Barton has the nerve to set fire to the nerve center -- and the heart to write a letter to his grandma.</summary>
+<category term="relationships"/>
+<category term="Humor"/>
+<category term="wiley davis"/>
+<category term="customer service"/>
+<category term="science fiction"/>
+<category term="short fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/2050.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/2050.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/2050.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2050.png?t=20090817204120" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2050.png?size=smaller&amp;t=20090817204120" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/2050.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>6 or 2 3s</title>
+<id>http://www.feedbooks.com/userbook/2515</id>
+<author>
+  <name>Papalazarou</name>
+  <uri>http://www.feedbooks.com/user/20462/profile#Papalazarou</uri>
+</author>
+<updated>2009-08-17T20:01:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>A selection of shorter works</summary>
+<category term="Story"/>
+<category term="short"/>
+<category term="poetry"/>
+<category term="novella"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/2515.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/2515.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/2515.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2515.png?t=20090817200152" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2515.png?size=smaller&amp;t=20090817200152" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/2515.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Letter</title>
+<id>http://www.feedbooks.com/userbook/3891</id>
+<author>
+  <name>Joseph Devon</name>
+  <uri>http://www.feedbooks.com/user/21430/profile#Joseph%20Devon</uri>
+</author>
+<updated>2009-08-17T16:28:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2000</dcterms:issued>
+<summary>Naming your main character Tom means something in American literature. The Ghosts' of Sawyer and Joad haunt that character from page one. But in The Letter, instead of hiding behind the memorable characterizations of past &#8216;literary Toms,' Joseph Devon attacks this notion of the proud, stoic, and resourceful hero in modern times. After an unspeakable accident leaves Tom Quint without a shred of hope, he must reluctantly explore not only the world he passes in his ragtop, but the life that has passed him by. And like his literary predecessors, Quint's reluctance to adapt is what makes his struggle to survive so compelling.</summary>
+<category term="Dakota&#8221;"/>
+<category term="&#8220;South"/>
+<category term="Jersey&#8221;"/>
+<category term="&#8220;New"/>
+<category term="Park&#8221;"/>
+<category term="national"/>
+<category term="&#8220;Glacier"/>
+<category term="York&#8221;"/>
+<category term="&#8220;New"/>
+<category term="&#8220;Continental"/>
+<category term="Divide&#8221;"/>
+<category term="&#8220;Mark"/>
+<category term="Twain&#8221;"/>
+<category term="&#8220;adolescent&#8221;"/>
+<category term="&#8220;california&#8221;"/>
+<category term="&#8220;fiction&#8221;"/>
+<category term="&#8220;creative"/>
+<category term="commons&#8221;"/>
+<category term="&#8220;friends&#8221;"/>
+<category term="&#8220;Mark"/>
+<category term="Twain&#8221;"/>
+<category term="&#8220;road"/>
+<category term="trip&#8221;"/>
+<category term="&#8220;smoking&#8221;"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3891.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3891.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3891.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3891.png?t=20090817162828" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3891.png?size=smaller&amp;t=20090817162828" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3891.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #8</title>
+<id>http://www.feedbooks.com/userbook/4143</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:30:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Danger Trail: The Nation of Murder Affair, Part 1 (of 2).
+
+Gangsters want Thomas Dewey dead at all costs, bringing Michael Gallant onto the case, Argent St. Cloud at his side! But when Murder, Inc. steps up to the challenge, can even he call on enough reinforcements to save the day?</summary>
+<category term="Midnight"/>
+<category term="adventure"/>
+<category term="mystery"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="King Faraday"/>
+<category term="Argent St. Cloud"/>
+<category term="Speed Saunders"/>
+<category term="pulp fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4143.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4143.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4143.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4143.png?t=20090817163006" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4143.png?size=smaller&amp;t=20090817163006" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4143.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Speeding Bullet #1</title>
+<id>http://www.feedbooks.com/userbook/4282</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:30:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Speeding Bullet, Part 1 (of 4): Modern Gods.
+
+James Barr has developed a special device that allows him tremendous powers! Now he steps into a new world of masked men and heroic deeds, but is he really ready to take his place among the world's newest gods? Will the Murder Prophet usher in an age of blood first?</summary>
+<category term="Bulletman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Murder Prophet"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4282.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4282.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4282.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4282.png?t=20090817163059" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4282.png?size=smaller&amp;t=20090817163059" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4282.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Speeding Bullet #2</title>
+<id>http://www.feedbooks.com/userbook/4296</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:31:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Speeding Bullet: The Birth of Bulletman, Part 2 (of 4): Deepest Secrets.
+
+James Barr steps into costume for the first time, and Bulletman is on the case of the Obermyer murders. But so is another person...the actual killer, a mysterious being called the Murder Prophet, who is paving the way for his master, and the police and the rookie hero struggle to catch up and stop him! </summary>
+<category term="Bulletman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Murder Prophet"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4296.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4296.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4296.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4296.png?t=20090817163104" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4296.png?size=smaller&amp;t=20090817163104" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4296.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Blue Beetle Vol. 2 #1</title>
+<id>http://www.feedbooks.com/userbook/6209</id>
+<author>
+  <name>Chris Paugh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Chris%20Paugh</uri>
+</author>
+<updated>2009-08-18T00:00:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Blue Beetle: Interview With a Superhero.
+
+It's a fresh start for the Blue Beetle as he takes leave from Powers, Inc. and moves to Midway City. Ted's got his inventor's cap firmly in place to kick off a new business venture, but not everyone is happy about his relocation.
+
+Plus, what's been keeping Ted Kord up at night? What is STAR Labs not hiding anymore? Friends and enemies emerge and a nuclear attack is imminent.</summary>
+<category term="Blue Beetle"/>
+<category term="Nuclear Family"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="father"/>
+<category term="Peacemaker"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6209.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6209.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6209.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6209.png?t=20090818000024" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6209.png?size=smaller&amp;t=20090818000024" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6209.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Control Panic on Planes</title>
+<id>http://www.feedbooks.com/userbook/7069</id>
+<author>
+  <name>Oscar Sanderson</name>
+  <uri>http://www.feedbooks.com/user/48947/profile#Oscar%20Sanderson</uri>
+</author>
+<updated>2009-08-18T00:30:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A short story and the first book by Oscar Sanderson</summary>
+<category term="Sanderson"/>
+<category term="Oscar"/>
+<category term="Plane"/>
+<category term="Planes"/>
+<category term="on"/>
+<category term="Panic"/>
+<category term="Control"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7069.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7069.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7069.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7069.png?t=20090818003051" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7069.png?size=smaller&amp;t=20090818003051" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7069.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Speed Force #3</title>
+<id>http://www.feedbooks.com/userbook/7701</id>
+<author>
+  <name>Tim Abramo</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Tim%20Abramo</uri>
+</author>
+<updated>2009-10-01T01:03:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Ultimate Speed Force: Zwischenzug.
+
+Mysteries abound and trouble brews as the Rogues deal a disastrous lesson to the returning renegade known as the Top, the enigmatic Max escaped Iron Heights, Wally investigates the Church of Speed, and Bart goes on a field trip! And you just know, of all those events, Bart's has GOT to turn out the worst! </summary>
+<category term="Max Mercury"/>
+<category term="Captain Cold"/>
+<category term="Weather Wizard"/>
+<category term="Captain Boomerang"/>
+<category term="Comics"/>
+<category term="DC3"/>
+<category term="flash"/>
+<category term="Impulse"/>
+<category term="Top"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7701.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7701.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7701.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7701.png?t=20091001010318" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7701.png?size=smaller&amp;t=20091001010318" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7701.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Deriva</title>
+<id>http://www.feedbooks.com/userbook/8799</id>
+<author>
+  <name>M&#225;ximo S&#225;ez</name>
+  <uri>http://www.feedbooks.com/user/785/profile#M%C3%A1ximo%20S%C3%A1ez</uri>
+</author>
+<updated>2009-12-09T06:53:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A short story about a couple who meet each other while playing an online videogame.</summary>
+<category term="short story"/>
+<category term="love story"/>
+<category term="online gaming"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8799.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8799.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8799.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8799.png?t=20091209065341" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8799.png?size=smaller&amp;t=20091209065341" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8799.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Bank Job</title>
+<id>http://www.feedbooks.com/userbook/8837</id>
+<author>
+  <name>Vanity Fair</name>
+  <uri>http://www.feedbooks.com/user/32675/profile#Vanity%20Fair</uri>
+</author>
+<updated>2009-12-11T07:55:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>One of the biggest disconnects on Wall Street today is between the way Goldman Sachs sees itself (they&#8217;re the smartest) and the way everyone else sees Goldman (they&#8217;re the smartest, greediest, and most dangerous). Questioning C.E.O. Lloyd Blankfein, C.O.O. Gary Cohn, and C.F.O. David Viniar, among others, the author explores how their firm navigated the collapse of September 2008, why it has already set aside $16.7 billion for compensation this year, and which lines it&#8217;s accused of crossing.</summary>
+<category term="Goldman Sachs"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8837.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8837.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8837.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8837.png?t=20091211075509" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8837.png?size=smaller&amp;t=20091211075509" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8837.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

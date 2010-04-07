@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=25</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=25" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=25" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 25 | Feedbooks</title>
+  <updated>2010-04-07T18:26:28Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>481</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=24" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=26" rel="next" title="Next Page"/>
+<entry>
+<title>The Prince of Graustark</title>
+<id>http://www.feedbooks.com/book/3901</id>
+<author>
+  <name>George Barr McCutcheon</name>
+  <uri>http://www.feedbooks.com/author/1062</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Fourth book of the Graustark series.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/6353</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3901.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3901.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3901.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3901.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3901.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3901.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Sargasso of Space</title>
+<id>http://www.feedbooks.com/book/3900</id>
+<author>
+  <name>Edmond Moore Hamilton</name>
+  <uri>http://www.feedbooks.com/author/343</uri>
+</author>
+<updated>2009-08-18T01:18:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Helpless, doomed, into the graveyard of space floats the wrecked freighter Pallas.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3900.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3900.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3900.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3900.png?t=20090818011814" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3900.png?size=smaller&amp;t=20090818011814" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3900.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Truxton King</title>
+<id>http://www.feedbooks.com/book/3899</id>
+<author>
+  <name>George Barr McCutcheon</name>
+  <uri>http://www.feedbooks.com/author/1062</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1909</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>A handsome, good natured young fellow ranges on the earth looking for romantic adventures and is finally enmeshed in most complicated intrigues in Graustark.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3899.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3899.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3899.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3899.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3899.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3899.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Description of Wales</title>
+<id>http://www.feedbooks.com/book/3826</id>
+<author>
+  <name>Giraldus Cambrensis</name>
+  <uri>http://www.feedbooks.com/author/1024</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1194</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="History" label="History"/>
+<summary>Williams' classic edition of Hoare's classic translation is here augmented with almost 200 new annotations concerning quotations, language, geography, history, and customs alluded to in the text.</summary>
+<dcterms:source>J. M. Dent (1935)</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3826.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3826.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3826.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3826.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3826.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3826.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Beverly of Graustark</title>
+<id>http://www.feedbooks.com/book/3898</id>
+<author>
+  <name>George Barr McCutcheon</name>
+  <uri>http://www.feedbooks.com/author/1062</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1904</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Beverly is a bewitching American girl who has gone to that stirring little principality--Graustark--to visit her friend the princess, and there has a romantic affair of her own.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3898.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3898.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3898.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3898.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3898.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3898.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Graustark</title>
+<id>http://www.feedbooks.com/book/3897</id>
+<author>
+  <name>George Barr McCutcheon</name>
+  <uri>http://www.feedbooks.com/author/1062</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1901</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>A story of love behind a throne, telling how a young American met a lovely girl and followed her to a new and strange country.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3897.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3897.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3897.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3897.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3897.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3897.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Anderson Crow, Detective</title>
+<id>http://www.feedbooks.com/book/3896</id>
+<author>
+  <name>George Barr McCutcheon</name>
+  <uri>http://www.feedbooks.com/author/1062</uri>
+</author>
+<updated>2009-08-18T01:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<summary>Excerpt:
+Two events of great importance took place in Tinkletown on the night of May 6, 1918. The first, occurring at half-past ten o'clock, was of sufficient consequence to rouse the entire population out of bed&#8212;thereby creating a situation, almost unique, which allowed every one in town to participate in all the thrills of the second.
+</summary>
+<dcterms:source>http://www.gutenberg.org/etext/28229</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3896.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3896.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3896.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3896.png?t=20090818011816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3896.png?size=smaller&amp;t=20090818011816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3896.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Peter the Brazen</title>
+<id>http://www.feedbooks.com/book/3895</id>
+<author>
+  <name>George F. Worts</name>
+  <uri>http://www.feedbooks.com/author/1061</uri>
+</author>
+<updated>2009-08-18T01:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt:
+When Peter Moore entered the static-room, picked his way swiftly and unnoticingly across the littered floor, and jerked open the frosted glass door of the chief operator's office, the assembled operators followed him with glances of admiration and concern. No one ever entered the Chief's office in that fashion. One waited until called upon.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3895.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3895.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3895.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3895.png?t=20090818011816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3895.png?size=smaller&amp;t=20090818011816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3895.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tom Sawyer, Detective</title>
+<id>http://www.feedbooks.com/book/3894</id>
+<author>
+  <name>Mark Twain</name>
+  <uri>http://www.feedbooks.com/author/24</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1896</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Tom Sawyer, Detective is an 1896 novel by Mark Twain. It is a sequel to The Adventures of Tom Sawyer (1876), Adventures of Huckleberry Finn (1884), and Tom Sawyer Abroad (1894). Tom Sawyer attempts to solve a mysterious murder in this burlesque of the immensely popular detective novels of the time. Like the two preceding novels, the story is told using the first-person narrative voice of Huck Finn.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3894.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3894.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3894.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3894.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3894.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3894.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tom Sawyer Abroad</title>
+<id>http://www.feedbooks.com/book/3893</id>
+<author>
+  <name>Mark Twain</name>
+  <uri>http://www.feedbooks.com/author/24</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1894</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Tom Sawyer Abroad is a novel by Mark Twain published in 1894. It features Tom Sawyer and Huckleberry Finn in a parody of Jules Verne-esque adventure stories. In the story, Tom, Huck, and Jim set sail to Africa in a futuristic hot air balloon, where they survive encounters with lions, robbers, and fleas to see some of the world's greatest wonders, including the Pyramids and the Sphinx. Like Adventures of Huckleberry Finn and Tom Sawyer, Detective, the story is told using the first-person narrative voice of Huck Finn.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3893.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3893.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3893.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3893.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3893.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3893.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Defenders</title>
+<id>http://www.feedbooks.com/book/3892</id>
+<author>
+  <name>Philip K. Dick</name>
+  <uri>http://www.feedbooks.com/author/1023</uri>
+</author>
+<updated>2009-08-18T01:19:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No weapon has ever been frightful enough to put a stop to war--perhaps because we never before had any that thought for themselves!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3892.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3892.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3892.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3892.png?t=20090818011911" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3892.png?size=smaller&amp;t=20090818011911" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3892.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Stories for Parents, Children and Grandchildren - Volume 2</title>
+<id>http://www.feedbooks.com/book/3888</id>
+<author>
+  <name>Paulo Coelho</name>
+  <uri>http://www.feedbooks.com/author/1055</uri>
+</author>
+<updated>2009-08-18T01:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>&#8220;Stories for Parents, Children and Grandchildren&#8221; is a stroll through the universal traditions and legends, lulled by the unforgettable magic words &#8220;Once upon a time&#8230;&#8221; 
+This book by Paulo Coelho contains joyful, amazing and dramatic stories for readers of all ages. Most of them recount traditional legends and tales from many cultures. Included are also stories inspired by the author&#8217;s personal experience and episodes from the lives of celebrated names, as means of reflection.</summary>
+<dcterms:source>http://paulocoelhoblog.com/internet-books/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3888.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3888.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3888.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3888.png?t=20090818011816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3888.png?size=smaller&amp;t=20090818011816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3888.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Stories for Parents, Children and Grandchildren - Volume 1</title>
+<id>http://www.feedbooks.com/book/3887</id>
+<author>
+  <name>Paulo Coelho</name>
+  <uri>http://www.feedbooks.com/author/1055</uri>
+</author>
+<updated>2009-08-18T01:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>&#8220;Stories for Parents, Children and Grandchildren&#8221; is a stroll through the universal traditions and legends, lulled by the unforgettable magic words &#8220;Once upon a time&#8230;&#8221; 
+This book by Paulo Coelho contains joyful, amazing and dramatic stories for readers of all ages. Most of them recount traditional legends and tales from many cultures. Included are also stories inspired by the author&#8217;s personal experience and episodes from the lives of celebrated names, as means of reflection.</summary>
+<dcterms:source>http://paulocoelhoblog.com/internet-books/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3887.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3887.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3887.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3887.png?t=20090818011816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3887.png?size=smaller&amp;t=20090818011816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3887.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Essays (Second Series)</title>
+<id>http://www.feedbooks.com/book/3884</id>
+<author>
+  <name>Ralph Waldo Emerson</name>
+  <uri>http://www.feedbooks.com/author/1058</uri>
+</author>
+<updated>2009-08-18T01:19:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1844</dcterms:issued>
+<category term="Essay" label="Essay"/>
+<category term="Collections" label="Collections"/>
+<summary>A collection of essays: The poet, Experience, Character, Manners, Gifts, Nature, Politics, Nominalist and realist &amp; New England reformers.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3884.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3884.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3884.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3884.png?t=20090818011936" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3884.png?size=smaller&amp;t=20090818011936" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3884.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Essays (First Series)</title>
+<id>http://www.feedbooks.com/book/3882</id>
+<author>
+  <name>Ralph Waldo Emerson</name>
+  <uri>http://www.feedbooks.com/author/1058</uri>
+</author>
+<updated>2009-08-18T01:18:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1841</dcterms:issued>
+<category term="Essay" label="Essay"/>
+<category term="Collections" label="Collections"/>
+<summary>A collections of essays: History, Self-reliance, Compensation, Spiritual laws, Love, Friendship, Prudence, Heroism, The over-soul, Circles, Intellect &amp; Art.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3882.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3882.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3882.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3882.png?t=20090818011826" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3882.png?size=smaller&amp;t=20090818011826" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3882.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Way We Live Now</title>
+<id>http://www.feedbooks.com/book/3881</id>
+<author>
+  <name>Anthony Trollope</name>
+  <uri>http://www.feedbooks.com/author/281</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1875</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>The Way We Live Now is a scathing satirical novel published in London in 1875 by Anthony Trollope, after a popular serialisation. It was regarded by many of Trollope's contemporaries as his finest work.
+One of his longest novels (it contains a hundred chapters), The Way We Live Now is particularly rich in sub-plot. It was inspired by the financial scandals of the early 1870s, and lashes at the pervading dishonesty of the age, commercial, political, moral, and intellectual. It is one of the last significant Victorian novels to have been published in monthly parts.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3881.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3881.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3881.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3881.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3881.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3881.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Evil Shepherd</title>
+<id>http://www.feedbooks.com/book/3880</id>
+<author>
+  <name>Edward Phillips Oppenheim</name>
+  <uri>http://www.feedbooks.com/author/842</uri>
+</author>
+<updated>2009-08-18T01:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Thriller" label="Thriller"/>
+<summary>A novel of English life of a melodramatic character, so fascinating and so stirring that the most hardened reader can hardly fail to receive a series of thrills.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3880.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3880.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3880.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3880.png?t=20090818011816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3880.png?size=smaller&amp;t=20090818011816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3880.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The God in the Box</title>
+<id>http://www.feedbooks.com/book/3879</id>
+<author>
+  <name>Sewell Peaslee Wright</name>
+  <uri>http://www.feedbooks.com/author/151</uri>
+</author>
+<updated>2009-08-18T01:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>In the course of his Special Patrol duties Commander John Hanson resolves the unique and poignant mystery of &quot;toma annerson.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3879.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3879.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3879.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3879.png?t=20090818011816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3879.png?size=smaller&amp;t=20090818011816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3879.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Crystal Crypt</title>
+<id>http://www.feedbooks.com/book/3878</id>
+<author>
+  <name>Philip K. Dick</name>
+  <uri>http://www.feedbooks.com/author/1023</uri>
+</author>
+<updated>2009-08-18T01:18:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Stark terror ruled the Inner-Flight ship on that last Mars-Terra run. For the black-clad Leiters were on the prowl ... and the grim red planet was not far behind.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3878.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3878.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3878.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3878.png?t=20090818011814" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3878.png?size=smaller&amp;t=20090818011814" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3878.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Great Impersonation</title>
+<id>http://www.feedbooks.com/book/3877</id>
+<author>
+  <name>Edward Phillips Oppenheim</name>
+  <uri>http://www.feedbooks.com/author/842</uri>
+</author>
+<updated>2009-08-18T01:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Romance" label="Romance"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Excerpt:
+The trouble from which great events were to come began when Everard Dominey, who had been fighting his way through the scrub for the last three quarters of an hour towards those thin, spiral wisps of smoke, urged his pony to a last despairing effort and came crashing through the great oleander shrub to pitch forward on his head in the little clearing. It developed the next morning, when he found himself for the first time for many months on the truckle bed, between linen sheets, with a cool, bamboo-twisted roof between him and the relentless sun. He raised himself a little in the bed.
+&quot;Where the mischief am I?&quot; he demanded.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3877.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3877.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3877.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3877.png?t=20090818011816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3877.png?size=smaller&amp;t=20090818011816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3877.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

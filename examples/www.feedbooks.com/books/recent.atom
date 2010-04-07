@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases | Feedbooks</title>
+  <updated>2010-04-07T18:23:04Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=2" rel="next" title="Next Page"/>
+<entry>
+<title>Eight Cousins</title>
+<id>http://www.feedbooks.com/book/4683</id>
+<author>
+  <name>Louisa May Alcott</name>
+  <uri>http://www.feedbooks.com/author/50</uri>
+</author>
+<updated>2010-04-04T18:31:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1875</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>Life with seven boy cousins isn't quite what Rose expected. Left an orphan after her father's death, Rose Campbell is sent to live at the &quot;Aunt Hill&quot; with her six aunts and seven rowdy boy cousins. For someone who is used to a girl's boarding school, it all seems pretty overwhelming. Her guardian, Uncle Alec, makes her eat healthy things like oatmeal, and even tries to get her to give up her pretty dresses for drab, sensible clothes. Will Rose ever get used to her uncle's crazy notions and all her noisy relatives?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/2726</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4683.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4683.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4683.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4683.png?t=20100404183114" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4683.png?size=smaller&amp;t=20100404183114" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4683.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Swiss Family Robinson</title>
+<id>http://www.feedbooks.com/book/4682</id>
+<author>
+  <name>Johann David Wyss</name>
+  <uri>http://www.feedbooks.com/author/1371</uri>
+</author>
+<updated>2010-04-02T17:40:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1812</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Adventure" label="Adventure"/>
+<summary>&quot;Swiss Family Robinson&quot; is the classic tale of a Swiss pastor, his wife and their four sons who find themselves shipwrecked on an isolated tropical island. Along with a couple of dogs, some livestock, pigeons and geese, &quot;Swiss Family Robinson,&quot; is the story of a family's struggle to survive in a foreign land isolated from society. Everyday brings a new adventure and a new obstacle to overcome. Above all, &quot;Swiss Family Robinson&quot; is a classic tale of adventure that can be enjoyed by readers both young and old.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/11703</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4682.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4682.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4682.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4682.png?t=20100402174013" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4682.png?size=smaller&amp;t=20100402174013" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4682.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ring Once for Death</title>
+<id>http://www.feedbooks.com/book/4681</id>
+<author>
+  <name>Robert Andrew Arthur</name>
+  <uri>http://www.feedbooks.com/author/404</uri>
+</author>
+<updated>2010-04-02T17:11:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The power of the old gods was certainly nothing for Mark and Edith&#8212;a modern, twentieth-century couple&#8212;to worry about. After all&#8212;everybody dies!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31840</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4681.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4681.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4681.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4681.png?t=20100402171137" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4681.png?size=smaller&amp;t=20100402171137" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4681.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Pair of Blue Eyes</title>
+<id>http://www.feedbooks.com/book/4679</id>
+<author>
+  <name>Thomas Hardy</name>
+  <uri>http://www.feedbooks.com/author/48</uri>
+</author>
+<updated>2010-04-01T17:00:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1873</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Elfride finds herself caught in a battle between her heart, her mind and the expectations of her parents and society. The novel is notable for the strong parallels to Hardy and his first wife Emma Gifford. When Elfride's father finds that his guest and candidate for his daughter's hand, architect's assistant Stephen Smith, is the son of a mason, he immediately orders him to leave. This was the third of Hardy's novels to be published and the first to bear his name. </summary>
+<dcterms:source>http://www.gutenberg.org/etext/224</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4679.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4679.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4679.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4679.png?t=20100401170026" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4679.png?size=smaller&amp;t=20100401170026" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4679.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Wedge</title>
+<id>http://www.feedbooks.com/book/4680</id>
+<author>
+  <name>Horace Brown Fyfe</name>
+  <uri>http://www.feedbooks.com/author/340</uri>
+</author>
+<updated>2010-04-01T11:36:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Finding his way out of this maze was only half the job.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31833</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4680.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4680.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4680.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4680.png?t=20100401113610" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4680.png?size=smaller&amp;t=20100401113610" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4680.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Student Body</title>
+<id>http://www.feedbooks.com/book/4678</id>
+<author>
+  <name>Floyd L. Wallace</name>
+  <uri>http://www.feedbooks.com/author/1004</uri>
+</author>
+<updated>2010-03-31T13:02:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>When a really infallible scientific bureau makes a drastically serious error, the data must be wrong ... but wrong in what way?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31815</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4678.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4678.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4678.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4678.png?t=20100331130220" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4678.png?size=smaller&amp;t=20100331130220" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4678.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A House of Pomegranates</title>
+<id>http://www.feedbooks.com/book/4677</id>
+<author>
+  <name>Oscar Wilde</name>
+  <uri>http://www.feedbooks.com/author/5</uri>
+</author>
+<updated>2010-03-31T12:51:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1892</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Collections" label="Collections"/>
+<summary>A House of Pomegranates is a collection of whimisical short stories by Oscar Wilde. This collections includes the following tales: The Young King, The Birthday of the Infanta, The Fisherman and his Soul, and The Star-child. Readers of all ages will be delighted by these fanciful tales.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/873</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4677.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4677.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4677.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4677.png?t=20100331125139" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4677.png?size=smaller&amp;t=20100331125139" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4677.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Trumpet-Major</title>
+<id>http://www.feedbooks.com/book/4676</id>
+<author>
+  <name>Thomas Hardy</name>
+  <uri>http://www.feedbooks.com/author/48</uri>
+</author>
+<updated>2010-03-30T15:41:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1880</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<category term="Romance" label="Romance"/>
+<category term="War" label="War"/>
+<summary>Hardy distrusted the application of nineteenth-century empiricism to history because he felt it marginalized important human elements. In The Trumpet Major, the tale of a woman courted by three competing suitors during the Napoleonic wars, he explores the subversive effects of ordinary human desire and conflicting loyalties on systematized versions of history.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/2864</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4676.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4676.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4676.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4676.png?t=20100330154108" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4676.png?size=smaller&amp;t=20100330154108" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4676.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Life, Adventures &amp; Piracies of the Famous Captain Singleton</title>
+<id>http://www.feedbooks.com/book/4675</id>
+<author>
+  <name>Daniel Defoe</name>
+  <uri>http://www.feedbooks.com/author/40</uri>
+</author>
+<updated>2010-03-30T15:10:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1720</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The narrative describes the life of an Englishman, stolen from a well-to-do family as a child and raised by Gypsies who eventually makes his way to sea. One half of the book concerns Singleton's crossing of Africa and the later half concerns his life as a pirate. Defoe's description of piracy focuses for the most part on matters of economics and logistics, making it an intriguing if not particularly gripping read. Singleton's piracy is more like a merchant adventurer, perhaps Defoe's comment on capitalism. </summary>
+<dcterms:source>http://www.gutenberg.org/etext/6422</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4675.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4675.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4675.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4675.png?t=20100330151045" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4675.png?size=smaller&amp;t=20100330151045" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4675.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Psilent Partner</title>
+<id>http://www.feedbooks.com/book/4674</id>
+<author>
+  <name>John Victor Peterson</name>
+  <uri>http://www.feedbooks.com/author/1050</uri>
+</author>
+<updated>2010-03-30T13:58:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Without stressing the technological aspects of the strange powers of the widely-talented ones&#8212;the psis, espers, telepaths which have been so painstakingly forecast by Stapledon, van Vogt, Weinbaum, Vance and others&#8212;Messieurs Peterson and Staub have whipped fantasy, forecasts and facts into a stirring and mentally titillating story of a too-imaginative mind.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31735</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4674.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4674.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4674.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4674.png?t=20100330135831" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4674.png?size=smaller&amp;t=20100330135831" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4674.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Star Performer</title>
+<id>http://www.feedbooks.com/book/4673</id>
+<author>
+  <name>Robert Joseph Shea</name>
+  <uri>http://www.feedbooks.com/author/257</uri>
+</author>
+<updated>2010-03-30T13:52:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Blue Boy's rating was high and his fans were loyal to the death&#8212;anyone's death!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31736</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4673.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4673.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4673.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4673.png?t=20100330135221" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4673.png?size=smaller&amp;t=20100330135221" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4673.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Sloths of Kruvny</title>
+<id>http://www.feedbooks.com/book/4672</id>
+<author>
+  <name>Vern Fearing</name>
+  <uri>http://www.feedbooks.com/author/1370</uri>
+</author>
+<updated>2010-03-30T13:48:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>This world we live in is a pretty grim place. It's tough to make a living. At any moment we may get blown up, down or sideways by the atom bomb. The day after tomorrow may never come, and on top of all this, TV commercials are getting worse and worse. It seems that our only salvation is a sense of humor, so we give you &quot;The Sloths ...&quot; a very unserious yarn.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31737</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4672.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4672.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4672.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4672.png?t=20100330134804" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4672.png?size=smaller&amp;t=20100330134804" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4672.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Peacemaker</title>
+<id>http://www.feedbooks.com/book/4671</id>
+<author>
+  <name>Alfred Coppel</name>
+  <uri>http://www.feedbooks.com/author/412</uri>
+</author>
+<updated>2010-03-30T13:44:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The legends of Jaq Merril are legion&#8212;but legends. Hark, ye, then to the true story of the pirate benefactor of Mankind!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31767</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4671.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4671.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4671.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4671.png?t=20100330134414" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4671.png?size=smaller&amp;t=20100330134414" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4671.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Draw</title>
+<id>http://www.feedbooks.com/book/4670</id>
+<author>
+  <name>Jerome Bixby</name>
+  <uri>http://www.feedbooks.com/author/1171</uri>
+</author>
+<updated>2010-03-30T13:40:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Stories of the old West were filled with bad men who lived by the speed of their gun hand. Well, meet Buck Tarrant, who could outdraw them all. His secret: he didn't even have to reach for his weapon....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31778</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4670.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4670.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4670.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4670.png?t=20100330134042" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4670.png?size=smaller&amp;t=20100330134042" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4670.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Double Spy</title>
+<id>http://www.feedbooks.com/book/4669</id>
+<author>
+  <name>Dan T. Moore</name>
+  <uri>http://www.feedbooks.com/author/1369</uri>
+</author>
+<updated>2010-03-30T13:37:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Meet the man with no name. Nothing cool about this cat. He was built along the lines of a necktie rack, weighed slightly more than a used napkin, and was as shy as the ante in a crooked poker game. No sex appeal there, you'd say. Yet within the space of a few days every woman in the country melted into quivering protoplasm at the very thought of this mystery man!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31788</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4669.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4669.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4669.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4669.png?t=20100330133734" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4669.png?size=smaller&amp;t=20100330133734" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4669.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Games</title>
+<id>http://www.feedbooks.com/book/4668</id>
+<author>
+  <name>Katherine Anne MacLean</name>
+  <uri>http://www.feedbooks.com/author/1368</uri>
+</author>
+<updated>2010-03-30T13:34:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It is a tough assignment for a child to know where a daydream ends and impossibility begins!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31798</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4668.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4668.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4668.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4668.png?t=20100330133427" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4668.png?size=smaller&amp;t=20100330133427" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4668.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>'Mid Pleasures and Palaces</title>
+<id>http://www.feedbooks.com/book/4664</id>
+<author>
+  <name>James McKimmey</name>
+  <uri>http://www.feedbooks.com/author/1145</uri>
+</author>
+<updated>2010-03-22T17:15:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It was, Kirk thought, like standing in a gully, watching a boulder teeter precariously above you. It might fall at any minute, crushing your life out instantly beneath its weight. Your only possible defenses are your brain and voice&#8212;but how do you argue with a boulder which neither sees nor hears?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31703</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4664.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4664.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4664.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4664.png?t=20100322171503" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4664.png?size=smaller&amp;t=20100322171503" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4664.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Noble Redman</title>
+<id>http://www.feedbooks.com/book/4663</id>
+<author>
+  <name>Jesse Franklin Bone</name>
+  <uri>http://www.feedbooks.com/author/167</uri>
+</author>
+<updated>2010-03-22T17:09:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It was a big joke on all concerned. When you look back, the whole thing really began because his father had a sense of humor. Oh, the name fit all right, but can you imagine naming your son.... Noble Redman</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31701</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4663.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4663.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4663.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4663.png?t=20100322170917" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4663.png?size=smaller&amp;t=20100322170917" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4663.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Issahar Artifacts</title>
+<id>http://www.feedbooks.com/book/4662</id>
+<author>
+  <name>Jesse Franklin Bone</name>
+  <uri>http://www.feedbooks.com/author/167</uri>
+</author>
+<updated>2010-03-22T17:06:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Lincoln said it eons ago.... It took a speck of one-celled plant life on a world parsecs away to prove it for all the galaxy.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29271</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4662.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4662.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4662.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4662.png?t=20100322170627" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4662.png?size=smaller&amp;t=20100322170627" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4662.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Planet Savers</title>
+<id>http://www.feedbooks.com/book/4661</id>
+<author>
+  <name>Marion Zimmer Bradley</name>
+  <uri>http://www.feedbooks.com/author/154</uri>
+</author>
+<updated>2010-03-20T17:58:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Marion Zimmer Bradley has written some of the finest science fiction in print. She has been away from our pages too long. So this story is in the nature of a triumphant return. It could well be her best to date.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31619</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4661.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4661.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4661.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4661.png?t=20100320175830" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4661.png?size=smaller&amp;t=20100320175830" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4661.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

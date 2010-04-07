@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=7&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=7&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=7&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 7 | Feedbooks</title>
+  <updated>2010-04-07T18:24:36Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>121</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=6&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=8&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Island of Dr. Moreau</title>
+<id>http://www.feedbooks.com/book/33</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:06:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1896</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Edward Prendick is shipwrecked in the Pacific. Rescued by Doctor Moreau's assistant he is taken to the doctor's island home where he discovers the doctor has been experimenting on the animal inhabitants of the island, creating bizarre proto-humans...</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/33.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/33.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/33.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/33.png?t=20090916100656" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/33.png?size=smaller&amp;t=20090916100656" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/33.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Twenty Years After</title>
+<id>http://www.feedbooks.com/book/3586</id>
+<author>
+  <name>Alexandre Dumas</name>
+  <uri>http://www.feedbooks.com/author/25</uri>
+</author>
+<updated>2009-08-18T01:18:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1845</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<category term="Romance" label="Romance"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The fantastic adventures of the Three Musketeers continue - starting with an intrigue surrounding D'Artagnan who has, for twenty years, remained a lieutenant.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3586.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3586.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3586.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3586.png?t=20090818011810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3586.png?size=smaller&amp;t=20090818011810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3586.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Sea Wolf</title>
+<id>http://www.feedbooks.com/book/2848</id>
+<author>
+  <name>Jack London</name>
+  <uri>http://www.feedbooks.com/author/34</uri>
+</author>
+<updated>2009-09-16T12:28:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1904</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Chronicles the voyages of a ship run by the ruthless Wolf Larsen, among the greatest of London's characters, and spokesman for an extreme individualism London intended to critique.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2848.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2848.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2848.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2848.png?t=20090916122837" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2848.png?size=smaller&amp;t=20090916122837" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2848.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Christmas Carol</title>
+<id>http://www.feedbooks.com/book/59</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:07:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1843</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>In his &quot;Ghostly little book,&quot; Charles Dickens invents the modern concept of Christmas Spirit and offers one of the world&#8217;s most adapted and imitated stories. We know Ebenezer Scrooge, Tiny Tim, and the Ghosts of Christmas Past, Present, and Future, not only as fictional characters, but also as icons of the true meaning of Christmas in a world still plagued with avarice and cynicism.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/59.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/59.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/59.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/59.png?t=20090916100756" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/59.png?size=smaller&amp;t=20090916100756" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/59.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Cask of Amontillado</title>
+<id>http://www.feedbooks.com/book/762</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1846</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>&quot;The Cask of Amontillado&quot; (sometimes spelled &quot;The Casque of Amontillado&quot;) is a short story, written by Edgar Allan Poe and first published in the November 1846 issue of Godey's Lady's Book.
+The story is set in a nameless Italian city in an unspecified year (possibly sometime during the eighteenth century) and concerns the deadly revenge taken by the narrator on a friend who he claims has insulted him. Like several of Poe's stories, and in keeping with the 19th-century fascination with the subject, the narrative revolves around a person being buried alive &#8211; in this case, by immurement.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/762.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/762.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/762.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/762.png?t=20090916103015" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/762.png?size=smaller&amp;t=20090916103015" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/762.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Sign of the Four</title>
+<id>http://www.feedbooks.com/book/2</id>
+<author>
+  <name>Arthur Conan Doyle</name>
+  <uri>http://www.feedbooks.com/author/1</uri>
+</author>
+<updated>2009-09-16T10:06:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1890</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>First published in 1890, The Sign of Four is Sir Arthur Conan Doyle's second book starring legendary detective Sherlock Holmes. The story is complex, involving a secret between four ex-cons from India and a hidden treasure. More complex than the first Holmes novel, The Sign of Four also introduces the detective's drug habit and leaves breadcrumbs for the reader that lead toward the final resolution.</summary>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2.png?t=20090916100620" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2.png?size=smaller&amp;t=20090916100620" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Candide</title>
+<id>http://www.feedbooks.com/book/709</id>
+<author>
+  <name>Voltaire</name>
+  <uri>http://www.feedbooks.com/author/146</uri>
+</author>
+<updated>2009-12-11T09:58:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1759</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Philosophy" label="Philosophy"/>
+<summary>Candide, ou l'Optimisme (1759) is a French satire by the Enlightenment philosopher Voltaire, English translations of which have been titled Candide: Or, All for the Best (1759); Candide: Or, The Optimist (1762); and Candide: Or, Optimism (1947). The novella begins with a young man, Candide, who is living a sheltered life in an Edenic paradise and being indoctrinated with Leibnizian optimism (or simply optimism) by his tutor, Pangloss. The work describes the abrupt cessation of this existence, followed by Candide's slow, painful disillusionment as he witnesses and experiences great hardships in the world. Voltaire concludes with Candide, if not outright rejecting optimism, advocating an enigmatic precept, &quot;we must cultivate our garden&quot;, in lieu of the Leibnizian mantra of Pangloss, &quot;all is for the best in the best of all possible worlds&quot;.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/709.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/709.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/709.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/709.png?t=20091211095835" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/709.png?size=smaller&amp;t=20091211095835" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/709.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Age of Reason</title>
+<id>http://www.feedbooks.com/book/3781</id>
+<author>
+  <name>Thomas Paine</name>
+  <uri>http://www.feedbooks.com/author/577</uri>
+</author>
+<updated>2009-10-05T11:24:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1807</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<category term="Essay" label="Essay"/>
+<category term="Religion" label="Religion"/>
+<summary>The Age of Reason: Being an Investigation of True and Fabulous Theology, a deistic treatise written by eighteenth-century British radical and American revolutionary Thomas Paine, critiques institutionalized religion and challenges the inerrancy of the Bible. Published in three parts in 1794, 1795, and 1807, it was a bestseller in America, where it caused a short-lived deistic revival. British audiences, however, fearing increased political radicalism as a result of the French revolution, received it with more hostility. The Age of Reason presents common deistic arguments; for example, it highlights the corruption of the Christian Church and criticizes its efforts to acquire political power. Paine advocates reason in the place of revelation, leading him to reject miracles and to view the Bible as an ordinary piece of literature rather than as a divinely inspired text. The Age of Reason is not atheistic, but deistic: it promotes natural religion and argues for a creator-God.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3781.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3781.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3781.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3781.png?t=20091005112409" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3781.png?size=smaller&amp;t=20091005112409" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3781.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Othello</title>
+<id>http://www.feedbooks.com/book/2941</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:35:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1603</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<summary>Othello, The Moor of Venice is a tragedy by William Shakespeare based on the short story &quot;Moor of Venice&quot; by Cinthio, believed to have been written in approximately 1603. The work revolves around four central characters: Othello, his wife Desdemona, his lieutenant Cassio, and his trusted advisor Iago. Attesting to its enduring popularity, the play appeared in 7 editions between 1622 and 1705. Because of its varied themes &#8212; racism, love, jealousy and betrayal &#8212; it remains relevant to the present day and is often performed in professional and community theatres alike. The play has also been the basis for numerous operatic, film and literary adaptations. (From Wikipedia)</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2941.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2941.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2941.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2941.png?t=20090916123521" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2941.png?size=smaller&amp;t=20090916123521" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2941.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Importance of Being Earnest</title>
+<id>http://www.feedbooks.com/book/4152</id>
+<author>
+  <name>Oscar Wilde</name>
+  <uri>http://www.feedbooks.com/author/5</uri>
+</author>
+<updated>2009-09-05T13:19:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1895</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Set in England during the late Victorian era, the play's humour derives in part from characters maintaining fictitious identities to escape unwelcome social obligations. It is replete with witty dialogue and satirizes some of the foibles and hypocrisy of late Victorian society. It has proved Wilde's most enduringly popular play.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4152.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4152.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4152.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4152.png?t=20090905131921" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4152.png?size=smaller&amp;t=20090905131921" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4152.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Masque of the Red Death</title>
+<id>http://www.feedbooks.com/book/789</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1842</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>&quot;The Masque of the Red Death&quot;, originally published as &quot;The Mask of the Red Death&quot;, is a short story written by Edgar Allan Poe and first published in 1842. The story follows Prince Prospero's attempts to avoid a dangerous plague known as the Red Death by hiding in his abbey. He, along with many other wealthy nobles, has a masquerade ball within seven rooms of his abbey, each decorated with a different color. In the midst of their revelry, a mysterious figure enters and makes his way through each of the rooms. When Prospero confronts this stranger, he falls dead. The story follows many traditions of Gothic fiction and is often analyzed as an allegory about the inevitability of death, though some critics advise against an allegorical reading. Many different interpretations have been presented, as well as attempts to identify the true nature of the disease of the &quot;Red Death.&quot;</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/789.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/789.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/789.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/789.png?t=20090916103019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/789.png?size=smaller&amp;t=20090916103019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/789.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Lost World</title>
+<id>http://www.feedbooks.com/book/67</id>
+<author>
+  <name>Arthur Conan Doyle</name>
+  <uri>http://www.feedbooks.com/author/1</uri>
+</author>
+<updated>2009-09-16T10:08:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The Lost World is a novel released in 1912 by Arthur Conan Doyle concerning an expedition to a plateau in South America where prehistoric animals (dinosaurs and other extinct creatures) still survive. The character of Professor Challenger was introduced in this book. Interestingly, for a seminal work of dinosaur-related fiction, the animals only occupy a small portion of the narrative. Much more time is devoted to a war between early human hominids and a vicious tribe of ape-like creatures.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/67.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/67.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/67.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/67.png?t=20090916100805" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/67.png?size=smaller&amp;t=20090916100805" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/67.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Apology</title>
+<id>http://www.feedbooks.com/book/678</id>
+<author>
+  <name>Plato</name>
+  <uri>http://www.feedbooks.com/author/144</uri>
+</author>
+<updated>2009-09-16T10:28:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-400</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>(The) Apology (of Socrates) is Plato's version of the speech given by Socrates as he defends himself against the charges of being a man &quot;who corrupted the young, did not believe in the gods, and created new deities&quot;. &quot;Apology&quot; here has its earlier meaning (now usually expressed by the word &quot;apologia&quot;) of speaking in defense of a cause or of one's beliefs or actions (from the Greek &#945;&#960;&#959;&#955;&#959;&#947;&#943;&#945;).</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/678.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/678.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/678.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/678.png?t=20090916102838" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/678.png?size=smaller&amp;t=20090916102838" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/678.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mysterious Affair at Styles</title>
+<id>http://www.feedbooks.com/book/2058</id>
+<author>
+  <name>Agatha Christie</name>
+  <uri>http://www.feedbooks.com/author/287</uri>
+</author>
+<updated>2009-09-16T11:35:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>In her first published mystery, Agatha Christie introduces readers to the heroic detective, Hercule Poirot. This is a classic murder mystery set in the outskirts of Essex. The victim is the wealthy mistress of Styles Court. The list of suspects is long and includes her gold-digging new spouse and stepsons, her doctor, and her hired companion.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2058.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2058.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2058.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2058.png?t=20090916113541" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2058.png?size=smaller&amp;t=20090916113541" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2058.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Way of the Bow</title>
+<id>http://www.feedbooks.com/book/3873</id>
+<author>
+  <name>Paulo Coelho</name>
+  <uri>http://www.feedbooks.com/author/1055</uri>
+</author>
+<updated>2009-08-18T01:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>&#8220;The Way of the Bow&#8221; relates the story of Tetsuya, the best archer of the country, who conveys his teachings to a boy in his village. Using the metaphor of archery the author leads us through several essential thoughts : our daily efforts and work, how to overcome difficulties, steadfastness, and courage to take risky decisions. </summary>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3873.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3873.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3873.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3873.png?t=20090818011816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3873.png?size=smaller&amp;t=20090818011816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3873.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In the Year 2889</title>
+<id>http://www.feedbooks.com/book/477</id>
+<author>
+  <name>Jules Verne</name>
+  <uri>http://www.feedbooks.com/author/19</uri>
+</author>
+<updated>2009-09-16T10:22:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1889</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>In the Year 2889 was first published in the Forum, February, 1889. It was published in France the next year. Although published under the name of Jules Verne, it is now believed to be chiefly if not entirely the work of Jules Verne's son, Michel Verne. In any event, many of the topics in the article echo Jules Verne's ideas.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/477.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/477.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/477.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/477.png?t=20090916102245" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/477.png?size=smaller&amp;t=20090916102245" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/477.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tales of Space and Time</title>
+<id>http://www.feedbooks.com/book/3469</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-08-18T01:18:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1900</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>A collection of short stories: &quot;The Crystal Egg&quot;, &quot;The Star&quot;, &quot;A Story of the Stone Age&quot;, &quot;A Story of the Days to Come&quot; &amp; &quot;The Man who could Work Miracles&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3469.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3469.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3469.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3469.png?t=20090818011807" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3469.png?size=smaller&amp;t=20090818011807" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3469.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Blindsight</title>
+<id>http://www.feedbooks.com/book/976</id>
+<author>
+  <name>Peter Watts</name>
+  <uri>http://www.feedbooks.com/author/193</uri>
+</author>
+<updated>2009-09-16T10:37:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Two months since sixty-five thousand alien objects clenched around the Earth like a luminous fist, screaming to the heavens as the atmosphere burned them to ash. Two months since that moment of brief, bright surveillance by agents unknown. 
+
+Two months of silence, while a world holds its breath.
+
+Now some half-derelict space probe, sparking fitfully past Neptune's orbit, hears a whisper from the edge of the solar system: a faint signal sweeping the cosmos like a lighthouse beam. Whatever's out there isn't talking to us. It's talking to some distant star, perhaps. Or perhaps to something closer, something en route.
+
+So who do you send to force introductions on an intelligence with motives unknown, maybe unknowable? Who do you send to meet the alien when the alien doesn't want to meet?
+
+You send a linguist with multiple personalities, her brain surgically partitioned into separate, sentient processing cores. You send a biologist so radically interfaced with machinery that he sees x-rays and tastes ultrasound, so compromised by grafts and splices he no longer feels his own flesh. You send a pacifist warrior in the faint hope she won't be needed, and the fainter one she'll do any good if she is. You send a monster to command them all, an extinct hominid predator once called vampire, recalled from the grave with the voodoo of recombinant genetics and the blood of sociopaths. And you send a synthesist&#8212;an informational topologist with half his mind gone&#8212;as an interface between here and there, a conduit through which the Dead Center might hope to understand the Bleeding Edge.
+
+You send them all to the edge of interstellar space, praying you can trust such freaks and retrofits with the fate of a world. You fear they may be more alien than the thing they've been sent to find.
+
+But you'd give anything for that to be true, if you only knew what was waiting for them...</summary>
+<dcterms:source>http://www.rifters.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/976.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/976.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/976.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/976.png?t=20090916103751" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/976.png?size=smaller&amp;t=20090916103751" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/976.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Captain Blood</title>
+<id>http://www.feedbooks.com/book/2158</id>
+<author>
+  <name>Rafael Sabatini</name>
+  <uri>http://www.feedbooks.com/author/304</uri>
+</author>
+<updated>2009-09-16T11:48:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>A gentlemanly Irish physician is innocently condemned to a life of slavery in the English colonies across the sea. There, on a Caribbean Island plantation, the good Dr. Peter Blood, toils as a slave. A chance raid by Spaniards affords Blood his opportunity to escape into a life of piracy and crime upon the high seas. But Blood is a pirate with a sense of honor. How Blood distinguishes himself against his enemies, is the tale in this enjoyable historical adventure.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2158.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2158.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2158.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2158.png?t=20090916114852" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2158.png?size=smaller&amp;t=20090916114852" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2158.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Discourse on the Method</title>
+<id>http://www.feedbooks.com/book/677</id>
+<author>
+  <name>Ren&#233; Descartes</name>
+  <uri>http://www.feedbooks.com/author/143</uri>
+</author>
+<updated>2009-09-16T10:28:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1637</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<summary>The Discourse on the Method is a philosophical and mathematical treatise published by Ren&#233; Descartes in 1637. Its full name is Discourse on the Method of Rightly Conducting the Reason, and Searching for Truth in the Sciences (French title: Discours de la m&#233;thode pour bien conduire sa raison, et chercher la verit&#233; dans les sciences). The Discourse on Method is best known as the source of the famous quotation &quot;Je pense, donc je suis&quot; (&quot;I think, therefore I am&quot;), which occurs in Part IV of the work. (The similar statement in Latin, Cogito ergo sum, is found in &#167;7 of Principles of Philosophy.) In addition, in one of its appendices, La G&#233;om&#233;trie, is contained Descartes' first introduction of the Cartesian coordinate system.
+The Discourse on the Method is one of the most influential works in the history of modern science. It is a method which gives a solid platform from which all modern natural sciences could evolve. In this work, Descartes tackles the problem of skepticism which had been revived from the ancients such as Sextus Empiricus by authors such as Al-Ghazali and Michel de Montaigne. Descartes modified it to account for a truth that he found to be incontrovertible. Descartes started his line of reasoning by doubting everything, so as to assess the world from a fresh perspective, clear of any preconceived notions.
+The book was originally published in Leiden in French, together with his works &quot;Dioptrique, M&#233;t&#233;ores et G&#233;om&#233;trie&quot;. Later, it was translated into Latin and published in 1656 in Amsterdam.
+Together with Meditations on First Philosophy (Meditationes de Prima Philosophia), Principles of Philosophy (Principia philosophiae) and Rules for the Direction of the Mind (Regulae ad directionem ingenii), it forms the base of the Epistemology known as Cartesianism.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/677.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/677.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/677.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/677.png?t=20090916102837" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/677.png?size=smaller&amp;t=20090916102837" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/677.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

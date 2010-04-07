@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=30&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=30&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=30&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 30 | Feedbooks</title>
+  <updated>2010-04-07T18:23:24Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>581</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=29&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=31&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Nobody to Kill: A Dick Burns Minit Mrdr&#174;</title>
+<id>http://www.feedbooks.com/userbook/2286</id>
+<author>
+  <name>William Garner &amp; monkeyrotica</name>
+  <uri>http://www.feedbooks.com/user/19484/profile#William%20Garner%20%26%20monkeyrotica</uri>
+</author>
+<updated>2009-08-17T16:17:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Private dick Dick Burns takes on healthcare fraud, bisexual thrill killers, and a dog with scrofula...with guns blazing!</summary>
+<category term="detective"/>
+<category term="dc"/>
+<category term="pulp"/>
+<category term="minit mrdr"/>
+<category term="dick burns"/>
+<category term="monkeyrotica"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/2286.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/2286.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/2286.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2286.png?t=20090817161709" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2286.png?size=smaller&amp;t=20090817161709" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/2286.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #7</title>
+<id>http://www.feedbooks.com/userbook/3982</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T20:06:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Reunion.
+
+Where does poor little Harley run with nowhere else to go? To Ivy's house, of course! How long can she hold up away from the Joker, and could he possibly be trying to get her back? Plus, the Ultimate secret origin of Poison Ivy!</summary>
+<category term="batgirl"/>
+<category term="Joker"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="harley quinn"/>
+<category term="poison ivy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3982.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3982.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3982.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3982.png?t=20090817200619" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3982.png?size=smaller&amp;t=20090817200619" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3982.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #8</title>
+<id>http://www.feedbooks.com/userbook/4083</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T20:06:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Your Worst Nightmare, Part 1 (of 2).
+
+Jonathan Crane is tired of waiting. He has stores of his prized posession, his finished 'fear gas', all over Gotham. With a push of a single button, he will trap everything that breathes in their own worst nightmare, and for once in his life, Crane will be the one unafraid.
+
+What terrors lurk in the darkest parts of the minds of all our stars? And how will any of them break free? If they even can...</summary>
+<category term="Scarecrow"/>
+<category term="Joker"/>
+<category term="batgirl"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="poison ivy"/>
+<category term="harley quinn"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4083.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4083.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4083.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4083.png?t=20090817200625" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4083.png?size=smaller&amp;t=20090817200625" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4083.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #5</title>
+<id>http://www.feedbooks.com/userbook/4257</id>
+<author>
+  <name>Ellen Fleischer</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Ellen%20Fleischer</uri>
+</author>
+<updated>2009-08-17T19:16:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Nightwing: The Great Unknown, Part 5 (of 7): Little Acorns</summary>
+<category term="Vigilante"/>
+<category term="Huntress"/>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Black Canary"/>
+<category term="Green Arrow"/>
+<category term="Clark Kent"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4257.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4257.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4257.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4257.png?t=20090817191622" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4257.png?size=smaller&amp;t=20090817191622" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4257.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Maximum Catwoman #5</title>
+<id>http://www.feedbooks.com/userbook/4631</id>
+<author>
+  <name>Jayson Morriseau-Lussier</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Jayson%20Morriseau-Lussier</uri>
+</author>
+<updated>2009-08-17T16:32:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Maximum Catwoman: That Cat Brought it Back, Part One:
+'Rumble in Rio'
+
+Rio de Janeiro!
+
+Selina has taken her act on the road in an attempt to revitalize as the world renown thief she is known as...
+
+What will become of her adventure overseas?</summary>
+<category term="Batman"/>
+<category term="Catwoman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4631.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4631.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4631.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4631.png?t=20090817163256" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4631.png?size=smaller&amp;t=20090817163256" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4631.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #16</title>
+<id>http://www.feedbooks.com/userbook/4988</id>
+<author>
+  <name>Batkid</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Batkid</uri>
+</author>
+<updated>2009-08-17T16:36:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Nightwing: Beauty and the Mess. </summary>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4988.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4988.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4988.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4988.png?t=20090817163636" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4988.png?size=smaller&amp;t=20090817163636" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4988.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #29</title>
+<id>http://www.feedbooks.com/userbook/6282</id>
+<author>
+  <name>Ellen Fleischer</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Ellen%20Fleischer</uri>
+</author>
+<updated>2009-08-17T16:45:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Nightwing: Heart of a Hero
+
+Cornelius Stirk has Batman in his clutches! Robin's hot on the trail, but even if he gets there in time, can he prove a match for Stirk's metahuman powers? Tune in for the thrilling finale... and see!</summary>
+<category term="Cornelius Stirk"/>
+<category term="Kid Flash"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Nightwing"/>
+<category term="Batman"/>
+<category term="robin"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6282.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6282.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6282.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6282.png?t=20090817164521" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6282.png?size=smaller&amp;t=20090817164521" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6282.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Speed Force #1</title>
+<id>http://www.feedbooks.com/userbook/7582</id>
+<author>
+  <name>Tim Abramo</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Tim%20Abramo</uri>
+</author>
+<updated>2009-09-20T00:12:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Ultimate Speed Force: Family Ties.
+
+Wally West is the Flash, the Rogues are a force to be reckoned with, Iris is struggling to raise her son after the loss of her husband, and the patriarch of the speedsters, Jay Garrick, watches over all in his twilight years. In a flash of lightning and a crack of thunder, it will all change! Come and find out how!</summary>
+<category term="Kid Flash"/>
+<category term="Captain Cold"/>
+<category term="Captain Boomerang"/>
+<category term="Comics"/>
+<category term="DC3"/>
+<category term="flash"/>
+<category term="Impulse"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7582.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7582.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7582.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7582.png?t=20090920001211" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7582.png?size=smaller&amp;t=20090920001211" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7582.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Legacy</title>
+<id>http://www.feedbooks.com/userbook/8035</id>
+<author>
+  <name>Richard Stuart</name>
+  <uri>http://www.feedbooks.com/user/51412/profile#Richard%20Stuart</uri>
+</author>
+<updated>2009-10-27T13:13:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>When she discovers notes relating to one of her deceased father's unfinished investigations, Abigail sets out to end what he barely had time to begin. But can she come to terms with her own past, while confronting a monster in the present?
+
+This is the first in an episodic series.</summary>
+<category term="Halloween"/>
+<category term="thriller"/>
+<category term="supernatural"/>
+<category term="horror"/>
+<category term="quick read"/>
+<category term="Female Character"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8035.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8035.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8035.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8035.png?t=20091027131318" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8035.png?size=smaller&amp;t=20091027131318" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8035.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #40</title>
+<id>http://www.feedbooks.com/userbook/8046</id>
+<author>
+  <name>Batkid</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Batkid</uri>
+</author>
+<updated>2009-10-26T18:56:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Nightwing: Formula for Fear.
+
+Caught in the Scarecrow's trap, Batman comes face to face with his darkest terrors!</summary>
+<category term="Wonder Girl"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Scarecrow"/>
+<category term="Starfire"/>
+<category term="robin"/>
+<category term="Joker"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8046.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8046.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8046.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8046.png?t=20091026185611" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8046.png?size=smaller&amp;t=20091026185611" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8046.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #6</title>
+<id>http://www.feedbooks.com/userbook/4264</id>
+<author>
+  <name>Ellen Fleischer</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Ellen%20Fleischer</uri>
+</author>
+<updated>2009-08-17T16:30:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Nightwing: The Great Unknown, Part 6 (of 7): Rolling With the Punches</summary>
+<category term="Vigilante"/>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Black Canary"/>
+<category term="Green Arrow"/>
+<category term="Barbara Gordon"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4264.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4264.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4264.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4264.png?t=20090817163019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4264.png?size=smaller&amp;t=20090817163019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4264.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #23</title>
+<id>http://www.feedbooks.com/userbook/5433</id>
+<author>
+  <name>Batkid</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Batkid</uri>
+</author>
+<updated>2009-08-17T16:32:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Nightwing: Behind the Mask
+
+A HUGE twist on Nightwing's case in this action-packed issue! Nightwing, Nocturna, and Night-Thief meet again--but with what consequences? </summary>
+<category term="Night-Thief"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Nightwing"/>
+<category term="Nocturna"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5433.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5433.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5433.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5433.png?t=20090817163223" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5433.png?size=smaller&amp;t=20090817163223" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5433.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Theaker's Quarterly Fiction #29</title>
+<id>http://www.feedbooks.com/userbook/5922</id>
+<author>
+  <name>Silver Age Books</name>
+  <uri>http://www.feedbooks.com/user/20670/profile#Silver%20Age%20Books</uri>
+</author>
+<updated>2009-10-09T09:23:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Here is TQF29, seven stories high. Douglas Thompson takes the lead, with the eerie and poetic &quot;Madame Mortadore &amp; the Clouds&quot;. &quot;Foundling&quot; by Nick Sansone follows a painter through a troubled life foretold. &quot;Imaginary Prisons&quot; by David Tallerman also has a good deal to say on the subject of prophecies. John Hall delivers the last of his forgotten stories to our horror section, &quot;The Feaster from the Stars&quot;. (Its final image is unforgettable.) John Greenwood then lets us have it three times in the third eye, as Newton Braddell wends his hopeless way across the world. The review section contains the usual batch from me, as well as ones by John Greenwood, Rafe McGregor and Steve Redwood, who consider Morpheus Tales #3, a Hound of the Baskervilles graphic novel, and Midnight Street #12 respectively.</summary>
+<category term="tqf"/>
+<category term="SF"/>
+<category term="horror"/>
+<category term="fantasy"/>
+<category term="magazine"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5922.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5922.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5922.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5922.png?t=20091009092323" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5922.png?size=smaller&amp;t=20091009092323" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5922.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ladykiller - &quot;Hush&quot;</title>
+<id>http://www.feedbooks.com/userbook/6077</id>
+<author>
+  <name>Charlotte Gill</name>
+  <uri>http://www.feedbooks.com/user/16337/profile#Charlotte%20Gill</uri>
+</author>
+<updated>2009-08-17T19:48:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>&quot;Brian loves Patty in a quiet, sublime sort of a way, always has. He feels lucky, exempt from the marital cycles of jagged passion and boredom. But lately? He hears her shoes on the steps and his ass clenches. Since his accident, as he likes to think of it, or perhaps even before, there&#8217;s been something new. &quot;</summary>
+<category term="Canada"/>
+<category term="ladykiller"/>
+<category term="short stories"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6077.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6077.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6077.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6077.png?t=20090817194851" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6077.png?size=smaller&amp;t=20090817194851" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6077.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>All-Star Comics #6</title>
+<id>http://www.feedbooks.com/userbook/6600</id>
+<author>
+  <name>Kevin Hill</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Kevin%20Hill</uri>
+</author>
+<updated>2009-08-17T16:49:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>All-Star Comics: Firestorm the Nuclear Man</summary>
+<category term="Hyena"/>
+<category term="Firestorm"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Spit Shine"/>
+<category term="Ma Shine"/>
+<category term="Shoe Shine"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6600.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6600.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6600.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6600.png?t=20090817164906" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6600.png?size=smaller&amp;t=20090817164906" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6600.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #20</title>
+<id>http://www.feedbooks.com/userbook/7458</id>
+<author>
+  <name>Samantha Chapman and Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman%20and%20Don%20Walsh</uri>
+</author>
+<updated>2009-09-10T23:58:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>By Any Other Name, Part One.
+Five years ago, there is corruption in the GCPD. Fresh-faced Renee Montoya and DA Harvey Dent are on the trail, but can they find their traitor and expose him, before any more injustice is done?
+There's a new costume making his way through Gotham City, going by the name Killer Moth. Who is the man under this strange costume, and why is he gunning for Renee Montoya? </summary>
+<category term="Killer Moth"/>
+<category term="Two-Face"/>
+<category term="Comics"/>
+<category term="DC3"/>
+<category term="batgirl"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7458.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7458.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7458.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7458.png?t=20090910235837" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7458.png?size=smaller&amp;t=20090910235837" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7458.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rogues Gallery #2</title>
+<id>http://www.feedbooks.com/userbook/8851</id>
+<author>
+  <name>John Elbe</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#John%20Elbe</uri>
+</author>
+<updated>2009-12-12T01:34:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Rogues Gallery: Deadshot vs. Deathstroke.
+
+</summary>
+<category term="Rose Wilson"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Deadshot"/>
+<category term="Deathstroke"/>
+<category term="rose"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8851.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8851.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8851.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8851.png?t=20091212013425" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8851.png?size=smaller&amp;t=20091212013425" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8851.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>DC2 Special #4: DC2 Holiday Special</title>
+<id>http://www.feedbooks.com/userbook/8956</id>
+<author>
+  <name>various</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#various</uri>
+</author>
+<updated>2009-12-22T03:34:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>DC2 Special #4: DC2 Holiday Special.
+
+Spend some time with the both writers and artists of the DC2 &amp; DC3 as they celebrate Christmas with several heartwarming tales... and one tale starring Ambush Bug.
+
+If this doesn't put you in the holiday spirit, then your name must be Scrooge! </summary>
+<category term="Penguin"/>
+<category term="Vigilante"/>
+<category term="Catwoman"/>
+<category term="Hawkgirl"/>
+<category term="Superman"/>
+<category term="Batman"/>
+<category term="Santa"/>
+<category term="holidays"/>
+<category term="Christmas"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Ambush Bug"/>
+<category term="Phantom Stranger"/>
+<category term="Martian Manhunter"/>
+<category term="Speed Saunders"/>
+<category term="poison ivy"/>
+<category term="harley quinn"/>
+<category term="Wonder Woman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8956.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8956.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8956.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8956.png?t=20091222033413" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8956.png?size=smaller&amp;t=20091222033413" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8956.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Protestant Rephaim Version Of Hell</title>
+<id>http://www.feedbooks.com/userbook/10485</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2010-02-18T12:36:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Robert Morey, an orthodox Protestant, has written one of the most accepted and used books in defense of the doctrine of Hell that has come out in recent years. In his book he makes an argument for Hell which I think shows just how desperate he is for any kind of proof. In &quot;Death And The Afterlife,&quot; On page 79 he says FROM THE MEANING OF REPHAIM, WHEN THE BODY DIES, MAN ENTERS A NEW KIND OF EXISTENCE. HE THEN WILL EXIST AS A SPIRIT CREATURE AND EXPERIENCES WHAT ANGELS AND OTHER SPIRITS EXPERIENCE. JUST AS ANGELS ARE DISINCARNATE ENERGY BEINGS AND ARE COMPOSED ONLY OF MIND OR MENTAL ENERGY AND ARE CAPABLE OF THOUGHT AND SPEECH WITHOUT THE NEED OF AN EARTHLY BODY, WHEN MAN DIES, HE BECOMES A DISEMBODIED ENERGY BEING AND IS CAPABLE OF THOUGHT AND SPEECH WITHOUT THE NEED OF BODY.</summary>
+<category term="eternal"/>
+<category term="God"/>
+<category term="Jesus"/>
+<category term="Christ"/>
+<category term="destroy"/>
+<category term="resurrection"/>
+<category term="spiritualism"/>
+<category term="rephaim"/>
+<category term="life"/>
+<category term="of"/>
+<category term="tree"/>
+<category term="):"/>
+<category term="destruction"/>
+<category term="Die"/>
+<category term="Salvation"/>
+<category term="death"/>
+<category term="hell"/>
+<category term="heaven"/>
+<category term="eternity"/>
+<category term="perish"/>
+<category term="fire"/>
+<category term="spiritual"/>
+<category term="death"/>
+<category term="sleep"/>
+<category term="torment"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10485.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10485.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10485.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10485.png?t=20100218123643" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10485.png?size=smaller&amp;t=20100218123643" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10485.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Beyond Desert Storms</title>
+<id>http://www.feedbooks.com/userbook/975</id>
+<author>
+  <name>MC Radiance</name>
+  <uri>http://www.feedbooks.com/user/10045/profile#MC%20Radiance</uri>
+</author>
+<updated>2010-02-11T15:39:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2003</dcterms:issued>
+<summary>A play script about making love not war.  How to revive pacifism and poetry, a future without losers?  In the Iraqi desert a local sorceress wields mysterious powers.  She is captured while attacking a jaded US mercenary, her ex-lover Jack.  But she's also figuratively captured by his chic new Pakistani society dame...  The mystic witch works to impress his annoying &quot;Greek chorus&quot;, a triad of Gnomes which Jack is training for the air-force.  She slowly and persuasively turns the power tables... The two bi-curious women find peace as they trek down a spiritual path, merging with Jack in a m&#233;nage-&#224;-trois atop the ziggurat.  That is, until the U.S. soldier freaks out and deserts both his brave lovers...</summary>
+<category term="pacifism"/>
+<category term="freedom"/>
+<category term="politics"/>
+<category term="Spirituality"/>
+<category term="sexuality"/>
+<category term="drama"/>
+<category term="play"/>
+<category term="theater"/>
+<category term="jealousy"/>
+<category term="Iraq"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/975.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/975.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/975.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/975.png?t=20100211153939" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/975.png?size=smaller&amp;t=20100211153939" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/975.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

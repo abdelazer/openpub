@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=46&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=46&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=46&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 46 | Feedbooks</title>
+  <updated>2010-04-07T18:23:37Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>901</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=45&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=47&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Not Waving</title>
+<id>http://www.feedbooks.com/userbook/4449</id>
+<author>
+  <name>K. A. Laity</name>
+  <uri>http://www.feedbooks.com/user/14246/profile#K.%20A.%20Laity</uri>
+</author>
+<updated>2009-08-17T16:32:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1991</dcterms:issued>
+<summary>A woman devolves into madness on a road trip to Las Vegas after an auto accident and several failed suicide attempts. The title comes from Stevie Smith's poem which features the lines, &quot;I was much too far out all my life / 
+And not waving but drowning.&quot; Oddly enough, I wrote this long before I became an English professor (and it's nothing like my life, I hasten to add).  It was rejected by one agent in Los Angeles for being &quot;too relentlessly dark&quot; (it was the 80s, dark was out).</summary>
+<category term="Art"/>
+<category term="dreams"/>
+<category term="Writing"/>
+<category term="Vegas"/>
+<category term="Las"/>
+<category term="suicide"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4449.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4449.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4449.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4449.png?t=20090817163216" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4449.png?size=smaller&amp;t=20090817163216" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4449.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>One for the Road</title>
+<id>http://www.feedbooks.com/userbook/7466</id>
+<author>
+  <name>B. C. T&#248;rrissen</name>
+  <uri>http://www.feedbooks.com/user/51807/profile#B.%20C.%20T%C3%B8rrissen</uri>
+</author>
+<updated>2009-10-16T19:35:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>This is not a travel guide or a travel journal, it's both! Learn about a low-budget cruise to Antarctica, understand what the Trans-Siberian Railway really is like, enjoy the natural wonders of Southern Africa. The book is a fun read, but wherever you live, this book will also teach you about far-away destinations and about how to travel independently anywhere.  More details, including other trips and loads of photos, available from http://bjornfree.com/</summary>
+<category term="free"/>
+<category term="Trans-Siberian"/>
+<category term="Siberia"/>
+<category term="&#193;frica"/>
+<category term="Antarctica"/>
+<category term="backpacking"/>
+<category term="travel"/>
+<category term="independent travel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7466.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7466.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7466.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7466.png?t=20091016193507" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7466.png?size=smaller&amp;t=20091016193507" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7466.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Testing</title>
+<id>http://www.feedbooks.com/userbook/7685</id>
+<author>
+  <name>Kaolin Fire</name>
+  <uri>http://www.feedbooks.com/user/53469/profile#Kaolin%20Fire</uri>
+</author>
+<updated>2009-10-09T02:38:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>[650 words] Six metal walls: floor, ceiling, four lateral barriers to the outside world. Two circular windows face eachother, leading out to bleak darkness. A table sits a little off from the center of the room, surrounded by nine chairs.</summary>
+<category term="blackjack"/>
+<category term="lottery"/>
+<category term="poker"/>
+<category term="science fiction"/>
+<category term="short fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7685.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7685.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7685.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7685.png?t=20091009023810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7685.png?size=smaller&amp;t=20091009023810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7685.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Macedonia: A Nation at a Crossroads</title>
+<id>http://www.feedbooks.com/userbook/9412</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T13:50:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>The economy, culture, society, politics, and Balkan geopolitics of the Republic of Macedonia and its people.</summary>
+<category term="Central"/>
+<category term="Europe"/>
+<category term="Southeastern"/>
+<category term="Europe"/>
+<category term="Balkans"/>
+<category term="Eastern"/>
+<category term="Europe"/>
+<category term="Yugoslavia"/>
+<category term="Russia"/>
+<category term="Albania"/>
+<category term="Macedonia"/>
+<category term="Bulgaria"/>
+<category term="Croatia"/>
+<category term="Centraleastern"/>
+<category term="Europe"/>
+<category term="Habsburg"/>
+<category term="Ottoman"/>
+<category term="turkey"/>
+<category term="germany"/>
+<category term="Austria"/>
+<category term="czech"/>
+<category term="Repub"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9412.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9412.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9412.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9412.png?t=20100106135051" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9412.png?size=smaller&amp;t=20100106135051" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9412.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Blue Beetle Vol. 2 #3</title>
+<id>http://www.feedbooks.com/userbook/10006</id>
+<author>
+  <name>Chris Paugh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Chris%20Paugh</uri>
+</author>
+<updated>2010-01-29T02:11:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Blue Beetle: Rebirth.
+
+With Peacemaker taken over by a scarab and the Nuclear Family still on the warpath, two El Paso teens come to Ted Kord's rescue as the secret history of the Blue Beetle continues to unravel, with a shocking cliffhanger that changes everything!</summary>
+<category term="Jaime"/>
+<category term="Paco"/>
+<category term="Peacemaker"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Nuclear Family"/>
+<category term="Blue Beetle"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10006.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10006.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10006.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10006.png?t=20100129021111" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10006.png?size=smaller&amp;t=20100129021111" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10006.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Weird Western Quarterly #3</title>
+<id>http://www.feedbooks.com/userbook/3858</id>
+<author>
+  <name>Susan Hillwig</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig</uri>
+</author>
+<updated>2009-08-17T16:21:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Jonah Hex: Death &amp; Gunsmoke, Part 3 (of 4): Life During Wartime</summary>
+<category term="DC2"/>
+<category term="Scalphunter"/>
+<category term="Comics"/>
+<category term="Western"/>
+<category term="Jonah Hex"/>
+<category term="Bat Lash"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3858.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3858.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3858.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3858.png?t=20090817162153" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3858.png?size=smaller&amp;t=20090817162153" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3858.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>I Took a Long Walk</title>
+<id>http://www.feedbooks.com/userbook/2994</id>
+<author>
+  <name>Scott Everard</name>
+  <uri>http://www.feedbooks.com/user/23181/profile#Scott%20Everard</uri>
+</author>
+<updated>2009-08-17T16:22:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1987</dcterms:issued>
+<summary>A poem about a cemetery for children that died at childbirth.  The cemetery was beside the Berachah Home for Girls.  The home helped young pregnant girls as well as heroin addicts. </summary>
+<category term="Berachah"/>
+<category term="Cemetery"/>
+<category term="poem"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/2994.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/2994.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/2994.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2994.png?t=20090817162218" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2994.png?size=smaller&amp;t=20090817162218" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/2994.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Weird Western Quarterly #12</title>
+<id>http://www.feedbooks.com/userbook/4004</id>
+<author>
+  <name>Susan Hillwig</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig</uri>
+</author>
+<updated>2009-08-17T16:28:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>It's the first annual Christmas issue of Weird Western Quarterly featuring a holiday tale with the Old West speedster, Windrunner as well as a Jonah Hex vignette, &quot;Prelude to a Reckoning.&quot;</summary>
+<category term="windrunner"/>
+<category term="Christmas"/>
+<category term="Western"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Jonah Hex"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4004.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4004.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4004.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4004.png?t=20090817162822" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4004.png?size=smaller&amp;t=20090817162822" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4004.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Weird Western Quarterly #6</title>
+<id>http://www.feedbooks.com/userbook/3893</id>
+<author>
+  <name>Susan Hillwig</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig</uri>
+</author>
+<updated>2009-08-17T16:28:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>The Vigilante: A Lonely Soldier Away From Home</summary>
+<category term="Vigilante"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Western"/>
+<category term="Seven Soldiers of Victory"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3893.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3893.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3893.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3893.png?t=20090817162829" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3893.png?size=smaller&amp;t=20090817162829" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3893.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aquaman #14</title>
+<id>http://www.feedbooks.com/userbook/4295</id>
+<author>
+  <name>Masoud House</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Masoud%20House</uri>
+</author>
+<updated>2009-08-17T16:31:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Aquaman: The Return, Part 5 (of 5).
+
+With the arrival of the war-island, the Colossus, can Orin and his new allies stop the inevitable doom that is approaching the East Coast? And what is the larger plan that Black Manta and his allies have been preparing for that involves the dark past of Atlantis? What is OGRE and what is their purpose? What are Lex Luthor and Cornelius Krell&#8217;s roles in this organization? What are the roles of the Atlantean mages Merganys the Sea Witch and Hagen the Mystic, Orin&#8217;s loyal counsel? Where is the Dweller-in-the-Depths and what are the Black Days of the Obsidian Age that is to return to Atlantis? And who is the Black King of Prophecy who will help return it?</summary>
+<category term="Aqualad"/>
+<category term="Tsunami"/>
+<category term="Atlantis"/>
+<category term="Aquaman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Lex Luthor"/>
+<category term="Supreme One"/>
+<category term="Captain Nemo"/>
+<category term="Deep Blue"/>
+<category term="Neptune Perkins"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4295.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4295.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4295.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4295.png?t=20090817163103" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4295.png?size=smaller&amp;t=20090817163103" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4295.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>I, Simon, a Soldier</title>
+<id>http://www.feedbooks.com/userbook/5481</id>
+<author>
+  <name>S. P. Elledge</name>
+  <uri>http://www.feedbooks.com/user/113/profile#S.%20P.%20Elledge</uri>
+</author>
+<updated>2009-08-18T01:05:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>a novella from the forthcoming anthology, Triptych</summary>
+<category term="fantasy"/>
+<category term="literature"/>
+<category term="Story"/>
+<category term="novella"/>
+<category term="fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5481.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5481.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5481.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5481.png?t=20090818010551" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5481.png?size=smaller&amp;t=20090818010551" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5481.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Octogenarian ski-jumper: free sample</title>
+<id>http://www.feedbooks.com/userbook/7806</id>
+<author>
+  <name>Martin McGovern</name>
+  <uri>http://www.feedbooks.com/user/54359/profile#Martin%20McGovern</uri>
+</author>
+<updated>2009-10-21T10:06:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>This e-book has sample chapters describing the achievements of the famous and the not-so-famous, arranged by the age at which they achieved sporting greatness, wrote that novel, or invented that everyday gadget. Mary Wesley wrote her first book at 70, Ethel Seymour won an Olympic medal in gymnastics at 46. This book has something for everyone with an age. </summary>
+<category term="inspirational"/>
+<category term="gift"/>
+<category term="Age"/>
+<category term="birthday"/>
+<category term="reference"/>
+<category term="biography"/>
+<category term="trivia"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7806.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7806.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7806.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7806.png?t=20091021100644" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7806.png?size=smaller&amp;t=20091021100644" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7806.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>First Sitting</title>
+<id>http://www.feedbooks.com/userbook/6413</id>
+<author>
+  <name>Alwyne Ashweth</name>
+  <uri>http://www.feedbooks.com/user/44808/profile#Alwyne%20Ashweth</uri>
+</author>
+<updated>2009-08-17T20:12:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Strange Circle Micro-Fiction:
+Horror waits beyond the veil!</summary>
+<category term="Micro Fiction"/>
+<category term="horror"/>
+<category term="seance"/>
+<category term="supernatural"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6413.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6413.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6413.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6413.png?t=20090817201224" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6413.png?size=smaller&amp;t=20090817201224" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6413.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title> A. D 70 - THE  DESTURCTION OF ISRAEL </title>
+<id>http://www.feedbooks.com/userbook/6707</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2009-08-17T16:50:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Many of the passages spoken by John the Baptist and by Jesus about Israel's rejection of Christ and its destruction are misapplied to Hell. Matthew 24 is often misused to prove Israel will be restored, and Christ will return to earth and rule the world forever from Jerusalem and that the saved will forever live on this earth, not in Heaven.
+JUDGMENT OF ISRAEL Matthew 21-25
+&#8226;	Cleaning of the Temple Matthew 21:12-16 
+&#8226;	The fig tree Matthew 21:18-22 
+&#8226;	Israel's rulers question Christ's authority. Parable of the two sons Matthew 21:23-32 
+&#8226;	Parable of the wicked husbandman who Christ will destroy and give the vineyard to another Matthew 21:33-41 
+&#8226;	The stone Israel rejected made head of the corner; the stone will scatter as dust. The kingdom taken from Israel and gave to another Matthew 21:42-46 
+&#8226;	Parable of the marriage feast. His armies destroyed those invited and invited others Matthew 22:1-14 
+&#8226;	Seven woe's on Israel leaders, how can they escape the judgment of Gehenna; all these things shall come upon this generation. Matthew 23:13-36 
+&#8226;	Their house left desolate Matthew 23:37-39 
+&#8226;	The questions and His answer Matthew 24:1-51 
+o	Parable of the fig tree. This generation shall not pass away, till all these things be accomplished Matthew 24:32-34 
+o	Israel the unfaithful servant Matthew 24:45-51 
+&#8226;	Unprofitable servant cast into outer darkness Matthew 25:30 
+</summary>
+<category term="realized  eschatology"/>
+<category term="rapture"/>
+<category term="Faith"/>
+<category term="study"/>
+<category term="Salvation"/>
+<category term="resurrection"/>
+<category term="Israel"/>
+<category term="millennia"/>
+<category term="Premillennial"/>
+<category term="millennium"/>
+<category term="dispensationalists"/>
+<category term="dispensational"/>
+<category term="dispensation"/>
+<category term="annihilation"/>
+<category term="religion"/>
+<category term="Christianity"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6707.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6707.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6707.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6707.png?t=20090817165021" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6707.png?size=smaller&amp;t=20090817165021" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6707.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Wilco Lyrics</title>
+<id>http://www.feedbooks.com/userbook/6719</id>
+<author>
+  <name>J Tweedy</name>
+  <uri>http://www.feedbooks.com/user/45144/profile#J%20Tweedy</uri>
+</author>
+<updated>2010-01-06T16:38:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Lyrics to Wilco Songs</summary>
+<category term="Song"/>
+<category term="Lyrics"/>
+<category term="wilco"/>
+<category term="tweedy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6719.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6719.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6719.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6719.png?t=20100106163810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6719.png?size=smaller&amp;t=20100106163810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6719.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Homesick</title>
+<id>http://www.feedbooks.com/userbook/6859</id>
+<author>
+  <name>Meryl McQueen</name>
+  <uri>http://www.feedbooks.com/user/41857/profile#Meryl%20McQueen</uri>
+</author>
+<updated>2009-08-18T00:22:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Marcus has been on the run for decades from the violence that scarred him as a child in South Africa. Now his past has caught up to him. It happens now, the sirens and the silence.  It happens now, the sirens and the silence and the thunder.  Later, then and always, rain.</summary>
+<category term="south africa"/>
+<category term="short story"/>
+<category term="commercial fiction"/>
+<category term="crime"/>
+<category term="violence"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6859.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6859.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6859.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6859.png?t=20090818002207" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6859.png?size=smaller&amp;t=20090818002207" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6859.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>At a Loss for Words</title>
+<id>http://www.feedbooks.com/userbook/7196</id>
+<author>
+  <name>M&#225;ximo S&#225;ez</name>
+  <uri>http://www.feedbooks.com/user/785/profile#M%C3%A1ximo%20S%C3%A1ez</uri>
+</author>
+<updated>2009-12-09T06:53:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>&#8220;What do you need?&#8221; I asked him. 
+
+&#8220;Words,&#8221; the man answered. &#8220;Just words. How silly is that? But it&#8217;s the only thing I need.&#8221;
+
+&#8220;Maybe I can help you,&#8221; I said. &#8220;I have plenty of words. And I don&#8217;t know what to do with them. I have no one to talk to.&#8221;
+</summary>
+<category term="fantasy"/>
+<category term="love story"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7196.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7196.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7196.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7196.png?t=20091209065329" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7196.png?size=smaller&amp;t=20091209065329" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7196.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>337 Days</title>
+<id>http://www.feedbooks.com/userbook/8721</id>
+<author>
+  <name>D.K Wy</name>
+  <uri>http://www.feedbooks.com/user/51109/profile#D.K%20Wy</uri>
+</author>
+<updated>2010-03-28T14:02:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Robert Mansen has a perfect life, until he discovered that his days were numbered. How will he live the remaining days of his life? Will he be able to fulfill his dreams or everything will crumble down in front of him?
+(This copy is just an excerpt from the novel 337 days)</summary>
+<category term="Faith"/>
+<category term="Teen"/>
+<category term="drama"/>
+<category term="Cancer"/>
+<category term="death"/>
+<category term="love"/>
+<category term="short novel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8721.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8721.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8721.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8721.png?t=20100328140245" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8721.png?size=smaller&amp;t=20100328140245" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8721.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Out From Edom: Book I of the Irredente Chronicles</title>
+<id>http://www.feedbooks.com/userbook/8002</id>
+<author>
+  <name>J. Patrick Sutton</name>
+  <uri>http://www.feedbooks.com/user/39085/profile#J.%20Patrick%20Sutton</uri>
+</author>
+<updated>2010-03-12T17:59:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Science fiction for lovers of the Golden Age of Sci-Fi.  
+
+Humanity in its &#8220;renormalized&#8221; form following an epoch of profligate genetic bioforming has sheltered itself in a theocratic hegemony along one arm of a barred-spiral galaxy. In seeking to protect its genome from further tampering and regulate technology, it has become complacent and ossified. The Irredente Chronicles series traces the lives of characters affected in various ways by humanity&#8217;s desperate attempt to cling to a recognizably human self. When an unknown enemy begins wiping out hegemony worlds, the Irredente must rise to the threat or else face destruction.
+
+Is there a way to halt the march of science and technology without becoming vulnerable in a universe that embraces it?
+
+Over the course of 3 novels and 2000 pages, as the rescued urchin Henryk and the reactionary priest Hersey voyage separately across the hegemony and beyond, the dark secrets at the heart of the Irredente will be exposed, and Henryk and Hersey will lead humanity from complacent parochialism to an embrace of the multiversal computation.
+
+Book I is 188,000 words -- 500+ paperback pages.  More information and the serialized podcasts of the book at www.jpatricksutton.com</summary>
+<category term="SciFi"/>
+<category term="SF"/>
+<category term="Novel"/>
+<category term="religious science fiction"/>
+<category term="religious fiction"/>
+<category term="scifi novel"/>
+<category term="sci fi novel"/>
+<category term="sci-fi novel"/>
+<category term="science fiction novel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8002.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8002.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8002.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8002.png?t=20100312175916" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8002.png?size=smaller&amp;t=20100312175916" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8002.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Shazam! #3</title>
+<id>http://www.feedbooks.com/userbook/8048</id>
+<author>
+  <name>Aaron Martel</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Aaron%20Martel</uri>
+</author>
+<updated>2009-10-26T18:55:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Shazam!: Stamina.</summary>
+<category term="Captain Marvel"/>
+<category term="Doctor Sivana"/>
+<category term="Mad Mummy"/>
+<category term="Kid Marvel"/>
+<category term="Black Adam"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Shazam"/>
+<category term="Ibis"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8048.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8048.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8048.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8048.png?t=20091026185559" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8048.png?size=smaller&amp;t=20091026185559" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8048.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

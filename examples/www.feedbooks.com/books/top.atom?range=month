@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) | Feedbooks</title>
+  <updated>2010-04-07T18:23:05Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=2&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Kama Sutra</title>
+<id>http://www.feedbooks.com/book/3622</id>
+<author>
+  <name>Vatsyayana</name>
+  <uri>http://www.feedbooks.com/author/91</uri>
+</author>
+<updated>2009-08-18T01:18:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>400</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<category term="Sexuality" label="Sexuality"/>
+<summary>The Kama Sutra, is an ancient Indian text widely considered to be the standard work on human sexual behavior in Sanskrit literature written by the Indian scholar Vatsyayana. A portion of the work consists of practical advice on sex. K&#257;ma means sensual or sexual pleasure, and s&#363;tra are the guidlines of yoga, the word itself means thread in Sanskrit.
+The Kama Sutra is the oldest and most notable of a group of texts known generically as Kama Shastra). Traditionally, the first transmission of Kama Shastra or &quot;Discipline of Kama&quot; is attributed to Nandi the sacred bull, Shiva's doorkeeper, who was moved to sacred utterance by overhearing the lovemaking of the god and his wife Parvati and later recorded his utterances for the benefit of mankind.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3622.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3622.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3622.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3622.png?t=20090818011809" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3622.png?size=smaller&amp;t=20090818011809" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3622.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Alice's Adventures in Wonderland</title>
+<id>http://www.feedbooks.com/book/22</id>
+<author>
+  <name>Lewis Carroll</name>
+  <uri>http://www.feedbooks.com/author/13</uri>
+</author>
+<updated>2009-09-16T10:06:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Alice's Adventures in Wonderland (1865) is a novel written by English author Charles Lutwidge Dodgson, better known under the pseudonym Lewis Carroll. It tells the story of a girl named Alice who falls down a rabbit-hole into a fantasy world populated by peculiar and anthropomorphic creatures.
+The tale is filled with allusions to Dodgson's friends (and enemies), and to the lessons that British schoolchildren were expected to memorize. The tale plays with logic in ways that have made the story of lasting popularity with adults as well as children. It is considered to be one of the most characteristic examples of the genre of literary nonsense, and its narrative course and structure has been enormously influential, mainly in the fantasy genre.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/22.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/22.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/22.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/22.png?t=20090916100645" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/22.png?size=smaller&amp;t=20090916100645" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/22.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Curious Case of Benjamin Button</title>
+<id>http://www.feedbooks.com/book/3431</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-08-18T01:18:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>This story was inspired by a remark of Mark Twain's to the effect that it was a pity that the best part of life came at the beginning and the worst part at the end. By trying the experiment upon only one man in a perfectly normal world I have scarcely given his idea a fair trial. Several weeks after completing it, I discovered an almost identical plot in Samuel Butler's &quot;Note-books.&quot;
+The story was published in &quot;Collier's&quot; last summer and provoked this startling letter from an anonymous admirer in Cincinnati:
+&quot;Sir--
+I have read the story Benjamin Button in Colliers and I wish to say that as a short story writer you would make a good lunatic I have seen many peices of cheese in my life but of all the peices of cheese I have ever seen you are the biggest peice. I hate to waste a peice of stationary on you but I will.&quot;
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3431.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3431.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3431.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3431.png?t=20090818011820" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3431.png?size=smaller&amp;t=20090818011820" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3431.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Pride and Prejudice</title>
+<id>http://www.feedbooks.com/book/52</id>
+<author>
+  <name>Jane Austen</name>
+  <uri>http://www.feedbooks.com/author/18</uri>
+</author>
+<updated>2009-09-27T16:05:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1813</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Pride And Prejudice, the story of Mrs. Bennet's attempts to marry off her five daughters is one of the best-loved and most enduring classics in English literature. Excitement fizzes through the Bennet household at Longbourn in Hertfordshire when young, eligible Mr. Charles Bingley rents the fine house nearby. He may have sisters, but he also has male friends, and one of these&#8212;the haughty, and even wealthier, Mr. Fitzwilliam Darcy&#8212;irks the vivacious Elizabeth Bennet, the second of the Bennet girls. She annoys him. Which is how we know they must one day marry. The romantic clash between the opinionated Elizabeth and Darcy is a splendid rendition of civilized sparring. As the characters dance a delicate quadrille of flirtation and intrigue, Jane Austen's radiantly caustic wit and keen observation sparkle.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/1342</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/52.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/52.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/52.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/52.png?t=20090927160510" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/52.png?size=smaller&amp;t=20090927160510" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/52.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Adventures of Sherlock Holmes</title>
+<id>http://www.feedbooks.com/book/1421</id>
+<author>
+  <name>Arthur Conan Doyle</name>
+  <uri>http://www.feedbooks.com/author/1</uri>
+</author>
+<updated>2009-09-16T10:50:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1892</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<summary>The Adventures of Sherlock Holmes is a collection of twelve stories by Sir Arthur Conan Doyle, featuring his famous detective and illustrated by Sidney Paget.
+These are the first of the Sherlock Holmes short stories, originally published as single stories in the Strand Magazine from July 1891 to June 1892. The book was published in England on October 14, 1892 by George Newnes Ltd and in a US Edition on October 15 by Harper. The initial combined print run was 14,500 copies.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1421.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1421.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1421.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1421.png?t=20090916105038" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1421.png?size=smaller&amp;t=20090916105038" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1421.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Divine Comedy</title>
+<id>http://www.feedbooks.com/book/206</id>
+<author>
+  <name>Dante Alighieri</name>
+  <uri>http://www.feedbooks.com/author/100</uri>
+</author>
+<updated>2009-11-24T19:00:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1306</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<summary>Dante Alighieri's poetic masterpiece, The Divine Comedy, is a moving human drama, an unforgettable visionary journey through the infinite torment of Hell, up the arduous slopes of Purgatory, and on to the glorious realm of Paradise-the sphere of universal harmony and eternal salvation.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/206.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/206.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/206.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/206.png?t=20091124190007" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/206.png?size=smaller&amp;t=20091124190007" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/206.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Count of Monte Cristo</title>
+<id>http://www.feedbooks.com/book/73</id>
+<author>
+  <name>Alexandre Dumas</name>
+  <uri>http://www.feedbooks.com/author/25</uri>
+</author>
+<updated>2009-11-24T17:50:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1845</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The Count of Monte Cristo (French: Le Comte de Monte-Cristo) is an adventure novel by Alexandre Dumas, p&#232;re. It is often considered, along with The Three Musketeers, as Dumas' most popular work. It is also among the highest selling books of all time. The writing of the work was completed in 1844. Like many of his novels, it is expanded from the plot outlines suggested by his collaborating ghostwriter Auguste Maquet.
+The story takes place in France, Italy, islands in the Mediterranean and the Levant during the historical events of 1815&#8211;1838 (from just before the Hundred Days through the reign of Louis-Philippe of France). The historical setting is a fundamental element of the book. It is primarily concerned with themes of hope, justice, vengeance, mercy, forgiveness and death, and is told in the style of an adventure story.
+</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/73.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/73.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/73.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/73.png?t=20091124175035" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/73.png?size=smaller&amp;t=20091124175035" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/73.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Moby-Dick</title>
+<id>http://www.feedbooks.com/book/54</id>
+<author>
+  <name>Herman Melville</name>
+  <uri>http://www.feedbooks.com/author/20</uri>
+</author>
+<updated>2009-12-26T12:52:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1851</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Moby-Dick is an 1851 novel by Herman Melville. The story tells the adventures of the wandering sailor Ishmael and his voyage on the whaling ship Pequod, commanded by Captain Ahab. Ishmael soon learns that Ahab seeks one specific whale, Moby-Dick, a white whale of tremendous size and ferocity. Comparatively few whaling ships know of Moby-Dick, and fewer yet have encountered him. In a previous encounter, the whale destroyed Ahab's boat and bit off his leg. Ahab intends to exact revenge.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/54.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/54.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/54.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/54.png?t=20091226125250" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/54.png?size=smaller&amp;t=20091226125250" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/54.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dracula</title>
+<id>http://www.feedbooks.com/book/88</id>
+<author>
+  <name>Bram Stoker</name>
+  <uri>http://www.feedbooks.com/author/31</uri>
+</author>
+<updated>2009-09-25T12:22:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<category term="Gothic" label="Gothic"/>
+<summary>Dracula is an 1897 novel by Irish author Bram Stoker, featuring as its primary antagonist the vampire Count Dracula.
+Dracula has been attributed to many literary genres including vampire literature, horror fiction, the gothic novel and invasion literature. Structurally it is an epistolary novel, that is, told as a series of diary entries and letters. Literary critics have examined many themes in the novel, such as the role of women in Victorian culture, conventional and conservative sexuality, immigration, colonialism, postcolonialism and folklore. Although Stoker did not invent the vampire, the novel's influence on the popularity of vampires has been singularly responsible for many theatrical and film interpretations throughout the 20th and 21st centuries.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/88.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/88.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/88.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/88.png?t=20090925122259" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/88.png?size=smaller&amp;t=20090925122259" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/88.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The War of the Worlds</title>
+<id>http://www.feedbooks.com/book/35</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-27T22:10:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1898</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="War" label="War"/>
+<summary>The War of the Worlds (1898), by H. G. Wells, is an early science fiction novel which describes an invasion of England by aliens from Mars. It is one of the earliest and best-known depictions of an alien invasion of Earth, and has influenced many others, as well as spawning several films, radio dramas, comic book adaptations, and a television series based on the story. The 1938 radio broadcast caused public outcry against the episode, as many listeners believed that an actual Martian invasion was in progress, a notable example of mass hysteria.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/35.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/35.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/35.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/35.png?t=20090927221006" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/35.png?size=smaller&amp;t=20090927221006" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/35.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Grimm's Fairy Tales</title>
+<id>http://www.feedbooks.com/book/187</id>
+<author>
+  <name>Jacob Ludwig Karl Grimm</name>
+  <uri>http://www.feedbooks.com/author/89</uri>
+</author>
+<author>
+  <name>Wilhem Karl Grimm</name>
+  <uri>http://www.feedbooks.com/author/90</uri>
+</author>
+<updated>2009-09-16T10:13:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1812</dcterms:issued>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Collections" label="Collections"/>
+<summary>Children's and Household Tales (German: Kinder- und Hausm&#228;rchen) is a collection of German origin fairy tales first published in 1812 by Jacob and Wilhelm Grimm, the Brothers Grimm. The collection is commonly known today as Grimms' Fairy Tales (German: Grimms M&#228;rchen).</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/187.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/187.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/187.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/187.png?t=20090916101300" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/187.png?size=smaller&amp;t=20090916101300" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/187.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Wonderful Wizard of Oz</title>
+<id>http://www.feedbooks.com/book/197</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2009-09-16T10:13:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1900</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Dorothy is a young girl who lives on a Kansas farm with her Uncle Henry, Aunt Em, and little dog Toto. One day the farmhouse, with Dorothy inside, is caught up in a tornado and deposited in a field in the country of the Munchkins. The falling house kills the Wicked Witch of the East.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/197.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/197.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/197.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/197.png?t=20090916101319" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/197.png?size=smaller&amp;t=20090916101319" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/197.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>War and Peace</title>
+<id>http://www.feedbooks.com/book/83</id>
+<author>
+  <name>Lev Nikolayevich Tolstoy</name>
+  <uri>http://www.feedbooks.com/author/28</uri>
+</author>
+<updated>2010-01-02T15:27:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1869</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<category term="War" label="War"/>
+<summary>War and Peace is a novel by Leo Tolstoy, first published from 1865 to 1869 in Russkii Vestnik, which tells the story of Russian society during the Napoleonic Era. It is usually described as one of Tolstoy's two major masterpieces (the other being Anna Karenina) as well as one of the world's greatest novels.
+War and Peace offered a new kind of fiction, with a great many characters caught up in a plot that covered nothing less than the grand subjects indicated by the title, combined with the equally large topics of youth, marriage, age, and death. Though it is often called a novel today, it broke so many conventions of the form that it was not considered a novel in its time. Indeed, Tolstoy himself considered Anna Karenina (1878) to be his first attempt at a novel in the European sense.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/83.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/83.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/83.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/83.png?t=20100102152700" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/83.png?size=smaller&amp;t=20100102152700" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/83.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Book of Five Rings</title>
+<id>http://www.feedbooks.com/book/3953</id>
+<author>
+  <name>Musashi Miyamoto</name>
+  <uri>http://www.feedbooks.com/author/223</uri>
+</author>
+<updated>2009-08-18T01:18:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1644</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<category term="Essay" label="Essay"/>
+<category term="Biography" label="Biography"/>
+<summary>Miyamoto Musashi's Go Rin no Sho or the book of five rings,  is considered a classic treatise on military strategy, much like Sun Tzu's The Art of War and Chanakya's Arthashastra.
+
+The five &quot;books&quot; refer to the idea that there are different elements of battle, just as there are different physical elements in life, as described by Buddhism, Shinto, and other Eastern religions. Through the book Musashi defends his thesis: a man who conquers himself is ready to take it on on the world, should need arise.</summary>
+<dcterms:source>http://ninjamarket.com/a-book-of-five-rings</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3953.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3953.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3953.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3953.png?t=20090818011817" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3953.png?size=smaller&amp;t=20090818011817" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3953.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Treasure Island</title>
+<id>http://www.feedbooks.com/book/97</id>
+<author>
+  <name>Robert Louis Stevenson</name>
+  <uri>http://www.feedbooks.com/author/37</uri>
+</author>
+<updated>2009-11-24T19:01:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1883</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads them to a pirate's fortune.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/97.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/97.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/97.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/97.png?t=20091124190114" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/97.png?size=smaller&amp;t=20091124190114" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/97.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>20,000 Leagues Under the Sea</title>
+<id>http://www.feedbooks.com/book/182</id>
+<author>
+  <name>Jules Verne</name>
+  <uri>http://www.feedbooks.com/author/19</uri>
+</author>
+<updated>2009-09-25T12:28:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1870</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Twenty Thousand Leagues Under the Sea (French: Vingt mille lieues sous les mers) is a classic science fiction novel by French writer Jules Verne, published in 1870. It is about the fictional Captain Nemo and his submarine, Nautilus, as seen by one of his passengers, Professor Pierre Aronnax.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/182.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/182.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/182.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/182.png?t=20090925122843" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/182.png?size=smaller&amp;t=20090925122843" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/182.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>On the Origin of Species, 6th Edition</title>
+<id>http://www.feedbooks.com/book/3015</id>
+<author>
+  <name>Charles Darwin</name>
+  <uri>http://www.feedbooks.com/author/94</uri>
+</author>
+<updated>2010-01-02T15:27:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1872</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Science" label="Science"/>
+<summary>Charles Darwin's On the Origin of Species, in which he writes of his theories of evolution by natural selection, is one of the most important works of scientific study ever published.</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3015.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3015.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3015.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3015.png?t=20100102152707" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3015.png?size=smaller&amp;t=20100102152707" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3015.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Through the Looking Glass (And What Alice Found There)</title>
+<id>http://www.feedbooks.com/book/23</id>
+<author>
+  <name>Lewis Carroll</name>
+  <uri>http://www.feedbooks.com/author/13</uri>
+</author>
+<updated>2009-09-16T10:06:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1871</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Through the Looking-Glass, and What Alice Found There (1871) is a work of children's literature by Lewis Carroll (Charles Lutwidge Dodgson), generally categorized as literary nonsense. It is the sequel to Alice's Adventures in Wonderland (1865). Although it makes no reference to the events in the earlier book, the themes and settings of Through the Looking-Glass make it a kind of mirror image of Wonderland: the first book begins outdoors, in the warm month of May, on Alice's birthday (May 4), uses frequent changes in size as a plot device, and draws on the imagery of playing cards; the second opens indoors on a snowy, wintry night exactly six months later, on November 4 (the day before Guy Fawkes Night), uses frequent changes in time and spatial directions as a plot device, and draws on the imagery of chess. In it, there are many mirror themes, including opposites, time running backwards, and so on.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/23.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/23.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/23.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/23.png?t=20090916100646" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/23.png?size=smaller&amp;t=20090916100646" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/23.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Art of War</title>
+<id>http://www.feedbooks.com/book/168</id>
+<author>
+  <name>Sun Tzu</name>
+  <uri>http://www.feedbooks.com/author/59</uri>
+</author>
+<updated>2009-09-16T10:11:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-514</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<category term="War" label="War"/>
+<summary>The Art of War is a Chinese military treatise that was written during the 6th century BC by Sun Tzu. Composed of 13 chapters, each of which is devoted to one aspect of warfare, it has long been praised as the definitive work on military strategies and tactics of its time.
+The Art of War is one of the oldest books on military strategy in the world. It is the first and one of the most successful works on strategy and has had a huge influence on Eastern and Western military thinking, business tactics, and beyond. Sun Tzu was the first to recognize the importance of positioning in strategy and that position is affected both by objective conditions in the physical environment and the subjective opinions of competitive actors in that environment. He taught that strategy was not planning in the sense of working through a to-do list, but rather that it requires quick and appropriate responses to changing conditions. Planning works in a controlled environment, but in a competitive environment,</summary>
+<dcterms:source>http://www.paxlibrorum.com/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/168.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/168.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/168.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/168.png?t=20090916101140" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/168.png?size=smaller&amp;t=20090916101140" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/168.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Picture of Dorian Gray</title>
+<id>http://www.feedbooks.com/book/6</id>
+<author>
+  <name>Oscar Wilde</name>
+  <uri>http://www.feedbooks.com/author/5</uri>
+</author>
+<updated>2009-09-16T10:06:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1891</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Oscar Wilde's story of a fashionable young man who sells his soul for eternal youth and beauty is one of his most popular works. Written in Wilde's characteristically dazzling manner, full of stinging epigrams and shrewd observations, the tale of Dorian Gray's moral disintegration caused something of a scandal when it first appeared in 1890. Wilde was attacked for his decadence and corrupting influence, and a few years later the book and the aesthetic/moral dilemma it presented became issues in the trials occasioned by Wilde's homosexual liaisons, trials that resulted in his imprisonment. Of the book's value as autobiography, Wilde noted in a letter, &quot;Basil Hallward is what I think I am: Lord Henry what the world thinks me: Dorian what I would like to be--in other ages, perhaps.&quot;</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/6.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/6.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/6.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/6.png?t=20090916100629" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/6.png?size=smaller&amp;t=20090916100629" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/6.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

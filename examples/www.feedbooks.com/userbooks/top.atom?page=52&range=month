@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=52&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=52&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=52&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 52 | Feedbooks</title>
+  <updated>2010-04-07T18:23:43Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1021</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=51&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=53&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Lady Caine (Sample)</title>
+<id>http://www.feedbooks.com/userbook/7828</id>
+<author>
+  <name>Steve Mansfield-Devine</name>
+  <uri>http://www.feedbooks.com/user/32561/profile#Steve%20Mansfield-Devine</uri>
+</author>
+<updated>2009-10-10T09:32:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A strange cast of misfits is on the hunt for a missing pilot - either for what he has or what he knows. Each member of this weird posse poses a threat to the others. But their greatest danger comes from their own egos, paranoia, incompetence and inability to cope. The result is an offbeat thriller about the hilarious fringes of international drug crime.</summary>
+<category term="crime"/>
+<category term="thriller"/>
+<category term="comedy"/>
+<category term="Satire"/>
+<category term="Novel"/>
+<category term="fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7828.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7828.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7828.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7828.png?t=20091010093229" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7828.png?size=smaller&amp;t=20091010093229" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7828.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dreaming Lies to Change the Truth</title>
+<id>http://www.feedbooks.com/userbook/7817</id>
+<author>
+  <name>Kaolin Fire</name>
+  <uri>http://www.feedbooks.com/user/53469/profile#Kaolin%20Fire</uri>
+</author>
+<updated>2009-10-09T02:36:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>[620 words] She wove lies of leaves and fruit as she crawled about the tree; it had rotted and split, but her webbing held it whole. She wove eight-faceted apples that glistened like negative prisms, sucking in all heat and life. </summary>
+<category term="fantasy"/>
+<category term="Spider"/>
+<category term="Eve"/>
+<category term="short fiction"/>
+<category term="tree of knowledge"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7817.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7817.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7817.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7817.png?t=20091009023612" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7817.png?size=smaller&amp;t=20091009023612" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7817.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Right Time to Die in Manhattan</title>
+<id>http://www.feedbooks.com/userbook/7997</id>
+<author>
+  <name>Holden Wilde</name>
+  <uri>http://www.feedbooks.com/user/52795/profile#Holden%20Wilde</uri>
+</author>
+<updated>2009-10-22T20:15:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>1,000 words of fiction on dilemmas when trying to die in Manhattan</summary>
+<category term="manhattan"/>
+<category term="Single"/>
+<category term="suicide"/>
+<category term="death"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7997.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7997.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7997.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7997.png?t=20091022201551" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7997.png?size=smaller&amp;t=20091022201551" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7997.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jeannelle</title>
+<id>http://www.feedbooks.com/userbook/9289</id>
+<author>
+  <name>petaire</name>
+  <uri>http://www.feedbooks.com/user/58216/profile#petaire</uri>
+</author>
+<updated>2010-01-08T18:40:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>antiseche jeannelle</summary>
+<category term="antiseche"/>
+<category term="jeannelle"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9289.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9289.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9289.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9289.png?t=20100108184030" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9289.png?size=smaller&amp;t=20100108184030" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9289.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Week without my Family</title>
+<id>http://www.feedbooks.com/userbook/9208</id>
+<author>
+  <name>The Rambler</name>
+  <uri>http://www.feedbooks.com/user/44035/profile#The%20Rambler</uri>
+</author>
+<updated>2009-12-31T03:14:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>This is an essay I wrote while my family was out of town.</summary>
+<category term="essay"/>
+<category term="family"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9208.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9208.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9208.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9208.png?t=20091231031444" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9208.png?size=smaller&amp;t=20091231031444" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9208.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Quarter-life Journey</title>
+<id>http://www.feedbooks.com/userbook/9436</id>
+<author>
+  <name>jelita</name>
+  <uri>http://www.feedbooks.com/user/68506/profile#jelita</uri>
+</author>
+<updated>2010-01-06T15:17:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>25 year old girl describing her everyday journey to make it to Italy. </summary>
+<category term="travel"/>
+<category term="italy"/>
+<category term="Journey"/>
+<category term="adventure"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9436.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9436.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9436.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9436.png?t=20100106151716" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9436.png?size=smaller&amp;t=20100106151716" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9436.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Predictive Planning</title>
+<id>http://www.feedbooks.com/userbook/3008</id>
+<author>
+  <name>Norkay</name>
+  <uri>http://www.feedbooks.com/user/23226/profile#Norkay</uri>
+</author>
+<updated>2009-08-17T21:45:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A computer program that predicts accurately the time of one's death may be useful for planning  but has unintended consequences</summary>
+<category term="short story"/>
+<category term="fiction"/>
+<category term="Norkay"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3008.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3008.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3008.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3008.png?t=20090817214507" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3008.png?size=smaller&amp;t=20090817214507" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3008.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Morning Rain</title>
+<id>http://www.feedbooks.com/userbook/3057</id>
+<author>
+  <name>unclepiak</name>
+  <uri>http://www.feedbooks.com/user/23573/profile#unclepiak</uri>
+</author>
+<updated>2009-08-17T16:22:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>&#3610;&#3633;&#3609;&#3607;&#3638;&#3585;&#3648;&#3617;&#3639;&#3656;&#3629;&#3588;&#3619;&#3633;&#3657;&#3591;&#3618;&#3633;&#3591;&#3629;&#3618;&#3641;&#3656;&#3592;&#3633;&#3591;&#3627;&#3623;&#3633;&#3604;&#3648;&#3594;&#3637;&#3618;&#3591;&#3619;&#3634;&#3618;</summary>
+<category term="Memo"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3057.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3057.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3057.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3057.png?t=20090817162252" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3057.png?size=smaller&amp;t=20090817162252" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3057.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Plain Text - Day 12</title>
+<id>http://www.feedbooks.com/userbook/3513</id>
+<author>
+  <name>Wiley Davis</name>
+  <uri>http://www.feedbooks.com/user/18753/profile#Wiley%20Davis</uri>
+</author>
+<updated>2009-08-17T16:25:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>In a world of free food and networked living, something interesting is happening down in Baja. A fifteen year old girl named Zoe, her biologist father, and a coastline of drugged-out fishermen help us reconcile the conflict between physical reality and virtual freedom.</summary>
+<category term="plain"/>
+<category term="text"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3513.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3513.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3513.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3513.png?t=20090817162555" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3513.png?size=smaller&amp;t=20090817162555" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3513.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Plain Text - Day 3</title>
+<id>http://www.feedbooks.com/userbook/3516</id>
+<author>
+  <name>Wiley Davis</name>
+  <uri>http://www.feedbooks.com/user/18753/profile#Wiley%20Davis</uri>
+</author>
+<updated>2009-08-17T16:25:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>
+
+In a world of free food and networked living, something interesting is happening down in Baja. A fifteen year old girl named Zoe, her biologist father, and a coastline of drugged-out fishermen help us reconcile the conflict between physical reality and virtual freedom.
+</summary>
+<category term="plain"/>
+<category term="text"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3516.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3516.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3516.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3516.png?t=20090817162558" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3516.png?size=smaller&amp;t=20090817162558" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3516.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Plain Text - Day 22</title>
+<id>http://www.feedbooks.com/userbook/3707</id>
+<author>
+  <name>Wiley Davis</name>
+  <uri>http://www.feedbooks.com/user/18753/profile#Wiley%20Davis</uri>
+</author>
+<updated>2009-08-17T16:27:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Uploads of my daily work on a new novel. Approx. 500 words/day.
+
+See all at: http://thungy.com
+
+In a world of free food and networked living, something interesting is happening down in
+Baja. A fifteen year old girl named Zoe, her biologist father, and a coastline of drugged-out fishermen help us reconcile the conflict between physical reality and virtual freedom.</summary>
+<category term="plain text"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3707.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3707.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3707.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3707.png?t=20090817162727" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3707.png?size=smaller&amp;t=20090817162727" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3707.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Plain Text - Day 25</title>
+<id>http://www.feedbooks.com/userbook/3786</id>
+<author>
+  <name>Wiley Davis</name>
+  <uri>http://www.feedbooks.com/user/18753/profile#Wiley%20Davis</uri>
+</author>
+<updated>2009-08-17T16:28:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Uploads of my daily work on a new novel. Approx. 500 words/day.
+
+See all at: http://thungy.com
+
+In a world of free food and networked living, something interesting is happening down in
+Baja. A fifteen year old girl named Zoe, her biologist father, and a coastline of drugged-out fishermen help us reconcile the conflict between physical reality and virtual freedom.</summary>
+<category term="plain text"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3786.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3786.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3786.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3786.png?t=20090817162802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3786.png?size=smaller&amp;t=20090817162802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3786.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ella's Mother</title>
+<id>http://www.feedbooks.com/userbook/5517</id>
+<author>
+  <name>Cress Roylott</name>
+  <uri>http://www.feedbooks.com/user/39419/profile#Cress%20Roylott</uri>
+</author>
+<updated>2009-12-03T10:09:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Reflections on family, trauma, and ghosts, from a reluctant mother.
+
+Excerpt:
+I&#8217;m staring at Ella down by the stream. Not quite four, and she scampers about like an elfin who has all the world in her hands. I wonder why and how she can be so resilient. Of course she has no conscious memory of the trauma anymore, but what about her subconscious? Personally, I still can&#8217;t recover, even though I hadn&#8217;t been there at all. &#8212;But I must have lived through it a thousand times in nightmares.</summary>
+<category term="motherhood"/>
+<category term="short fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5517.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5517.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5517.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5517.png?t=20091203100911" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5517.png?size=smaller&amp;t=20091203100911" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5517.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Rapture and Israel</title>
+<id>http://www.feedbooks.com/userbook/5634</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2009-08-17T16:39:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>THE PREMILLENNIALISTS VIEW OF CHRIST
+ISRAEL RESTORED
+THE BATTLE OF ARMAGEDDON
+THE PREMILLENNIAL THOUSAND-YEARS
+THE THRONE OF DAVID
+DANIEL'S 70 WEEKS AND THE &quot;GAP&quot;
+THE &quot;ANTICHRIST&quot; AND &quot;MAN OF SIN&quot;
+THE FIRST RESURRECTION AND THE SECOND DEATH</summary>
+<category term="Israel"/>
+<category term="rapture"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5634.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5634.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5634.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5634.png?t=20090817163928" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5634.png?size=smaller&amp;t=20090817163928" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5634.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>He's not worthy</title>
+<id>http://www.feedbooks.com/userbook/5970</id>
+<author>
+  <name>rush</name>
+  <uri>http://www.feedbooks.com/user/42634/profile#rush</uri>
+</author>
+<updated>2009-08-17T16:42:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1997</dcterms:issued>
+<summary>A portrait of a millionaire at a crux</summary>
+<category term="Chouinard"/>
+<category term="Yvonne"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5970.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5970.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5970.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5970.png?t=20090817164216" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5970.png?size=smaller&amp;t=20090817164216" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5970.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>&#8222;Slow and tenacious race wins &#8222;</title>
+<id>http://www.feedbooks.com/userbook/9369</id>
+<author>
+  <name>Przemek Kowal</name>
+  <uri>http://www.feedbooks.com/user/47296/profile#Przemek%20Kowal</uri>
+</author>
+<updated>2010-04-07T16:48:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>My booklet mini, as exhighway of book of wisdom about love. She is it how many about, when it believes and it loves god. I have included several my poems here, and aphorisms. First of all, however, I wanted to write tale about essence, which has been rescued, with strong accent on form turtle, as winner.</summary>
+<category term="Faith"/>
+<category term="religion"/>
+<category term="storytelling"/>
+<category term="poetry"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9369.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9369.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9369.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9369.png?t=20100407164857" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9369.png?size=smaller&amp;t=20100407164857" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9369.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Breath After Drowning</title>
+<id>http://www.feedbooks.com/userbook/8907</id>
+<author>
+  <name>Cao Marsh</name>
+  <uri>http://www.feedbooks.com/user/34607/profile#Cao%20Marsh</uri>
+</author>
+<updated>2009-12-16T05:16:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>	Tormented by his meaningless life, Flint searches for answers to the questions of Love, Faith, and Wisdom, but as he searches, he stumbles into a world with no boundaries, and terrified, he faces torturous situations night after night when he closes his eyes to sleep.  
+	Having already exhausted the path of doctors and shrinks, Flint attempts to solve his problem through some research, all the while tolerating his powerlessness in The Dream, until he can figure out a way to defeat the thing that continues to haunt him.
+	Alone and afraid, Flint attempts to defeat the negative aspects that plague his existence, both in The Dream and in The Wake, finding he has no real chance but to live his life and seek answers, and hopefully, liberate himself from the pain he keeps experiencing.</summary>
+<category term="fictional philosophy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8907.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8907.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8907.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8907.png?t=20091216051645" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8907.png?size=smaller&amp;t=20091216051645" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8907.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dawn of the Agents</title>
+<id>http://www.feedbooks.com/userbook/8786</id>
+<author>
+  <name>Annica</name>
+  <uri>http://www.feedbooks.com/user/61913/profile#Annica</uri>
+</author>
+<updated>2009-12-08T15:50:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A story of adventure</summary>
+<category term="childrens"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8786.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8786.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8786.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8786.png?t=20091208155054" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8786.png?size=smaller&amp;t=20091208155054" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8786.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Quantum Nothing</title>
+<id>http://www.feedbooks.com/userbook/8841</id>
+<author>
+  <name>Jenue brosinski</name>
+  <uri>http://www.feedbooks.com/user/33355/profile#Jenue%20brosinski</uri>
+</author>
+<updated>2009-12-11T12:01:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A ghost reflects on his life.</summary>
+<category term="fantasy"/>
+<category term="literature"/>
+<category term="fiction"/>
+<category term="science fiction"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8841.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8841.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8841.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8841.png?t=20091211120131" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8841.png?size=smaller&amp;t=20091211120131" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8841.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Forever and Eternity</title>
+<id>http://www.feedbooks.com/userbook/9091</id>
+<author>
+  <name>Emma Emerson</name>
+  <uri>http://www.feedbooks.com/user/65458/profile#Emma%20Emerson</uri>
+</author>
+<updated>2010-01-25T02:11:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Since child,Violet dreamed of becoming someone in the world. Someone everyone knew about but many obstales interfered on her way. In this journey, Violet discovers that she was never alone. She had a best friend and a friend not so real. Enjoy this journey of the life of Violet Handerson</summary>
+<category term="fiction"/>
+<category term="adventure"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9091.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9091.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9091.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9091.png?t=20100125021155" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9091.png?size=smaller&amp;t=20100125021155" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9091.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

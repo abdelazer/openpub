@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=29</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=29" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=29" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 29 | Feedbooks</title>
+  <updated>2010-04-07T18:26:31Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>561</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=28" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=30" rel="next" title="Next Page"/>
+<entry>
+<title>Bar-20 Days</title>
+<id>http://www.feedbooks.com/book/3763</id>
+<author>
+  <name>Clarence E. Mulford</name>
+  <uri>http://www.feedbooks.com/author/992</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1911</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>Fourth book in the Hopalong Cassidy western series.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3763.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3763.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3763.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3763.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3763.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3763.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Trilby</title>
+<id>http://www.feedbooks.com/book/3762</id>
+<author>
+  <name>George du Maurier</name>
+  <uri>http://www.feedbooks.com/author/996</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1894</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Horror" label="Horror"/>
+<category term="Gothic" label="Gothic"/>
+<summary>Trilby (1894) is a gothic horror novel by George du Maurier and one of the most popular novels of its time, perhaps the second best selling novel of the Fin de si&#232;cle period after Bram Stoker's Dracula. Trilby is set in the 1850s in an idyllic bohemian Paris. Though it features the hijinks of three lovable English artists &#8212; especially the delicate genius Little Billee &#8212; its most memorable character is Svengali, a Jewish rogue, a masterful musician, and an irresistible hypnotist.
+Trilby O'Ferrall, the novel's heroine, is a magnificent half-Irish girl working in Paris as an artists' model and laundress; all the men in the novel are in love with her. The relation between Trilby and Svengali forms only a small portion of the novel, which is mainly an evocation of a milieu, but it is a crucial one.</summary>
+<dcterms:source>http://www.gutenberg.net.au</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3762.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3762.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3762.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3762.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3762.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3762.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Beetle</title>
+<id>http://www.feedbooks.com/book/3759</id>
+<author>
+  <name>Richard Marsh</name>
+  <uri>http://www.feedbooks.com/author/993</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Horror" label="Horror"/>
+<summary>A fantastic creature, &quot;born of neither god nor man,&quot; hypnotic and supernatural, stalks British politician Paul Lessingham through turn-of-the-century London. A classic tale of supernatural horror.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3759.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3759.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3759.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3759.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3759.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3759.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Hopalong Cassidy's Rustler Round-Up</title>
+<id>http://www.feedbooks.com/book/3758</id>
+<author>
+  <name>Clarence E. Mulford</name>
+  <uri>http://www.feedbooks.com/author/992</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>Cassidy could fan a gun like a Bill the Kid... Six rounds in three seconds was his slowest time. No one in the state of Texas could beat him. Until he met Slim Travennes, head of the Sandy Creek Vigilante Committee. Slim was snake-fast. No man could go up against him and live. No man. Hoppy could stand or die. He had no other choice. None at all.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3758.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3758.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3758.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3758.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3758.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3758.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Red House Mystery</title>
+<id>http://www.feedbooks.com/book/3756</id>
+<author>
+  <name>A.A. Milne</name>
+  <uri>http://www.feedbooks.com/author/991</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>The Red House, stately mansion home of Mark Ablett, is filled with very proper guests when Mark's most improper brother returns from Australia. When the maid hears an argument in the study it isn't long before the brother dies... of a bullet between the eyes! Strangely, the study has been locked from the inside, and Mark Ablett is missing. Only an investigator with remarkable powers of observation could hope to resolve this mystery, and Antony Gillingham (with cheerful Bill Beverly at his side) is just the man.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3756.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3756.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3756.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3756.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3756.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3756.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Brand of Silence</title>
+<id>http://www.feedbooks.com/book/3755</id>
+<author>
+  <name>Harrington Strong</name>
+  <uri>http://www.feedbooks.com/author/990</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt:
+Now the fog was clearing and the mist was lifting, and the bright sunshine was struggling to penetrate the billows of damp vapor and touch with its glory the things of the world beneath. In the lower harbor there still was a chorus of sirens and foghorns, as craft of almost every description made way toward the metropolis or out toward the open sea.
+The Manatee, tramp steamer with rusty plates and rattling engines and a lurch like that of a drunken man, wallowed her way in from the turbulent ocean she had fought for three days, her skipper standing on the bridge and inaudibly giving thanks that he was nearing the end of the voyage without the necessity for abandoning his craft for an open boat, or remaining to go down with the ship after the manner of skippers of the old school.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3755.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3755.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3755.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3755.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3755.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3755.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Woman in Black</title>
+<id>http://www.feedbooks.com/book/3754</id>
+<author>
+  <name>E.C. Bentley</name>
+  <uri>http://www.feedbooks.com/author/989</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>The first of a series of detective novels featuring &quot;gentleman sleuth Philip Trent,&quot; later published under the title &quot;Trent's Last Case.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3754.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3754.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3754.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3754.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3754.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3754.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Gloved Hand</title>
+<id>http://www.feedbooks.com/book/3753</id>
+<author>
+  <name>Burton E. Stevenson</name>
+  <uri>http://www.feedbooks.com/author/988</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt:
+I was genuinely tired when I got back to the office, that Wednesday afternoon, for it had been a trying day&#8212;the last of the series of trying days which had marked the progress of the Minturn case; and my feeling of depression was increased by the fact that our victory had not been nearly so complete as I had hoped it would be. Besides, there was the heat; always, during the past ten days, there had been the heat, unprecedented for June, with the thermometer climbing higher and higher and breaking a new record every day.
+As I threw off coat and hat and dropped into the chair before my desk, I could see the heat-waves quivering up past the open windows from the fiery street below. I turned away and closed my eyes, and tried to evoke a vision of white surf falling upon the beach, of tall trees swaying in the breeze, of a brook dropping gently between green banks.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3753.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3753.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3753.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3753.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3753.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3753.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Hand in the Dark</title>
+<id>http://www.feedbooks.com/book/3752</id>
+<author>
+  <name>Arthur John Rees</name>
+  <uri>http://www.feedbooks.com/author/987</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt:
+Seen in the sad glamour of an English twilight, the old moat-house, emerging from the thin mists which veiled the green flats in which it stood, conveyed the impression of a habitation falling into senility, tired with centuries of existence. Houses grow old like the race of men; the process is not less inevitable, though slower; in both, decay is hastened by events as well as by the passage of Time.
+
+The moat-house was not so old as English country-houses go, but it had aged quickly because of its past. There was a weird and bloody history attached to the place: an historical record of murders and stabbings and quarrels dating back to Saxon days, when a castle had stood on the spot, and every inch of the flat land had been drenched in the blood of serfs fighting under a Saxon tyrant against a Norman tyrant for the sacred catchword of Liberty.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3752.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3752.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3752.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3752.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3752.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3752.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Shrieking Pit</title>
+<id>http://www.feedbooks.com/book/3751</id>
+<author>
+  <name>Arthur John Rees</name>
+  <uri>http://www.feedbooks.com/author/987</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Murder mystery set in a remote country inn at Norfolk, England.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3751.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3751.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3751.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3751.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3751.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3751.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Moon Rock</title>
+<id>http://www.feedbooks.com/book/3750</id>
+<author>
+  <name>Arthur John Rees</name>
+  <uri>http://www.feedbooks.com/author/987</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt:
+The voice of the clergyman intoned the last sad hope of humanity, the final prayer was said, and the mourners turned away, leaving Mrs. Turold to take her rest in a bleak Cornish churchyard among strangers, far from the place of her birth and kindred.
+The fact would not have troubled her if she had known. In life she had been a nonentity; in death she was not less. At least she could now mix with her betters without reproach, free (in the all-enveloping silence) from the fear of betraying her humble origin. Debrett&#8217;s Peerage was unimportant in the grave; breaches of social etiquette passed unnoticed there; the wagging of malicious tongues was stopped by dust.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3750.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3750.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3750.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3750.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3750.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3750.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Deathworld</title>
+<id>http://www.feedbooks.com/book/3749</id>
+<author>
+  <name>Harry Harrison</name>
+  <uri>http://www.feedbooks.com/author/219</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Some planet in the galaxy must&#8212;by definition&#8212;be the toughest, meanest, nastiest of all. If Pyrrus wasn't it ... it was an awfully good approximation!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3749.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3749.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3749.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3749.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3749.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3749.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Sleuth of St. James's Square</title>
+<id>http://www.feedbooks.com/book/3748</id>
+<author>
+  <name>Melville Davisson Post</name>
+  <uri>http://www.feedbooks.com/author/986</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<summary>A collection of 16 mystery short stories: 
+The Thing on the Hearth, The Reward, The Lost Lady, The Cambered Foot, The Man in the Green Hat, The Wrong Sign, The Fortune Teller, The Hole in the Mahogany Panel, The End of the Road, The Last Adventure, American Horses, The Spread Rails, The Pumpkin Coach, The Yellow Flower, Satire of the Sea &amp; The House by the Loch.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3748.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3748.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3748.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3748.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3748.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3748.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Red Triangle</title>
+<id>http://www.feedbooks.com/book/3746</id>
+<author>
+  <name>Arthur Morrison</name>
+  <uri>http://www.feedbooks.com/author/983</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1903</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<summary>Being Some Further Chronicles of Martin Hewitt, Investigator.
+6 short detective stories: The affair of Samuel's diamonds, The case of Mr. Jacob Mason, The case of the Lever Key, The case of the burnt barn, The case of the Admiralty code &amp; The adventure of Channel Marsh.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3746.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3746.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3746.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3746.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3746.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3746.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Martin Hewitt, Investigator</title>
+<id>http://www.feedbooks.com/book/3745</id>
+<author>
+  <name>Arthur Morrison</name>
+  <uri>http://www.feedbooks.com/author/983</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1894</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<summary>A collection of 7 detective stories:
+The Lenton Croft Robberies, The Loss of Sammy Crockett, The Case of Mr. Foggatt, The Case of the Dixon Torpedo, The Quinton Jewel Affair, The Stanway Cameo Mystery &amp; The Affair of the Tortoise.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3745.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3745.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3745.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3745.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3745.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3745.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Romola</title>
+<id>http://www.feedbooks.com/book/3744</id>
+<author>
+  <name>George Eliot</name>
+  <uri>http://www.feedbooks.com/author/132</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1863</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<summary>Romola (1862&#8211;63) is a historical novel by George Eliot set in the fifteenth century, and is &quot;a deep study of life in the city of Florence from an intellectual, artistic, religious, and social point of view&quot;. The story takes place amidst actual historical events during the Italian Renaissance, and includes in its plot several notable figures from Florentine history.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3744.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3744.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3744.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3744.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3744.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3744.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Adam Bede</title>
+<id>http://www.feedbooks.com/book/3743</id>
+<author>
+  <name>George Eliot</name>
+  <uri>http://www.feedbooks.com/author/132</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1859</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<summary>Adam Bede, the first novel written by George Eliot (the pen name of Mary Ann Evans), was published in 1859. It was published pseudonymously, even though Evans was a well-published and highly respected scholar of her time.
+The story's plot follows four characters' rural lives in the fictional community of Hayslope&#8212;a rural, pastoral and close-knit community in 1799. The novel revolves around a love triangle between beautiful but self-absorbed Hetty Sorrel, Captain Arthur Donnithorne, the young squire who seduces her, Adam Bede, her unacknowledged suitor, and Dinah Morris, Hetty's cousin, a fervent, virtuous and beautiful Methodist lay preacher.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3743.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3743.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3743.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3743.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3743.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3743.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Silas Marner</title>
+<id>http://www.feedbooks.com/book/3738</id>
+<author>
+  <name>George Eliot</name>
+  <uri>http://www.feedbooks.com/author/132</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1861</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Wrongly accused of theft and exiled by community of Lantern Yard, Silas Marner settles in the village of Raveloe, living as a recluse and caring only for work and money. Bitter and unhappy, Silas' circumstances change when an orphaned child, actually the unaknowledged child of Godfrey Cass, eldest son of the local squire, is left in his care.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3738.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3738.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3738.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3738.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3738.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3738.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>R. Holmes &amp; Co.</title>
+<id>http://www.feedbooks.com/book/3735</id>
+<author>
+  <name>John Kendrick Bangs</name>
+  <uri>http://www.feedbooks.com/author/574</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1906</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>A collection of 10 short stories about the son of Sherlock Holmes and grandson of Raffles.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3735.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3735.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3735.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3735.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3735.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3735.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Triumphs of Eug&#232;ne Valmont</title>
+<id>http://www.feedbooks.com/book/3734</id>
+<author>
+  <name>Robert Barr</name>
+  <uri>http://www.feedbooks.com/author/980</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1906</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>The Triumphs of Eugene Valmont (1906) brings together tales of the multifarious exploits of Robert Barr's elegant and cunning sleuth, Valmont, a brilliantly ironic parody of Sherlock Holmes. Exhibiting the crucial combination of realism and imagination that characterizes the finest crime writing, the stories exude playfulness and blend mystery and quasi-Gothic thrills with humorous detours and romantic adventure. A notable figure in 1890s literary London and a friend of Conan Doyle, Barr was acutely aware of style as a form of statement and the stories are full of literary effects, commentary on the detective mystery genre, and Valmont's disparaging reflections on English values.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3734.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3734.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3734.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3734.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3734.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3734.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

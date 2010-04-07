@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=59&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=59&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=59&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 59 | Feedbooks</title>
+  <updated>2010-04-07T18:25:07Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1161</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=58&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=60&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Code Three</title>
+<id>http://www.feedbooks.com/book/870</id>
+<author>
+  <name>Raphael Rick</name>
+  <uri>http://www.feedbooks.com/author/163</uri>
+</author>
+<updated>2009-09-16T10:32:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The cars on high-speed highways must follow each other like sheep. And they need shepherds. The highway police cruiser of tomorrow however must be massively different-as different as the highways themselves!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/870.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/870.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/870.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/870.png?t=20090916103214" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/870.png?size=smaller&amp;t=20090916103214" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/870.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Space Tug</title>
+<id>http://www.feedbooks.com/book/898</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2009-09-16T10:33:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Joe had helped launch the first Space Platform--that initial rung in man's ladder to the stars. But the enemies who had ruthlessly tried to destroy the space station before it left Earth were still at work. They were plotting to destroy Joe's mission!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/898.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/898.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/898.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/898.png?t=20090916103346" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/898.png?size=smaller&amp;t=20090916103346" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/898.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Plumed Serpent</title>
+<id>http://www.feedbooks.com/book/1076</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2009-09-16T10:41:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1926</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1076.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1076.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1076.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1076.png?t=20090916104159" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1076.png?size=smaller&amp;t=20090916104159" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1076.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>An Authentic Narrative of a Haunted House</title>
+<id>http://www.feedbooks.com/book/1570</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:01:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1862</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1570.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1570.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1570.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1570.png?t=20090916110116" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1570.png?size=smaller&amp;t=20090916110116" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1570.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Impossibles</title>
+<id>http://www.feedbooks.com/book/1960</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<author>
+  <name>Laurence Mark Janifer</name>
+  <uri>http://www.feedbooks.com/author/268</uri>
+</author>
+<updated>2009-09-16T11:26:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Published in Analog as &quot;Out Like a Light,&quot; The Impossibles involves Malone with a new kind of crime wave. Late-model cars drive themselves away with nobody at the wheel. Valuables begin vanishing from locked rooms. Malone, the Government's expert on &quot;impossibilities,&quot; is afraid it is a new kind of criminal -- who can disappear at will, walk through walls, and thumb his nose at the police. Malone is right . . .</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1960.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1960.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1960.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1960.png?t=20090916112639" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1960.png?size=smaller&amp;t=20090916112639" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1960.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Silverado Squatters</title>
+<id>http://www.feedbooks.com/book/2193</id>
+<author>
+  <name>Robert Louis Stevenson</name>
+  <uri>http://www.feedbooks.com/author/37</uri>
+</author>
+<updated>2009-09-16T11:35:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1883</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<summary>The scene of this little book is on a high mountain. There are, indeed, many higher; there are many of a nobler outline. It is no place of pilgrimage for the summary globe-trotter; but to one who lives upon its sides, Mount Saint Helena soon becomes a center of interest. It is the Mont Blanc of one section of the Californian Coast Range, none of its near neighbors rising to one-half its altitude. It looks down on much green, intricate country. It feeds in the spring-time many splashing brooks. From its summit you must have an excellent lesson of geography: seeing, to the south, San Francisco Bay, with Tamalpais on the one hand and Monte Diablo on the other; to the west and thirty miles away, the open ocean; eastward, across the corn-lands and thick tule swamps of Sacramento Valley, to where the Central Pacific railroad begins to climb the sides of the Sierras; and northward, for what I know, the white head of Shasta looking down on Oregon. . . .</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2193.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2193.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2193.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2193.png?t=20090916113534" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2193.png?size=smaller&amp;t=20090916113534" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2193.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Police Operation</title>
+<id>http://www.feedbooks.com/book/383</id>
+<author>
+  <name>Henry Beam Piper</name>
+  <uri>http://www.feedbooks.com/author/114</uri>
+</author>
+<updated>2009-09-16T10:19:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1948</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Hunting down the beast, under the best of circumstances, was dangerous. But in this little police operation, the conditions required the use of inadequate means!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/383.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/383.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/383.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/383.png?t=20090916101930" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/383.png?size=smaller&amp;t=20090916101930" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/383.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mucker</title>
+<id>http://www.feedbooks.com/book/945</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-11-11T14:27:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/331</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/945.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/945.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/945.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/945.png?t=20091111142742" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/945.png?size=smaller&amp;t=20091111142742" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/945.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Winter Murder Case</title>
+<id>http://www.feedbooks.com/book/1768</id>
+<author>
+  <name>S. S. Van Dine</name>
+  <uri>http://www.feedbooks.com/author/250</uri>
+</author>
+<updated>2009-09-16T11:13:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1939</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1768.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1768.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1768.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1768.png?t=20090916111346" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1768.png?size=smaller&amp;t=20090916111346" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1768.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mind Like A Strange Balloon</title>
+<id>http://www.feedbooks.com/book/1997</id>
+<author>
+  <name>Tom Maddox</name>
+  <uri>http://www.feedbooks.com/author/277</uri>
+</author>
+<updated>2009-09-16T11:29:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1985</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.dthomasmaddox.com/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1997.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1997.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1997.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1997.png?t=20090916112905" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1997.png?size=smaller&amp;t=20090916112905" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1997.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The House on the Borderland</title>
+<id>http://www.feedbooks.com/book/2418</id>
+<author>
+  <name>William Hope Hodgson</name>
+  <uri>http://www.feedbooks.com/author/374</uri>
+</author>
+<updated>2009-09-16T11:39:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>Hodgson wrote a trilogy consisting of Date 1965 Modern Warfare, The House on the Borderland, and The Ghost Pirates. The setting for The House on the Borderland is an ancient house in a lonely part of Ireland, where an old man lives alone with his sister and his pets. His diary is found and it tells the story of a huge cavern below the house filled with white pig like monsters. The old man has had to flight these creatures. He then sees his house in an alternate space-time plain that is isolated from the rest of his world. This haunting tale conveys intense isolations and loneliness.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2418.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2418.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2418.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2418.png?t=20090916113916" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2418.png?size=smaller&amp;t=20090916113916" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2418.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Time Axis</title>
+<id>http://www.feedbooks.com/book/2318</id>
+<author>
+  <name>Henry Kuttner</name>
+  <uri>http://www.feedbooks.com/author/339</uri>
+</author>
+<updated>2009-09-16T12:01:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1948</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Called to the end of time by a being known as The Face of Ea, four adventurers face a power that not even the science of that era could meet -- the nekron, negative matter, negative force, ultimate desctruction for everything it touched!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2318.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2318.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2318.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2318.png?t=20090916120104" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2318.png?size=smaller&amp;t=20090916120104" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2318.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Strange Manuscript Found in a Copper Cylinder</title>
+<id>http://www.feedbooks.com/book/2363</id>
+<author>
+  <name>James De Mille</name>
+  <uri>http://www.feedbooks.com/author/345</uri>
+</author>
+<updated>2010-01-07T08:11:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1888</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The satiric and fantastic romance is set in an imaginary semi-tropical land in Antarctica inhabited by prehistoric monsters and a cult of death-worshipers called the Kosekin.
+The main story of the novel is the narrative of the adventures of Adam More, a British sailor shipwrecked on a homeward voyage from Tasmania. After passing through a subterranean tunnel of volcanic origin, he finds himself in a &quot;lost world&quot; of prehistoric animals, plants and people sustained by volcanic heat despite the long Antarctic night.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2363.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2363.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2363.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2363.png?t=20100107081108" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2363.png?size=smaller&amp;t=20100107081108" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2363.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Postmark Ganymede</title>
+<id>http://www.feedbooks.com/book/2539</id>
+<author>
+  <name>Robert Silverberg</name>
+  <uri>http://www.feedbooks.com/author/411</uri>
+</author>
+<updated>2009-09-16T12:07:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1957</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Consider the poor mailman of the future. To &quot;sleet and snow and dead of night&quot;--things that must not keep him from his appointed rounds--will be added, sub-zero void, meteors, and planets that won't stay put. Maybe he'll decide that for six cents an ounce it just ain't worth it.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2539.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2539.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2539.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2539.png?t=20090916120706" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2539.png?size=smaller&amp;t=20090916120706" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2539.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Hellhound of the Cosmos</title>
+<id>http://www.feedbooks.com/book/3274</id>
+<author>
+  <name>Clifford Donald Simak</name>
+  <uri>http://www.feedbooks.com/author/426</uri>
+</author>
+<updated>2009-08-18T01:18:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>Dimensional degeneration.</summary>
+<dcterms:source>http://www.gutenberg.org/files/27013/27013.txt</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3274.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3274.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3274.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3274.png?t=20090818011802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3274.png?size=smaller&amp;t=20090818011802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3274.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Gods of Pegana </title>
+<id>http://www.feedbooks.com/book/3275</id>
+<author>
+  <name>Lord Dunsany</name>
+  <uri>http://www.feedbooks.com/author/757</uri>
+</author>
+<updated>2009-08-18T01:18:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1905</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Collections" label="Collections"/>
+<summary>The book is a series of short stories linked by Dunsany's invented pantheon of deities who dwell in Peg&#257;na. It was followed by a further collection Time and the Gods and by some stories in The Sword of Welleran and Other Stories .</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3275.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3275.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3275.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3275.png?t=20090818011802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3275.png?size=smaller&amp;t=20090818011802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3275.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Description of Wales</title>
+<id>http://www.feedbooks.com/book/3826</id>
+<author>
+  <name>Giraldus Cambrensis</name>
+  <uri>http://www.feedbooks.com/author/1024</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1194</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="History" label="History"/>
+<summary>Williams' classic edition of Hoare's classic translation is here augmented with almost 200 new annotations concerning quotations, language, geography, history, and customs alluded to in the text.</summary>
+<dcterms:source>J. M. Dent (1935)</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3826.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3826.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3826.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3826.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3826.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3826.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Facing the Flag</title>
+<id>http://www.feedbooks.com/book/4311</id>
+<author>
+  <name>Jules Verne</name>
+  <uri>http://www.feedbooks.com/author/19</uri>
+</author>
+<updated>2009-10-08T14:21:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Facing the Flag or For the Flag is a patriotic novel by Jules Verne. Like The Begum's Millions which Verne published in 1879 , it has the theme of France and the entire world threatened by a super-weapon (what would now be called a weapon of mass destruction) with the threat finally overcome through the force of French patriotism. It can be considered one of the first books dealing with problems which was to become paramount half a century after its publication: brilliant scientists discovering new weapons of great destructive power, whose full utilisation might literally destroy the world; the competition between various powers to obtain control of such weapons; and also the efforts of ruthless non-state groups to have it. </summary>
+<dcterms:source>http://www.gutenberg.org/etext/11556</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4311.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4311.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4311.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4311.png?t=20091008142145" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4311.png?size=smaller&amp;t=20091008142145" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4311.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ex Oblivione</title>
+<id>http://www.feedbooks.com/book/249</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/249.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/249.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/249.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/249.png?t=20090916101528" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/249.png?size=smaller&amp;t=20090916101528" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/249.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Quest of Iranon</title>
+<id>http://www.feedbooks.com/book/280</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1935</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/280.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/280.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/280.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/280.png?t=20090916101539" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/280.png?size=smaller&amp;t=20090916101539" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/280.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

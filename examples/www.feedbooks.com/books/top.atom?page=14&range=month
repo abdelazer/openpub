@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=14&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=14&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=14&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 14 | Feedbooks</title>
+  <updated>2010-04-07T18:24:41Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>261</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=13&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=15&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Ozma of Oz</title>
+<id>http://www.feedbooks.com/book/205</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2009-09-16T10:13:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/205.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/205.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/205.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/205.png?t=20090916101345" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/205.png?size=smaller&amp;t=20090916101345" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/205.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Narrative of the Life of Frederick Douglass</title>
+<id>http://www.feedbooks.com/book/4149</id>
+<author>
+  <name>Frederick Douglass</name>
+  <uri>http://www.feedbooks.com/author/1184</uri>
+</author>
+<updated>2009-09-03T13:31:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1845</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Biography" label="Biography"/>
+<summary>Narrative of the Life of Frederick Douglass is a memoir and treatise on abolition written by famous orator and ex-slave, Frederick Douglass. It is generally held to be the most famous of a number of narratives written by former slaves during the same period. In factual detail, the text describes the events of his life and is considered to be one of the most influential pieces of literature to fuel the abolitionist movement of the early 19th century in the United States.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/23</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4149.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4149.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4149.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4149.png?t=20090903133148" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4149.png?size=smaller&amp;t=20090903133148" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4149.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>As You Like It</title>
+<id>http://www.feedbooks.com/book/2972</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:38:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1600</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<summary>As You Like It is a pastoral comedy by William Shakespeare based on the novel Rosalynde by Thomas Lodge, believed to have been written in 1599 or early 1600. It features one of Shakespeare's most famous and oft-quoted lines, &quot;All the world's a stage&quot;, and has been adapted for radio, film, and musical theatre. (From Wikipedia)</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2972.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2972.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2972.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2972.png?t=20090916123816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2972.png?size=smaller&amp;t=20090916123816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2972.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Rubaiyat of Omar Khayyam</title>
+<id>http://www.feedbooks.com/book/4139</id>
+<author>
+  <name>Omar Khayyam</name>
+  <uri>http://www.feedbooks.com/author/1177</uri>
+</author>
+<updated>2009-08-31T16:57:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1889</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<summary>This is the first and most famous English translation of the The Rubaiyat of Omar Khayyam. As a work of English literature FitzGerald's version of these poems, originally written in the Persian language, is a high point of the 19th century and has been greatly influential.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4139.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4139.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4139.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4139.png?t=20090831165720" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4139.png?size=smaller&amp;t=20090831165720" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4139.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tales of Old Japan</title>
+<id>http://www.feedbooks.com/book/2726</id>
+<author>
+  <name>Lord Redesdale</name>
+  <uri>http://www.feedbooks.com/author/519</uri>
+</author>
+<updated>2010-01-02T15:27:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1871</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="History" label="History"/>
+<category term="Collections" label="Collections"/>
+<summary>Tales of Old Japan is an anthology of short stories, compiled by Algernon Bertram Freeman-Mitford, Lord Redesdale, writing under the better known name of A.B. Mitford. These stories focus on the varying aspects of Japanese life in centuries past. The book, which was written in 1871, is still regarded as an excellent introduction to Japanese literature and culture, by virtue of its ease of access and supplemental notes by the writer. Also included are the author's eyewitness accounts of a selection of Japanese rituals, ranging from the harakiri and marriage to a selection of sermons. This book had a lasting influence on the Western perception of Japanese history, culture and society, particularly because of just one widely known tale about samurai revenge.</summary>
+<dcterms:source>Gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2726.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2726.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2726.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2726.png?t=20100102152706" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2726.png?size=smaller&amp;t=20100102152706" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2726.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Defenders</title>
+<id>http://www.feedbooks.com/book/3892</id>
+<author>
+  <name>Philip K. Dick</name>
+  <uri>http://www.feedbooks.com/author/1023</uri>
+</author>
+<updated>2009-08-18T01:19:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No weapon has ever been frightful enough to put a stop to war--perhaps because we never before had any that thought for themselves!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3892.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3892.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3892.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3892.png?t=20090818011911" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3892.png?size=smaller&amp;t=20090818011911" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3892.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Just so Stories</title>
+<id>http://www.feedbooks.com/book/865</id>
+<author>
+  <name>Rudyard Kipling</name>
+  <uri>http://www.feedbooks.com/author/56</uri>
+</author>
+<updated>2009-09-16T10:32:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1902</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Collections" label="Collections"/>
+<summary>The stories, first published in 1902, are pourquoi stories, fantastic accounts of how various phenomena came about. A forerunner of these stories is &quot;How Fear Came&quot; in The Second Jungle Book (1895), in which Mowgli hears the story of how the tiger got his stripes.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/865.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/865.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/865.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/865.png?t=20090916103202" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/865.png?size=smaller&amp;t=20090916103202" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/865.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Free Culture</title>
+<id>http://www.feedbooks.com/book/2750</id>
+<author>
+  <name>Lawrence Lessig</name>
+  <uri>http://www.feedbooks.com/author/524</uri>
+</author>
+<updated>2009-09-19T12:50:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Essay" label="Essay"/>
+<summary>Lawrence Lessig, &#8220;the most important thinker on intellectual property in the Internet era&#8221; (The New Yorker), masterfully argues that never before in human history has the power to control creative progress been so concentrated in the hands of the powerful few, the so-called Big Media. Never before have the cultural powers- that-be been able to exert such control over what we can and can&#8217;t do with the culture around us. Our society defends free markets and free speech; why then does it permit such top-down control? To lose our long tradition of free culture, Lawrence Lessig shows us, is to lose our freedom to create, our freedom to build, and, ultimately, our freedom to imagine.</summary>
+<dcterms:source>http://free-culture.cc</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2750.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2750.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2750.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2750.png?t=20090919125012" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2750.png?size=smaller&amp;t=20090919125012" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2750.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Articles of Confederation</title>
+<id>http://www.feedbooks.com/book/4053</id>
+<author>
+  <name>Benjamin  Franklin</name>
+  <uri>http://www.feedbooks.com/author/1140</uri>
+</author>
+<updated>2009-09-22T22:35:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1781</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Politics" label="Politics"/>
+<summary>The Articles of Confederation and Perpetual Union, commonly referred to as the Articles of Confederation, was the first constitution of the thirteen United States of America. The Second Continental Congress appointed a committee to draft the 'Articles' in June 1776 and proposed the draft to the States for ratification in November 1777. The ratification process was completed in March 1781, legally federating the sovereign and independent states, allied under the Articles of Association, into a new federation styled the &quot;United States of America&quot;. Under the Articles the states retained sovereignty over all governmental functions not specifically relinquished to the central government.</summary>
+<dcterms:source>http://avalon.law.yale.edu/18th_century/artconf.asp</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4053.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4053.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4053.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4053.png?t=20090922223515" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4053.png?size=smaller&amp;t=20090922223515" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4053.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Roughing It</title>
+<id>http://www.feedbooks.com/book/4307</id>
+<author>
+  <name>Mark Twain</name>
+  <uri>http://www.feedbooks.com/author/24</uri>
+</author>
+<updated>2009-10-08T17:21:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1872</dcterms:issued>
+<category term="Biography" label="Biography"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<category term="Travel" label="Travel"/>
+<summary>Roughing It follows the travels of young Mark Twain through the Wild West during the years 1861&#8211;1867. After a brief stint as a Confederate cavalry militiaman, he joined his brother Orion Clemens, who had been appointed Secretary of the Nevada Territory, on a stagecoach journey west. Twain consulted his brother's diary to refresh his memory and borrowed heavily from his active imagination for many stories in the novel.
+
+Roughing It illustrates many of Twain's early adventures, including a visit to Salt Lake City, gold and silver prospecting, real-estate speculation, and his beginnings as a writer.
+
+In this memoir, readers can see examples of Twain's rough-hewn humor, which would become a staple of his writing in his later books, such as Adventures of Huckleberry Finn, The Adventures of Tom Sawyer, and A Connecticut Yankee in King Arthur's Court.
+
+(Source: Wikipedia)</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4307.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4307.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4307.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4307.png?t=20091008172134" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4307.png?size=smaller&amp;t=20091008172134" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4307.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Man Who Was Thursday: a Nightmare </title>
+<id>http://www.feedbooks.com/book/3680</id>
+<author>
+  <name>Gilbert Keith Chesterton</name>
+  <uri>http://www.feedbooks.com/author/953</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1908</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Thriller" label="Thriller"/>
+<category term="Religion" label="Religion"/>
+<summary>The Man Who Was Thursday: A Nightmare is a novel by G. K. Chesterton, first published in 1908. The book has been referred to as a metaphysical thriller.
+Although it deals with anarchists, the novel is not an exploration or rebuttal of anarchist thought; Chesterton's ad hoc construction of &quot;Philosophical Anarchism&quot; is distinguished from ordinary anarchism and is referred to several times not so much as a rebellion against government but as a rebellion against God.
+The novel has been described as &quot;one of the hidden hinges of twentieth-century writing, the place where, before our eyes, the nonsense-fantastical tradition of Lewis Carroll and Edward Lear pivots and becomes the nightmare-fantastical tradition of Kafka and Borges.&quot;
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3680.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3680.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3680.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3680.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3680.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3680.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Charmides</title>
+<id>http://www.feedbooks.com/book/679</id>
+<author>
+  <name>Plato</name>
+  <uri>http://www.feedbooks.com/author/144</uri>
+</author>
+<updated>2009-09-16T10:28:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-400</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/679.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/679.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/679.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/679.png?t=20090916102838" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/679.png?size=smaller&amp;t=20090916102838" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/679.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Woman in White</title>
+<id>http://www.feedbooks.com/book/3696</id>
+<author>
+  <name>Wilkie Collins</name>
+  <uri>http://www.feedbooks.com/author/38</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1860</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Thriller" label="Thriller"/>
+<category term="Gothic" label="Gothic"/>
+<summary>The Woman in White is an epistolary novel written by Wilkie Collins in 1859, serialized in 1859&#8211;1860, and first published in book form in 1860. It is considered to be among the first mystery novels and is widely regarded as one of the first (and finest) in the genre of 'sensation novels'.
+
+As was customary at that time, The Woman in White was first published as a magazine serial. The first episode appeared on 29 November 1859, following Charles Dickens's own A Tale of Two Cities in Dickens's magazine All the Year Round in England, and Harper's Magazine in America. It caused an immediate sensation. Julian Symons (in his 1974 introduction to the Penguin edition) reports that &quot;queues formed outside the offices to buy the next instalment. Bonnets, perfumes, waltzes and quadrilles were called by the book's title. Gladstone cancelled a theatre engagement to go on reading it. And Prince Albert sent a copy to Baron Stockmar.&quot;
+
+(from Wikipedia)
+</summary>
+<dcterms:source>www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3696.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3696.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3696.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3696.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3696.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3696.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Little Dorrit</title>
+<id>http://www.feedbooks.com/book/687</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:28:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1857</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Upon its publication in 1857, Little Dorrit immediately outsold any of Dickens&#8217;s previous books. The story of William Dorrit, imprisoned for debt in Marshalsea Prison, and his daughter and helpmate, Amy, or Little Dorrit, the novel charts the progress of the Dorrit family from poverty to riches. In his Introduction, David Gates argues that &#8220;intensity of imagination is the gift from which Dickens&#8217;s other great attributes derive: his eye and ear, his near-universal empathy, his ability to entertain both a sense of the ridiculous and a sense of ultimate significance.&#8221;</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/687.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/687.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/687.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/687.png?t=20090916102858" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/687.png?size=smaller&amp;t=20090916102858" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/687.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Stranger Things Happen</title>
+<id>http://www.feedbooks.com/book/2873</id>
+<author>
+  <name>Kelly Link</name>
+  <uri>http://www.feedbooks.com/author/588</uri>
+</author>
+<updated>2009-09-16T12:26:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2001</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Collections" label="Collections"/>
+<summary>This first collection by award-winning author Kelly Link, takes fairy tales and cautionary tales, dictators and extraterrestrials, amnesiacs and honeymooners, revenants and readers alike, on a voyage into new, strange, and wonderful territory. The girl detective must go to the underworld to solve the case of the tap-dancing bank robbers. A librarian falls in love with a girl whose father collects artificial noses. A dead man posts letters home to his estranged wife. Two women named Louise begin a series of consecutive love affairs with a string of cellists. A newly married couple become participants in an apocalyptic beauty pageant. Sexy blond aliens invade New York City. A young girl learns how to make herself disappear.
+
+These eleven extraordinary stories are quirky, spooky, and smart. They all have happy endings. Every story contains a secret prize. Each story was written especially for you.
+
+Stories from Stranger Things Happen have won the Nebula, Tiptree, and World Fantasy Award. Stranger Things Happen was a Salon Book of the Year, one of the Village Voice's 25 Favorite Books of 2001, and was nominated for the Firecracker Alternative Book Award.</summary>
+<dcterms:source>http://www.kellylink.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2873.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2873.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2873.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2873.png?t=20090916122626" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2873.png?size=smaller&amp;t=20090916122626" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2873.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Varieties of Religious Experience</title>
+<id>http://www.feedbooks.com/book/4145</id>
+<author>
+  <name>William James</name>
+  <uri>http://www.feedbooks.com/author/1181</uri>
+</author>
+<updated>2009-09-03T14:13:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1902</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Religion" label="Religion"/>
+<summary>These lectures concerning the nature of religion were delivered at the University of Edinburgh between 1901 and 1902. Soon after its publication, the book found its way into the canon of psychology and philosophy, and has remained in print for over a century.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4145.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4145.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4145.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4145.png?t=20090903141310" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4145.png?size=smaller&amp;t=20090903141310" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4145.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Nightingale and the Rose</title>
+<id>http://www.feedbooks.com/book/21</id>
+<author>
+  <name>Oscar Wilde</name>
+  <uri>http://www.feedbooks.com/author/5</uri>
+</author>
+<updated>2009-09-16T10:06:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1888</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>A nightingale overhears a student complaining that his professor's daughter will not dance with him, as he is unable to give her a red rose. The nightingale visits all the rose-trees in the garden, and one of the white roses tell her that there's a way to produce a red rose, but only if the nightingale is prepared to sing the sweetest song for the rose all night, and sacrifice her life to do so. Seeing the student in tears, the nightingale carries out the ritual, and impales herself on the rose-tree's thorn so that her heart's blood can stain the rose. The student takes the rose to the professor's daughter, but she again rejects him because another man has sent her some real jewels, and &quot;everybody knows that jewels cost far more than flowers.&quot; The student angrily throws the rose into the gutter, returns to his study of metaphysics, and decides not to believe in true love anymore.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/21.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/21.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/21.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/21.png?t=20090916100644" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/21.png?size=smaller&amp;t=20090916100644" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/21.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Memoirs of Barry Lyndon, Esq.</title>
+<id>http://www.feedbooks.com/book/1470</id>
+<author>
+  <name>William Makepeace Thackeray</name>
+  <uri>http://www.feedbooks.com/author/226</uri>
+</author>
+<updated>2009-09-16T10:33:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1844</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>The Luck of Barry Lyndon is a picaresque novel by William Makepeace Thackeray, first published in serial form in 1844, about a member of the Irish gentry trying to become a member of the English aristocracy. Thackeray, who based the novel on the life and exploits of the Anglo-Irish rakehell and fortune-hunter Andrew Robinson Stoney, later reissued it under the title The Memoirs of Barry Lyndon, Esq..</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1470.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1470.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1470.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1470.png?t=20090916103310" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1470.png?size=smaller&amp;t=20090916103310" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1470.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Postsingular</title>
+<id>http://www.feedbooks.com/book/1918</id>
+<author>
+  <name>Rudy Rucker</name>
+  <uri>http://www.feedbooks.com/author/256</uri>
+</author>
+<updated>2009-09-16T11:22:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It all begins next year in California. A maladjusted computer industry billionaire and a somewhat crazy US President initiate a radical transformation of the world through sentient nanotechnology; sort of the equivalent of biological artificial intelligence. At first they succeed, but their plans are reversed by Chu, an autistic boy. The next time it isn't so easy to stop them. 
+ 
+Most of the story takes place in a world after a heretofore unimaginable transformation, where all the things look the same but all the people are different (they're able to read each others' minds, for starters). Travel to and from other nearby worlds in the quantum universe is possible, so now our world is visited by giant humanoids from another quantum universe, and some of them mean to tidy up the mess we've made. Or maybe just run things.</summary>
+<dcterms:source>http://www.rudyrucker.com/postsingular</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1918.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1918.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1918.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1918.png?t=20090916112202" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1918.png?size=smaller&amp;t=20090916112202" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1918.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Middlemarch</title>
+<id>http://www.feedbooks.com/book/575</id>
+<author>
+  <name>George Eliot</name>
+  <uri>http://www.feedbooks.com/author/132</uri>
+</author>
+<updated>2010-01-02T15:27:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1871</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Vast and crowded, rich in irony and suspense, Middlemarch is richer still in character, with two of the era's most enduring characters, Dorothea Brooke, trapped in a loveless marriage, and Lydgate, an ambitious young doctor.</summary>
+<dcterms:source>Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/575.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/575.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/575.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/575.png?t=20100102152703" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/575.png?size=smaller&amp;t=20100102152703" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/575.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

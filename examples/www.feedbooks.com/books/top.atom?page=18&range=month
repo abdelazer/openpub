@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=18&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=18&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=18&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 18 | Feedbooks</title>
+  <updated>2010-04-07T18:24:44Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>341</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=17&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=19&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Story of the Inexperienced Ghost</title>
+<id>http://www.feedbooks.com/book/632</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:27:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1902</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/632.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/632.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/632.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/632.png?t=20090916102717" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/632.png?size=smaller&amp;t=20090916102717" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/632.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lord Jim</title>
+<id>http://www.feedbooks.com/book/719</id>
+<author>
+  <name>Joseph Conrad</name>
+  <uri>http://www.feedbooks.com/author/10</uri>
+</author>
+<updated>2009-09-16T10:29:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1900</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Lord Jim tells the story of a young, idealistic Englishman--&quot;as unflinching as a hero in a book&quot;--who is disgraced by a single act of cowardice while serving as an officer on the Patna, a merchant-ship sailing from an eastern port. His life is ruined: an isolated scandal has assumed horrifying proportions. But, then he is befriended by an older man named Marlow who helps to establish him in exotic Patusan, a remote Malay settlement where his courage is put to the test once more. Lord Jim is a book about courage and cowardice, self-knowledge and personal growth. It is one of the most profound and rewarding psychological novels in English. Set in the context of social change and colonial expansion in late Victorian England, it embodies in Jim the values and turmoil of a fading empire. This new edition uses the first English edition text and includes a new introduction and notes by leading Conrad scholar Jacques Berthoud, glossaries, and an appendix on Conrad's sources and reading. </summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/719.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/719.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/719.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/719.png?t=20090916102933" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/719.png?size=smaller&amp;t=20090916102933" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/719.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Phoenix on the Sword</title>
+<id>http://www.feedbooks.com/book/1611</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T11:02:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>&quot;The Phoenix on the Sword&quot; begins with a middle-aged Conan of Cimmeria attempting to govern the turbulent kingdom of Aquilonia.
+Conan has recently seized the bloody crown of Aquilonia from King Numedides whom he strangled upon his throne; however, things have not gone well, as Conan is more suited to swinging a broadsword than to signing official documents with a stylus. The people of Aquilonia, who originally welcomed Conan as their liberator from Numedides' tyranny, have gradually turned against him due to his foreign Cimmerian blood. They have built a statue to Numedides' memory in the temple of Mitra, and people burn incense before it, hailing it as the holy effigy of a saintly monarch who was done to death by a red-handed barbarian.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1611.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1611.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1611.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1611.png?t=20090916110217" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1611.png?size=smaller&amp;t=20090916110217" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1611.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ion</title>
+<id>http://www.feedbooks.com/book/684</id>
+<author>
+  <name>Plato</name>
+  <uri>http://www.feedbooks.com/author/144</uri>
+</author>
+<updated>2009-09-16T10:28:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-400</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/684.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/684.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/684.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/684.png?t=20090916102838" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/684.png?size=smaller&amp;t=20090916102838" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/684.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Certain Dr Thorndyke</title>
+<id>http://www.feedbooks.com/book/2081</id>
+<author>
+  <name>R. Austin Freeman</name>
+  <uri>http://www.feedbooks.com/author/288</uri>
+</author>
+<updated>2009-09-16T11:41:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1927</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>A winding adventure that begins in an exotic, teasing location. Richard Austin Freeman introduces the reader to the delights of an extraordinary jewel heist. Hollis is a retired soap manufacturer, richer than Croesus and some say mad. Obsessed with amassing wondrous jewels, precious stones and bullion, Hollis chooses a strong room to deposit his dazzling hoard. But when he discovers that he's the victim of an elaborate and enigmatic robbery, even though the room was never broken into, Dr Thorndyke is summoned to bring his unrivalled knowledge to bear on a remarkable mystery.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2081.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2081.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2081.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2081.png?t=20090916114100" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2081.png?size=smaller&amp;t=20090916114100" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2081.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Practice of the Presence of God</title>
+<id>http://www.feedbooks.com/book/4201</id>
+<author>
+  <name>Brother Lawrence</name>
+  <uri>http://www.feedbooks.com/author/1196</uri>
+</author>
+<updated>2009-09-14T16:56:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1692</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Religion" label="Religion"/>
+<summary>The Practice of the Presence of God is a text compiled by Father Joseph de Beaufort of the wisdom and teachings of Brother Lawrence, a 17th century Carmelite monk.
+It is a collection of his letters, and records made, by other participants in them, of his conversations. A constant theme is the development of an awareness of the presence of God.</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4201.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4201.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4201.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4201.png?t=20090914165655" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4201.png?size=smaller&amp;t=20090914165655" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4201.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Grey Fairy Book</title>
+<id>http://www.feedbooks.com/book/4460</id>
+<author>
+  <name>Andrew Lang</name>
+  <uri>http://www.feedbooks.com/author/101</uri>
+</author>
+<updated>2009-12-02T23:43:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1900</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Collections" label="Collections"/>
+<summary>The tales in the Grey Fairy Book are derived from many countries&#8212;Lithuania, various parts of Africa, Germany, France, Greece, and other regions of the world.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/6746</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4460.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4460.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4460.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4460.png?t=20091202234304" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4460.png?size=smaller&amp;t=20091202234304" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4460.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Tin Woodman of Oz</title>
+<id>http://www.feedbooks.com/book/322</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2010-01-06T18:45:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>The Tin Woodman is unexpectedly reunited with his Munchkin sweetheart Nimmie Amee from the days when he was flesh and blood.</summary>
+<dcterms:source>http://en.wikisource.org/wiki/</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/322.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/322.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/322.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/322.png?t=20100106184558" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/322.png?size=smaller&amp;t=20100106184558" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/322.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>All's Well That Ends Well</title>
+<id>http://www.feedbooks.com/book/2970</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:38:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1608</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<summary>All's Well That Ends Well is a play by William Shakespeare, originally classified as a comedy, though now often counted as one of his problem plays, so-called because they cannot be easily classified as tragedy or comedy. It was probably written in later middle part of Shakespeare's career, between 1601 and 1608, and was first published in the First Folio in 1623.
+The name of the play comes from the proverb All's well that ends well, which means that problems do not matter so long as the outcome is good.
+</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2970.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2970.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2970.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2970.png?t=20090916123806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2970.png?size=smaller&amp;t=20090916123806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2970.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Crome Yellow</title>
+<id>http://www.feedbooks.com/book/4146</id>
+<author>
+  <name>Aldous Huxley</name>
+  <uri>http://www.feedbooks.com/author/1182</uri>
+</author>
+<updated>2009-09-03T11:43:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Crome Yellow is the first novel by British author Aldous Huxley. It was published in 1921. In the book, Huxley satirises the fads and fashions of the time. It is the witty story of a house party at &quot;Crome&quot; (a lightly veiled reference to Garsington Manor, a house where authors such as Huxley and T. S. Eliot used to gather and write). We hear the history of the house from Henry Wimbush, its owner and self-appointed historian; apocalypse is prophesied, virginity is lost, and inspirational aphorisms are gained in a trance. Our hero, Denis Stone, tries to capture it all in poetry and is disappointed in love.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/1999</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4146.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4146.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4146.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4146.png?t=20090903114331" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4146.png?size=smaller&amp;t=20090903114331" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4146.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Scarecrow of Oz</title>
+<id>http://www.feedbooks.com/book/317</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2009-09-16T10:16:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org/</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/317.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/317.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/317.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/317.png?t=20090916101635" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/317.png?size=smaller&amp;t=20090916101635" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/317.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Magic of Oz</title>
+<id>http://www.feedbooks.com/book/323</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2009-09-16T10:16:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org/wiki/</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/323.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/323.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/323.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/323.png?t=20090916101653" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/323.png?size=smaller&amp;t=20090916101653" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/323.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Scarlet Pimpernel</title>
+<id>http://www.feedbooks.com/book/3568</id>
+<author>
+  <name>Baroness Emma Orczy</name>
+  <uri>http://www.feedbooks.com/author/900</uri>
+</author>
+<updated>2009-08-18T01:18:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1905</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<category term="Adventure" label="Adventure"/>
+<summary>In this historical adventure set during the French Revolution, the elusive Scarlet Pimpernel sets out to rescue men, women and children facing the horrors of the guillotine, while evading the relentless pursuit of his arch enemy, Chauvelin.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3568.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3568.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3568.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3568.png?t=20090818011810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3568.png?size=smaller&amp;t=20090818011810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3568.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Red Badge of Courage</title>
+<id>http://www.feedbooks.com/book/4527</id>
+<author>
+  <name>Stephen Crane</name>
+  <uri>http://www.feedbooks.com/author/1314</uri>
+</author>
+<updated>2009-12-29T15:19:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1895</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="War" label="War"/>
+<summary>The Red Badge of Courage is an 1895 war novel by American author Stephen Crane. It is considered one of the most influential works in American literature. The novel, a depiction on the cruelty of the American Civil War, features a young recruit who overcomes initial fears to become a hero on the battlefield. The book made Crane an international success. Although he was born after the war and had not at the time experienced battle firsthand, the novel is considered an example of Realism.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/463</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4527.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4527.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4527.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4527.png?t=20091229151925" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4527.png?size=smaller&amp;t=20091229151925" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4527.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Three Men in a Boat</title>
+<id>http://www.feedbooks.com/book/2173</id>
+<author>
+  <name>Jerome Klapka Jerome</name>
+  <uri>http://www.feedbooks.com/author/306</uri>
+</author>
+<updated>2009-09-16T11:50:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1889</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Three Men in a Boat (To Say Nothing of the Dog), published in 1889, is a humorous account by Jerome K. Jerome of a boating holiday on the Thames between Kingston and Oxford.
+The book was initially intended to be a serious travel guide, with accounts of local history along the route, but the humorous elements took over to the point where the serious and somewhat sentimental passages seem a distraction to the comic novel. One of the most praised things about Three Men in a Boat is how undated it appears to modern readers, the jokes seem fresh and witty even today.
+The three men are based on Jerome himself (the narrator J.) and two real-life friends, George Wingrave (who went on to become a senior manager in Barclays Bank) and Carl Hentschel (the founder of a London printing business, called Harris in the book), with whom he often took boating trips. The dog, Montmorency, is entirely fictional, but &quot;as Jerome admits, developed out of that area of inner consciousness which, in all Englishmen, contains an element of the dog.&quot; The trip is a typical boating holiday of the time in a Thames camping skiff. This is just after commercial boat traffic on the Upper Thames had died out, replaced by the 1880s craze for boating as a leisure activity.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2173.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2173.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2173.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2173.png?t=20090916115045" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2173.png?size=smaller&amp;t=20090916115045" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2173.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Doctor Who: Human Nature</title>
+<id>http://www.feedbooks.com/book/2934</id>
+<author>
+  <name>Paul Cornell</name>
+  <uri>http://www.feedbooks.com/author/611</uri>
+</author>
+<updated>2009-09-16T12:34:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1995</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>&quot;On the eve of the First World War, John Smith teaches at an English public school. But is he all that he seems?&quot;</summary>
+<dcterms:source>http://www.bbc.co.uk/doctorwho/classic/ebooks/human_nature/index.shtml</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2934.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2934.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2934.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2934.png?t=20090916123421" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2934.png?size=smaller&amp;t=20090916123421" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2934.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Most Dangerous Game</title>
+<id>http://www.feedbooks.com/book/3638</id>
+<author>
+  <name>Richard Connell</name>
+  <uri>http://www.feedbooks.com/author/930</uri>
+</author>
+<updated>2009-08-18T01:18:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1924</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Thriller" label="Thriller"/>
+<summary>&quot;The Most Dangerous Game&quot; features as its main character a big-game hunter from New York, who becomes shipwrecked on an isolated island in the Caribbean, and is hunted by a Russian aristocrat. 
+
+The story is an inversion of the big-game hunting safaris in Africa and South America that were fashionable among wealthy Americans in the 1920s.</summary>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3638.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3638.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3638.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3638.png?t=20090818011811" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3638.png?size=smaller&amp;t=20090818011811" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3638.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rinkitink in Oz</title>
+<id>http://www.feedbooks.com/book/318</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2010-01-02T15:27:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org/</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/318.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/318.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/318.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/318.png?t=20100102152702" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/318.png?size=smaller&amp;t=20100102152702" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/318.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Poison Belt</title>
+<id>http://www.feedbooks.com/book/352</id>
+<author>
+  <name>Arthur Conan Doyle</name>
+  <uri>http://www.feedbooks.com/author/1</uri>
+</author>
+<updated>2009-09-16T10:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The Poison Belt was the second story, a novella, that Sir Arthur Conan Doyle wrote about Professor Challenger. Written in 1913, roughly a year before the outbreak of World War I, much of it takes place--rather oddly, given that it follows The Lost World, a story set in the jungle--in a room in Challenger's house. This would be the last story written about Challenger until the 1920s, by which time Doyle's spiritualist beliefs had begun to affect his writing.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/352.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/352.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/352.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/352.png?t=20090916101816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/352.png?size=smaller&amp;t=20090916101816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/352.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Euthydemus</title>
+<id>http://www.feedbooks.com/book/984</id>
+<author>
+  <name>Plato</name>
+  <uri>http://www.feedbooks.com/author/144</uri>
+</author>
+<updated>2009-09-16T10:38:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-400</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/984.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/984.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/984.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/984.png?t=20090916103829" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/984.png?size=smaller&amp;t=20090916103829" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/984.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

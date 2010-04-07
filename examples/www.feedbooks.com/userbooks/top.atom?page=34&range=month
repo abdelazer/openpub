@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=34&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=34&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=34&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 34 | Feedbooks</title>
+  <updated>2010-04-07T18:23:27Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>661</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=33&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=35&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>All-Star Comics #15</title>
+<id>http://www.feedbooks.com/userbook/9712</id>
+<author>
+  <name>Samantha Chapman and Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman%20and%20Don%20Walsh</uri>
+</author>
+<updated>2010-01-17T21:38:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>All-Star Comics: Birds of Prey, Part 2 (of 3).
+
+Jonni Thunder, Manitou Dawn and Hawkgirl try to get a handle on the advanced weapons used by rebel insurgents in Nigeria, and instead run headlong into a dangerous society of anarchists, and possibly worse...Zenobia, the renegade Amazon! Whose side is she on? And within the ranks of SPIDER itself is a woman who might change the balance of power for everyone involved!</summary>
+<category term="Jonni Thunder"/>
+<category term="Manitou Dawn"/>
+<category term="Birds of Prey"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Hawkgirl"/>
+<category term="Zenobia"/>
+<category term="Mortalla"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9712.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9712.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9712.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9712.png?t=20100117213820" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9712.png?size=smaller&amp;t=20100117213820" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9712.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Theaker's Quarterly Fiction #32</title>
+<id>http://www.feedbooks.com/userbook/10090</id>
+<author>
+  <name>Silver Age Books</name>
+  <uri>http://www.feedbooks.com/user/20670/profile#Silver%20Age%20Books</uri>
+</author>
+<updated>2010-02-01T08:32:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>This special issue of Theaker's Quarterly features the long-awaited conclusion of our very long-running serial, Newton Braddell's Inconclusive Researches into the Unknown. And on the flipside, a special treat, issue 10 of Pantechnicon! This issue of Pantechnicon includes Alex Davis (founder of Alt.Fiction) on organising literary events and an interview with goremaster Herschell Gordon Lewis.</summary>
+<category term="magazine"/>
+<category term="fantasy"/>
+<category term="horror"/>
+<category term="SF"/>
+<category term="tqf"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10090.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10090.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10090.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10090.png?t=20100201083258" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10090.png?size=smaller&amp;t=20100201083258" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10090.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Requiem for a Hitman: A Dick Burns Minit Mrdr&#174;</title>
+<id>http://www.feedbooks.com/userbook/2986</id>
+<author>
+  <name>William Garner &amp; monkeyrotica</name>
+  <uri>http://www.feedbooks.com/user/19484/profile#William%20Garner%20%26%20monkeyrotica</uri>
+</author>
+<updated>2009-08-17T16:22:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>The last of the JFK &quot;clean-up&quot; crew takes his lumps for the Crime of the Century.</summary>
+<category term="monkeyrotica"/>
+<category term="pulp"/>
+<category term="dc"/>
+<category term="hardboiled"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/2986.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/2986.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/2986.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2986.png?t=20090817162215" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2986.png?size=smaller&amp;t=20090817162215" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/2986.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Scarface's Burden</title>
+<id>http://www.feedbooks.com/userbook/3162</id>
+<author>
+  <name>Joseph Devon</name>
+  <uri>http://www.feedbooks.com/user/21430/profile#Joseph%20Devon</uri>
+</author>
+<updated>2009-08-17T16:23:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>A reworking of one of Jonathan Coulton&#8217;s songs. Explore the various inner workings of a mad genius&#8217;s compound through the eyes of his most loyal assistant, Scarface. Between maintenance on the golden submarine, keeping the various departments happy, and getting his boss back on his feet, Scarface has plenty to keep him busy during a long winter day.</summary>
+<category term="mad scientist"/>
+<category term="winter"/>
+<category term="genius"/>
+<category term="horror"/>
+<category term="science fiction"/>
+<category term="boss"/>
+<category term="skull crusher"/>
+<category term="jonathan coulton"/>
+<category term="Creative Commons"/>
+<category term="fiction"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3162.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3162.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3162.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3162.png?t=20090817162335" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3162.png?size=smaller&amp;t=20090817162335" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3162.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aquaman #16</title>
+<id>http://www.feedbooks.com/userbook/4400</id>
+<author>
+  <name>Pat Owen</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Pat%20Owen</uri>
+</author>
+<updated>2009-08-17T16:31:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Aquaman: Crimson Tides, Part 1.
+
+A series of bloody attacks by a new theat calling himself The Shark worries the people of Poseidonis and their king. Fearing the worst, Aquaman and his brother Orm must venture on a journey to a place no Atlantean would dream of going. They better hurry as The Shark's next murder is nearing!</summary>
+<category term="Aqualad"/>
+<category term="Atlantis"/>
+<category term="Aquaman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="The Shark"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4400.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4400.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4400.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4400.png?t=20090817163150" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4400.png?size=smaller&amp;t=20090817163150" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4400.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #18</title>
+<id>http://www.feedbooks.com/userbook/5126</id>
+<author>
+  <name>Batkid</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Batkid</uri>
+</author>
+<updated>2009-08-17T16:37:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Nightwing: Heart of a Champion.
+
+Just as Nightwing starts to close in on the drug gang, more problems arise. He and Tiffany will have to move fast if they&#8217;re going to crack the case, but the team ends up with more than they bargained for! Can they solve the case before the crooks get away and before one character is written off&#8212;forever? Find out as the adventure continues in this exciting issue!</summary>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Nightwing"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5126.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5126.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5126.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5126.png?t=20090817163735" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5126.png?size=smaller&amp;t=20090817163735" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5126.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>THE CHANGING HELL Why are there many conflicting Hells? </title>
+<id>http://www.feedbooks.com/userbook/5878</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2009-08-17T16:41:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Some of the many Versions of Hell
+1. The Bible version of Hell
+2. The Dark Age Catholic version of Hell
+3. The new Catholic version of Hell
+4. The many divided Protestant versions of Hell
+a. &#8226; The Calvin version of Hell
+b. &#8226; The Jonathan Edwards version of Hell
+c. &#8226; The Graphic version of Hell
+d. &#8226; Satan will be doing the tormenting version of Hell
+e. &#8226; God will be doing the tormenting version of Hell
+f. &#8226; The Metaphorical view of both Heaven and Hell
+g. &#8226; Mental anguish version of Hell
+h. &#8226; Protestant Traditionalist versions of Hell 
+i. &#8226; Rephaim version of Hell
+5. Abraham's bosom or the after judgment Hell
+6. Edward Fudge version: The short Hell
+7. Christadelphians version of Hell
+8. Church of God version of Hell (and others)
+9. Universalist version of Hell, The &quot;age lasting&quot; Hell
+10. Seventh Day Advent version of Hell
+11. The grave is Hell version
+12. Latter-day Saints version of Hell [Mormons]
+13. Rephaim version of Hell - One of the Protestant versions of Hell</summary>
+<category term="hell"/>
+<category term="Seventh Day Advent Hell"/>
+<category term="Mormon Hell"/>
+<category term="Johathan Edward Hell"/>
+<category term="Protestant Hell"/>
+<category term="Catholic Hell"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5878.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5878.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5878.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5878.png?t=20090817164128" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5878.png?size=smaller&amp;t=20090817164128" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5878.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Waiting</title>
+<id>http://www.feedbooks.com/userbook/6298</id>
+<author>
+  <name>CD Clement</name>
+  <uri>http://www.feedbooks.com/user/44089/profile#CD%20Clement</uri>
+</author>
+<updated>2009-09-21T20:36:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>So what becomes of us as we lose our faculties? Where do we go and what secrets do we learn? And do we discover that all our sacrifices were worthwhile?</summary>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6298.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6298.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6298.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6298.png?t=20090921203639" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6298.png?size=smaller&amp;t=20090921203639" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6298.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>For the Want of a Gas Barbecue</title>
+<id>http://www.feedbooks.com/userbook/6721</id>
+<author>
+  <name>Adrian Slatcher </name>
+  <uri>http://www.feedbooks.com/user/46248/profile#Adrian%20Slatcher%20</uri>
+</author>
+<updated>2009-08-17T23:36:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Everything is perfect is Rob Collins life. He&#8217;s got a beautiful wife, Sarah, who he met at university, he&#8217;s working on Special Projects, which is transforming the company he works for, and whilst Sarah&#8217;s away in New York, they&#8217;re getting the garden transformed, with, best of all, a freestanding gas barbecue. But a midlife crisis doesn&#8217;t let you know that&#8217;s it about to start, and with Sarah away, there&#8217;s nobody to hold Rob up when he starts to fall. Often funny, occasionally dark, &#8220;For the love of a gas barbecue: a novella in 3 acts&#8221; is a contemporary morality tale from the barbed pen of Adrian Slatcher.  </summary>
+<category term="novella"/>
+<category term="male"/>
+<category term="manchester"/>
+<category term="Contemporary"/>
+<category term="comedy"/>
+<category term="office politics"/>
+<category term="dark humour"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6721.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6721.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6721.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6721.png?t=20090817233639" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6721.png?size=smaller&amp;t=20090817233639" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6721.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Supergirl #8</title>
+<id>http://www.feedbooks.com/userbook/7268</id>
+<author>
+  <name>James Steel</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#James%20Steel</uri>
+</author>
+<updated>2009-08-26T23:28:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Ultimate Supergirl: Mxyzptlked.
+
+Kara finds she has to use her brains instead of brawn as she takes on that mischievous imp Mr. Mxyil... Mr. Mixal... Mr. Mxypt... Oh just read the issue.</summary>
+<category term="Linda Danvers"/>
+<category term="Kara Zor-El"/>
+<category term="Comics"/>
+<category term="DC3"/>
+<category term="Supergirl"/>
+<category term="Mxyzptlk"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7268.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7268.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7268.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7268.png?t=20090826232817" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7268.png?size=smaller&amp;t=20090826232817" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7268.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Developmental Psychology of Psychopathology</title>
+<id>http://www.feedbooks.com/userbook/9403</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T13:16:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Psychopathology as the outcome of problems in early childhood development.</summary>
+<category term="narcissism"/>
+<category term="personality"/>
+<category term="narcissistic"/>
+<category term="narcissistic"/>
+<category term="personality"/>
+<category term="Disorder"/>
+<category term="NPD"/>
+<category term="psychopaths"/>
+<category term="antisocial"/>
+<category term="psychopathology"/>
+<category term="therapy"/>
+<category term="relationships"/>
+<category term="abuse"/>
+<category term="divorce"/>
+<category term="battering"/>
+<category term="spousal"/>
+<category term="abuse"/>
+<category term="domestic"/>
+<category term="viol"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9403.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9403.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9403.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9403.png?t=20100106131620" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9403.png?size=smaller&amp;t=20100106131620" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9403.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #23</title>
+<id>http://www.feedbooks.com/userbook/9204</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-12-31T02:41:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Ultimate Gotham Girls: Face to Face, Part One.
+
+Harvey Dent has had enough. After months of treatment and no progress, he is desperate to get rid of the voice in his head, the other half of his mind that has always been there. And with the help of a touch of magic, Harvey can get his wish...but at what price? With Two-Face on the loose and no coin to contain him, how will Batgirl be able to keep Gotham City safe?</summary>
+<category term="batgirl"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="poison ivy"/>
+<category term="harley quinn"/>
+<category term="Two-Face"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9204.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9204.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9204.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9204.png?t=20091231024103" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9204.png?size=smaller&amp;t=20091231024103" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9204.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>All-Star Comics #14</title>
+<id>http://www.feedbooks.com/userbook/9468</id>
+<author>
+  <name>Samantha Chapman and Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman%20and%20Don%20Walsh</uri>
+</author>
+<updated>2010-01-08T20:03:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>All-Star Comics: Birds of Prey, Part 1 (of 3).
+
+Sometimes when there's darkness threatening the world, it takes a woman's touch: a hard-hitting, take-no-prisoners, determined and strong-willed woman, leading a group of super-heroines who intend to take the world of crime by storm! Hawkgirl may have left the Justice League, but now she's about to become a leader in her own right, while detective Jonni Thunder must come to terms with what it means to step into the world of super-powers! Who else will join the Birds of Prey as they tackle a hard world with their own style?</summary>
+<category term="Birds of Prey"/>
+<category term="Jonni Thunder"/>
+<category term="Manitou Dawn"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Hawkgirl"/>
+<category term="Zenobia"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9468.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9468.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9468.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9468.png?t=20100108200311" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9468.png?size=smaller&amp;t=20100108200311" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9468.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Romancing the Imaginary Other</title>
+<id>http://www.feedbooks.com/userbook/661</id>
+<author>
+  <name>RL Schrag</name>
+  <uri>http://www.feedbooks.com/user/5786/profile#RL%20Schrag</uri>
+</author>
+<updated>2009-08-17T21:53:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2003</dcterms:issued>
+<summary>Romantic poetry, while usually written to a specific individual, often outlives the relationship.  When viewed over the course of a lifetime it seems that all these poems were written to a single idealized lover who peered briefly from real eyes.  But those flesh and blood partners eventually, inevitably, succumbed when measured against the incomparable charms of the imaginary other. This is a collection of  poems written to those imaginary others.</summary>
+<category term="poems"/>
+<category term="poem"/>
+<category term="schrag"/>
+<category term="poetry"/>
+<category term="chord theory"/>
+<category term="romantic poetry"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/661.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/661.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/661.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/661.png?t=20090817215338" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/661.png?size=smaller&amp;t=20090817215338" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/661.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #12</title>
+<id>http://www.feedbooks.com/userbook/4666</id>
+<author>
+  <name>Imari</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Imari</uri>
+</author>
+<updated>2009-08-17T16:34:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Nightwing: Thieves of the Night</summary>
+<category term="Nocturna"/>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Night-Thief"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4666.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4666.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4666.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4666.png?t=20090817163427" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4666.png?size=smaller&amp;t=20090817163427" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4666.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Bound with an Iron Chain: How the British Transported 50,000 Convicts to Colonial America</title>
+<id>http://www.feedbooks.com/userbook/5673</id>
+<author>
+  <name>Anthony Vaver</name>
+  <uri>http://www.feedbooks.com/user/40519/profile#Anthony%20Vaver</uri>
+</author>
+<updated>2009-08-17T16:39:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Most people associate convict transportation with Australia, when in reality colonial America served as the first major destination for transported British convicts. &quot;Bound with an Iron Chain&quot; tells the neglected story of the 50,000 convicts who were forcibly shipped to America, auctioned off like African slaves, and made to work on plantations in Maryland and Virginia during the eighteenth century. This forgotten chapter in American history is told through the lives of the government officials who invented this new form of punishment, the convict merchants who got rich off of it, the plantation owners who eagerly bought this form of cheap labor, and the convicts who were separated from their families and friends over the theft of what sometimes amounted to less than one shilling.
+
+Learn more about convict transportation at my website, Early American Crime (www.EarlyAmericanCrime.com). </summary>
+<category term="british"/>
+<category term="punishment"/>
+<category term="criminals"/>
+<category term="Britain"/>
+<category term="america"/>
+<category term="Law"/>
+<category term="American"/>
+<category term="crime"/>
+<category term="history"/>
+<category term="convict transportation"/>
+<category term="18th Century"/>
+<category term="colonial history"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5673.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5673.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5673.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5673.png?t=20090817163946" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5673.png?size=smaller&amp;t=20090817163946" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5673.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>All-Star Comics #8</title>
+<id>http://www.feedbooks.com/userbook/6772</id>
+<author>
+  <name>Dan Johnson</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Dan%20Johnson</uri>
+</author>
+<updated>2009-08-17T23:47:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>All-Star Comics: Deadman: God's Lonely Man, Part 1 (of 2).</summary>
+<category term="Phantom Stranger"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Deadman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6772.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6772.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6772.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6772.png?t=20090817234727" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6772.png?size=smaller&amp;t=20090817234727" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6772.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #14</title>
+<id>http://www.feedbooks.com/userbook/7118</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T21:13:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Danger Trail: The Brown Lady Affair, Part 2 (of 2).
+
+Speed Saunders must deal with the fact that the artifact Harriet had been searching for, the Sigil of Seven, is Doctor Occult's primary weapon against supernatural evil! In the wake of her treachery, what can that mean? And none of our heroes can take the time to figure it out now, as they struggle to save Michael Gallant from the Dagger of Koth!</summary>
+<category term="Argent St. Cloud"/>
+<category term="Enemy Ace"/>
+<category term="Speed Saunders"/>
+<category term="Doctor Occult"/>
+<category term="King Faraday"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="adventure"/>
+<category term="mystery"/>
+<category term="pulp fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7118.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7118.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7118.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7118.png?t=20090817211314" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7118.png?size=smaller&amp;t=20090817211314" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7118.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Bad Habits</title>
+<id>http://www.feedbooks.com/userbook/7669</id>
+<author>
+  <name>Jim Dayton</name>
+  <uri>http://www.feedbooks.com/user/23688/profile#Jim%20Dayton</uri>
+</author>
+<updated>2009-09-28T02:40:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Bad Habits was originally Chapter Six of the unreleased novel, &quot;The Last Alien: The Life and Times of Casper Edwards.&quot; It is the story of Jason Showalter, a man who never quite overcomes the abuse of life.</summary>
+<category term="gangstas"/>
+<category term="murder"/>
+<category term="sledding"/>
+<category term="cops"/>
+<category term="Casper Edwards"/>
+<category term="child abuse"/>
+<category term="strip clubs"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7669.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7669.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7669.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7669.png?t=20090928024010" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7669.png?size=smaller&amp;t=20090928024010" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7669.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Surrogate</title>
+<id>http://www.feedbooks.com/userbook/8840</id>
+<author>
+  <name>Jenue brosinski</name>
+  <uri>http://www.feedbooks.com/user/33355/profile#Jenue%20brosinski</uri>
+</author>
+<updated>2009-12-11T11:54:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>An anti-social geneticist, driven by her biological clock, explores her baby making options.</summary>
+<category term="fantasy"/>
+<category term="literature"/>
+<category term="fiction"/>
+<category term="science fiction"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8840.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8840.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8840.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8840.png?t=20091211115449" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8840.png?size=smaller&amp;t=20091211115449" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8840.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

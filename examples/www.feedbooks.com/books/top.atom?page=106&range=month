@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:app="http://www.w3.org/2007/app" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=106&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=106&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=106&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 106 | Feedbooks</title>
+  <updated>2010-04-07T18:25:39Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2101</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=105&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=107&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Parasite Planet</title>
+<id>http://www.feedbooks.com/book/2245</id>
+<author>
+  <name>Stanley Grauman Weinbaum</name>
+  <uri>http://www.feedbooks.com/author/322</uri>
+</author>
+<updated>2009-09-16T11:46:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1935</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2245.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2245.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2245.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2245.png?t=20090916114603" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2245.png?size=smaller&amp;t=20090916114603" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2245.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Bramble Bush</title>
+<id>http://www.feedbooks.com/book/2147</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-09-16T11:48:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Usually, if a man's gotten into bad trouble by getting into something, he's a fool to go back. But there are times ...</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2147.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2147.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2147.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2147.png?t=20090916114824" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2147.png?size=smaller&amp;t=20090916114824" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2147.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Viewpoint</title>
+<id>http://www.feedbooks.com/book/2157</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-09-16T11:48:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A fearsome thing is a thing you're afraid of--and it has nothing whatever to do with whether others are afraid, nor with whether it is in fact dangerous. It's your view of the matter that counts!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2157.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2157.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2157.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2157.png?t=20090916114841" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2157.png?size=smaller&amp;t=20090916114841" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2157.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Helpful Robots</title>
+<id>http://www.feedbooks.com/book/2202</id>
+<author>
+  <name>Robert Joseph Shea</name>
+  <uri>http://www.feedbooks.com/author/257</uri>
+</author>
+<updated>2009-09-16T11:54:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1957</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://bobshea.net/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2202.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2202.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2202.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2202.png?t=20090916115412" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2202.png?size=smaller&amp;t=20090916115412" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2202.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Operation R.S.V.P.</title>
+<id>http://www.feedbooks.com/book/2325</id>
+<author>
+  <name>Henry Beam Piper</name>
+  <uri>http://www.feedbooks.com/author/114</uri>
+</author>
+<updated>2009-09-16T12:01:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1951</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2325.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2325.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2325.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2325.png?t=20090916120112" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2325.png?size=smaller&amp;t=20090916120112" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2325.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Bread Overhead</title>
+<id>http://www.feedbooks.com/book/2436</id>
+<author>
+  <name>Fritz Reuter Leiber Jr.</name>
+  <uri>http://www.feedbooks.com/author/380</uri>
+</author>
+<updated>2009-09-16T12:05:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The Staff of Life suddenly and disconcertingly sprouted wings--and mankind had to eat crow!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2436.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2436.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2436.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2436.png?t=20090916120505" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2436.png?size=smaller&amp;t=20090916120505" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2436.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Matter of Proportion</title>
+<id>http://www.feedbooks.com/book/2456</id>
+<author>
+  <name>Anne Walker</name>
+  <uri>http://www.feedbooks.com/author/390</uri>
+</author>
+<updated>2009-09-16T12:07:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>In order to make a man stop, you must convince him that it's impossible to go on. Some people, though, just can't be convinced.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2456.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2456.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2456.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2456.png?t=20090916120747" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2456.png?size=smaller&amp;t=20090916120747" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2456.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>This Little Pig</title>
+<id>http://www.feedbooks.com/book/2897</id>
+<author>
+  <name>Mary Robinette Kowal</name>
+  <uri>http://www.feedbooks.com/author/598</uri>
+</author>
+<updated>2009-09-16T12:13:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.maryrobinettekowal.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2897.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2897.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2897.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2897.png?t=20090916121341" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2897.png?size=smaller&amp;t=20090916121341" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2897.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Herapath Property</title>
+<id>http://www.feedbooks.com/book/3016</id>
+<author>
+  <name>Joseph Smith Fletcher</name>
+  <uri>http://www.feedbooks.com/author/610</uri>
+</author>
+<updated>2009-09-16T12:43:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt: &quot;This was the third week of Selwood&#8217;s secretaryship to Jacob Herapath. Herapath was a well-known man in London. He was a Member of Parliament, the owner of a sort of model estate of up-to-date flats, and something of a crank about such matters as ventilation, sanitation, and lighting. He himself, a bachelor, lived in one of the best houses in Portman Square; when he engaged Selwood as his secretary he made him take a convenient set of rooms in Upper Seymour Street, close by. He also caused a telephone communication to be set up between his own house and Selwood&#8217;s bedroom, so that he could summon his secretary at any hour of the night. Herapath occasionally had notions about things in the small hours, and he was one of those active, restless persons who, if they get a new idea, like to figure on it at once. All the same, during those three weeks he had not once troubled his secretary in this fashion.&quot;</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3016.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3016.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3016.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3016.png?t=20090916124349" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3016.png?size=smaller&amp;t=20090916124349" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3016.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Nebuly Coat</title>
+<id>http://www.feedbooks.com/book/3180</id>
+<author>
+  <name>John Meade Falkner</name>
+  <uri>http://www.feedbooks.com/author/244</uri>
+</author>
+<updated>2009-09-16T13:01:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1903</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>The Nebuly Coat (1903), by J. Meade Falkner, is a novel which tells of the experiences of a young architect, Edward Westray, who is sent to the remote Dorset town of Cullerne to supervise restoration work on Cullerne Minster. He finds himself caught up in Cullerne life, and hears rumours about a mystery surrounding the claim to the title of Lord Blandamer, whose coat of arms in the Minster's great transept window is the nebuly coat of the title. When the new Lord Blandamer arrives, promising to pay all the costs of the restoration, Westray suspects that the new lord is not what he seems.
+The Nebuly Coat includes elements that were central interests in Falkner's life, church architecture and heraldry. The massive Romanesque arches of Cullerne Minster recall those of Durham Cathedral which Falkner was familiar with through his work as Honorary Librarian to the Dean and Chapter as well as viewing it from his house on Palace Green.
+Colerne which has been Cullerne during its history may have been the source of the name of the town and minster.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3180.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3180.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3180.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3180.png?t=20090916130134" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3180.png?size=smaller&amp;t=20090916130134" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3180.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Chestermarke Instinct</title>
+<id>http://www.feedbooks.com/book/3722</id>
+<author>
+  <name>Joseph Smith Fletcher</name>
+  <uri>http://www.feedbooks.com/author/610</uri>
+</author>
+<updated>2009-08-18T01:18:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt:
+&quot;Every Monday morning, when the clock of the old parish church in Scarnham Market-Place struck eight, Wallington Neale asked himself why on earth he had chosen to be a bank clerk. On all the other mornings of the week this question never occurred to him: on Sunday he never allowed a thought of the bank to cross his mind: from Sunday to Saturday he was firmly settled in the usual rut, and never dreamed of tearing himself out of it. But Sunday's break was unsettling: there was always an effort in starting afresh on Monday. The striking of St. Alkmund's clock at eight on Monday morning invariably found him sitting down to his breakfast in his rooms, overlooking the quaint old Market-Place, once more faced by the fact that a week of dull, uninteresting work lay before him. He would go to the bank at nine, and at the bank he would remain, more or less, until five. He would do that again on Tuesday, and on Wednesday, and on Thursday and on Friday, and on Saturday. One afternoon, strolling in the adjacent country, he had seen a horse walking round and round and round in a small paddock, turning a crank which worked some machine or other in an adjoining shed: that horse had somehow suggested himself to himself.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3722.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3722.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3722.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3722.png?t=20090818011807" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3722.png?size=smaller&amp;t=20090818011807" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3722.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Old Tobacco Shop</title>
+<id>http://www.feedbooks.com/book/3490</id>
+<author>
+  <name>William Bowen</name>
+  <uri>http://www.feedbooks.com/author/846</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3490.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3490.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3490.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3490.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3490.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3490.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Great Gray Plague</title>
+<id>http://www.feedbooks.com/book/3676</id>
+<author>
+  <name>Raymond Fisher Jones</name>
+  <uri>http://www.feedbooks.com/author/452</uri>
+</author>
+<updated>2009-08-18T01:18:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There is no enemy so hard to fight as a dull gray fog. It's not solid enough to beat, too indefinite to kill, and too omnipresent to escape.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3676.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3676.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3676.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3676.png?t=20090818011811" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3676.png?size=smaller&amp;t=20090818011811" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3676.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tree, Spare that Woodman</title>
+<id>http://www.feedbooks.com/book/4128</id>
+<author>
+  <name>Dave Dryfoos</name>
+  <uri>http://www.feedbooks.com/author/1170</uri>
+</author>
+<updated>2009-08-26T10:44:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The single thing to fear was fear&#8212;ghastly, walking fear!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29794</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4128.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4128.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4128.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4128.png?t=20090826104404" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4128.png?size=smaller&amp;t=20090826104404" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4128.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Film of Fear</title>
+<id>http://www.feedbooks.com/book/4258</id>
+<author>
+  <name>Frederic Arnold Kummer</name>
+  <uri>http://www.feedbooks.com/author/1221</uri>
+</author>
+<updated>2009-09-28T11:04:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Thriller" label="Thriller"/>
+<summary>The earliest known novel with a motion-picture theme.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29498</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4258.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4258.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4258.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4258.png?t=20090928110421" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4258.png?size=smaller&amp;t=20090928110421" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4258.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Claim Number One</title>
+<id>http://www.feedbooks.com/book/4454</id>
+<author>
+  <name>George W. Ogden</name>
+  <uri>http://www.feedbooks.com/author/1265</uri>
+</author>
+<updated>2009-11-30T17:50:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30558</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4454.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4454.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4454.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4454.png?t=20091130175037" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4454.png?size=smaller&amp;t=20091130175037" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4454.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Asses of Balaam</title>
+<id>http://www.feedbooks.com/book/4461</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-12-03T10:49:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The remarkable characteristic of Balaam's ass was that it was more perceptive than its master. Sometimes a child is more perceptive&#8212;because more straightforward and logical&#8212;than an adult....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30583</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4461.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4461.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4461.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4461.png?t=20091203104910" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4461.png?size=smaller&amp;t=20091203104910" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4461.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Europeans</title>
+<id>http://www.feedbooks.com/book/404</id>
+<author>
+  <name>Henry James</name>
+  <uri>http://www.feedbooks.com/author/113</uri>
+</author>
+<updated>2009-09-16T10:20:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1878</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/404.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/404.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/404.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/404.png?t=20090916102019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/404.png?size=smaller&amp;t=20090916102019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/404.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Holly-Tree</title>
+<id>http://www.feedbooks.com/book/700</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:29:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1855</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/700.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/700.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/700.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/700.png?t=20090916102910" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/700.png?size=smaller&amp;t=20090916102910" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/700.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Conversation of Eiros and Charmion</title>
+<id>http://www.feedbooks.com/book/764</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1839</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/764.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/764.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/764.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/764.png?t=20090916103015" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/764.png?size=smaller&amp;t=20090916103015" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/764.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

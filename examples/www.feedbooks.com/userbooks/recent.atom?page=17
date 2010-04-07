@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=17</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=17" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=17" rel="self"/>
+  <title>Original Books / New Releases / Page 17 | Feedbooks</title>
+  <updated>2010-04-07T18:24:01Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>321</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=16" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=18" rel="next" title="Next Page"/>
+<entry>
+<title>Minihorror</title>
+<id>http://www.feedbooks.com/userbook/9398</id>
+<author>
+  <name>Przemek Kowal</name>
+  <uri>http://www.feedbooks.com/user/47296/profile#Przemek%20Kowal</uri>
+</author>
+<updated>2010-03-03T14:02:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Short story,however, it more epic poem (proper). I wanted to make easy parody of horror, as if these literature forms called to essence that horror hitting paste. It easy tale very, but concretely opinions few .</summary>
+<category term="horror"/>
+<category term="the"/>
+<category term="pastiche"/>
+<category term="a"/>
+<category term="poem"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9398.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9398.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9398.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9398.png?t=20100303140250" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9398.png?size=smaller&amp;t=20100303140250" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9398.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Narcissistic and Psychopathic Leaders</title>
+<id>http://www.feedbooks.com/userbook/9395</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T12:35:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Narcissistic and psychopathic leaders come in all shapes and degrees of virulence. Learn to recognize them in various settings (the workplace, religion, politics) and to cope with the toxic fallout of their &quot;leadership&quot;.</summary>
+<category term="parties"/>
+<category term="Political"/>
+<category term="state"/>
+<category term="nation"/>
+<category term="politicians"/>
+<category term="politics"/>
+<category term="narcissism"/>
+<category term="personality"/>
+<category term="narcissistic"/>
+<category term="narcissistic"/>
+<category term="personality"/>
+<category term="Disorder"/>
+<category term="NPD"/>
+<category term="psychopaths"/>
+<category term="antisocial"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9395.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9395.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9395.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9395.png?t=20100106123546" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9395.png?size=smaller&amp;t=20100106123546" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9395.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>&#8222;Slow and tenacious race wins &#8222;</title>
+<id>http://www.feedbooks.com/userbook/9369</id>
+<author>
+  <name>Przemek Kowal</name>
+  <uri>http://www.feedbooks.com/user/47296/profile#Przemek%20Kowal</uri>
+</author>
+<updated>2010-04-07T16:48:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>My booklet mini, as exhighway of book of wisdom about love. She is it how many about, when it believes and it loves god. I have included several my poems here, and aphorisms. First of all, however, I wanted to write tale about essence, which has been rescued, with strong accent on form turtle, as winner.</summary>
+<category term="Faith"/>
+<category term="religion"/>
+<category term="storytelling"/>
+<category term="poetry"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9369.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9369.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9369.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9369.png?t=20100407164857" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9369.png?size=smaller&amp;t=20100407164857" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9369.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #24</title>
+<id>http://www.feedbooks.com/userbook/9339</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2010-01-05T04:49:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Ultimate Gotham Girls: Face to Face, Part 2.
+
+Two-Face is on the loose, with only Poison Ivy to keep an eye on him. Will Ivy slide back into her villainous ways, or will Two-Face force her to show her new colors? How will Harvey Dent be able to face up to his deepest fears, when he's just become free of them? And what on earth are Ivy and Batgirl doing working together? All this and more in the thrilling conclusion to Gotham Girls year two! </summary>
+<category term="batgirl"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Two-Face"/>
+<category term="harley quinn"/>
+<category term="poison ivy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9339.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9339.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9339.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9339.png?t=20100105044922" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9339.png?size=smaller&amp;t=20100105044922" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9339.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>BongoTree</title>
+<id>http://www.feedbooks.com/userbook/8092</id>
+<author>
+  <name>Tomid</name>
+  <uri>http://www.feedbooks.com/user/57283/profile#Tomid</uri>
+</author>
+<updated>2010-03-10T13:57:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1997</dcterms:issued>
+<summary>A jolly romp through the English language. BongoTree is a veritable smorgasbord of satirical wordplay.</summary>
+<category term="truth"/>
+<category term="Theology"/>
+<category term="Satire"/>
+<category term="Pirates"/>
+<category term="philosophy"/>
+<category term="humour"/>
+<category term="farce"/>
+<category term="comedy"/>
+<category term="agnostic"/>
+<category term="wordplay"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8092.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8092.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8092.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8092.png?t=20100310135737" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8092.png?size=smaller&amp;t=20100310135737" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8092.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #46</title>
+<id>http://www.feedbooks.com/userbook/9341</id>
+<author>
+  <name>Pat Owen</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Pat%20Owen</uri>
+</author>
+<updated>2010-01-04T20:01:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Action Comics: Toy Soldiers, Part 2.</summary>
+<category term="Lois Lane"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Toyman"/>
+<category term="Deathstroke"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9341.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9341.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9341.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9341.png?t=20100104200125" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9341.png?size=smaller&amp;t=20100104200125" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9341.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #14</title>
+<id>http://www.feedbooks.com/userbook/9338</id>
+<author>
+  <name>Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brian%20Burchette</uri>
+</author>
+<updated>2010-01-04T20:00:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Detective Comics: Boiling Point.</summary>
+<category term="Vicki Vale"/>
+<category term="Black Mask"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Scarface"/>
+<category term="Ventriloquist"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9338.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9338.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9338.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9338.png?t=20100104200030" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9338.png?size=smaller&amp;t=20100104200030" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9338.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Batman #14</title>
+<id>http://www.feedbooks.com/userbook/9337</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2010-01-04T20:00:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Batman: Instinct.</summary>
+<category term="Vicki Vale"/>
+<category term="Killer Croc"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Talia"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9337.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9337.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9337.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9337.png?t=20100104200018" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9337.png?size=smaller&amp;t=20100104200018" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9337.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Devil to Pay: Chapter 3</title>
+<id>http://www.feedbooks.com/userbook/9336</id>
+<author>
+  <name>pussreboots</name>
+  <uri>http://www.feedbooks.com/user/63232/profile#pussreboots</uri>
+</author>
+<updated>2010-01-04T03:32:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Third installment.</summary>
+<category term="space opera"/>
+<category term="SciFi"/>
+<category term="lgbt"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9336.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9336.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9336.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9336.png?t=20100104033259" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9336.png?size=smaller&amp;t=20100104033259" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9336.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Unorthodox in orthodox churches</title>
+<id>http://www.feedbooks.com/userbook/9331</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2010-01-04T13:14:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Unorthodox in orthodox churches. It may come as a surprise to many that those who say they are orthodox Protestant but do not believe in Hell as a place of eternal torment that there are more who say that are orthodox Protestants who do believe Hell to be eternal torment than there are orthodox Protestants who do believe Hell to be a place of eternal torment. When US New says 53 percent of Americans believes Hell to be only mental anguish, most of that 53 percent are orthodox Protestant and this 53 percent is in addition to the many Protestant Premillennialists who do not believe Hell to be a place of eternal torment.</summary>
+<category term="Edwards&#8221;"/>
+<category term="&#8220;JONATHAN"/>
+<category term="fire&#8221;"/>
+<category term="&#8220;Unquenchable"/>
+<category term="heaven"/>
+<category term="&#8220;Edward"/>
+<category term="Calvin"/>
+<category term="tribes&#8221;"/>
+<category term="Witnesses&#8221;"/>
+<category term="&#8220;twelve"/>
+<category term="&#8220;Jehovah&#8217;s"/>
+<category term="judgment"/>
+<category term="Mormons"/>
+<category term="Gehenna"/>
+<category term="GOD&#8221;"/>
+<category term="of"/>
+<category term="&#8220;church"/>
+<category term="Christadelphians"/>
+<category term="Fudge&#8221;"/>
+<category term="&#8220;Edward"/>
+<category term="Calvin"/>
+<category term="tribes&#8221;"/>
+<category term="&#8220;twelve"/>
+<category term="judgment"/>
+<category term="Gehenna"/>
+<category term="torment&#8221;"/>
+<category term="&#8220;eternal"/>
+<category term="judgment"/>
+<category term="hell"/>
+<category term="Christadelphians"/>
+<category term="Fudge&#8221;"/>
+<category term="&#8220;church"/>
+<category term="of"/>
+<category term="GOD&#8221;"/>
+<category term="Mormons"/>
+<category term="&#8220;Jehovah&#8217;s"/>
+<category term="Witnesses&#8221;"/>
+<category term="Tart"/>
+<category term="Tart"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9331.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9331.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9331.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9331.png?t=20100104131459" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9331.png?size=smaller&amp;t=20100104131459" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9331.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jeannelle</title>
+<id>http://www.feedbooks.com/userbook/9289</id>
+<author>
+  <name>petaire</name>
+  <uri>http://www.feedbooks.com/user/58216/profile#petaire</uri>
+</author>
+<updated>2010-01-08T18:40:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>antiseche jeannelle</summary>
+<category term="antiseche"/>
+<category term="jeannelle"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9289.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9289.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9289.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9289.png?t=20100108184030" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9289.png?size=smaller&amp;t=20100108184030" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9289.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Thief On The Cross</title>
+<id>http://www.feedbooks.com/userbook/9278</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2010-01-02T19:14:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>DID THE THIEF KNOW MORE  ABOUT THE KINGDOM AND THE RESURRECTION THAT THAT THE 12 OR NO OTHERS KNEW? From Matthew one to Acts two it was believed that the Christ was to restore the kingdom to Israel and sit on the throne of David and be a king on this earth.</summary>
+<category term="doctrine"/>
+<category term="70"/>
+<category term="soul"/>
+<category term="immortality"/>
+<category term="resurrection"/>
+<category term="religion"/>
+<category term="D."/>
+<category term="A."/>
+<category term="universalists"/>
+<category term="death"/>
+<category term="hell"/>
+<category term="God"/>
+<category term="heaven"/>
+<category term="eternity"/>
+<category term="eternal"/>
+<category term="Pagan"/>
+<category term="Fiendish"/>
+<category term="man"/>
+<category term="rich"/>
+<category term="Lazarus"/>
+<category term="darkness"/>
+<category term="outer"/>
+<category term="teeth"/>
+<category term="of"/>
+<category term="gnashing"/>
+<category term="Israel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9278.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9278.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9278.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9278.png?t=20100102191456" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9278.png?size=smaller&amp;t=20100102191456" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9278.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Realms Beyond: Book 1: Status Quo</title>
+<id>http://www.feedbooks.com/userbook/9060</id>
+<author>
+  <name>Ben McFadden</name>
+  <uri>http://www.feedbooks.com/user/64398/profile#Ben%20McFadden</uri>
+</author>
+<updated>2010-01-09T11:31:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Three Realms, formerly separated by environmental barriers set in place generations ago, have now discovered one another and formed an uneasy alliance. The technological capitalists of Brunwyth seek to exploit the largely unspoiled land of Lorcron, while the subterranean gatherers of knowledge in Nuwthrsh wish only to be left alone. But a young Nuwthrshan scientist claims to have discovered the key to undoing the barriers that still limit travel and trade. When that scientist goes missing, a young woman and a boy--trying only to enjoy a vacation in Lorcron--find themselves drawn into a fathomless conspiracy that spans the Three Realms--and Beyond.  </summary>
+<category term="society"/>
+<category term="capitalism"/>
+<category term="science"/>
+<category term="Magic"/>
+<category term="sorcery"/>
+<category term="swords"/>
+<category term="quest"/>
+<category term="Novel"/>
+<category term="mcfadden"/>
+<category term="adventure"/>
+<category term="technology"/>
+<category term="fiction"/>
+<category term="fantasy"/>
+<category term="speculative fiction"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9060.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9060.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9060.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9060.png?t=20100109113116" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9060.png?size=smaller&amp;t=20100109113116" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9060.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Is this heaven?</title>
+<id>http://www.feedbooks.com/userbook/9240</id>
+<author>
+  <name>M T McGuire</name>
+  <uri>http://www.feedbooks.com/user/67053/profile#M%20T%20McGuire</uri>
+</author>
+<updated>2010-02-03T22:33:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Michaela Stevens has just died but, she wonders, can a gay lady get to heaven and if so, should it be like this? Short story at about 4,500 words... no adult content but a little light swearing so I'd rate it at a PG. Writing style: British humour written in British English.</summary>
+<category term="humour"/>
+<category term="Humor"/>
+<category term="heaven"/>
+<category term="funny"/>
+<category term="fiction"/>
+<category term="fantasy"/>
+<category term="comedy"/>
+<category term="short story"/>
+<category term="fantasy fiction"/>
+<category term="science fiction"/>
+<category term="sci fi"/>
+<category term="humorous fantasy"/>
+<category term="comic fantasy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9240.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9240.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9240.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9240.png?t=20100203223340" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9240.png?size=smaller&amp;t=20100203223340" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9240.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Beard</title>
+<id>http://www.feedbooks.com/userbook/9215</id>
+<author>
+  <name>Andersen Prunty</name>
+  <uri>http://www.feedbooks.com/user/66890/profile#Andersen%20Prunty</uri>
+</author>
+<updated>2010-01-03T01:03:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Seven-year-old David Glum watches as his grandfather is abducted by a legendary herd of elephants. Twenty years later, David returns to his parents' home to focus on growing a beard, a goal he feels sure he can accomplish. Once the beard reaches a respectable girth, uncontrollable things begin happening around him. His mother dies. Maybe. His father might really be a man named Gary Wrench. David is sure of one thing: his family is cursed. It could have something to do with an eternal flame his grandfather stole from a possibly imaginary group of people called the Nefarions. David and Wrench begin a surreal cross-country journey that might have something to do with saving the world. Along the way they pass through a number of absurd towns, meet some disagreeable people, and discover an America that is radically different from the one they thought they knew. And all the while, the beard grows, gaining strength, leading them toward a distant island that most people think doesn't exist.</summary>
+<category term="adventure"/>
+<category term="weird"/>
+<category term="surreal"/>
+<category term="beards"/>
+<category term="Novel"/>
+<category term="Humor"/>
+<category term="free book"/>
+<category term="andersen prunty"/>
+<category term="the beard"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9215.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9215.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9215.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9215.png?t=20100103010302" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9215.png?size=smaller&amp;t=20100103010302" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9215.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Earth Escape</title>
+<id>http://www.feedbooks.com/userbook/9213</id>
+<author>
+  <name>Kittytigerhound</name>
+  <uri>http://www.feedbooks.com/user/66573/profile#Kittytigerhound</uri>
+</author>
+<updated>2009-12-31T12:59:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>I created this story a few years ago for my english homework and enjoyed it.
+I decided to rewrite it and publish it to see what people think.
+It is quite a short story of approx 2000 words.</summary>
+<category term="fiction"/>
+<category term="Teen"/>
+<category term="Young Adult"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9213.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9213.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9213.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9213.png?t=20091231125935" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9213.png?size=smaller&amp;t=20091231125935" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9213.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Week without my Family</title>
+<id>http://www.feedbooks.com/userbook/9208</id>
+<author>
+  <name>The Rambler</name>
+  <uri>http://www.feedbooks.com/user/44035/profile#The%20Rambler</uri>
+</author>
+<updated>2009-12-31T03:14:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>This is an essay I wrote while my family was out of town.</summary>
+<category term="essay"/>
+<category term="family"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9208.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9208.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9208.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9208.png?t=20091231031444" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9208.png?size=smaller&amp;t=20091231031444" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9208.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Decisive Moment</title>
+<id>http://www.feedbooks.com/userbook/9205</id>
+<author>
+  <name>Kittytigerhound</name>
+  <uri>http://www.feedbooks.com/user/66573/profile#Kittytigerhound</uri>
+</author>
+<updated>2009-12-31T13:04:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>I wrote this short story a few years ago for english homework and really enjoyed it so I decided to publish it to see what people think of it. 
+This short story is approx 1800 words long, give or take.
+Its my first time doing this so please dont be too harsh. 
+</summary>
+<category term="teens"/>
+<category term="friends"/>
+<category term="peer pressure"/>
+<category term="school"/>
+<category term="fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9205.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9205.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9205.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9205.png?t=20091231130431" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9205.png?size=smaller&amp;t=20091231130431" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9205.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #23</title>
+<id>http://www.feedbooks.com/userbook/9204</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-12-31T02:41:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Ultimate Gotham Girls: Face to Face, Part One.
+
+Harvey Dent has had enough. After months of treatment and no progress, he is desperate to get rid of the voice in his head, the other half of his mind that has always been there. And with the help of a touch of magic, Harvey can get his wish...but at what price? With Two-Face on the loose and no coin to contain him, how will Batgirl be able to keep Gotham City safe?</summary>
+<category term="batgirl"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="poison ivy"/>
+<category term="harley quinn"/>
+<category term="Two-Face"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9204.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9204.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9204.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9204.png?t=20091231024103" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9204.png?size=smaller&amp;t=20091231024103" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9204.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #18</title>
+<id>http://www.feedbooks.com/userbook/9203</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-12-30T16:42:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Danger Trail: Affairs of Blood and Fate, Part Two: The Angel of Death!
+
+The strangest crossover of all times continues here, as Rose Psychic, Eel O'Brien, Speed Saunders, Midnight, Trin Dee and Andrew Bennett find themselves caught in a holy war between the forces of the Order of St. Dumas and the Sanguine Father, who offers a glimpse into a terrifying future for the world!</summary>
+<category term="pulp fiction"/>
+<category term="Speed Saunders"/>
+<category term="Rose Psychic"/>
+<category term="Plastic Man"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="pulp"/>
+<category term="Midnight"/>
+<category term="Azrael"/>
+<category term="adventure"/>
+<category term="mystery"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9203.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9203.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9203.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9203.png?t=20091230164231" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9203.png?size=smaller&amp;t=20091230164231" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9203.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=15</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=15" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=15" rel="self"/>
+  <title>Original Books / New Releases / Page 15 | Feedbooks</title>
+  <updated>2010-04-07T18:23:57Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>281</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=14" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=16" rel="next" title="Next Page"/>
+<entry>
+<title>The Book of Revelations</title>
+<id>http://www.feedbooks.com/userbook/9563</id>
+<author>
+  <name>Ivan Turner</name>
+  <uri>http://www.feedbooks.com/user/69637/profile#Ivan%20Turner</uri>
+</author>
+<updated>2010-01-13T17:49:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2001</dcterms:issued>
+<summary>	Dr. Simon Palaniewiecz has discovered a method of seeing into the past, past lives.  Using a form of self hypnosis, he can control his brainwaves so that they resonate on the same frequency as others, allowing him to literally see memories.  His research leads him to believe that guilt is something that spans lifetimes.  Under his anonymous direction, a movement called the Jury is formed.  The Jury&#8217;s sole purpose is to discover and punish those who have been deemed guilty.
+	Rabbi Max Guetterman is a great spiritual leader in his community.  He is well liked and well respected by people from all walks of life.  But the Jury will change all of that when they discover that, in his past life, Rabbi Guetterman was Adolph Hitler.  Caught between the Jurors who are trying to kill him and his family and the Nazis who are trying to protect him, the Rabbi must fight for his life all the while battling with the concept that he, in fact, may be his own worst enemy.
+</summary>
+<category term="reincarnation"/>
+<category term="God"/>
+<category term="nazi"/>
+<category term="rabbi"/>
+<category term="white supremecist"/>
+<category term="past lives"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9563.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9563.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9563.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9563.png?t=20100113174930" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9563.png?size=smaller&amp;t=20100113174930" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9563.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Seawytch</title>
+<id>http://www.feedbooks.com/userbook/9560</id>
+<author>
+  <name>Dan Ryder</name>
+  <uri>http://www.feedbooks.com/user/69699/profile#Dan%20Ryder</uri>
+</author>
+<updated>2010-01-12T16:33:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>A young boy moves to a new neighbourhood after his parents split up. After trouble at school he takes refuge in his fantasies of life as a pirate. As his real life falls apart, his pirate world becomes more and more violent. Can someone save him from himself?</summary>
+<category term="Young Adult"/>
+<category term="fiction"/>
+<category term="pirate"/>
+<category term="bullying"/>
+<category term="adult"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9560.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9560.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9560.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9560.png?t=20100112163358" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9560.png?size=smaller&amp;t=20100112163358" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9560.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Finding Absolute Space</title>
+<id>http://www.feedbooks.com/userbook/9557</id>
+<author>
+  <name>Motlatso P Mantjie</name>
+  <uri>http://www.feedbooks.com/user/67439/profile#Motlatso%20P%20Mantjie</uri>
+</author>
+<updated>2010-02-13T10:42:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>FINDING ABSOLUTE SPACE
+
+&#8220;&#8230; the constant unmovable force that remains fixed when all else is thrown into chaos, your absolute space around and within which your earth, stars and everything else turns.&#8221; 
+Colonialism brought more than oppression, it brought confusion and displacement in Africa. The continental struggles are documented except the most personal, of children born out of that confusion, the families and generations that came after the sudden openness and the forceful purge that came&#8230; when people moved from homes away from something or towards something. When borders move, racial and cultural identities also morph. Finding absolute space tells the story of a family left borne and suspended in that space, their struggle to redefine who they are in a world that&#8217;s forever shifting; when reality is relative who do you live, love, care, fight and die for.  
+
+Jean-Pierre is born into this chaotic world, bred into his parents&#8217; cause he grows up looking for something to hold on to&#8230; &#8220;In the beginning we were trailing wars and then we trailed disasters and then disease and in the later years we seemed to have packed all these in and went were the stench came from.&#8221;  the more he tries to move away from the life he&#8217;s always  known  the more it draws him in, and he meets Lele with her own painful past to bear when he thinks love could be saving grace and then he comes to what the real absolute point when love and death collide&#8230;  </summary>
+<category term="African Love Story and struggling with realities of life post HIV"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9557.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9557.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9557.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9557.png?t=20100213104244" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9557.png?size=smaller&amp;t=20100213104244" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9557.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Heart of Trelyssia</title>
+<id>http://www.feedbooks.com/userbook/9518</id>
+<author>
+  <name>Lisa Chitty</name>
+  <uri>http://www.feedbooks.com/user/69282/profile#Lisa%20Chitty</uri>
+</author>
+<updated>2010-01-13T18:17:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>The Kingdom of Trelyssia is under the cruel reign of the Baron whose ancestors murdered the Trelyssian royal family.  Rumours abound amongst the rebel cause that one member of the royal family survived the massacre.  Legend has it that four strangers will enter Trelyssia and help the rebels restore the rightful heir to the throne and that time, is now... </summary>
+<category term="Novel"/>
+<category term="adventure"/>
+<category term="science fiction"/>
+<category term="fantasy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9518.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9518.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9518.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9518.png?t=20100113181700" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9518.png?size=smaller&amp;t=20100113181700" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9518.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>All-Star Comics #14</title>
+<id>http://www.feedbooks.com/userbook/9468</id>
+<author>
+  <name>Samantha Chapman and Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman%20and%20Don%20Walsh</uri>
+</author>
+<updated>2010-01-08T20:03:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>All-Star Comics: Birds of Prey, Part 1 (of 3).
+
+Sometimes when there's darkness threatening the world, it takes a woman's touch: a hard-hitting, take-no-prisoners, determined and strong-willed woman, leading a group of super-heroines who intend to take the world of crime by storm! Hawkgirl may have left the Justice League, but now she's about to become a leader in her own right, while detective Jonni Thunder must come to terms with what it means to step into the world of super-powers! Who else will join the Birds of Prey as they tackle a hard world with their own style?</summary>
+<category term="Birds of Prey"/>
+<category term="Jonni Thunder"/>
+<category term="Manitou Dawn"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Hawkgirl"/>
+<category term="Zenobia"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9468.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9468.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9468.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9468.png?t=20100108200311" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9468.png?size=smaller&amp;t=20100108200311" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9468.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Gotham: City of the Dead #1</title>
+<id>http://www.feedbooks.com/userbook/9469</id>
+<author>
+  <name>Chris Paugh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Chris%20Paugh</uri>
+</author>
+<updated>2010-01-08T20:02:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Gotham: City of the Dead, Part 1 (of 4).</summary>
+<category term="Blue Beetle"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Scarecrow"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9469.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9469.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9469.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9469.png?t=20100108200233" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9469.png?size=smaller&amp;t=20100108200233" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9469.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rogues Gallery #5</title>
+<id>http://www.feedbooks.com/userbook/9471</id>
+<author>
+  <name>Michael Hewison</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Michael%20Hewison</uri>
+</author>
+<updated>2010-01-08T20:02:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Rogues Gallery: Corinthian &amp; Tommy Monaghan.</summary>
+<category term="Tommy Monaghan"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Corinthian"/>
+<category term="Hitman"/>
+<category term="cain"/>
+<category term="Abel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9471.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9471.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9471.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9471.png?t=20100108200210" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9471.png?size=smaller&amp;t=20100108200210" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9471.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Green Lantern #1</title>
+<id>http://www.feedbooks.com/userbook/9473</id>
+<author>
+  <name>Scott Kruger</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Scott%20Kruger</uri>
+</author>
+<updated>2010-01-08T20:00:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Green Lantern: Fear, Part 1 (of 3): The Disappearance.</summary>
+<category term="King Faraday"/>
+<category term="Green Lantern"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Sinestro"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9473.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9473.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9473.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9473.png?t=20100108200043" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9473.png?size=smaller&amp;t=20100108200043" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9473.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Realms Beyond: Book 2: The Key &amp; the Catalyst</title>
+<id>http://www.feedbooks.com/userbook/9361</id>
+<author>
+  <name>Ben McFadden</name>
+  <uri>http://www.feedbooks.com/user/64398/profile#Ben%20McFadden</uri>
+</author>
+<updated>2010-01-07T13:28:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>In this continuation of the Realms Beyond saga, Theana and Gern discover that what they thought was a path home is only leading them deeper into the machinations and mysteries of would-be demagogues and disciples of destiny. Gern finds himself bandied about as a bargaining chip due to an unclear connection he shares with the scientist who claims to have uncovered the key to breaking down the Barriers, and Theana is hard-pressed to keep up with her unintended role as his protector.</summary>
+<category term="speculative fiction"/>
+<category term="science fiction"/>
+<category term="fiction"/>
+<category term="fantasy"/>
+<category term="technology"/>
+<category term="adventure"/>
+<category term="mcfadden"/>
+<category term="Novel"/>
+<category term="quest"/>
+<category term="swords"/>
+<category term="sorcery"/>
+<category term="Magic"/>
+<category term="science"/>
+<category term="capitalism"/>
+<category term="society"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9361.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9361.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9361.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9361.png?t=20100107132801" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9361.png?size=smaller&amp;t=20100107132801" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9361.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Quarter-life Journey</title>
+<id>http://www.feedbooks.com/userbook/9436</id>
+<author>
+  <name>jelita</name>
+  <uri>http://www.feedbooks.com/user/68506/profile#jelita</uri>
+</author>
+<updated>2010-01-06T15:17:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>25 year old girl describing her everyday journey to make it to Italy. </summary>
+<category term="travel"/>
+<category term="italy"/>
+<category term="Journey"/>
+<category term="adventure"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9436.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9436.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9436.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9436.png?t=20100106151716" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9436.png?size=smaller&amp;t=20100106151716" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9436.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Links and Factoids</title>
+<id>http://www.feedbooks.com/userbook/9434</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T15:06:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Anthology of fascinating historical and scientific facts and links to relevant Web sources.</summary>
+<category term="free"/>
+<category term="books"/>
+<category term="free"/>
+<category term="e-books"/>
+<category term="free"/>
+<category term="ebooks"/>
+<category term="books"/>
+<category term="e-books"/>
+<category term="ebooks"/>
+<category term="anthologies"/>
+<category term="articles"/>
+<category term="essays"/>
+<category term="free"/>
+<category term="content"/>
+<category term="Sam"/>
+<category term="Vaknin"/>
+<category term="united"/>
+<category term="press"/>
+<category term="International"/>
+<category term="UPI"/>
+<category term="Central"/>
+<category term="Europe"/>
+<category term="review"/>
+<category term="download"/>
+<category term="online"/>
+<category term="books"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9434.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9434.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9434.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9434.png?t=20100106150622" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9434.png?size=smaller&amp;t=20100106150622" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9434.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Hitler File EXCERPTS</title>
+<id>http://www.feedbooks.com/userbook/9433</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T15:03:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>What was in Hitler's personal file kept by the Nazi Party's own intelligence agency, the SD? Israel Sarid Roth, only son of two survivors of the Holocaust is about to find out, as a routine assignment in Jerusalem plunges him into the center of a deadly nightmare.</summary>
+<category term="Hebrew"/>
+<category term="fiction"/>
+<category term="short"/>
+<category term="fiction"/>
+<category term="Vaknin"/>
+<category term="Shmuel"/>
+<category term="Sam"/>
+<category term="short"/>
+<category term="stories"/>
+<category term="stories"/>
+<category term="poems"/>
+<category term="poetry"/>
+<category term="family"/>
+<category term="love"/>
+<category term="emotions"/>
+<category term="Israel"/>
+<category term="literature"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9433.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9433.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9433.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9433.png?t=20100106150326" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9433.png?size=smaller&amp;t=20100106150326" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9433.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Suffering of Being Kafka</title>
+<id>http://www.feedbooks.com/userbook/9432</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T15:00:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>A second volume of short stories and poetry translated from the Hebrew.</summary>
+<category term="Hebrew"/>
+<category term="fiction"/>
+<category term="short"/>
+<category term="fiction"/>
+<category term="Vaknin"/>
+<category term="Shmuel"/>
+<category term="Sam"/>
+<category term="short"/>
+<category term="stories"/>
+<category term="stories"/>
+<category term="poems"/>
+<category term="poetry"/>
+<category term="family"/>
+<category term="love"/>
+<category term="emotions"/>
+<category term="Israel"/>
+<category term="literature"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9432.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9432.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9432.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9432.png?t=20100106150044" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9432.png?size=smaller&amp;t=20100106150044" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9432.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>MindGames</title>
+<id>http://www.feedbooks.com/userbook/9431</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T14:59:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Short stories about bizarre mental health disorders. The mind is the most terrifying place of all!</summary>
+<category term="Hebrew"/>
+<category term="fiction"/>
+<category term="short"/>
+<category term="fiction"/>
+<category term="Vaknin"/>
+<category term="Shmuel"/>
+<category term="Sam"/>
+<category term="short"/>
+<category term="stories"/>
+<category term="stories"/>
+<category term="poems"/>
+<category term="poetry"/>
+<category term="family"/>
+<category term="love"/>
+<category term="emotions"/>
+<category term="Israel"/>
+<category term="literature"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9431.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9431.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9431.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9431.png?t=20100106145900" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9431.png?size=smaller&amp;t=20100106145900" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9431.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Healthcare Reform Checklist</title>
+<id>http://www.feedbooks.com/userbook/9430</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T14:49:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Checklist for reforms in the healthcare sector: purchasing, provision, delivery, commissioning, and stewardship. Detailed case studies from Germany and Eastern Europe.</summary>
+<category term="transition"/>
+<category term="microeconomics"/>
+<category term="macroeconomics"/>
+<category term="business"/>
+<category term="government"/>
+<category term="privatization"/>
+<category term="private"/>
+<category term="sector"/>
+<category term="Public"/>
+<category term="sector"/>
+<category term="capital"/>
+<category term="markets"/>
+<category term="stock"/>
+<category term="exchange"/>
+<category term="shares"/>
+<category term="bonds"/>
+<category term="finance"/>
+<category term="banks"/>
+<category term="savings"/>
+<category term="Credit"/>
+<category term="money"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9430.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9430.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9430.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9430.png?t=20100106144905" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9430.png?size=smaller&amp;t=20100106144905" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9430.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Cyclopedia of Economics</title>
+<id>http://www.feedbooks.com/userbook/9429</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T14:46:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Cyclopedia of issues in economics analyzed through the prism of the economies of countries in transition, emerging markets, and developing countries.</summary>
+<category term="transition"/>
+<category term="microeconomics"/>
+<category term="macroeconomics"/>
+<category term="business"/>
+<category term="government"/>
+<category term="privatization"/>
+<category term="private"/>
+<category term="sector"/>
+<category term="Public"/>
+<category term="sector"/>
+<category term="capital"/>
+<category term="markets"/>
+<category term="stock"/>
+<category term="exchange"/>
+<category term="shares"/>
+<category term="bonds"/>
+<category term="finance"/>
+<category term="banks"/>
+<category term="savings"/>
+<category term="Credit"/>
+<category term="money"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9429.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9429.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9429.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9429.png?t=20100106144634" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9429.png?size=smaller&amp;t=20100106144634" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9429.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Thirteenth Tribe Of Israel</title>
+<id>http://www.feedbooks.com/userbook/9428</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2010-01-06T14:39:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Many whom the world believes to be Jews that are now in Israel may not be Jews. </summary>
+<category term="dispensational"/>
+<category term="dispensationalists"/>
+<category term="postmillennial"/>
+<category term="annihilation"/>
+<category term="premillennialists"/>
+<category term="premillennialism"/>
+<category term="millennium"/>
+<category term="Premillennial"/>
+<category term="millennial"/>
+<category term="Israel"/>
+<category term="resurrection"/>
+<category term="Salvation"/>
+<category term="study"/>
+<category term="Faith"/>
+<category term="rapture"/>
+<category term="dispensation"/>
+<category term="annihilation"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9428.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9428.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9428.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9428.png?t=20100106143918" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9428.png?size=smaller&amp;t=20100106143918" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9428.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>TrendSiters - Digital Content and Web Technologies</title>
+<id>http://www.feedbooks.com/userbook/9426</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T14:38:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Essays dedicated to the new media, doing business on the web, digital content, its creation and distribution, e-publishing, e-books, digital reference, DRM technology, and other related issues.</summary>
+<category term="internet"/>
+<category term="web"/>
+<category term="browser"/>
+<category term="software"/>
+<category term="application"/>
+<category term="content"/>
+<category term="Digital"/>
+<category term="content"/>
+<category term="Britannica"/>
+<category term="Encarta"/>
+<category term="distribution"/>
+<category term="rights"/>
+<category term="management"/>
+<category term="downloads"/>
+<category term="e-books"/>
+<category term="e-publishing"/>
+<category term="copyright"/>
+<category term="brands"/>
+<category term="reference"/>
+<category term="user"/>
+<category term="gene"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9426.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9426.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9426.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9426.png?t=20100106143812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9426.png?size=smaller&amp;t=20100106143812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9426.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Small Business Manual</title>
+<id>http://www.feedbooks.com/userbook/9425</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T14:35:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Issues in owning and managing a small business in developing and poor countries.</summary>
+<category term="transition"/>
+<category term="microeconomics"/>
+<category term="macroeconomics"/>
+<category term="business"/>
+<category term="government"/>
+<category term="privatization"/>
+<category term="private"/>
+<category term="sector"/>
+<category term="Public"/>
+<category term="sector"/>
+<category term="capital"/>
+<category term="markets"/>
+<category term="stock"/>
+<category term="exchange"/>
+<category term="shares"/>
+<category term="bonds"/>
+<category term="finance"/>
+<category term="banks"/>
+<category term="savings"/>
+<category term="Credit"/>
+<category term="money"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9425.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9425.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9425.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9425.png?t=20100106143511" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9425.png?size=smaller&amp;t=20100106143511" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9425.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Corruption and Financial Crime</title>
+<id>http://www.feedbooks.com/userbook/9423</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T14:30:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Essays about corruption, money laundering, crime, and international finance.</summary>
+<category term="transition"/>
+<category term="microeconomics"/>
+<category term="macroeconomics"/>
+<category term="business"/>
+<category term="government"/>
+<category term="privatization"/>
+<category term="private"/>
+<category term="sector"/>
+<category term="Public"/>
+<category term="sector"/>
+<category term="capital"/>
+<category term="markets"/>
+<category term="stock"/>
+<category term="exchange"/>
+<category term="shares"/>
+<category term="bonds"/>
+<category term="finance"/>
+<category term="banks"/>
+<category term="savings"/>
+<category term="Credit"/>
+<category term="money"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9423.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9423.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9423.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9423.png?t=20100106143005" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9423.png?size=smaller&amp;t=20100106143005" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9423.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

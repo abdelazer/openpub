@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) | Feedbooks</title>
+  <updated>2010-04-07T18:23:06Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=2&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>How To Disappear Completely</title>
+<id>http://www.feedbooks.com/userbook/3115</id>
+<author>
+  <name>David Bowick</name>
+  <uri>http://www.feedbooks.com/user/23742/profile#David%20Bowick</uri>
+</author>
+<updated>2009-09-17T11:20:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>www.bowick.net/books/
+Sitting at the top of a Ferris wheel overlooking the Boston skyline, Josh&#8217;s life takes an unexpected turn, and things will never be the same. Along with the many surprises on his life&#8217;s new path, he&#8217;ll come to take life advice from a family of ducks, get in a bloody war with a dog, lose his job over a spilled drink, wake up in the hospital, apply to work at an adult-themed novelty bakery, and find out that people often aren&#8217;t what they seem. When you're at the top of the world, there's nowhere to go but down.</summary>
+<category term="Contemporary"/>
+<category term="comedy"/>
+<category term="fiction"/>
+<category term="how to disapear completely"/>
+<category term="David Bowick"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3115.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3115.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3115.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3115.png?t=20090917112055" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3115.png?size=smaller&amp;t=20090917112055" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3115.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Black Silk</title>
+<id>http://www.feedbooks.com/userbook/6555</id>
+<author>
+  <name>Jan Gordon</name>
+  <uri>http://www.feedbooks.com/user/43049/profile#Jan%20Gordon</uri>
+</author>
+<updated>2010-03-02T11:10:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Victoria Hudson is 29 and lives in the kind of small town where everyone knows everyone else. She has two great loves in her life -- her cat, Mister, and reading books from her used bookstore.
+
+She doesn't see her life changing much in the future. She's stuck. Until one night when she's saved from probable danger by a mysterious stranger.
+
+******
+
+Steven Colburn has moved around quite a bit during his lifetime, never really finding a place where he felt he could be comfortable.  Until he buys an old homestead, and fate steps in to forever change his life and that of one of the town&#8217;s quiet entrepreneurs.
+
+****
+
+A light but sexy romance with a paranormal twist.
+
+Adult content - not suitable for younger readers.</summary>
+<category term="adult content"/>
+<category term="paranormal romance"/>
+<category term="romance"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6555.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6555.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6555.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6555.png?t=20100302111031" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6555.png?size=smaller&amp;t=20100302111031" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6555.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mating</title>
+<id>http://www.feedbooks.com/userbook/10572</id>
+<author>
+  <name>Nicky Charles</name>
+  <uri>http://www.feedbooks.com/user/45603/profile#Nicky%20Charles</uri>
+</author>
+<updated>2010-02-28T06:43:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Elise had no idea when she came home that day that she'd end up mated to a complete stranger. A new Alpha and the need for an alliance between packs have made her a pawn 
+
+
+EXCERPT: She lay beside him, staring blankly at the ceiling. The deed was done. They were mated. It didn't matter that she had no love for him nor he for her. Political alliances were more important than feelings, or so she had been told. That fact was cold comfort right now as her heart broke within her.
+
+</summary>
+<category term="suspense"/>
+<category term="supernatural"/>
+<category term="romance"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10572.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10572.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10572.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10572.png?t=20100228064323" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10572.png?size=smaller&amp;t=20100228064323" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10572.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>His Robot Girlfriend</title>
+<id>http://www.feedbooks.com/userbook/5854</id>
+<author>
+  <name>Wesley Allison</name>
+  <uri>http://www.feedbooks.com/user/5943/profile#Wesley%20Allison</uri>
+</author>
+<updated>2010-03-17T00:21:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Mike Smith's life was crap, living all alone, years after his wife had died and his children had grown up and moved away. Then he saw the commercial for the Daffodil. Far more than other robots, the Daffodil could become anything and everything he wanted it to be. Mike's life is about to change.
+
+Visit http://amathar.blogspot.com for more on books by Wesley Allison
+</summary>
+<category term="future"/>
+<category term="girlfriend"/>
+<category term="robot"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5854.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5854.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5854.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5854.png?t=20100317002101" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5854.png?size=smaller&amp;t=20100317002101" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5854.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Uncovered Passion</title>
+<id>http://www.feedbooks.com/userbook/5892</id>
+<author>
+  <name>Christopher Golliday &amp; Melissa Golliday</name>
+  <uri>http://www.feedbooks.com/user/42342/profile#Christopher%20Golliday%20%26%20Melissa%20Golliday</uri>
+</author>
+<updated>2010-02-15T17:06:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Sasha Verochka is an FSB agent assigned to her first mission. Her mission? Uncovering the motives for why a handsome, former Marine is in Moscow. Being telepathic, she never thought it would be so hard to reveal the truth about Garrick Caldwell. But then again, she'd never experienced desire like this.
+
+Now time is running out as her superiors want answers she can't make herself find. For in doing so, she just might lose her one chance at passion.</summary>
+<category term="Russia"/>
+<category term="City"/>
+<category term="york"/>
+<category term="new"/>
+<category term="spies"/>
+<category term="shifter"/>
+<category term="shape"/>
+<category term="paranormal"/>
+<category term="romance"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5892.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5892.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5892.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5892.png?t=20100215170617" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5892.png?size=smaller&amp;t=20100215170617" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5892.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>DEAD(ish)</title>
+<id>http://www.feedbooks.com/userbook/6965</id>
+<author>
+  <name>Naomi Kramer</name>
+  <uri>http://www.feedbooks.com/user/47089/profile#Naomi%20Kramer</uri>
+</author>
+<updated>2009-08-18T00:20:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Linda&#8217;s had a bad day. First her boyfriend killed her. Then she woke up, still on this boring plane of existence, and with an odd obsession about her missing body. Mike won&#8217;t tell her what he did with her body, and she can&#8217;t find the stupid thing herself. There&#8217;s only one thing she can do - torment the bastard until he coughs up the information.</summary>
+<category term="ghost"/>
+<category term="revenge"/>
+<category term="mystery"/>
+<category term="murder"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6965.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6965.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6965.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6965.png?t=20090818002010" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6965.png?size=smaller&amp;t=20090818002010" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6965.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Biblical Mysteries</title>
+<id>http://www.feedbooks.com/userbook/1950</id>
+<author>
+  <name>Lonely Soul</name>
+  <uri>http://www.feedbooks.com/user/13539/profile#Lonely%20Soul</uri>
+</author>
+<updated>2009-08-18T01:09:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>In this book you can explore many puzzling biblical mysteries, including:
+-- Does the Devil really exist?
+-- Was Mary Magdalene secretly married to Jesus?
+-- Where is Hell located?
+-- What was in the Lost Gospels?
+-- Who was the mysterious Beloved Disciple?
+-- Is there a divine language?
+-- Can people be possessed by demons?
+-- Why did Jesus call himself the Son of Man?
+-- And many more ...
+</summary>
+<category term="history"/>
+<category term="bible"/>
+<category term="Christianity"/>
+<category term="Christian"/>
+<category term="religion"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/1950.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/1950.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/1950.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1950.png?t=20090818010904" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1950.png?size=smaller&amp;t=20090818010904" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/1950.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Iliad &amp; The Odyssey</title>
+<id>http://www.feedbooks.com/userbook/7333</id>
+<author>
+  <name>Homer</name>
+  <uri>http://www.feedbooks.com/user/49341/profile#Homer</uri>
+</author>
+<updated>2009-10-25T17:28:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>While Homer's existence as a historical person is still a topic of debate, the writings attributed to the name have made their mark not only on history and literature, but the history of civilization itself.  Homer's epic poems, The Iliad and The Odyssey, laid the foundation upon which Ancient Greece developed not only its culture, but its societal values, religious beliefs, and practice of warfare as well.
+
+This publication features the Samuel Butler translation; and while it strays from the poetic style reproduced by more well known translators like Robert Fagles and Robert Fitzgerald, the vision of the epics as if they were prose found in modern novels take their best form under Butler's most capable hand.
+
+The Butler translation may be found at many websites on the Internet, but the source text reproduced for this publication is derived from he online library of the University of Adelaide in South Australia (http://ebooks.adelaide.edu.au/p/plato/). The epic poems are reproduced under the freedoms specified by a Creative Commons License (http://creativecommons.org/licenses/by-nc-sa/2.5/au/).</summary>
+<category term="Epic Poetry"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7333.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7333.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7333.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7333.png?t=20091025172853" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7333.png?size=smaller&amp;t=20091025172853" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7333.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Batman #0</title>
+<id>http://www.feedbooks.com/userbook/6602</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-08-18T00:57:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Batman: Shadow of the Bat.</summary>
+<category term="Sarah Essen"/>
+<category term="Thomas Wayne"/>
+<category term="Martha Wayne"/>
+<category term="Bruce Wayne"/>
+<category term="Jim Gordon"/>
+<category term="Sam Merkel"/>
+<category term="Alfred Pennyworth"/>
+<category term="Harvey Bullock"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6602.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6602.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6602.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6602.png?t=20090818005720" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6602.png?size=smaller&amp;t=20090818005720" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6602.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Small Stories</title>
+<id>http://www.feedbooks.com/userbook/2705</id>
+<author>
+  <name>Small Stories</name>
+  <uri>http://www.feedbooks.com/user/15148/profile#Small%20Stories</uri>
+</author>
+<updated>2010-04-03T18:14:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>101 very short stories, some comic, some dark - each one written to provide a quick entertaining read. Great for reading on any mobile device. (Bonus content: 'The making of Small Stories' &amp; 'Author's Commentary'.)</summary>
+<category term="collections"/>
+<category term="microfiction"/>
+<category term="nanofiction"/>
+<category term="strange"/>
+<category term="weird"/>
+<category term="dark"/>
+<category term="comedy"/>
+<category term="comic"/>
+<category term="absurd"/>
+<category term="surreal"/>
+<category term="fiction"/>
+<category term="funny"/>
+<category term="computer games"/>
+<category term="short stories"/>
+<category term="Creative Commons"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/2705.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/2705.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/2705.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2705.png?t=20100403181430" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2705.png?size=smaller&amp;t=20100403181430" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/2705.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Turn The Porn On</title>
+<id>http://www.feedbooks.com/userbook/8188</id>
+<author>
+  <name>Xavier Leret</name>
+  <uri>http://www.feedbooks.com/user/57967/profile#Xavier%20Leret</uri>
+</author>
+<updated>2010-02-10T19:01:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>An old man lies dying in a hospital bed.  All he wants is for the nurse to turn some porn on.  He wants to feel alive just once more before he dies.
+
+Xavier is reading 'Turn The Porn On' for the Bordello Blush event - THE BOOK CLUB BOUTIQUE - Sat 13th Feb. Location: BLACKS. 67 DEAN ST. SOHO.London W1D 4QH
+Doors open at 8. Great club, big open fires, live music and sizzling, tingling, writings.
+</summary>
+<category term="www.xavierleret.com"/>
+<category term="Leret"/>
+<category term="Xavier"/>
+<category term="fiction"/>
+<category term="short"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8188.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8188.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8188.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8188.png?t=20100210190127" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8188.png?size=smaller&amp;t=20100210190127" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8188.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tokyo Zero</title>
+<id>http://www.feedbooks.com/userbook/3501</id>
+<author>
+  <name>Marc Horne</name>
+  <uri>http://www.feedbooks.com/user/30289/profile#Marc%20Horne</uri>
+</author>
+<updated>2010-04-06T17:47:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2004</dcterms:issued>
+<summary>One man goes to Tokyo to end the world. It goes fairly well.
+
+As a Japanese cult gets ready to stage a massive attack, they are forced to recruit a secretive young bio-chemist from the West. They hide out on the fringes of Tokyo, taking care of the daily business of preparing for the apocalypse, until the foreigner's secret past starts to come to light and threaten their future dreams.
+
+&quot;Horne writes in a lyrically jarring fashion that never quite releases the tension long enough for you to get your footing. Flashbacks and flashforwards zoom past like hurtling Tokyo trains, leaving you agreeably frazzled. &quot; - TeleRead review
+
+
+</summary>
+<category term="Creative Commons"/>
+<category term="Post-1930"/>
+<category term="fiction"/>
+<category term="science fiction"/>
+<category term="thriller"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3501.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3501.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3501.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3501.png?t=20100406174708" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3501.png?size=smaller&amp;t=20100406174708" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3501.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Gennaro's Children.</title>
+<id>http://www.feedbooks.com/userbook/10645</id>
+<author>
+  <name>Jessica Simpson</name>
+  <uri>http://www.feedbooks.com/user/77467/profile#Jessica%20Simpson</uri>
+</author>
+<updated>2010-03-01T08:27:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Synopsis:
+
+
+In a Galaxy far, far, away &#8217;time&#8217;  itself is being shredded &#8230;And the Universe on the whole isn&#8217;t happy about it. Minds immeasurable superior to ours slowly and patiently &#8216;drew&#8217; up their plans against us, and the impending catastrophe.
+
+
+The &#8216;council&#8217; discovered that abomination&#8217;s were placed in corrupted time lines by People unknown, the Cause unknown and the Reason&#8217;s were unknown. Even God doesn&#8217;t know why? it was done!..
+
+
+Recruiting the recently deceased, who insisted they weren&#8217;t dead. The planners of our salvation then put a young girl in charge of the Project.
+
+
+The girl&#8217;s name was Romana Gennaro, she was only 128 years old and this was her first mission, but she was the most qualified person they could find. What could possibly go wrong?&#8230;
+
+</summary>
+<category term="fantasy fiction"/>
+<category term="Historical Science Fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10645.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10645.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10645.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10645.png?t=20100301082704" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10645.png?size=smaller&amp;t=20100301082704" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10645.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Secret: Law of Attraction</title>
+<id>http://www.feedbooks.com/userbook/9588</id>
+<author>
+  <name>Daniel Wahlstrom</name>
+  <uri>http://www.feedbooks.com/user/69886/profile#Daniel%20Wahlstrom</uri>
+</author>
+<updated>2010-02-18T00:04:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Learn the Secret to attracting Health and Wealth to your life! Use these ideas to attain your deepest desire and strengthen your resolve. These principles have been tested through thousands of years and have worked time after time.</summary>
+<category term="confide"/>
+<category term="thoughts"/>
+<category term="Thought"/>
+<category term="mind"/>
+<category term="wellbeing"/>
+<category term="Young"/>
+<category term="retire"/>
+<category term="wants"/>
+<category term="want"/>
+<category term="wishes"/>
+<category term="wish"/>
+<category term="desires"/>
+<category term="desire"/>
+<category term="burning"/>
+<category term="deepest"/>
+<category term="wealth"/>
+<category term="health"/>
+<category term="secret"/>
+<category term="the"/>
+<category term="money"/>
+<category term="Cash"/>
+<category term="Magnet"/>
+<category term="attraction"/>
+<category term="of"/>
+<category term="Law"/>
+<category term="The Secret"/>
+<category term="Law of Attraction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9588.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9588.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9588.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9588.png?t=20100218000422" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9588.png?size=smaller&amp;t=20100218000422" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9588.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Man Who Could Not Forget</title>
+<id>http://www.feedbooks.com/userbook/2857</id>
+<author>
+  <name>Michael Graeme</name>
+  <uri>http://www.feedbooks.com/user/21538/profile#Michael%20Graeme</uri>
+</author>
+<updated>2009-08-18T00:51:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>A Short Story by Michael Graeme (a fifteen minute read): 
+
+...I have a problem with my memory. It isn't that it ever fails me - quite the opposite in fact. Indeed, my recall of events from all but the earliest years of my life is truly photographic, so there was little doubt in my mind the woman before me now was the one who had stolen the book....</summary>
+<category term="speculative"/>
+<category term="fantasy"/>
+<category term="fiction"/>
+<category term="romance"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/2857.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/2857.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/2857.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2857.png?t=20090818005103" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2857.png?size=smaller&amp;t=20090818005103" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/2857.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Complete Aristotle</title>
+<id>http://www.feedbooks.com/userbook/7317</id>
+<author>
+  <name>Aristotle</name>
+  <uri>http://www.feedbooks.com/user/49341/profile#Aristotle</uri>
+</author>
+<updated>2009-10-25T17:28:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Aristotle (384&#8211;322 BCE) was a Greek philosopher and student of Plato who stunningly changed the course of Western philosophy. He has gone down in history as one of the greatest philosophers of all time. Cicero, the Roman statesman and philosopher, once called his writing style &quot;a river of gold;&quot; and his scope of thought and subsequent influence on the study of science, logic, philosophical discourse, and theology has led many to dub him &quot;The Philosopher.&quot;
+
+This free collection of works in English has been adapted from the collection of The University of Adelaide Library at the University of Adelaide in South Australia (http://ebooks.adelaide.edu.au/a/aristotle/). The works are reproduced in this format under the freedoms specified by a Creative Commons License (http://creativecommons.org/licenses/by-nc-sa/2.5/au/).</summary>
+<category term="metaphysics"/>
+<category term="logic"/>
+<category term="poetry"/>
+<category term="Rhetoric"/>
+<category term="politics"/>
+<category term="ethics"/>
+<category term="biology"/>
+<category term="philosophy"/>
+<category term="physics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7317.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7317.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7317.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7317.png?t=20091025172826" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7317.png?size=smaller&amp;t=20091025172826" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7317.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Forever In Time</title>
+<id>http://www.feedbooks.com/userbook/7906</id>
+<author>
+  <name>Nicky Charles</name>
+  <uri>http://www.feedbooks.com/user/45603/profile#Nicky%20Charles</uri>
+</author>
+<updated>2010-02-22T23:16:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>She was in there, he knew it. He'd been following her for weeks and knew every move she made. There'd be no escaping him.  Time was on his side.  &quot;I'm waiting, Steph. I've been waiting a long, long time.&quot; 
+
+Stephanie thought she was ordinary.  Her life was stable, or at least it was until the stranger appeared. Was he the answer to her dreams or a nightmare?
+
+</summary>
+<category term="fiction"/>
+<category term="mystery"/>
+<category term="suspense"/>
+<category term="paranormal"/>
+<category term="romance"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7906.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7906.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7906.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7906.png?t=20100222231604" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7906.png?size=smaller&amp;t=20100222231604" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7906.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Christian Obscenity: Essays, Stories, and Other Potentially Damning Ramblings</title>
+<id>http://www.feedbooks.com/userbook/10566</id>
+<author>
+  <name>Scott Douglas</name>
+  <uri>http://www.feedbooks.com/user/75962/profile#Scott%20Douglas</uri>
+</author>
+<updated>2010-03-09T03:05:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Self proclaimed &quot;Christian Humorist,&quot; Scott Douglas, compiles up the best of several years of original humor into one hilarious collection. Included in this collection are classic faux interviews with a Christian porn star, Rick Warren, and Dan Brown, among others.</summary>
+<category term="jokes"/>
+<category term="comedy"/>
+<category term="Humor"/>
+<category term="parody"/>
+<category term="Religious humor"/>
+<category term="Christian fiction"/>
+<category term="Christian humor"/>
+<category term="faux interview"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10566.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10566.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10566.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10566.png?t=20100309030557" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10566.png?size=smaller&amp;t=20100309030557" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10566.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>eBay 101: Selling on eBay For Part-time or Full-time Income, Beginner to PowerSeller in 90 Days</title>
+<id>http://www.feedbooks.com/userbook/3694</id>
+<author>
+  <name>Steve Weber</name>
+  <uri>http://www.feedbooks.com/user/21844/profile#Steve%20Weber</uri>
+</author>
+<updated>2009-08-17T21:48:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>With today's rocky economy and unsteady job market, there's never been a better time to earn extra cash online. And now there's a new book that guides you each step of the way: eBay 101: Selling on eBay For Part-time or Full-time Income, Beginner to PowerSeller in 90 Days. Access the world's biggest marketplace, right from your own home.
+
+You'll learn how to:
+
+-- Register at eBay and PayPal
+-- Start part-time and expand your income when you're ready
+-- Find great inventory at low prices
+-- Auction to the highest bidder or sell at fixed prices
+-- Identify niche markets for big profits
+-- Get tax deductions for your eBay home-based business
+-- Guard against scammers and rip-off artists
+
+Starting a business on eBay is perhaps your fastest route to the American Dream. The payoff can be high, and the barriers to entry are low.
+
+The world's most popular online marketplace, eBay has millions of registered buyers waiting to do business with you. For less than $100 and very little risk, you can start an eBay venture with profit margins rivaling those of any business. Exactly how much money you earn depends mostly on how much effort you put into your new enterprise and how efficiently you operate it.
+
+In this new eBay guide, you'll see:
+
+How eBay works ... Register your business ... Sell your item ... Build your listing
+
+Timing, planning your auction ... Make a picture worth $1,000 ... Use Pre-filled Item Information ... Price your item ... Reserve Pricing ... Multiple Item (Dutch) Auctions ... The auction alternative: fixed prices ... Best Offer listing option ... Upgrade your listings ... The best time to list
+
+Profit with a niche ... Start with used merchandise ... Win with niche selling ... Cash in on collectibles ... Autographed items ... Trust, but authenticate ... How to recognize fake autographs
+</summary>
+<category term="shipping"/>
+<category term="drop"/>
+<category term="antiques"/>
+<category term="collectibles"/>
+<category term="ebay"/>
+<category term="e-commerce"/>
+<category term="powersellers"/>
+<category term="amazon"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3694.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3694.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3694.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3694.png?t=20090817214827" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3694.png?size=smaller&amp;t=20090817214827" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3694.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Uncollected Stories</title>
+<id>http://www.feedbooks.com/userbook/7283</id>
+<author>
+  <name>Small Stories</name>
+  <uri>http://www.feedbooks.com/user/15148/profile#Small%20Stories</uri>
+</author>
+<updated>2010-04-02T18:28:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>The second collection from the popular Feedbooks download author. 50 microfictions - sometimes funny, sometimes disturbing, always perfect for mobile reading. (Bonus content: 'Author's Commentary')</summary>
+<category term="surreal"/>
+<category term="funny"/>
+<category term="weird"/>
+<category term="quirky"/>
+<category term="microfiction"/>
+<category term="fiction"/>
+<category term="mobile reading"/>
+<category term="Creative Commons"/>
+<category term="flash fiction"/>
+<category term="very short story"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7283.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7283.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7283.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7283.png?t=20100402182830" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7283.png?size=smaller&amp;t=20100402182830" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7283.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

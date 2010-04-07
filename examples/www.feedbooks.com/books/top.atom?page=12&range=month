@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=12&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=12&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=12&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 12 | Feedbooks</title>
+  <updated>2010-04-07T18:24:39Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>221</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=11&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=13&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Mrs. Dalloway</title>
+<id>http://www.feedbooks.com/book/1231</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:43:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1925</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Mrs Dalloway (published on 14 May 1925) is a novel by Virginia Woolf that details a day in the life of Clarissa Dalloway in post-World War I England. Mrs Dalloway continues to be one of Woolf's best-known novels.
+Created from two short stories, &quot;Mrs Dalloway in Bond Street&quot; and the unfinished &quot;The Prime Minister&quot;, the novel's story is of Clarissa's preparations for a party of which she is to be hostess. With the interior perspective of the novel, the story travels forwards and back in time, and in and out of the characters' minds, to construct a complete image of Clarissa's life and of the inter-war social structure.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1231.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1231.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1231.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1231.png?t=20090916104311" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1231.png?size=smaller&amp;t=20090916104311" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1231.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Prisoner of Zenda</title>
+<id>http://www.feedbooks.com/book/3582</id>
+<author>
+  <name>Anthony Hope</name>
+  <uri>http://www.feedbooks.com/author/906</uri>
+</author>
+<updated>2009-08-18T01:18:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1894</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Thriller" label="Thriller"/>
+<summary>The Prisoner of Zenda is an adventure novel by Anthony Hope, published in 1894. The king of the fictional country of Ruritania is abducted on the eve of his coronation, and the protagonist, an English gentleman on holiday who fortuitously resembles the monarch, is persuaded to act as his political decoy in an attempt to save the situation. The villainous Rupert of Hentzau gave his name to the sequel published in 1898, which is included in some editions of this novel. The books were extremely popular and inspired a new genre of Ruritanian romance, including the Graustark novels by George Barr McCutcheon.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3582.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3582.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3582.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3582.png?t=20090818011810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3582.png?size=smaller&amp;t=20090818011810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3582.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Wind in the Willows</title>
+<id>http://www.feedbooks.com/book/3645</id>
+<author>
+  <name>Kenneth Grahame</name>
+  <uri>http://www.feedbooks.com/author/935</uri>
+</author>
+<updated>2009-08-18T01:18:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1908</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>The Wind in the Willows is a classic of children's literature by Kenneth Grahame, first published in 1908. Alternately slow moving and fast paced, it focuses on four anthropomorphised animal characters in a pastoral version of England. The novel is notable for its mixture of mysticism, adventure, morality, and camaraderie.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3645.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3645.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3645.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3645.png?t=20090818011811" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3645.png?size=smaller&amp;t=20090818011811" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3645.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Anne of Green Gables</title>
+<id>http://www.feedbooks.com/book/2776</id>
+<author>
+  <name>Lucy Maud Montgomery</name>
+  <uri>http://www.feedbooks.com/author/547</uri>
+</author>
+<updated>2009-09-16T12:27:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1908</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>Marilla Cuthbert and Matthew Cuthbert, middle-aged siblings who live together at Green Gables, a farm in Avonlea, on Prince Edward Island, decide to adopt a boy from an orphan asylum in Nova Scotia as a helper on their farm. Through a series of mishaps, the person who ends up under their roof is a precocious girl of eleven named Anne Shirley. Anne is bright and quick, eager to please but dissatisfied with her name, her pale countenance dotted with freckles, and with her long braids of red hair. Being a child of imagination, however, Anne takes much joy in life, and adapts quickly, thriving in the environment of Prince Edward Island.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2776.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2776.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2776.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2776.png?t=20090916122703" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2776.png?size=smaller&amp;t=20090916122703" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2776.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Moon and Sixpence</title>
+<id>http://www.feedbooks.com/book/2043</id>
+<author>
+  <name>W. Somerset Maugham</name>
+  <uri>http://www.feedbooks.com/author/269</uri>
+</author>
+<updated>2009-09-16T11:33:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>An uncompromising and self-destructive deserts his wife, family, business, and civilization for his art. Shedding harsh light on an artist's ego, Maugham reveals the lengths to which one man will go to focus on his art. Written in 1919, this unforgettable story is timeless in its appeal. </summary>
+<dcterms:source>http://www.gutenberg.org/files/222/222-h/222-h.htm</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2043.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2043.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2043.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2043.png?t=20090916113320" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2043.png?size=smaller&amp;t=20090916113320" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2043.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Paradise Regained</title>
+<id>http://www.feedbooks.com/book/175</id>
+<author>
+  <name>John Milton</name>
+  <uri>http://www.feedbooks.com/author/82</uri>
+</author>
+<updated>2009-09-16T10:12:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1667</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/175.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/175.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/175.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/175.png?t=20090916101204" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/175.png?size=smaller&amp;t=20090916101204" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/175.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Eastern Standard Tribe</title>
+<id>http://www.feedbooks.com/book/217</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:14:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2004</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A comedy of loyalty, betrayal, sex, madness, and music-swapping
+Art is an up-and-coming interface designer, working on the management of data flow along the Massachusetts Turnpike. He's doing the best work of his career and can guarantee that the system will be, without a question, the most counterintuitive, user-hostile piece of software ever pushed forth onto the world.
+
+Why? Because Art is an industrial saboteur. He may live in London and work for an EU telecommunications megacorp, but Art's real home is the Eastern Standard Tribe.
+
+Instant wireless communication puts everyone in touch with everyone else, twenty-four hours a day. But one thing hasn't changed: the need for sleep. The world is slowly splintering into Tribes held together by a common time zone, less than family and more than nations. Art is working to humiliate the Greenwich Mean Tribe to the benefit of his own people. But in a world without boundaries, nothing can be taken for granted-not happiness, not money, and most certainly not love.
+
+Which might explain why Art finds himself stranded on the roof of an insane asylum outside Boston, debating whether to push a pencil into his brain....</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/217.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/217.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/217.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/217.png?t=20090916101434" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/217.png?size=smaller&amp;t=20090916101434" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/217.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Swann's Way</title>
+<id>http://www.feedbooks.com/book/1262</id>
+<author>
+  <name>Marcel Proust</name>
+  <uri>http://www.feedbooks.com/author/3</uri>
+</author>
+<updated>2009-09-16T10:37:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>In Search of Lost Time or Remembrance of Things Past (French: &#192; la recherche du temps perdu) is a semi-autobiographical novel in seven volumes by Marcel Proust. His most prominent work, it is popularly known for its extended length and the notion of involuntary memory, the most famous example being the &quot;episode of the madeleine&quot;. Still widely referred to in English as Remembrance of Things Past, the title In Search of Lost Time, a more accurate rendering of the French, has gained in usage since D.J. Enright's 1992 revision of the earlier translation by C.K. Scott-Moncrieff and Terence Kilmartin.
+Swann's Way is the first volume.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1262.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1262.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1262.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1262.png?t=20090916103701" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1262.png?size=smaller&amp;t=20090916103701" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1262.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mysterious Island</title>
+<id>http://www.feedbooks.com/book/2448</id>
+<author>
+  <name>Jules Verne</name>
+  <uri>http://www.feedbooks.com/author/19</uri>
+</author>
+<updated>2009-09-16T12:05:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1874</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The book tells the adventures of five American prisoners of war on an uncharted island in the South Pacific. Begining in the American Civil War, as famine and death ravage the city of Richmond, Virginia, five northern POWs decide to escape in a rather unusual way &#8211; by hijacking a balloon! This is only the beginning of their adventures...</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2448.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2448.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2448.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2448.png?t=20090916120557" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2448.png?size=smaller&amp;t=20090916120557" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2448.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Camille</title>
+<id>http://www.feedbooks.com/book/1246</id>
+<author>
+  <name>Alexandre Dumas (fils)</name>
+  <uri>http://www.feedbooks.com/author/112</uri>
+</author>
+<updated>2009-09-16T10:45:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1844</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1246.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1246.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1246.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1246.png?t=20090916104535" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1246.png?size=smaller&amp;t=20090916104535" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1246.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sons and Lovers</title>
+<id>http://www.feedbooks.com/book/213</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2009-11-27T15:45:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Psychology" label="Psychology"/>
+<summary>The third published novel of D. H. Lawrence, taken by many to be his earliest masterpiece, tells the story of Paul Morel, a young man and budding artist. Richard Aldington explains the semi-autobiographical nature of his masterpiece:
+When you have experienced Sons and Lovers you have lived through the agonies of the young Lawrence striving to win free from his old life'. Generally, it is not only considered as an evocative portrayal of working-class life in a mining community, but also an intense study of family, class and early sexual relationships.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/213.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/213.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/213.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/213.png?t=20091127154534" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/213.png?size=smaller&amp;t=20091127154534" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/213.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Black Cat</title>
+<id>http://www.feedbooks.com/book/759</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1842</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>&quot;The Black Cat&quot; is a short story by Edgar Allan Poe. It was first published in the August 19, 1843, edition of The Saturday Evening Post. It is a study of the psychology of guilt, often paired in analysis with Poe's &quot;The Tell-Tale Heart&quot;. In both, a murderer carefully conceals his crime and believes himself unassailable, but eventually breaks down and reveals himself, impelled by a nagging reminder of his guilt.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/759.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/759.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/759.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/759.png?t=20090916103014" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/759.png?size=smaller&amp;t=20090916103014" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/759.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Give Me Liberty Or Give Me Death</title>
+<id>http://www.feedbooks.com/book/4147</id>
+<author>
+  <name>Patrick Henry</name>
+  <uri>http://www.feedbooks.com/author/1183</uri>
+</author>
+<updated>2009-09-03T11:49:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1775</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Politics" label="Politics"/>
+<summary>&quot;'Give me Liberty, or give me Death'!&quot; is a famous quotation attributed to Patrick Henry from a speech he made to the Virginia Convention. It was given March 23, 1775, at St. John's Church in Richmond, Virginia, and is credited with having swung the balance in convincing the Virginia House of Burgesses to pass a resolution delivering the Virginia troops to the Revolutionary War. Among the delegates to the convention were future US Presidents Thomas Jefferson and George Washington. Reportedly, those in attendance, upon hearing the speech, shouted, &quot;To arms! To arms!&quot;</summary>
+<dcterms:source>http://www.gutenberg.org/etext/6</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4147.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4147.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4147.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4147.png?t=20090903114955" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4147.png?size=smaller&amp;t=20090903114955" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4147.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Princess of Mars</title>
+<id>http://www.feedbooks.com/book/80</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:08:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A Princess of Mars is an Edgar Rice Burroughs science fiction novel, the first of his famous Barsoom series. It is also Burroughs' first novel, predating his Tarzan stories. He wrote it between July and September 28, 1911, going through four working titles; initially, he was going to call it My First Adventure on Mars, then The Green Martians, Dejah Thoris, Martian Princess, and finally Under the Moons of Mars.
+The finished story was first published under the last of these titles in All-Story as a six-part serial in the issues for February-July 1912. For the serial publication, the author's name was given as &quot;Norman Bean&quot;; Burroughs had chosen the pseudonym of &quot;Normal Bean&quot; as a type of pun stressing that he was in his right mind, being concerned he might suffer ridicule for writing such a fantastic story. The effect was spoiled when a typesetter changed &quot;Normal&quot; to &quot;Norman&quot; on the assumption that the former was a typographical error. The story was later published as a complete novel under the present title by A. C. McClurg in October 1917.
+Full of swordplay and daring feats, the story is considered a classic example of 20th century pulp fiction.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/80.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/80.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/80.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/80.png?t=20090916100839" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/80.png?size=smaller&amp;t=20090916100839" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/80.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Idiot</title>
+<id>http://www.feedbooks.com/book/367</id>
+<author>
+  <name>Fyodor Mikhailovich Dostoyevsky</name>
+  <uri>http://www.feedbooks.com/author/2</uri>
+</author>
+<updated>2009-09-27T12:33:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1868</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Returning to Russia from a sanitarium in Switzerland, the Christ-like epileptic Prince Myshkin finds himself enmeshed in a tangle of love, torn between two women&#8212;the notorious kept woman Nastasya and the pure Aglaia&#8212;both involved, in turn, with the corrupt, money-hungry Ganya. In the end, Myshkin&#8217;s honesty, goodness, and integrity are shown to be unequal to the moral emptiness of those around him.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/367.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/367.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/367.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/367.png?t=20090927123353" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/367.png?size=smaller&amp;t=20090927123353" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/367.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Makers</title>
+<id>http://www.feedbooks.com/book/4343</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-12-05T18:46:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Perry and Lester invent things&#8212;seashell robots that make toast, Boogie Woogie Elmo dolls that drive cars. They also invent entirely new economic systems, like the &#8220;New Work,&#8221; a New Deal for the technological era. Barefoot bankers cross the nation, microinvesting in high-tech communal mini-startups like Perry and Lester&#8217;s. Together, they transform the country, and Andrea Fleeks, a journo-turned-blogger, is there to document it.
+
+Then it slides into collapse. The New Work bust puts the dot.combomb to shame. Perry and Lester build a network of interactive rides in abandoned Wal-Marts across the land. As their rides, which commemorate the New Work&#8217;s glory days, gain in popularity, a rogue Disney executive grows jealous, and convinces the police that Perry and Lester&#8217;s 3D printers are being used to run off AK-47s.
+
+Hordes of goths descend on the shantytown built by the New Workers, joining the cult. Lawsuits multiply as venture capitalists take on a new investment strategy: backing litigation against companies like Disney. Lester and Perry&#8217;s friendship falls to pieces when Lester gets the &#8216;fatkins&#8217; treatment, turning him into a sybaritic gigolo.
+
+Then things get really interesting.</summary>
+<dcterms:source>http://craphound.com/makers/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4343.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4343.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4343.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4343.png?t=20091205184618" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4343.png?size=smaller&amp;t=20091205184618" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4343.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Food of the Gods and How It Came to Earth</title>
+<id>http://www.feedbooks.com/book/594</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:27:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1904</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Two scientists devise a compound that produces enormous plants, animals &#8212; and humans! The chilling results are disastrous. </summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/594.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/594.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/594.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/594.png?t=20090916102706" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/594.png?size=smaller&amp;t=20090916102706" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/594.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Big Trip Up Yonder</title>
+<id>http://www.feedbooks.com/book/4322</id>
+<author>
+  <name>Kurt Vonnegut</name>
+  <uri>http://www.feedbooks.com/author/185</uri>
+</author>
+<updated>2009-10-14T14:04:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>If it was good enough for your grandfather, forget it ... it is much too good for anyone else!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30240</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4322.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4322.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4322.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4322.png?t=20091014140408" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4322.png?size=smaller&amp;t=20091014140408" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4322.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Rainbow</title>
+<id>http://www.feedbooks.com/book/214</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2010-01-11T15:57:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Sexuality" label="Sexuality"/>
+<summary>The Rainbow is a 1915 novel by British author D. H. Lawrence. It follows three generations of the Brangwen family, particularly focusing on the sexual dynamics of, and relations between, the characters.
+Lawrence's frank treatment of sexual desire and the power plays within relationships as a natural and even spiritual force of life, though perhaps tame by modern standards, caused The Rainbow to be prosecuted in an obscenity trial in late 1915, as a result of which all copies were seized and burnt. After this ban it was unavailable in Britain for 11 years, although editions were available in the USA.
+The Rainbow was followed by a sequel in 1920, Women in Love. Although Lawrence conceived of the two novels as one, considering the titles The Sisters and The Wedding Ring for the work, they were published as two separate novels at the urging of his publisher. However, after the negative public reception of The Rainbow, Lawrence's publisher opted out of publishing the sequel. This is the cause of the delay in the publishing of the sequel.</summary>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/214.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/214.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/214.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/214.png?t=20100111155746" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/214.png?size=smaller&amp;t=20100111155746" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/214.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Aeneid of Virgil (I-VI)</title>
+<id>http://www.feedbooks.com/book/3076</id>
+<author>
+  <name>Virgil</name>
+  <uri>http://www.feedbooks.com/author/595</uri>
+</author>
+<updated>2009-09-16T12:52:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-29</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<summary>The Aeneid is a Latin epic poem written by Virgil in the 1st century BC (between 29 and 19 BC) that tells the legendary story of Aeneas, a Trojan who traveled to Italy, where he became the ancestor of the Romans. It is written in dactylic hexameter. The first six of the poem's twelve books tell the story of Aeneas' wanderings from Troy to Italy, and the poem's second half treats the Trojans' ultimately victorious war upon the Latins, under whose name Aeneas and his Trojan followers are destined to be subsumed.
+The hero Aeneas was already known to Greco-Roman legend and myth, having been a character in the Iliad; Virgil took the disconnected tales of Aeneas' wanderings, his vague association with the foundation of Rome and a personage of no fixed characteristics other than a scrupulous piety, and fashioned this into a compelling founding myth or nationalist epic that at once tied Rome to the legends of Troy, glorified traditional Roman virtues and legitimized the Julio-Claudian dynasty</summary>
+<dcterms:source>http://www.theoi.com</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3076.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3076.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3076.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3076.png?t=20090916125248" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3076.png?size=smaller&amp;t=20090916125248" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3076.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

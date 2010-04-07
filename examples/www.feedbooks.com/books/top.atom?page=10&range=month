@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=10&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=10&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=10&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 10 | Feedbooks</title>
+  <updated>2010-04-07T18:24:38Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>181</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=9&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=11&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Prophet</title>
+<id>http://www.feedbooks.com/book/2843</id>
+<author>
+  <name>Kahlil Gibran</name>
+  <uri>http://www.feedbooks.com/author/576</uri>
+</author>
+<updated>2009-09-16T12:28:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1923</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<summary>The Prophet is a book of 26 poetic essays written in English in 1923 by the Lebanese-American artist, philosopher and writer Khalil Gibran. In the book, the prophet Almustafa who has lived in the foreign city of Orphalese for 12 years is about to board a ship which will carry him home. He is stopped by a group of people, with whom he discusses many issues of life and the human condition. The book is divided into chapters dealing with love, marriage, children, giving, eating and drinking, work, joy and sorrow, houses, clothes, buying and selling, crime and punishment, laws, freedom, reason and passion, pain, self-knowledge, teaching, friendship, talking, time, good and evil, prayer, pleasure, beauty, religion, and death.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2843.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2843.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2843.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2843.png?t=20090916122812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2843.png?size=smaller&amp;t=20090916122812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2843.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>King Lear</title>
+<id>http://www.feedbooks.com/book/2940</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:35:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1606</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<summary>King Lear is a tragedy by William Shakespeare, believed to have been written between 1603 and 1606, and is considered one of his greatest works. The play is based on the legend of King Leir of Britain. It has been widely adapted for stage and screen, with the part of Lear being played by many of the world's most accomplished actors. (From Wikipedia)</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2940.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2940.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2940.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2940.png?t=20090916123514" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2940.png?size=smaller&amp;t=20090916123514" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2940.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Valley of Fear</title>
+<id>http://www.feedbooks.com/book/64</id>
+<author>
+  <name>Arthur Conan Doyle</name>
+  <uri>http://www.feedbooks.com/author/1</uri>
+</author>
+<updated>2009-09-16T10:08:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>The plot of the novel is based very loosely on the real-life activities of the Molly Maguires and, particularly, of Pinkerton agent James McParland.
+The novel is divided into two parts: in the first, Holmes investigates an apparent murder and discovers that the body belongs to another man; and in the second, the story of the man originally thought to have been the victim is told.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/64.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/64.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/64.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/64.png?t=20090916100800" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/64.png?size=smaller&amp;t=20090916100800" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/64.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Right Ho, Jeeves</title>
+<id>http://www.feedbooks.com/book/4109</id>
+<author>
+  <name>P. G. Wodehouse</name>
+  <uri>http://www.feedbooks.com/author/1148</uri>
+</author>
+<updated>2009-08-18T01:18:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1934</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Right Ho, Jeeves is a novel by P. G. Wodehouse, the second full-length novel featuring the popular characters Jeeves and Bertie Wooster, after Thank You, Jeeves. It also features a host of other recurring Wodehouse characters, and is mostly set at Brinkley Court, the home of Bertie's Aunt Dahlia. It was first published in the United Kingdom on October 5, 1934 by Herbert Jenkins, London, and in the United States on October 15, 1934 by Little, Brown and Company, Boston, under the title Brinkley Manor. Before being published as a book, it had been sold to the Saturday Evening Post, in which it appeared in serial form from December 23, 1933 to January 27, 1934, and in England in Grand Magazine from April to September 1934. Wodehouse had already started planning this sequel while working on Thank You, Jeeves.
+
+(Wikipedia)</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4109.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4109.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4109.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4109.png?t=20090818011819" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4109.png?size=smaller&amp;t=20090818011819" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4109.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Accelerando</title>
+<id>http://www.feedbooks.com/book/228</id>
+<author>
+  <name>Charles Stross</name>
+  <uri>http://www.feedbooks.com/author/110</uri>
+</author>
+<updated>2009-09-16T10:15:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The book is a collection of nine short stories telling the tale of three generations of a highly dysfunctional family before, during, and after a technological singularity. It was originally written as a series of novelettes and novellas, all published in Asimov's Science Fiction magazine in the period 2001 to 2004.
+The first three stories follow the character of &quot;venture altruist&quot; Manfred Macx starting in the early 21st Century, the second three stories follow his daughter Amber, and the final three focus largely on her son Sirhan in the completely transformed world at the end of the century.
+According to Stross, the initial inspiration for the stories was his experience working as a programmer for a high-growth company during the dot-com boom of the 1990s.</summary>
+<dcterms:source>http://www.accelerando.org/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/228.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/228.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/228.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/228.png?t=20090916101511" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/228.png?size=smaller&amp;t=20090916101511" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/228.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Warrior of the Light - Volume 2</title>
+<id>http://www.feedbooks.com/book/3928</id>
+<author>
+  <name>Paulo Coelho</name>
+  <uri>http://www.feedbooks.com/author/1055</uri>
+</author>
+<updated>2009-11-06T14:18:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>&#8220;Warrior of the Light&#8221; is a collection of texts that, for the first time, are gathered from the internet writings of Paulo Coelho. In his inimitable style, Paulo Coelho helps us to discover the warrior of the light within each of us.
+In these volumes readers are invited to to travel through the life and imagination of a pilgrim writer. </summary>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3928.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3928.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3928.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3928.png?t=20091106141821" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3928.png?size=smaller&amp;t=20091106141821" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3928.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Stories for Parents, Children and Grandchildren - Volume 2</title>
+<id>http://www.feedbooks.com/book/3888</id>
+<author>
+  <name>Paulo Coelho</name>
+  <uri>http://www.feedbooks.com/author/1055</uri>
+</author>
+<updated>2009-08-18T01:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>&#8220;Stories for Parents, Children and Grandchildren&#8221; is a stroll through the universal traditions and legends, lulled by the unforgettable magic words &#8220;Once upon a time&#8230;&#8221; 
+This book by Paulo Coelho contains joyful, amazing and dramatic stories for readers of all ages. Most of them recount traditional legends and tales from many cultures. Included are also stories inspired by the author&#8217;s personal experience and episodes from the lives of celebrated names, as means of reflection.</summary>
+<dcterms:source>http://paulocoelhoblog.com/internet-books/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3888.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3888.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3888.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3888.png?t=20090818011816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3888.png?size=smaller&amp;t=20090818011816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3888.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Marvelous Land of Oz</title>
+<id>http://www.feedbooks.com/book/202</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2009-09-16T10:13:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1904</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>First issued in 1904, L. Frank Baum's The Marvelous Land of Oz is the story of the wonderful adventures of the young boy named Tip as he travels throughout the many lands of Oz. Here he meets with our old friends the Scarecrow and Tin Woodman, as well as some new friends like Jack Pumpkinhead, the Wooden Sawhorse, the Highly Magnified Woggle-Bug, and the amazing Gump.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/202.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/202.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/202.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/202.png?t=20090916101335" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/202.png?size=smaller&amp;t=20090916101335" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/202.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ivanhoe</title>
+<id>http://www.feedbooks.com/book/203</id>
+<author>
+  <name>Sir Walter Scott</name>
+  <uri>http://www.feedbooks.com/author/99</uri>
+</author>
+<updated>2010-01-02T15:27:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1820</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="War" label="War"/>
+<summary>Ivanhoe is the story of one of the remaining Saxon noble families at a time when the English nobility was overwhelmingly Norman. It follows the Saxon protagonist, Wilfrid of Ivanhoe, who is out of favour with his father owing to his courting the Lady Rowena and for his allegiance to the Norman king Richard I of England. The story is set in 1194, after the end of the Third Crusade, when many of the Crusaders were still returning to Europe. King Richard, having been captured by the Duke of Saxony, on his way back, was still supposed to be in the arms of his captors. The legendary Robin Hood, initially under the name of Locksley, is also a character in the story, as are his 'merry men,' including Friar Tuck and, less so, Alan-a-Dale. (Little John is merely mentioned.) The character that Scott gave to Robin Hood in Ivanhoe helped shape the modern notion of this figure as a cheery noble outlaw.
+Other major characters include Ivanhoe's intractable Saxon father Cedric, a descendant of the Saxon King Harold Godwinson; various Knights Templar and churchmen; the loyal serfs Gurth the swineherd and the jester Wamba, whose observations punctuate much of the action; and the Jewish moneylender, Isaac of York, equally passionate of money and his daughter, Rebecca. The book was written and published during a period of increasing struggle for Emancipation of the Jews in England, and there are frequent references to injustice against them.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/203.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/203.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/203.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/203.png?t=20100102152702" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/203.png?size=smaller&amp;t=20100102152702" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/203.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Monk</title>
+<id>http://www.feedbooks.com/book/331</id>
+<author>
+  <name>Matthew Lewis</name>
+  <uri>http://www.feedbooks.com/author/116</uri>
+</author>
+<updated>2009-09-16T10:17:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1796</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Sexuality" label="Sexuality"/>
+<category term="Gothic" label="Gothic"/>
+<summary>The Monk is remembered for being one of the more lurid and &quot;transgressive&quot; of Gothic novels. It is also the first book to feature a priest as the villain. 
+The story concerns Ambrosio - a pious, well-respected monk in Spain - and his violent downfall.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/331.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/331.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/331.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/331.png?t=20090916101701" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/331.png?size=smaller&amp;t=20090916101701" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/331.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dubliners</title>
+<id>http://www.feedbooks.com/book/5</id>
+<author>
+  <name>James Joyce</name>
+  <uri>http://www.feedbooks.com/author/4</uri>
+</author>
+<updated>2009-09-16T10:06:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>Dubliners is a collection of 15 short stories by James Joyce, first published in 1914. The fifteen stories were meant to be a naturalistic depiction of the Irish middle class life in and around Dublin in the early years of the 20th century.
+The stories were written at the time when Irish nationalism was at its peak, and a search for a national identity and purpose was raging; at a crossroads of history and culture, Ireland was jolted by various converging ideas and influences. They center on Joyce's idea of an epiphany: a moment where a character has a special moment of self-understanding or illumination. Many of the characters in Dubliners later appear in minor roles in Joyce's novel Ulysses. The initial stories in the collection are narrated by children as protagonists, and as the stories continue, they deal with the lives and concerns of progressively older people. This is in line with Joyce's tripartite division of the collection into childhood, adolescence and maturity.</summary>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/5.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/5.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/5.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/5.png?t=20090916100627" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/5.png?size=smaller&amp;t=20090916100627" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/5.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Secret Adversary</title>
+<id>http://www.feedbooks.com/book/2059</id>
+<author>
+  <name>Agatha Christie</name>
+  <uri>http://www.feedbooks.com/author/287</uri>
+</author>
+<updated>2009-09-16T11:35:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Hiring themselves out as &#8220;young adventurers willing to do anything&#8221; is a smart move for Tommy and Tuppence. All Tuppence has to do is take an all-expenses-paid trip to Paris and pose as someone named Jane Finn. But with the job comes a threat to her life, and the disappearance of her mysterious employer. Now Tuppence&#8217;s newest job is playing detective&#8212;because if there&#8217;s a Jane Finn that really exists, she&#8217;s got a secret that&#8217;s putting both their lives in danger.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2059.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2059.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2059.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2059.png?t=20090916113559" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2059.png?size=smaller&amp;t=20090916113559" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2059.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Merchant of Venice</title>
+<id>http://www.feedbooks.com/book/2989</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:32:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1598</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<summary>The Merchant of Venice is a play by William Shakespeare, believed to have been written between 1596 and 1598. Although classified as a comedy in the First Folio, and while it shares certain aspects with Shakespeare's other romantic comedies, the play is perhaps more remembered for its dramatic scenes, and is best known for the character of Shylock.
+The title character is the merchant Antonio, not the Jewish moneylender Shylock, who is the play's most prominent and more famous villain. Though Shylock is a tormented character, he is also a tormentor, so whether he is to be viewed with disdain or sympathy is up to the audience (as influenced by the interpretation of the play's director and lead actors). As a result, The Merchant of Venice is often classified as one of Shakespeare's problem plays.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2989.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2989.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2989.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2989.png?t=20090916123214" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2989.png?size=smaller&amp;t=20090916123214" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2989.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The House of the Vampire</title>
+<id>http://www.feedbooks.com/book/3837</id>
+<author>
+  <name>George Sylvester Viereck</name>
+  <uri>http://www.feedbooks.com/author/1035</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<category term="Sexuality" label="Sexuality"/>
+<category term="Gothic" label="Gothic"/>
+<summary>The first known gay vampire novel and one of the first psychic vampire stories.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3837.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3837.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3837.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3837.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3837.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3837.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Gun</title>
+<id>http://www.feedbooks.com/book/3995</id>
+<author>
+  <name>Philip K. Dick</name>
+  <uri>http://www.feedbooks.com/author/1023</uri>
+</author>
+<updated>2009-08-18T01:18:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Nothing moved or stirred. Everything was silent, dead. Only the gun showed signs of life ... and the trespassers had wrecked that for all time. The return journey to pick up the treasure would be a cinch ... they smiled.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29132</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3995.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3995.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3995.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3995.png?t=20090818011814" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3995.png?size=smaller&amp;t=20090818011814" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3995.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Portrait of a Lady</title>
+<id>http://www.feedbooks.com/book/413</id>
+<author>
+  <name>Henry James</name>
+  <uri>http://www.feedbooks.com/author/113</uri>
+</author>
+<updated>2009-12-05T19:24:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1881</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>One of the great heroines of American literature, Isabel Archer, journeys to Europe in order to, as Henry James writes in his 1908 Preface, &#8220;affront her destiny.&#8221; James began The Portrait of a Lady without a plot or subject, only the slim but provocative notion of a young woman taking control of her fate. The result is a richly imagined study of an American heiress who turns away her suitors in an effort to first establish&#8212;and then protect&#8212;her independence. But Isabel&#8217;s pursuit of spiritual freedom collapses when she meets the captivating Gilbert Osmond. &#8220;James&#8217;s formidable powers of observation, his stance as a kind of bachelor recorder of human doings in which he is not involved,&#8221; writes Hortense Calisher, &#8220;make him a first-class documentarian, joining him to that great body of storytellers who amass what formal history cannot.&#8221;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/413.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/413.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/413.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/413.png?t=20091205192413" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/413.png?size=smaller&amp;t=20091205192413" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/413.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lady Susan</title>
+<id>http://www.feedbooks.com/book/3922</id>
+<author>
+  <name>Jane Austen</name>
+  <uri>http://www.feedbooks.com/author/18</uri>
+</author>
+<updated>2009-09-28T08:58:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1794</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Austen's &quot;most wicked tale,&quot; Lady Susan is a short epistolary novel by Jane Austen, possibly written in 1794 but not published until 1871. Lady Susan is a selfish, attractive woman, who tries to trap the best possible husband while maintaining a relationship with a married man. She subverts all the standards of the romantic novel; she has an active role, she's not only beautiful but intelligent and witty, and her suitors are significantly younger than she is.
+
+Source: Wikipedia</summary>
+<dcterms:source>http://www.gutenberg.org/etext/946</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3922.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3922.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3922.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3922.png?t=20090928085805" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3922.png?size=smaller&amp;t=20090928085805" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3922.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Carmilla</title>
+<id>http://www.feedbooks.com/book/1506</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T10:56:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1871</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Sexuality" label="Sexuality"/>
+<category term="Gothic" label="Gothic"/>
+<summary>&quot;Carmilla&quot; is a Gothic novella by Joseph Sheridan Le Fanu. First published in 1872, it tells the story of a young woman's susceptibility to the attentions of a female vampire named Carmilla. &quot;Carmilla&quot; predates Bram Stoker's Dracula by 25 years and has been adapted many times for cinema.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1506.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1506.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1506.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1506.png?t=20090916105640" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1506.png?size=smaller&amp;t=20090916105640" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1506.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>My Man Jeeves</title>
+<id>http://www.feedbooks.com/book/4086</id>
+<author>
+  <name>P. G. Wodehouse</name>
+  <uri>http://www.feedbooks.com/author/1148</uri>
+</author>
+<updated>2009-08-18T01:18:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>My Man Jeeves is a collection of short stories by P. G. Wodehouse, first published in the UK in May 1919 by George Newnes. Of the eight stories in the collection, half feature the popular characters Jeeves and Bertie Wooster, while the others concern Reggie Pepper, an early prototype for Wooster.</summary>
+<dcterms:source>http://www.gutenberg.org/</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4086.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4086.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4086.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4086.png?t=20090818011811" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4086.png?size=smaller&amp;t=20090818011811" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4086.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dorothy and the Wizard in Oz</title>
+<id>http://www.feedbooks.com/book/207</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2009-09-16T10:13:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1908</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>A California earthquake sends Dorothy Gale and her new friends--Zeb the farm boy, Jim the cab-horse, and Eureka the mischievous kitten--tumbling through a crack in the ground. Deep beneath the earth, Dorothy is reunited with her old friend the Wizard of Oz and his troupe of nine tiny piglets.
+
+Together, Dorothy, the Wizard, and their friends travel through many fantastic lands, where they encounter the Mangaboos, people growing like vegetables in the ground; cross the Valley of Voe, where dama-fruit has turned everyone invisible; and are captured by mysterious flying Gargoyles. At last, the intrepid travelers reach Oz, where they have many unforgettable encounters with such favorites as the Scarecrow and the Tin Woodman, the Cowardly Lion and the Hungry Tiger, Princess Ozma and the wooden Sawhorse.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/207.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/207.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/207.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/207.png?t=20090916101357" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/207.png?size=smaller&amp;t=20090916101357" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/207.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

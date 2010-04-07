@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=11&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=11&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=11&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 11 | Feedbooks</title>
+  <updated>2010-04-07T18:23:13Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>201</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=10&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=12&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Batman: City of Crime #5</title>
+<id>http://www.feedbooks.com/userbook/5458</id>
+<author>
+  <name>Grant LaFleche</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Grant%20LaFleche</uri>
+</author>
+<updated>2009-08-17T21:25:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Batman: City of Crime, Part 5 (of 5): Wrath</summary>
+<category term="Mickey Fynn"/>
+<category term="Vicki Vale"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Wrath"/>
+<category term="Redwing"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5458.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5458.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5458.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5458.png?t=20090817212502" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5458.png?size=smaller&amp;t=20090817212502" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5458.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Batman #16</title>
+<id>http://www.feedbooks.com/userbook/9867</id>
+<author>
+  <name>Charles Wilkins and Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins%20and%20Brian%20Burchette</uri>
+</author>
+<updated>2010-01-23T02:13:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Batman: Masks, Part 3 (of 4).</summary>
+<category term="Black Mask"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Nightwing"/>
+<category term="Deathstroke"/>
+<category term="batgirl"/>
+<category term="Penguin"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9867.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9867.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9867.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9867.png?t=20100123021349" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9867.png?size=smaller&amp;t=20100123021349" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9867.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Gently Psycho</title>
+<id>http://www.feedbooks.com/userbook/897</id>
+<author>
+  <name>MC Radiance</name>
+  <uri>http://www.feedbooks.com/user/10045/profile#MC%20Radiance</uri>
+</author>
+<updated>2009-08-18T00:55:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>A maudlin, schizo girlfriend steadily drives her flamboyant funk star boyfriend to misery.  But after he loses her in a hit-and-run, his mind snaps. Prepare for crack-fueled murder...</summary>
+<category term="drama"/>
+<category term="erotica"/>
+<category term="psychedelic"/>
+<category term="fiction"/>
+<category term="experimental"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/897.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/897.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/897.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/897.png?t=20090818005538" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/897.png?size=smaller&amp;t=20090818005538" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/897.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #21</title>
+<id>http://www.feedbooks.com/userbook/10939</id>
+<author>
+  <name>Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brian%20Burchette</uri>
+</author>
+<updated>2010-03-14T22:36:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Detective Comics: First Impressions
+
+Bruce Wayne meets Tim Drake! James Gordon meets Renee Montoya! And just wait until you see who Two-Face meets...</summary>
+<category term="Two-Face"/>
+<category term="Black Mask"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="robin"/>
+<category term="Penguin"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10939.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10939.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10939.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10939.png?t=20100314223630" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10939.png?size=smaller&amp;t=20100314223630" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10939.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Bicycle Messenger</title>
+<id>http://www.feedbooks.com/userbook/11043</id>
+<author>
+  <name>Johnny Smith</name>
+  <uri>http://www.feedbooks.com/user/80719/profile#Johnny%20Smith</uri>
+</author>
+<updated>2010-03-21T07:04:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>The first story in the collection Timekeeping on Mars. A bicycle messenger is able to see the future. And he knows there's not much of it left.</summary>
+<category term="flashfiction"/>
+<category term="shortstory"/>
+<category term="speculativefiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11043.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11043.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11043.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11043.png?t=20100321070405" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11043.png?size=smaller&amp;t=20100321070405" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11043.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #1</title>
+<id>http://www.feedbooks.com/userbook/3902</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T20:07:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Girls' (K)night Out.
+
+Meet Harley Quinn. She is bound and determined to meet her number one hero, the object of her affection, Gotham City's premiere costumed champion...The Joker! To do it, she's teaming up with the seductive and deadly Poison Ivy...whether or not Pamela Isley likes the idea! Just what a neophyte Batgirl needs for on-the-job training! </summary>
+<category term="batgirl"/>
+<category term="Comics"/>
+<category term="DC3"/>
+<category term="harley quinn"/>
+<category term="poison ivy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3902.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3902.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3902.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3902.png?t=20090817200747" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3902.png?size=smaller&amp;t=20090817200747" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3902.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Ether Dispute: Revisiting Einstein's argument that space is a physical substance</title>
+<id>http://www.feedbooks.com/userbook/10878</id>
+<author>
+  <name>Richard J. Wilson</name>
+  <uri>http://www.feedbooks.com/user/77991/profile#Richard%20J.%20Wilson</uri>
+</author>
+<updated>2010-03-25T02:17:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>
+
+There&#8217;s an unresolved dispute over the physical nature of space. It occurs because of what Bacon called our &#8220;dull and deceptive human senses.&#8221; On one hand, space appears empty. This led biblical and modern cosmologists to conclude space is an &#8220;empty vacuum.&#8221; But, when astrophysicists from Newton to Einstein studied space, they found it exhibits physical behaviors &#8211; i.e. it carries light and heat. This led them to conclude space is an invisible substance called &#8220;the ether.&#8221; The author explores the ether dispute, and the pressing need to resolve it scientifically.
+</summary>
+<category term="science"/>
+<category term="astrophysics"/>
+<category term="Cosmology"/>
+<category term="Astronomy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10878.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10878.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10878.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10878.png?t=20100325021734" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10878.png?size=smaller&amp;t=20100325021734" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10878.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Zen From the Heartland</title>
+<id>http://www.feedbooks.com/userbook/3466</id>
+<author>
+  <name>Robert L. Schrag, Ph.D.</name>
+  <uri>http://www.feedbooks.com/user/5786/profile#Robert%20L.%20Schrag%2C%20Ph.D.</uri>
+</author>
+<updated>2010-01-02T15:58:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Zen From the Heartland chronicles chord theory unfolding in a life; mine.  Harmony defines our lives; we do not choose that reality, it is the unalterable organizing structure of the universe.  We can, as they say in gangster movies, &#8220;do this hard, or do this easy.&#8221;  Most often, when we &#8220;do it hard&#8221; we introduce discord into our lives by failing to recognize the harmonic elements in every moment of the present.  Zen From the Heartland records my attempts to recognize those harmonic moments and to understand what they teach me about living.</summary>
+<category term="Zen"/>
+<category term="healing"/>
+<category term="Spirituality"/>
+<category term="&#8220;theoretical"/>
+<category term="physics&#8221;"/>
+<category term="&#8220;string"/>
+<category term="theory&#8221;"/>
+<category term="metaphysics"/>
+<category term="&#8220;nature"/>
+<category term="of"/>
+<category term="the"/>
+<category term="universe&#8221;"/>
+<category term="universe"/>
+<category term="&#8220;super"/>
+<category term="string"/>
+<category term="theory&#8221;"/>
+<category term="&#8220;super"/>
+<category term="symmetry&#8221;"/>
+<category term="&#8220;brane"/>
+<category term="theory&#8221;"/>
+<category term="&#8220;m-theory&#8221;"/>
+<category term="&#8220;peace"/>
+<category term="of"/>
+<category term="mind&#8221;"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3466.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3466.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3466.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3466.png?t=20100102155850" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3466.png?size=smaller&amp;t=20100102155850" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3466.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>[the shorts]</title>
+<id>http://www.feedbooks.com/userbook/10598</id>
+<author>
+  <name>jenn topper</name>
+  <uri>http://www.feedbooks.com/user/76934/profile#jenn%20topper</uri>
+</author>
+<updated>2010-02-24T01:59:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>these are the short stories that will make your heart bleed. 
+
+Maggie &amp; May	
+The Fucking Dress
+My Drunk, Dead Cousin
+The First Interview: Mo	
+Touching	
+The Wind Is Cold
+Interview with a Marginal Character from a Mediocre Story	
+Ramblings of a Hooker in Paradise	
+Gin for Christmas	
+Basking In Conformity: The Slave	
+Balloon Boy Grows Up	
+
+COPYRIGHT 2010 JENN TOPPER ALL RIGHTS RESERVED
+http://29jobsandamillionlies.com
+http://yearzerowriters.wordpress.com</summary>
+<category term="grit lit"/>
+<category term="short stories"/>
+<category term="flash fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10598.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10598.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10598.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10598.png?t=20100224015947" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10598.png?size=smaller&amp;t=20100224015947" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10598.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Immortal Legend of Hawkman #0</title>
+<id>http://www.feedbooks.com/userbook/11025</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2010-03-19T01:53:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>The Immortal Legend of Hawkman: Under Ancient Stars.</summary>
+<category term="Hath-Set"/>
+<category term="Black Adam"/>
+<category term="Vandal Savage"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Hawkman"/>
+<category term="Hawkwoman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11025.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11025.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11025.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11025.png?t=20100319015340" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11025.png?size=smaller&amp;t=20100319015340" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11025.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tales of the Green Lantern Corps #1</title>
+<id>http://www.feedbooks.com/userbook/5127</id>
+<author>
+  <name>Scott Kruger</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Scott%20Kruger</uri>
+</author>
+<updated>2009-08-17T16:37:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Tales of the Green Lantern Corps: The Legion Virus Saga, Part 1 (of 8)</summary>
+<category term="Green Lantern"/>
+<category term="Vril Dox"/>
+<category term="Katma Tui"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Sinestro"/>
+<category term="Carthag"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5127.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5127.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5127.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5127.png?t=20090817163736" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5127.png?size=smaller&amp;t=20090817163736" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5127.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>From Rome to Byzantium: Trade and Continuity in the First Millennium AD</title>
+<id>http://www.feedbooks.com/userbook/9825</id>
+<author>
+  <name>Tom Green</name>
+  <uri>http://www.feedbooks.com/user/71160/profile#Tom%20Green</uri>
+</author>
+<updated>2010-01-23T00:36:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>'From Rome to Byzantium' provides a detailed overview of trading activity in the Roman and Byzantine Mediterranean, grounded in recent archaeological research. In particular, it is argued that while state-sponsored trading was undoubtedly important in both eras, 'free trading' led by consumer tastes and competition over prices must have played a significant role too. It is also contended that the so-called 'Dark Ages' of the seventh and eighth centuries saw more continuity with the Roman past in terms of both commercial activity and urban life than is often admitted. As such, the Byzantine economic and urban revival of the ninth century needs to be at least partly seen in the context of the 'legacy of Rome' and cannot be considered an entirely unrelated phenomenon, as it sometimes is.
+
+This book is divided into three closely related parts: 'The Nature of Trade in the Roman Mediterranean, c. 200 BC&#8211;AD 600'; 'Decline and Recovery: Byzantine Trade, c. 600&#8211;1150'; and 'Urban Change and Continuity in Roman and Byzantine Corinth'. In addition, a translation of the 'Rhodian Sea-Law', an important text for maritime trading history, is included as an appendix. </summary>
+<category term="Byzantine"/>
+<category term="roman"/>
+<category term="history"/>
+<category term="archaeology"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9825.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9825.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9825.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9825.png?t=20100123003658" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9825.png?size=smaller&amp;t=20100123003658" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9825.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Night Before The Christmas Before I Was Married &amp; other festive tales</title>
+<id>http://www.feedbooks.com/userbook/8489</id>
+<author>
+  <name>Adam Maxwell</name>
+  <uri>http://www.feedbooks.com/user/59820/profile#Adam%20Maxwell</uri>
+</author>
+<updated>2010-02-19T12:53:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Charles Dickens has dominated the Christmas short story market for too long and he's so bloody depressing... wouldn't you rather read something that was funny, had comedy misunderstandings, people accidentally getting engaged and generally was a lot more entertaining and less depressing? Then you're in luck...
+
+Let's be honest, Christmas can be a pain in the arse (or a pain in the 'ass' if you're from the other side of the pond) and this collection features some stories that I think we can all relate to...
+
+Whether it's becoming accidentally engaged to your ex when your fiancee is coming home for Christmas... 
+
+Or perhaps you're spending Christmas with the in-laws, your wife is stupifyingly drunk and you destroy the presents...
+
+No?
+
+In that case you'll want to see what happens when two master hypnotists clash over an argument concerning a Christmas tree...
+
+All these things and literally two others are dealt with in this collection of Adam Maxwell's Christmas stories.
+
+He has asked me to tell you that he hopes these things don't happen to you this Christmas. And he also hopes they don't happen to him.</summary>
+<category term="strange"/>
+<category term="absurd"/>
+<category term="surreal"/>
+<category term="comedy"/>
+<category term="weird"/>
+<category term="dark"/>
+<category term="stories"/>
+<category term="comic"/>
+<category term="fiction"/>
+<category term="funny"/>
+<category term="xmas"/>
+<category term="Christmas"/>
+<category term="flash fiction"/>
+<category term="short stories"/>
+<category term="christmas short stories"/>
+<category term="christmas stories"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8489.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8489.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8489.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8489.png?t=20100219125318" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8489.png?size=smaller&amp;t=20100219125318" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8489.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>From Darkness, They Came</title>
+<id>http://www.feedbooks.com/userbook/9946</id>
+<author>
+  <name>Pete Clark</name>
+  <uri>http://www.feedbooks.com/user/70774/profile#Pete%20Clark</uri>
+</author>
+<updated>2010-01-30T17:01:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Darkness is a venerated and much revered Prophet.  He is also only human. On the eve of imminent alien contact, one that could decide the fate of all life on Earth, it is his responsibility to read the future, and perhaps prevent catastrophe.  What he sees will change everything.  </summary>
+<category term="Earth"/>
+<category term="space"/>
+<category term="alien"/>
+<category term="short story"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9946.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9946.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9946.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9946.png?t=20100130170134" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9946.png?size=smaller&amp;t=20100130170134" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9946.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Stock Market Suicide</title>
+<id>http://www.feedbooks.com/userbook/7397</id>
+<author>
+  <name>mikeeichenberg</name>
+  <uri>http://www.feedbooks.com/user/50396/profile#mikeeichenberg</uri>
+</author>
+<updated>2009-10-08T12:40:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>This is a non-fiction work dealing with the stock market and other areas of our financial system. In many ways this book is a warning of things to come. The author is an insider with many years of experience in portfolio management. His chilling predictions will make you think.</summary>
+<category term="education"/>
+<category term="non-fiction"/>
+<category term="conspiracy"/>
+<category term="finance"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7397.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7397.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7397.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7397.png?t=20091008124016" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7397.png?size=smaller&amp;t=20091008124016" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7397.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Plague of Hearts</title>
+<id>http://www.feedbooks.com/userbook/11057</id>
+<author>
+  <name>Patrick Whittaker</name>
+  <uri>http://www.feedbooks.com/user/80875/profile#Patrick%20Whittaker</uri>
+</author>
+<updated>2010-03-21T13:42:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>On an otherwise normal day in Wonderland, the Knave of Hearts is arrested by the secret police. Outraged by what he believes to be an injustice, his valet, the March Hare, sets out to free him. Along the way he attends a mad tea party, witnesses the death and resurrection of the Queen of Hearts and uncovers a terrifying secret that could destroy not only his world, but ours too.</summary>
+<category term="wonderland"/>
+<category term="weird"/>
+<category term="war"/>
+<category term="surreal"/>
+<category term="Sex"/>
+<category term="science"/>
+<category term="romance"/>
+<category term="panda"/>
+<category term="mystery"/>
+<category term="mad"/>
+<category term="humour"/>
+<category term="Humor"/>
+<category term="hearts"/>
+<category term="hatter"/>
+<category term="funny"/>
+<category term="flamingoes"/>
+<category term="fantasy"/>
+<category term="duchess"/>
+<category term="comedy"/>
+<category term="Animal"/>
+<category term="alice"/>
+<category term="adventure"/>
+<category term="action"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11057.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11057.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11057.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11057.png?t=20100321134202" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11057.png?size=smaller&amp;t=20100321134202" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11057.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Retro Language</title>
+<id>http://www.feedbooks.com/userbook/1004</id>
+<author>
+  <name>Charles Childers</name>
+  <uri>http://www.feedbooks.com/user/12706/profile#Charles%20Childers</uri>
+</author>
+<updated>2009-10-13T11:53:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A Guide to the Retro Language and Its Implementation. (Updated March 2009)</summary>
+<category term="Handbook"/>
+<category term="Manual"/>
+<category term="reference"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/1004.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/1004.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/1004.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1004.png?t=20091013115317" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1004.png?size=smaller&amp;t=20091013115317" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/1004.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #2</title>
+<id>http://www.feedbooks.com/userbook/7049</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T22:46:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Detective Comics: Lustmord: An Uncommon Fondness for Blood.</summary>
+<category term="Hugo Strange"/>
+<category term="Vicki Vale"/>
+<category term="Batman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7049.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7049.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7049.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7049.png?t=20090817224613" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7049.png?size=smaller&amp;t=20090817224613" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7049.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rogues Gallery #11</title>
+<id>http://www.feedbooks.com/userbook/10660</id>
+<author>
+  <name>Pat Owen</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Pat%20Owen</uri>
+</author>
+<updated>2010-02-28T22:10:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Rogues Gallery: Bizarro, Part 2 (of 3).</summary>
+<category term="Lois Lane"/>
+<category term="Lex Luthor"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Bizarro"/>
+<category term="Superman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10660.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10660.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10660.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10660.png?t=20100228221008" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10660.png?size=smaller&amp;t=20100228221008" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10660.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultra Menage-a-Quatre</title>
+<id>http://www.feedbooks.com/userbook/971</id>
+<author>
+  <name>MC Radiance</name>
+  <uri>http://www.feedbooks.com/user/10045/profile#MC%20Radiance</uri>
+</author>
+<updated>2009-08-17T18:26:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2003</dcterms:issued>
+<summary>A neo-Shakespearean, post-modern comedy script.  A temple temptress has her work cut out trying to keep a world-weary multi-millionaire entertained... and satisfied.  It's also about the sex industry and class problems, complete with a Greek chorus of  porn starlets in insect masks, bizarre rituals and a repressed teenage boy in a bubble of Oedipal trouble.
+
+</summary>
+<category term="poetry"/>
+<category term="weird"/>
+<category term="Spirituality"/>
+<category term="erotica"/>
+<category term="psychology"/>
+<category term="sexuality"/>
+<category term="Sex"/>
+<category term="script"/>
+<category term="play"/>
+<category term="theater"/>
+<category term="Satire"/>
+<category term="low art"/>
+<category term="high art"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/971.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/971.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/971.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/971.png?t=20090817182625" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/971.png?size=smaller&amp;t=20090817182625" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/971.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

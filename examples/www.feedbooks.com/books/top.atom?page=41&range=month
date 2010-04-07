@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:app="http://www.w3.org/2007/app" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=41&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=41&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=41&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 41 | Feedbooks</title>
+  <updated>2010-04-07T18:24:57Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>801</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=40&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=42&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Psichopath</title>
+<id>http://www.feedbooks.com/book/4332</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-10-23T22:22:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Psychology" label="Psychology"/>
+<summary>Given psi powers like clairvoyance and telepathy, solving problems of sabotage would be easy, of course. That is, it seems that way at first thought!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30304</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4332.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4332.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4332.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4332.png?t=20091023222229" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4332.png?size=smaller&amp;t=20091023222229" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4332.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Cricket on the Hearth</title>
+<id>http://www.feedbooks.com/book/61</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:07:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1845</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>The Cricket on the Hearth is a novella by Charles Dickens, written in 1845. It is the third of Dickens' five Christmas books, the others being A Christmas Carol (1843), The Chimes (1844), The Battle of Life (1846), and The Haunted Man (1847).</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/61.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/61.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/61.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/61.png?t=20090916100757" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/61.png?size=smaller&amp;t=20090916100757" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/61.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>On the Spot: Violence and Murder in Chicago</title>
+<id>http://www.feedbooks.com/book/1941</id>
+<author>
+  <name>Edgar Wallace</name>
+  <uri>http://www.feedbooks.com/author/253</uri>
+</author>
+<updated>2009-09-16T11:24:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1941.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1941.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1941.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1941.png?t=20090916112409" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1941.png?size=smaller&amp;t=20090916112409" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1941.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Voyages of Doctor Dolittle</title>
+<id>http://www.feedbooks.com/book/4450</id>
+<author>
+  <name>Hugh Lofting</name>
+  <uri>http://www.feedbooks.com/author/1278</uri>
+</author>
+<updated>2009-12-06T11:59:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Doctor Dolittle meets Tommy Stubbins, the young son of the local cobbler, who becomes his new assistant. Tommy learns how to speak animal languages and becomes involved in the Doctor's quest to find Long Arrow, the greatest naturalist in the world.
+
+Source: Wikipedia</summary>
+<dcterms:source>http://www.gutenberg.org/etext/1154</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4450.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4450.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4450.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4450.png?t=20091206115955" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4450.png?size=smaller&amp;t=20091206115955" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4450.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Battle of Life</title>
+<id>http://www.feedbooks.com/book/62</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:07:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1846</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>The Battle of Life: A Love Story is a novel by Charles Dickens, first published in 1846. It is the fourth of his five &quot;Christmas Books&quot;, coming after The Cricket on the Hearth and followed by The Haunted Man.
+It is noteworthy in that it is the only one out of the five books that does not have any use of supernatural elements. It bears the greatest resemblance to The Cricket on the Hearth in two aspects: that it is not a social novel and that it is resolved with a romantic twist. As is typical with Dickens, the ending is a happy one, and some might argue an overly happy one.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/62.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/62.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/62.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/62.png?t=20090916100757" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/62.png?size=smaller&amp;t=20090916100757" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/62.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Great Shadow</title>
+<id>http://www.feedbooks.com/book/363</id>
+<author>
+  <name>Arthur Conan Doyle</name>
+  <uri>http://www.feedbooks.com/author/1</uri>
+</author>
+<updated>2009-09-16T10:18:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1892</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/363.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/363.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/363.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/363.png?t=20090916101854" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/363.png?size=smaller&amp;t=20090916101854" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/363.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Captive</title>
+<id>http://www.feedbooks.com/book/1451</id>
+<author>
+  <name>Marcel Proust</name>
+  <uri>http://www.feedbooks.com/author/3</uri>
+</author>
+<updated>2009-09-16T10:52:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1929</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>In The Captive, Proust&#8217;s narrator describes living in his mother&#8217;s Paris apartment with his lover, Albertine, and subsequently falling out of love with her.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1451.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1451.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1451.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1451.png?t=20090916105223" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1451.png?size=smaller&amp;t=20090916105223" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1451.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Game</title>
+<id>http://www.feedbooks.com/book/2853</id>
+<author>
+  <name>Jack London</name>
+  <uri>http://www.feedbooks.com/author/34</uri>
+</author>
+<updated>2009-09-16T12:29:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1905</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>On the eve of their wedding, twenty-year-old Jack Fleming arranges a secret ringside seat for his sweetheart to view her only rival: the &quot;game.&quot; Through Genevieve's apprehensive eyes, we watch the prizefight that pits her fair young lover, &quot;the Pride of West Oakland,&quot; against the savage and brutish John Ponta and that reveals as much about her own nature, and Joe's, as it does about the force that drives the two men in their violent, fateful encounter.
+ 
+Responding to a review that took him to task for his realism, Jack London wrote, &quot;I have had these experiences and it was out of these experiences, plus a fairly intimate knowledge of prize-fighting in general, that I wrote The Game.&quot; With this intimate realism, London took boxing out of the realm of disreputable topics and set it on a respectable literary course that extends from A. J. Liebling to Ernest Hemingway to Joyce Carol Oates. The familiarity of London's boxing writing testifies to its profound influence on later literary commentators on the sport, while the story The Game tells remains one of the most powerful and evocative portraits ever given of prizefighters in the grip of their passion.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2853.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2853.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2853.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2853.png?t=20090916122901" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2853.png?size=smaller&amp;t=20090916122901" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2853.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Abducted to Oz</title>
+<id>http://www.feedbooks.com/book/1945</id>
+<author>
+  <name>Robert J. Evans</name>
+  <uri>http://www.feedbooks.com/author/263</uri>
+</author>
+<author>
+  <name>Chris Dulabone</name>
+  <uri>http://www.feedbooks.com/author/264</uri>
+</author>
+<updated>2009-09-16T11:24:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2003</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1945.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1945.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1945.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1945.png?t=20090916112440" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1945.png?size=smaller&amp;t=20090916112440" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1945.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Moll Flanders</title>
+<id>http://www.feedbooks.com/book/3230</id>
+<author>
+  <name>Daniel Defoe</name>
+  <uri>http://www.feedbooks.com/author/40</uri>
+</author>
+<updated>2009-08-18T01:18:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1722</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>The Fortunes and Misfortunes of the Famous Moll Flanders (commonly known as simply &quot;Moll Flanders&quot;) is a novel written by Daniel Defoe in 1722.
+
+Defoe wrote this after his work as a journalist and pamphleteer. By 1722, Defoe had become recognized as a novelist, with the success of Robinson Crusoe in 1719. His political work was tapering off at this point, due to the fall of both Whig and Tory party leaders with whom he had been associated; Robert Walpole was beginning his rise, and Defoe was never fully at home with the Walpole group. Defoe's Whig views are nevertheless evident in the story of Moll, and the novel's full title gives some insight into this and the outline of the plot:
+
+    &quot;The Fortunes and Misfortunes of the Famous Moll Flanders, Etc. Who Was Born In Newgate, and During a Life of Continu'd Variety For Threescore Years, Besides Her Childhood, Was Twelve Year a Whore, Five Times a Wife [Whereof Once To Her Own Brother], Twelve Year a Thief, Eight Year a Transported Felon In Virginia, At Last Grew Rich, Liv'd Honest, and Died a Penitent. Written from her own Memorandums.&quot; 
+
+From Wikipedia</summary>
+<dcterms:source>Gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3230.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3230.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3230.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3230.png?t=20090818011801" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3230.png?size=smaller&amp;t=20090818011801" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3230.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Insidious Dr. Fu-Manchu</title>
+<id>http://www.feedbooks.com/book/3305</id>
+<author>
+  <name>Sax Rohmer</name>
+  <uri>http://www.feedbooks.com/author/778</uri>
+</author>
+<updated>2009-08-18T01:18:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Follow the exciting adventures of Commissioner Nayland Smith as he pursues Dr. Fu Manchu across the opium dens of Thames-side London and various country estates.</summary>
+<dcterms:source>Gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3305.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3305.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3305.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3305.png?t=20090818011803" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3305.png?size=smaller&amp;t=20090818011803" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3305.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tales of Chinatown</title>
+<id>http://www.feedbooks.com/book/3803</id>
+<author>
+  <name>Sax Rohmer</name>
+  <uri>http://www.feedbooks.com/author/778</uri>
+</author>
+<updated>2009-08-18T01:18:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>Ten stories of Macabre Mystery by the creator of the famous Dr. Fu Manchu. Includes the excellent ghost story Tcheriapin and a creeping hand story called The Hand of Mandarin Qung.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3803.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3803.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3803.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3803.png?t=20090818011814" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3803.png?size=smaller&amp;t=20090818011814" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3803.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Master of Ballantrae</title>
+<id>http://www.feedbooks.com/book/100</id>
+<author>
+  <name>Robert Louis Stevenson</name>
+  <uri>http://www.feedbooks.com/author/37</uri>
+</author>
+<updated>2010-01-14T16:39:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1889</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<summary>Stevenson&#8217;s brooding historical romance demonstrates his most abiding theme&#8212;the elemental struggle between good and evil&#8212;as it unfolds against a hauntingly beautiful Scottish landscape, amid the fierce loyalties and violent enmities that characterized Scottish history. When two brothers attempt to split their loyalties between the warring factions of the 1745 Jacobite rising, one family finds itself tragically divided.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/100.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/100.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/100.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/100.png?t=20100114163956" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/100.png?size=smaller&amp;t=20100114163956" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/100.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jacob's Ladder</title>
+<id>http://www.feedbooks.com/book/1138</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-09-16T10:38:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1927</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1138.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1138.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1138.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1138.png?t=20090916103829" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1138.png?size=smaller&amp;t=20090916103829" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1138.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Vampire</title>
+<id>http://www.feedbooks.com/book/2956</id>
+<author>
+  <name>Jan Neruda</name>
+  <uri>http://www.feedbooks.com/author/615</uri>
+</author>
+<updated>2009-09-16T12:30:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>Early vampire short story with an interesting twist to the tradition.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2956.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2956.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2956.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2956.png?t=20090916123058" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2956.png?size=smaller&amp;t=20090916123058" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2956.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mutiny of the Elsinore</title>
+<id>http://www.feedbooks.com/book/3110</id>
+<author>
+  <name>Jack London</name>
+  <uri>http://www.feedbooks.com/author/34</uri>
+</author>
+<updated>2009-09-16T12:55:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Written during a time of tragedy, this novel of sea life fails in either its story or doctrinaire intentions.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3110.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3110.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3110.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3110.png?t=20090916125524" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3110.png?size=smaller&amp;t=20090916125524" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3110.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>On the Makaloa Mat</title>
+<id>http://www.feedbooks.com/book/3162</id>
+<author>
+  <name>Jack London</name>
+  <uri>http://www.feedbooks.com/author/34</uri>
+</author>
+<updated>2009-09-16T13:00:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Collections" label="Collections"/>
+<summary>The best Hawaii stories, and among London's best stories overall, including &quot;Shin Bones&quot; and &quot;The Water Baby.&quot;</summary>
+<dcterms:source>http://www.gutenberg.net</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3162.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3162.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3162.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3162.png?t=20090916130044" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3162.png?size=smaller&amp;t=20090916130044" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3162.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Piers Plowman</title>
+<id>http://www.feedbooks.com/book/4526</id>
+<author>
+  <name>William Langland</name>
+  <uri>http://www.feedbooks.com/author/1313</uri>
+</author>
+<updated>2009-12-29T15:05:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1387</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<category term="Religion" label="Religion"/>
+<summary>Written by a fourteenth-century cleric, this spiritual allegory explores man in relation to his ultimate destiny against the background of teeming, colorful medieval life.</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4526.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4526.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4526.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4526.png?t=20091229150528" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4526.png?size=smaller&amp;t=20091229150528" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4526.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Cats of Ulthar</title>
+<id>http://www.feedbooks.com/book/239</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/239.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/239.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/239.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/239.png?t=20090916101527" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/239.png?size=smaller&amp;t=20090916101527" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/239.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In the Vault</title>
+<id>http://www.feedbooks.com/book/265</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1924</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/265.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/265.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/265.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/265.png?t=20090916101536" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/265.png?size=smaller&amp;t=20090916101536" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/265.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

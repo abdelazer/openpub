@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=46</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=46" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=46" rel="self"/>
+  <title>Original Books / New Releases / Page 46 | Feedbooks</title>
+  <updated>2010-04-07T18:24:25Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>901</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=45" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=47" rel="next" title="Next Page"/>
+<entry>
+<title>Maximum Catwoman #4</title>
+<id>http://www.feedbooks.com/userbook/4091</id>
+<author>
+  <name>Jay Zirron</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Jay%20Zirron</uri>
+</author>
+<updated>2009-08-17T16:29:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Maximum Catwoman #4.
+
+Harvey Dent has been attacked in court... half his face is gone. But, Selina learns you can't trust your friends in low places.
+
+Don't miss this exciting conclusion to the opening arc.... </summary>
+<category term="Batman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Two-Face"/>
+<category term="Catwoman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4091.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4091.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4091.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4091.png?t=20090817162942" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4091.png?size=smaller&amp;t=20090817162942" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4091.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Maximum Catwoman #3</title>
+<id>http://www.feedbooks.com/userbook/4085</id>
+<author>
+  <name>Jay Zirron</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Jay%20Zirron</uri>
+</author>
+<updated>2009-08-17T16:29:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Maximum Catwoman: &quot;Guardian Angel, Part 3.&quot;
+
+The trail has grown cold, and Selina's running out of time... Can she get her life back before her murder happens?</summary>
+<category term="Catwoman"/>
+<category term="Batman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4085.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4085.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4085.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4085.png?t=20090817162940" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4085.png?size=smaller&amp;t=20090817162940" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4085.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #9</title>
+<id>http://www.feedbooks.com/userbook/4084</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T20:06:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Your Worst Nightmare, Part 2 (of 2).
+
+Jonathan Crane --now the full-fledged Scarecrow-- has all of Gotham City under his power, including Batgirl! Can anyone fight their own most feared demons in time to stop Crane from completely taking over? </summary>
+<category term="Scarecrow"/>
+<category term="Joker"/>
+<category term="batgirl"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="poison ivy"/>
+<category term="harley quinn"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4084.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4084.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4084.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4084.png?t=20090817200630" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4084.png?size=smaller&amp;t=20090817200630" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4084.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #8</title>
+<id>http://www.feedbooks.com/userbook/4083</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T20:06:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Your Worst Nightmare, Part 1 (of 2).
+
+Jonathan Crane is tired of waiting. He has stores of his prized posession, his finished 'fear gas', all over Gotham. With a push of a single button, he will trap everything that breathes in their own worst nightmare, and for once in his life, Crane will be the one unafraid.
+
+What terrors lurk in the darkest parts of the minds of all our stars? And how will any of them break free? If they even can...</summary>
+<category term="Scarecrow"/>
+<category term="Joker"/>
+<category term="batgirl"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="poison ivy"/>
+<category term="harley quinn"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4083.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4083.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4083.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4083.png?t=20090817200625" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4083.png?size=smaller&amp;t=20090817200625" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4083.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Maximum Catwoman #2</title>
+<id>http://www.feedbooks.com/userbook/4069</id>
+<author>
+  <name>Jay Zirron</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Jay%20Zirron</uri>
+</author>
+<updated>2009-08-17T16:29:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Maximum Catwoman: &quot;You've Become a Part of Me.&quot;
+
+Lust.
+
+Greed.
+
+Diamonds!
+
+Those are the hallmarks of a good cat burglar....
+
+What will Selina have to do though to keep her identity a secret from those who would want her dead?</summary>
+<category term="Catwoman"/>
+<category term="Batman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4069.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4069.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4069.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4069.png?t=20090817162935" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4069.png?size=smaller&amp;t=20090817162935" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4069.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>House of Mystery #3</title>
+<id>http://www.feedbooks.com/userbook/4046</id>
+<author>
+  <name>various</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#various</uri>
+</author>
+<updated>2009-08-17T16:29:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Happy Halloween! DC2 Universe presents a collection of six tales featuring your favorite horror and supernatural characters such as Deadman, The Phantom Stranger and many more!</summary>
+<category term="Lobo"/>
+<category term="Constantine"/>
+<category term="Deadman"/>
+<category term="horror"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Green Lantern"/>
+<category term="Guy Gardner"/>
+<category term="Phantom Stranger"/>
+<category term="Killer Croc"/>
+<category term="Inferior Five"/>
+<category term="Black Racer"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4046.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4046.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4046.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4046.png?t=20090817162926" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4046.png?size=smaller&amp;t=20090817162926" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4046.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>She Hates My Futon</title>
+<id>http://www.feedbooks.com/userbook/4043</id>
+<author>
+  <name>Craig Mitchell</name>
+  <uri>http://www.feedbooks.com/user/30019/profile#Craig%20Mitchell</uri>
+</author>
+<updated>2009-08-17T23:34:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1998</dcterms:issued>
+<summary>(A novella in progress)
+
+We&#8217;ve all seen those weird dating service ads that promise paradise. Are you a sucker or are you a dreamer? Ever call one?</summary>
+<category term="futon"/>
+<category term="comedy"/>
+<category term="girlfriend express"/>
+<category term="team naked"/>
+<category term="natural frequency"/>
+<category term="dating service"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4043.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4043.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4043.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4043.png?t=20090817233434" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4043.png?size=smaller&amp;t=20090817233434" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4043.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Maximum Catwoman #1</title>
+<id>http://www.feedbooks.com/userbook/4042</id>
+<author>
+  <name>Jay Zirron</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Jay%20Zirron</uri>
+</author>
+<updated>2009-08-17T16:29:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Maximum Catwoman: &quot;Guardian Angel.&quot;
+
+Selina's life has been tough... but a girl's gotta do what a girl's gotta do though, right?
+
+Max-Series Proudly Presents Catwoman going back to the origins of how Selina Kyle went on the path of being the world's greatest thief... But something happens that changes her forever...
+
+Be a part of this barn-burner series that will leave you wanting more...</summary>
+<category term="Catwoman"/>
+<category term="Batman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4042.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4042.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4042.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4042.png?t=20090817162925" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4042.png?size=smaller&amp;t=20090817162925" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4042.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Maximum Batman #5</title>
+<id>http://www.feedbooks.com/userbook/4041</id>
+<author>
+  <name>Jay McIntyre</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Jay%20McIntyre</uri>
+</author>
+<updated>2009-08-17T23:49:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Maximum Batman: &quot;Bad Business as Usual&quot;</summary>
+<category term="Batman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4041.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4041.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4041.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4041.png?t=20090817234957" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4041.png?size=smaller&amp;t=20090817234957" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4041.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Maximum Batman #4</title>
+<id>http://www.feedbooks.com/userbook/4040</id>
+<author>
+  <name>Jay McIntyre</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Jay%20McIntyre</uri>
+</author>
+<updated>2009-08-17T23:49:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Maximum Batman: &quot;The Bat Rises.&quot;
+
+Batman and Bane square off in a brutal fight to the finish, with Gordon waiting in the wings....</summary>
+<category term="Batman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4040.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4040.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4040.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4040.png?t=20090817234929" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4040.png?size=smaller&amp;t=20090817234929" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4040.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Maximum Batman #3</title>
+<id>http://www.feedbooks.com/userbook/4039</id>
+<author>
+  <name>Jay McIntyre</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Jay%20McIntyre</uri>
+</author>
+<updated>2009-08-17T23:48:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Maximum Batman: &#8220;Anger Born of Fear.&#8221;
+
+The Consortium has had enough of Batman's interference; they send Bane, who lays a trap from which Batman, bruised and battered and exhausted, may not be able to escape......
+ </summary>
+<category term="Batman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4039.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4039.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4039.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4039.png?t=20090817234857" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4039.png?size=smaller&amp;t=20090817234857" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4039.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Maximum Batman #2</title>
+<id>http://www.feedbooks.com/userbook/4038</id>
+<author>
+  <name>Jay McIntyre</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Jay%20McIntyre</uri>
+</author>
+<updated>2009-08-17T23:48:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Maximum Batman: War on Crime, part 2: &#8220;Law and Disorder.&quot;
+
+James Gordon is a tough-as-nails SWAT squad captain, best cop in a city were almost every cop is bad. His efforts to fight corruption are frustrated at every turn....and then he meets....the Batman!
+</summary>
+<category term="Batman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4038.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4038.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4038.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4038.png?t=20090817234835" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4038.png?size=smaller&amp;t=20090817234835" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4038.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Maximum Batman #1</title>
+<id>http://www.feedbooks.com/userbook/4037</id>
+<author>
+  <name>Jay McIntyre</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Jay%20McIntyre</uri>
+</author>
+<updated>2009-08-17T23:44:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Maximum Batman: War on Crime, Part 1: The First Night</summary>
+<category term="Batman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4037.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4037.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4037.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4037.png?t=20090817234442" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4037.png?size=smaller&amp;t=20090817234442" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4037.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>House of Mystery #2</title>
+<id>http://www.feedbooks.com/userbook/4032</id>
+<author>
+  <name>various</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#various</uri>
+</author>
+<updated>2009-08-17T16:29:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Happy Halloween! DC2 Universe presents a collection of nine tales featuring your favorite horror and supernatural characters such as Doctor Occult, The Shade and many more!</summary>
+<category term="Zauriel"/>
+<category term="vampires"/>
+<category term="Arion"/>
+<category term="Neron"/>
+<category term="Delirium"/>
+<category term="Katana"/>
+<category term="Halloween"/>
+<category term="horror"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="King Faraday"/>
+<category term="Argent St. Cloud"/>
+<category term="Doctor Occult"/>
+<category term="Jason Blood"/>
+<category term="The Shade"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4032.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4032.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4032.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4032.png?t=20090817162919" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4032.png?size=smaller&amp;t=20090817162919" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4032.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #7</title>
+<id>http://www.feedbooks.com/userbook/4025</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:29:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Danger Trail: The Man in Stitches Affair, Part 2 (of 2).
+
+The Revenant Program proceeds apace as Saunders and Midnight must struggle with former ally King Faraday to find the evidence that can shut down Doctor Zero for good! Maybe, just maybe, newcomer Argent St. Cloud can help out!</summary>
+<category term="Midnight"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="adventure"/>
+<category term="mystery"/>
+<category term="Speed Saunders"/>
+<category term="King Faraday"/>
+<category term="Argent St. Cloud"/>
+<category term="pulp fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4025.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4025.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4025.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4025.png?t=20090817162917" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4025.png?size=smaller&amp;t=20090817162917" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4025.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #6</title>
+<id>http://www.feedbooks.com/userbook/4024</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:29:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Danger Trail: The Man in Stitches Affair, Part 1 (of 2)</summary>
+<category term="Midnight"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="adventure"/>
+<category term="mystery"/>
+<category term="King Faraday"/>
+<category term="Speed Saunders"/>
+<category term="pulp fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4024.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4024.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4024.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4024.png?t=20090817162916" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4024.png?size=smaller&amp;t=20090817162916" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4024.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Single: Two Stories</title>
+<id>http://www.feedbooks.com/userbook/4023</id>
+<author>
+  <name>Jim Hanas</name>
+  <uri>http://www.feedbooks.com/user/29885/profile#Jim%20Hanas</uri>
+</author>
+<updated>2009-11-15T14:17:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>This free ebook&#8212;which I like to think of as a &quot;fiction single&quot;&#8212;features two previously published short stories: &quot;Miss Tennessee&quot; and &quot;The Cryerer,&quot;  which originally appeared in The Land-Grant College Review and One Story, respectively.</summary>
+<category term="Contemporary"/>
+<category term="literary journals"/>
+<category term="land-grant collage review"/>
+<category term="one story"/>
+<category term="Creative Commons"/>
+<category term="literary fiction"/>
+<category term="short stories"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4023.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4023.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4023.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4023.png?t=20091115141705" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4023.png?size=smaller&amp;t=20091115141705" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4023.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tired of Death - Dungeon</title>
+<id>http://www.feedbooks.com/userbook/4021</id>
+<author>
+  <name>Neil Hartley</name>
+  <uri>http://www.feedbooks.com/user/28381/profile#Neil%20Hartley</uri>
+</author>
+<updated>2009-12-20T01:29:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>How many times have you hacked down a zombie without thinking about it? 
+
+Ever wondered who the shadowy force is behind that dungeon, or spared a thought for the poor denizens sat around in those chilly Crypts waiting for the next victim? 
+
+No? 
+
+Perhaps it's time to see the story from the other side...</summary>
+<category term="Dragon"/>
+<category term="Wizard"/>
+<category term="undead"/>
+<category term="dungeon"/>
+<category term="vampire"/>
+<category term="zombies"/>
+<category term="zombie"/>
+<category term="humour"/>
+<category term="Humor"/>
+<category term="horror"/>
+<category term="fantasy"/>
+<category term="fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4021.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4021.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4021.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4021.png?t=20091220012931" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4021.png?size=smaller&amp;t=20091220012931" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4021.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Weird Western Quarterly #13</title>
+<id>http://www.feedbooks.com/userbook/4019</id>
+<author>
+  <name>Susan Hillwig</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig</uri>
+</author>
+<updated>2009-08-17T16:29:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Jonah Hex: Children of Heaven
+
+When Jonah Hex gets caught up in a fight between Chinese railroad workers and their white bosses, he thinks it's a pretty straightforward affair. But after meeting a young Chinese woman named Mei Ling, his life gets more complicated than he likes.</summary>
+<category term="DC2"/>
+<category term="Western"/>
+<category term="Comics"/>
+<category term="Jonah Hex"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4019.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4019.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4019.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4019.png?t=20090817162915" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4019.png?size=smaller&amp;t=20090817162915" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4019.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>House of Mystery #1</title>
+<id>http://www.feedbooks.com/userbook/4008</id>
+<author>
+  <name>various</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#various</uri>
+</author>
+<updated>2009-08-17T22:22:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Happy Halloween! DC2 Universe presents a collection of ten tales featuring your favorite horror and supernatural characters such as Doctor Occult, The Phantom Stranger and many more!</summary>
+<category term="Halloween"/>
+<category term="vampire"/>
+<category term="frankenstein"/>
+<category term="horror"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Doctor Occult"/>
+<category term="Night Force"/>
+<category term="Scare Tactics"/>
+<category term="Sebastian Faust"/>
+<category term="Constantine"/>
+<category term="Manitou Raven"/>
+<category term="Phantom Stranger"/>
+<category term="Doctor 13"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4008.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4008.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4008.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4008.png?t=20090817222249" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4008.png?size=smaller&amp;t=20090817222249" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4008.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:app="http://www.w3.org/2007/app" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=18</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=18" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=18" rel="self"/>
+  <title>Original Books / New Releases / Page 18 | Feedbooks</title>
+  <updated>2010-04-07T18:24:02Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>341</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=17" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=19" rel="next" title="Next Page"/>
+<entry>
+<title>Action Comics #45</title>
+<id>http://www.feedbooks.com/userbook/9200</id>
+<author>
+  <name>Pat Owen</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Pat%20Owen</uri>
+</author>
+<updated>2009-12-30T16:41:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Action Comics: Toy Soldiers, Part One.
+
+Winslow Schott is dead, killed by one of his own creations who has taken the Toyman name. But this new menace isn't the only one in Metropolis with an arsenal of dastardly toys. Another has also taken up the identity of Toyman and he will soon realize...there isn't room in the city for two of them!</summary>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Toyman"/>
+<category term="Deathstroke"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9200.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9200.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9200.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9200.png?t=20091230164152" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9200.png?size=smaller&amp;t=20091230164152" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9200.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rogues Gallery #4</title>
+<id>http://www.feedbooks.com/userbook/9202</id>
+<author>
+  <name>Michael Hewison</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Michael%20Hewison</uri>
+</author>
+<updated>2009-12-30T16:41:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Rogues Gallery: Mr. Terrible.
+
+</summary>
+<category term="Mister Terrible"/>
+<category term="Green Arrow"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9202.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9202.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9202.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9202.png?t=20091230164138" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9202.png?size=smaller&amp;t=20091230164138" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9202.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Read my E-mail</title>
+<id>http://www.feedbooks.com/userbook/9141</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2009-12-28T02:16:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>When I was writing &#8220;Unconditional Immortality Or Resurrection Of The Dead&#8221; I used questions in my e mail and comments from my Guestbook on Hell, immortality, soul, spirit, resurrection. The book has been printed in three updated editions and the forth update is free on line at: http://www.robertwr.com/resurrection.pdf but there maybe some who would read my e-mail that would not read the book.</summary>
+<category term="death"/>
+<category term="life"/>
+<category term="Salvation"/>
+<category term="Die"/>
+<category term="destruction"/>
+<category term="destroy"/>
+<category term="perish"/>
+<category term="fire"/>
+<category term="spiritual"/>
+<category term="death"/>
+<category term="sleep"/>
+<category term="torment"/>
+<category term="everlasting"/>
+<category term="life"/>
+<category term="First"/>
+<category term="resurrection"/>
+<category term="second"/>
+<category term="death"/>
+<category term="heaven"/>
+<category term="God"/>
+<category term="reward"/>
+<category term="atonement"/>
+<category term="Passover"/>
+<category term="second"/>
+<category term="c"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9141.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9141.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9141.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9141.png?t=20091228021622" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9141.png?size=smaller&amp;t=20091228021622" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9141.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Falsehood: An Analysis of Illusion's Singularity</title>
+<id>http://www.feedbooks.com/userbook/9133</id>
+<author>
+  <name>Marc Burock</name>
+  <uri>http://www.feedbooks.com/user/65829/profile#Marc%20Burock</uri>
+</author>
+<updated>2010-02-06T16:05:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>It is a common tactic, going back to the beginnings of religion and philosophy, to presume that we are enveloped in a world of untruth and illusion, thereby fueling our movement toward truth. In more modern times, Descartes demonstrates this process clearly with his Meditations. This work extends the Cartesian skeptical position by challenging the concept of illusion itself, asking those who have ever called something &#8216;an illusion&#8217; to question the meaning of these assertions. This broader skepticism partially annihilates itself without completely collapsing under the weight of self-contradiction.</summary>
+<category term="Epistemology"/>
+<category term="falsehood"/>
+<category term="philosophy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9133.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9133.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9133.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9133.png?t=20100206160541" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9133.png?size=smaller&amp;t=20100206160541" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9133.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Strangers: A Short Story</title>
+<id>http://www.feedbooks.com/userbook/9132</id>
+<author>
+  <name>Snow</name>
+  <uri>http://www.feedbooks.com/user/65764/profile#Snow</uri>
+</author>
+<updated>2010-01-04T11:35:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A couple receives an unusual gift for the 15th anniversary: they have to go to the airport and pick a flight to a random city that they haven't visited before, at least 1000 km away. The holiday that was supposed to bring the two back together will actually make them drift apart before it even starts. </summary>
+<category term="fiction"/>
+<category term="strangers"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9132.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9132.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9132.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9132.png?t=20100104113510" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9132.png?size=smaller&amp;t=20100104113510" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9132.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Theaker's Quarterly Fiction #31</title>
+<id>http://www.feedbooks.com/userbook/9129</id>
+<author>
+  <name>Silver Age Books</name>
+  <uri>http://www.feedbooks.com/user/20670/profile#Silver%20Age%20Books</uri>
+</author>
+<updated>2009-12-27T17:29:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>If you've had a good Christmas, it's about to get better! If you've had a bad one, here is its saving grace! Theaker's 31 is here for your pleasure! We've got eight terrific stories and nineteen reviews. We have fantasy from Zachary Jernigan and Heather Anastasiu, horror from Alex Smith and David M. Kinne, science fiction from Alison J. Littlewood, David Tallerman, Glynn Barrass and John Greenwood, though as ever these labels are applied somewhat loosely! The marvellous cover is by Howard Watts, while Douglas Ogurek and Rafe McGregor supply reviews.</summary>
+<category term="tqf"/>
+<category term="SF"/>
+<category term="horror"/>
+<category term="fantasy"/>
+<category term="magazine"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9129.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9129.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9129.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9129.png?t=20091227172951" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9129.png?size=smaller&amp;t=20091227172951" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9129.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Abraham, the father of three religions</title>
+<id>http://www.feedbooks.com/userbook/9115</id>
+<author>
+  <name>Paulo Roberto Candido dos Santos</name>
+  <uri>http://www.feedbooks.com/user/62908/profile#Paulo%20Roberto%20Candido%20dos%20Santos</uri>
+</author>
+<updated>2009-12-27T14:15:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Learn more about the saga of Abraham, who left his air in Ur of the Chaldeans, and obeying God's commands migrate to Canaan, where he lays the foundation for the three monotheistic religions bars: Judaism, Christianity and Islam.
+Abraham was the first Jew in history? Not exactly. While the patriarch was circumcised at 99 years of age, he was not the first Jew, but revolutionized the ancient world through monotheism in a polytheistic world. Ur, he goes to faraway places like Egypt and Palestine, armed only with the confidence he had in God. A book for all cultures and all ages
+</summary>
+<category term="Judaism;"/>
+<category term="Monotheism;"/>
+<category term="Abraham;"/>
+<category term="Book of Jubilees"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9115.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9115.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9115.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9115.png?t=20091227141555" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9115.png?size=smaller&amp;t=20091227141555" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9115.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Devil to Pay: Chapter 2</title>
+<id>http://www.feedbooks.com/userbook/9093</id>
+<author>
+  <name>pussreboots</name>
+  <uri>http://www.feedbooks.com/user/63232/profile#pussreboots</uri>
+</author>
+<updated>2009-12-27T05:59:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Second installment. </summary>
+<category term="space opera"/>
+<category term="SciFi"/>
+<category term="lgbt"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9093.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9093.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9093.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9093.png?t=20091227055932" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9093.png?size=smaller&amp;t=20091227055932" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9093.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Forever and Eternity</title>
+<id>http://www.feedbooks.com/userbook/9091</id>
+<author>
+  <name>Emma Emerson</name>
+  <uri>http://www.feedbooks.com/user/65458/profile#Emma%20Emerson</uri>
+</author>
+<updated>2010-01-25T02:11:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Since child,Violet dreamed of becoming someone in the world. Someone everyone knew about but many obstales interfered on her way. In this journey, Violet discovers that she was never alone. She had a best friend and a friend not so real. Enjoy this journey of the life of Violet Handerson</summary>
+<category term="fiction"/>
+<category term="adventure"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9091.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9091.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9091.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9091.png?t=20100125021155" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9091.png?size=smaller&amp;t=20100125021155" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9091.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>ABRAHAM: El padre de tres religiones</title>
+<id>http://www.feedbooks.com/userbook/9087</id>
+<author>
+  <name>Paulo Roberto Candido dos Santos</name>
+  <uri>http://www.feedbooks.com/user/62908/profile#Paulo%20Roberto%20Candido%20dos%20Santos</uri>
+</author>
+<updated>2009-12-27T14:21:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>En este libro el autor intenta mostrar la dif&#237;cil situaci&#243;n del patriarca Abraham, desde cuando sali&#243; de Caldea, Mesopotamia, para ir a Cana&#225;n, obedeciendo a los mandatos divinos y c&#243;mo se crearon las condiciones para un mayor desarrollo de las tres grandes religiones monote&#237;stas, el juda&#237;smo, el cristianismo y el islam, adem&#225;s de Escritura, el autor consigui&#243; su informaci&#243;n en el &quot;Libro de los Jubileos&quot;, un ap&#243;crifo tambi&#233;n llamado &quot;Peque&#241;o G&#233;nesis&quot; y el Cor&#225;n.</summary>
+<category term="Monoteismo;"/>
+<category term="Mesopotamia;"/>
+<category term="Isaac;"/>
+<category term="Ishmael;"/>
+<category term="Abraham;"/>
+<category term="Librol de los Jubileos"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9087.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9087.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9087.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9087.png?t=20091227142130" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9087.png?size=smaller&amp;t=20091227142130" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9087.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Abraham, the Patriarch</title>
+<id>http://www.feedbooks.com/userbook/9084</id>
+<author>
+  <name>Paulo Roberto Candido dos Santos</name>
+  <uri>http://www.feedbooks.com/user/62908/profile#Paulo%20Roberto%20Candido%20dos%20Santos</uri>
+</author>
+<updated>2009-12-26T20:10:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>In this book the author reproduces the familiar story of the &quot;Father of Monotheism&quot;, plus information extracted from the &quot;Book of Jubilees, an apocryphal, also called the Little Genesis and the vision of Abraham in the Koran, with surprising revelations.Learn more about the history of the father of three great monotheistic religions.</summary>
+<category term="Mesopotamia."/>
+<category term="Judaism;"/>
+<category term="Monotheism;"/>
+<category term="Abraham;;"/>
+<category term="Book of Jubilees"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9084.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9084.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9084.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9084.png?t=20091226201052" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9084.png?size=smaller&amp;t=20091226201052" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9084.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Momentum</title>
+<id>http://www.feedbooks.com/userbook/9071</id>
+<author>
+  <name>Damien G. Walter</name>
+  <uri>http://www.feedbooks.com/user/32876/profile#Damien%20G.%20Walter</uri>
+</author>
+<updated>2009-12-25T22:55:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Described as 'eerie like Lovecraft but warmer' by one reviewer, Momentum is a haunting short story about the mystery of existence. Uncle Peter is a strange old man left in the care of a young niece, who will spend her whole life attempting to understand the strange events they experience together. A flash fiction that packs a punch in a thousand words.
+
+Originally published in the Hugo award winning Electric Velocipede #13</summary>
+<category term="Contemporary Fantasy"/>
+<category term="numinous"/>
+<category term="H.P.Lovecraft"/>
+<category term="Damien G. Walter"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9071.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9071.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9071.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9071.png?t=20091225225540" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9071.png?size=smaller&amp;t=20091225225540" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9071.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dawg Tired, The Brain Fog Chronicles</title>
+<id>http://www.feedbooks.com/userbook/9051</id>
+<author>
+  <name>Gayla Peterson</name>
+  <uri>http://www.feedbooks.com/user/62751/profile#Gayla%20Peterson</uri>
+</author>
+<updated>2009-12-24T16:08:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>A nurse is struck down with an unknown illness and rapidly progresses to the point of total disability.
+
+Her journey through a medical community who insisted &quot;you are just depressed&quot; is truly heartbreaking, as is the emotional and financial journey the book follows.</summary>
+<category term="chronic illness"/>
+<category term="medical"/>
+<category term="dysautonomia"/>
+<category term="disability"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9051.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9051.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9051.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9051.png?t=20091224160801" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9051.png?size=smaller&amp;t=20091224160801" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9051.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Essays on the Missional Church</title>
+<id>http://www.feedbooks.com/userbook/9047</id>
+<author>
+  <name>Chuck Warnock</name>
+  <uri>http://www.feedbooks.com/user/64555/profile#Chuck%20Warnock</uri>
+</author>
+<updated>2009-12-24T13:28:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>The church in the 21st century will look very different from that of the previous century. In this book, the creator of Confessions of a Small Church Pastor provides some valuable insights into what that church will be.</summary>
+<category term="religion"/>
+<category term="Spirituality"/>
+<category term="church"/>
+<category term="Faith"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9047.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9047.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9047.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9047.png?t=20091224132827" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9047.png?size=smaller&amp;t=20091224132827" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9047.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #17</title>
+<id>http://www.feedbooks.com/userbook/9038</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-12-24T01:20:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Danger Trail: The Blood of Templars Affair, Part Two.
+
+Things heat up for our heroes as they head into an ancient Knights Templar castle as one of three groups desperate to unlock its secrets and find a powerful relic that will decide the victor in the opening battles of a far greater war, one that has the attention of the enigmatic Sanguine Father! A far greater war that echoes across the decades!</summary>
+<category term="pulp fiction"/>
+<category term="Speed Saunders"/>
+<category term="Rose Psychic"/>
+<category term="Plastic Man"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="pulp"/>
+<category term="mystery"/>
+<category term="adventure"/>
+<category term="Azrael"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9038.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9038.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9038.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9038.png?t=20091224012039" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9038.png?size=smaller&amp;t=20091224012039" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9038.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #13</title>
+<id>http://www.feedbooks.com/userbook/9036</id>
+<author>
+  <name>Chris Paugh and Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Chris%20Paugh%20and%20Brian%20Burchette</uri>
+</author>
+<updated>2009-12-24T00:58:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Detective Comics: Hostile Takeover.
+
+</summary>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Penguin"/>
+<category term="Scarface"/>
+<category term="Ventriloquist"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9036.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9036.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9036.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9036.png?t=20091224005834" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9036.png?size=smaller&amp;t=20091224005834" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9036.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Batman #13</title>
+<id>http://www.feedbooks.com/userbook/9037</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-12-24T00:58:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Batman: Too Many Santas Will Kill You.</summary>
+<category term="Vicki Vale"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Christmas"/>
+<category term="Nightwing"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9037.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9037.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9037.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9037.png?t=20091224005819" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9037.png?size=smaller&amp;t=20091224005819" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9037.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ripples of Difference</title>
+<id>http://www.feedbooks.com/userbook/9027</id>
+<author>
+  <name>RipplesofDifference</name>
+  <uri>http://www.feedbooks.com/user/64205/profile#RipplesofDifference</uri>
+</author>
+<updated>2009-12-22T20:18:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>The Ripples of Difference FREE e-book is a collection of unique and powerful stories written by volunteers from around the world. From refugee camps in Africa to orphanages in Asia, readers can learn about how volunteers are touching the lives of others and making a difference &#8211; a ripple of difference.
+
+The book is not just a collection of stories; it is a call to action. Mahatma Gandhi said &#8220;You must be the change you wish to see in the world&#8221;. We want to challenge readers to stand up and create their own ripple and join the sea of change that brings hope to those in need around the world!
+
+It has been launched by Global Volunteer Network to celebrate the thousands of volunteers who have given their love, energy, and time to help communities in need around the world.
+
+You can download your FREE copy of the ebook at http://www.ripplesofdifference.org
+</summary>
+<category term="free ebook"/>
+<category term="ebook"/>
+<category term="Volunteer"/>
+<category term="travel"/>
+<category term="&#193;frica"/>
+<category term="asia"/>
+<category term="South America"/>
+<category term="Europe"/>
+<category term="Inspiration"/>
+<category term="motivational"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9027.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9027.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9027.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9027.png?t=20091222201833" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9027.png?size=smaller&amp;t=20091222201833" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9027.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>DC2 Special #5: Another DC2 Christmas Special</title>
+<id>http://www.feedbooks.com/userbook/9012</id>
+<author>
+  <name>various</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#various</uri>
+</author>
+<updated>2009-12-22T03:32:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Join the staff of DC2 as we celebrate another year of holiday cheer with several short stories and vignettes that will take you from a certain farm house in Kansas all the way to the very halls of the DC2 offices in New York City.
+</summary>
+<category term="Sgt. Rock"/>
+<category term="Captain Marvel"/>
+<category term="Wonder Girl"/>
+<category term="Jonah Hex"/>
+<category term="Green Lantern"/>
+<category term="Speed Saunders"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Christmas"/>
+<category term="Aquaman"/>
+<category term="robin"/>
+<category term="Superboy"/>
+<category term="Superman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9012.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9012.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9012.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9012.png?t=20091222033215" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9012.png?size=smaller&amp;t=20091222033215" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9012.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Holiday Road</title>
+<id>http://www.feedbooks.com/userbook/9007</id>
+<author>
+  <name>Jonathan Vaught</name>
+  <uri>http://www.feedbooks.com/user/33367/profile#Jonathan%20Vaught</uri>
+</author>
+<updated>2009-12-22T17:26:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Liz had never copped to the more sensitive details of Terry's job. Which made getting out of her doghouse tricky.</summary>
+<category term="technology"/>
+<category term="Story"/>
+<category term="fiction"/>
+<category term="short"/>
+<category term="Creative Commons"/>
+<category term="project revolution"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9007.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9007.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9007.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9007.png?t=20091222172630" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9007.png?size=smaller&amp;t=20091222172630" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9007.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

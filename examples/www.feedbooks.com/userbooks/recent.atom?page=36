@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=36</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=36" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=36" rel="self"/>
+  <title>Original Books / New Releases / Page 36 | Feedbooks</title>
+  <updated>2010-04-07T18:24:16Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>701</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=35" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=37" rel="next" title="Next Page"/>
+<entry>
+<title>Blue Beetle #1</title>
+<id>http://www.feedbooks.com/userbook/5963</id>
+<author>
+  <name>Chris Paugh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Chris%20Paugh</uri>
+</author>
+<updated>2009-08-17T16:42:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Blue Beetle, Issue 1 (of 4): Lessons of the Past</summary>
+<category term="Blue Beetle"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Chronos"/>
+<category term="Waverider"/>
+<category term="Madmen"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5963.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5963.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5963.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5963.png?t=20090817164218" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5963.png?size=smaller&amp;t=20090817164218" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5963.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Wikibooks Guide to Unix Computing</title>
+<id>http://www.feedbooks.com/userbook/5949</id>
+<author>
+  <name>Wikibooks</name>
+  <uri>http://www.feedbooks.com/user/42056/profile#Wikibooks</uri>
+</author>
+<updated>2010-01-02T16:01:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>The text of the Wikibook, &quot;Guide to Unix,&quot; as of 10/6/2009. It describes Unix and Unix-like systems for users and system administrators.
+
+The text of this ebook is credited to
+
+   1. Kernigh, added much content, started Explanations
+   2. CFeyecare. I have been working on OpenBSD and I will continue to other BSDs later.
+   3. The authors of Guide to UNIX/Files and Guide to UNIX/Commands
+   4. Other and anonymous contributors
+   5. Other Sources
+</summary>
+<category term="operating system"/>
+<category term="computing"/>
+<category term="wikibooks"/>
+<category term="unix"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5949.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5949.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5949.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5949.png?t=20100102160127" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5949.png?size=smaller&amp;t=20100102160127" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5949.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #26</title>
+<id>http://www.feedbooks.com/userbook/5928</id>
+<author>
+  <name>Roy Flinchum</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Roy%20Flinchum</uri>
+</author>
+<updated>2009-08-17T16:42:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Action Comics: Kryptonite Man</summary>
+<category term="Comics"/>
+<category term="Lex Luthor"/>
+<category term="Lois Lane"/>
+<category term="Kryptonite Man"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5928.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5928.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5928.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5928.png?t=20090817164204" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5928.png?size=smaller&amp;t=20090817164204" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5928.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #25</title>
+<id>http://www.feedbooks.com/userbook/5926</id>
+<author>
+  <name>Roy Flinchum</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Roy%20Flinchum</uri>
+</author>
+<updated>2009-08-17T16:41:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: Message In a Bottle.</summary>
+<category term="Kryptonite Man"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5926.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5926.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5926.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5926.png?t=20090817164159" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5926.png?size=smaller&amp;t=20090817164159" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5926.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #24</title>
+<id>http://www.feedbooks.com/userbook/5924</id>
+<author>
+  <name>Roy Flinchum</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Roy%20Flinchum</uri>
+</author>
+<updated>2009-08-17T16:41:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: Pappa's Got a Brand New Bag.</summary>
+<category term="Lois Lane"/>
+<category term="Batman"/>
+<category term="Steel"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Lex Luthor"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5924.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5924.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5924.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5924.png?t=20090817164156" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5924.png?size=smaller&amp;t=20090817164156" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5924.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Theaker's Quarterly Fiction #29</title>
+<id>http://www.feedbooks.com/userbook/5922</id>
+<author>
+  <name>Silver Age Books</name>
+  <uri>http://www.feedbooks.com/user/20670/profile#Silver%20Age%20Books</uri>
+</author>
+<updated>2009-10-09T09:23:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Here is TQF29, seven stories high. Douglas Thompson takes the lead, with the eerie and poetic &quot;Madame Mortadore &amp; the Clouds&quot;. &quot;Foundling&quot; by Nick Sansone follows a painter through a troubled life foretold. &quot;Imaginary Prisons&quot; by David Tallerman also has a good deal to say on the subject of prophecies. John Hall delivers the last of his forgotten stories to our horror section, &quot;The Feaster from the Stars&quot;. (Its final image is unforgettable.) John Greenwood then lets us have it three times in the third eye, as Newton Braddell wends his hopeless way across the world. The review section contains the usual batch from me, as well as ones by John Greenwood, Rafe McGregor and Steve Redwood, who consider Morpheus Tales #3, a Hound of the Baskervilles graphic novel, and Midnight Street #12 respectively.</summary>
+<category term="tqf"/>
+<category term="SF"/>
+<category term="horror"/>
+<category term="fantasy"/>
+<category term="magazine"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5922.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5922.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5922.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5922.png?t=20091009092323" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5922.png?size=smaller&amp;t=20091009092323" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5922.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics Annual #2</title>
+<id>http://www.feedbooks.com/userbook/5911</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-08-17T16:41:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: Doomsdays, Part 3 (of 3): Burein Sukuracchi.
+
+</summary>
+<category term="Comics"/>
+<category term="Lex Luthor"/>
+<category term="Lois Lane"/>
+<category term="Green Lantern"/>
+<category term="Rip Hunter"/>
+<category term="Kru-El"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Guardian"/>
+<category term="Doomsday"/>
+<category term="Steel"/>
+<category term="Caesar"/>
+<category term="Lightray"/>
+<category term="Batman"/>
+<category term="Atom"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5911.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5911.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5911.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5911.png?t=20090817164151" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5911.png?size=smaller&amp;t=20090817164151" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5911.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #23</title>
+<id>http://www.feedbooks.com/userbook/5910</id>
+<author>
+  <name>Roy Flinchum</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Roy%20Flinchum</uri>
+</author>
+<updated>2009-08-17T23:35:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: Home Is Where the Hurt Is.
+
+My, the times they are a-changing.
+
+Superman loses one home and uses ancient Kryptonian technology to gain another. Metropolis&#8217;s most prominent business man is out-ed. All this plus clone on clone Action.
+
+Don&#8217;t miss it. </summary>
+<category term="Toyman"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Lex Luthor"/>
+<category term="Lois Lane"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5910.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5910.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5910.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5910.png?t=20090817233525" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5910.png?size=smaller&amp;t=20090817233525" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5910.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #22</title>
+<id>http://www.feedbooks.com/userbook/5894</id>
+<author>
+  <name>Roy Flinchum</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Roy%20Flinchum</uri>
+</author>
+<updated>2009-08-17T16:41:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: Wendigo, Part 2 (of 2)</summary>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Lois Lane"/>
+<category term="Red Wolf"/>
+<category term="Wendigo"/>
+<category term="Toyman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5894.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5894.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5894.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5894.png?t=20090817164139" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5894.png?size=smaller&amp;t=20090817164139" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5894.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Uncovered Passion</title>
+<id>http://www.feedbooks.com/userbook/5892</id>
+<author>
+  <name>Christopher Golliday &amp; Melissa Golliday</name>
+  <uri>http://www.feedbooks.com/user/42342/profile#Christopher%20Golliday%20%26%20Melissa%20Golliday</uri>
+</author>
+<updated>2010-02-15T17:06:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Sasha Verochka is an FSB agent assigned to her first mission. Her mission? Uncovering the motives for why a handsome, former Marine is in Moscow. Being telepathic, she never thought it would be so hard to reveal the truth about Garrick Caldwell. But then again, she'd never experienced desire like this.
+
+Now time is running out as her superiors want answers she can't make herself find. For in doing so, she just might lose her one chance at passion.</summary>
+<category term="Russia"/>
+<category term="City"/>
+<category term="york"/>
+<category term="new"/>
+<category term="spies"/>
+<category term="shifter"/>
+<category term="shape"/>
+<category term="paranormal"/>
+<category term="romance"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5892.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5892.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5892.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5892.png?t=20100215170617" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5892.png?size=smaller&amp;t=20100215170617" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5892.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lyrics</title>
+<id>http://www.feedbooks.com/userbook/5890</id>
+<author>
+  <name>isizto</name>
+  <uri>http://www.feedbooks.com/user/42325/profile#isizto</uri>
+</author>
+<updated>2009-08-17T16:40:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Collection of lyrics.</summary>
+<category term="sizto"/>
+<category term="ian"/>
+<category term="isizto"/>
+<category term="Lyrics"/>
+<category term="worship"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5890.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5890.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5890.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5890.png?t=20090817164013" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5890.png?size=smaller&amp;t=20090817164013" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5890.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tales of the Green Lantern Corps #10</title>
+<id>http://www.feedbooks.com/userbook/5883</id>
+<author>
+  <name>Scott Kruger</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Scott%20Kruger</uri>
+</author>
+<updated>2009-08-17T16:41:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Tales of the Green Lantern Corps: The End of an Era (Crisis: The Apokolips Imperative #2).
+
+THIS IS THE FINAL ISSUE OF TALES OF THE GREEN LANTERN CORPS</summary>
+<category term="Sinestro"/>
+<category term="Ion"/>
+<category term="Desaad"/>
+<category term="Kalibak"/>
+<category term="Ganthet"/>
+<category term="Manhunters"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="King Faraday"/>
+<category term="Kyle Rayner"/>
+<category term="Appa Ali Apsa"/>
+<category term="Hal Jordan"/>
+<category term="Katma Tui"/>
+<category term="Green Lantern"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5883.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5883.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5883.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5883.png?t=20090817164133" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5883.png?size=smaller&amp;t=20090817164133" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5883.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>THE CHANGING HELL Why are there many conflicting Hells? </title>
+<id>http://www.feedbooks.com/userbook/5878</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2009-08-17T16:41:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Some of the many Versions of Hell
+1. The Bible version of Hell
+2. The Dark Age Catholic version of Hell
+3. The new Catholic version of Hell
+4. The many divided Protestant versions of Hell
+a. &#8226; The Calvin version of Hell
+b. &#8226; The Jonathan Edwards version of Hell
+c. &#8226; The Graphic version of Hell
+d. &#8226; Satan will be doing the tormenting version of Hell
+e. &#8226; God will be doing the tormenting version of Hell
+f. &#8226; The Metaphorical view of both Heaven and Hell
+g. &#8226; Mental anguish version of Hell
+h. &#8226; Protestant Traditionalist versions of Hell 
+i. &#8226; Rephaim version of Hell
+5. Abraham's bosom or the after judgment Hell
+6. Edward Fudge version: The short Hell
+7. Christadelphians version of Hell
+8. Church of God version of Hell (and others)
+9. Universalist version of Hell, The &quot;age lasting&quot; Hell
+10. Seventh Day Advent version of Hell
+11. The grave is Hell version
+12. Latter-day Saints version of Hell [Mormons]
+13. Rephaim version of Hell - One of the Protestant versions of Hell</summary>
+<category term="hell"/>
+<category term="Seventh Day Advent Hell"/>
+<category term="Mormon Hell"/>
+<category term="Johathan Edward Hell"/>
+<category term="Protestant Hell"/>
+<category term="Catholic Hell"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5878.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5878.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5878.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5878.png?t=20090817164128" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5878.png?size=smaller&amp;t=20090817164128" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5878.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #26</title>
+<id>http://www.feedbooks.com/userbook/5869</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2010-03-10T12:35:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Nightwing: Boy Hostage.
+
+Nightwing is in deep when a confrontation with an old foe goes awry, and he ends up more than six feet under inside a metal casket in New York harbor!
+
+</summary>
+<category term="Batman"/>
+<category term="Starfire"/>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Lock Up"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5869.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5869.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5869.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5869.png?t=20100310123530" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5869.png?size=smaller&amp;t=20100310123530" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5869.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #21</title>
+<id>http://www.feedbooks.com/userbook/5868</id>
+<author>
+  <name>Roy Flinchum</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Roy%20Flinchum</uri>
+</author>
+<updated>2009-08-17T16:39:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: Wendigo, Part 1 (of 2)</summary>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Red Wolf"/>
+<category term="Lois Lane"/>
+<category term="Toyman"/>
+<category term="Wendigo"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5868.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5868.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5868.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5868.png?t=20090817163947" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5868.png?size=smaller&amp;t=20090817163947" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5868.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>His Robot Girlfriend</title>
+<id>http://www.feedbooks.com/userbook/5854</id>
+<author>
+  <name>Wesley Allison</name>
+  <uri>http://www.feedbooks.com/user/5943/profile#Wesley%20Allison</uri>
+</author>
+<updated>2010-03-17T00:21:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Mike Smith's life was crap, living all alone, years after his wife had died and his children had grown up and moved away. Then he saw the commercial for the Daffodil. Far more than other robots, the Daffodil could become anything and everything he wanted it to be. Mike's life is about to change.
+
+Visit http://amathar.blogspot.com for more on books by Wesley Allison
+</summary>
+<category term="future"/>
+<category term="girlfriend"/>
+<category term="robot"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5854.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5854.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5854.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5854.png?t=20100317002101" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5854.png?size=smaller&amp;t=20100317002101" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5854.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mightiest Mortals #13</title>
+<id>http://www.feedbooks.com/userbook/5852</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:41:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Mightiest Mortals: Opening Passages.
+
+As Fawcett City recovers from the fall of Ibac and Sabbac, our heroes find more things to be worried about. Susan Barr must prosecute the bloodthirsty Tim Karnes while reassessing her stance on costumed crime-fighters; Dudley must wrestle with what he should reveal to Billy, and Billy must deal with the fact that Freddy refuses to return to his crippled body!</summary>
+<category term="Captain Marvel"/>
+<category term="Captain Marvel Jr."/>
+<category term="Mary Marvel"/>
+<category term="Comics"/>
+<category term="DC3"/>
+<category term="Shazam"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5852.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5852.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5852.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5852.png?t=20090817164121" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5852.png?size=smaller&amp;t=20090817164121" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5852.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #13</title>
+<id>http://www.feedbooks.com/userbook/5838</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:41:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Danger Trail: The Brown Lady Affair, Part 1.
+
+In the wake of the battle with Vandal Savage, Speed Saunders has set his sights on finding the Sigil of Seven; that quest being his only remaining link to the missing (and treacherous) Harriet Cooper! His friends Argent St. Cloud and Michael Gallant, along with ally Doctor Occult, want to know what his intentions are, but first they must untangle a dark scheme involving the ghosts of Great Britain!</summary>
+<category term="pulp fiction"/>
+<category term="Doctor Occult"/>
+<category term="Speed Saunders"/>
+<category term="Argent St. Cloud"/>
+<category term="King Faraday"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="pulp"/>
+<category term="mystery"/>
+<category term="adventure"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5838.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5838.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5838.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5838.png?t=20090817164109" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5838.png?size=smaller&amp;t=20090817164109" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5838.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Rocketbelt Caper: 50-PAGE SAMPLER</title>
+<id>http://www.feedbooks.com/userbook/5832</id>
+<author>
+  <name>Paul Brown</name>
+  <uri>http://www.feedbooks.com/user/41942/profile#Paul%20Brown</uri>
+</author>
+<updated>2010-01-02T16:01:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>When three men set out on a quest to build a real-life Buck Rogers-style flying machine, their obsession with the Rocketbelt 2000 shattered their friendship and set in motion an astonishing chain of events involving theft, deception, assault, a bizarre kidnapping, a ten million dollar lawsuit and a horrifically brutal murder. From sci-fi to reality, this is the incredible true story of the amazing rocketbelt. 50-PAGE SAMPLER of the full book.
+
+'We finished the rocketbelt, and from then on there was murder, kidnapping, and all kinds of other stuff'
+
+http://www.rocketbeltcaper.com</summary>
+<category term="popular science"/>
+<category term="true crime"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5832.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5832.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5832.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5832.png?t=20100102160125" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5832.png?size=smaller&amp;t=20100102160125" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5832.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tales of the Green Lantern Corps #9</title>
+<id>http://www.feedbooks.com/userbook/5816</id>
+<author>
+  <name>Scott Kruger</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Scott%20Kruger</uri>
+</author>
+<updated>2009-08-17T16:40:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Tales of the Green Lantern Corps: Prelude to Disaster</summary>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Katma Tui"/>
+<category term="Doctor Polaris"/>
+<category term="Hal Jordan"/>
+<category term="Green Lantern"/>
+<category term="Kilowog"/>
+<category term="Laira"/>
+<category term="Carthag"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5816.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5816.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5816.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5816.png?t=20090817164012" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5816.png?size=smaller&amp;t=20090817164012" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5816.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

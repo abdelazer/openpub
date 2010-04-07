@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=19&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=19&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=19&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 19 | Feedbooks</title>
+  <updated>2010-04-07T18:24:44Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>361</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=18&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=20&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Sorrows of Young Werther</title>
+<id>http://www.feedbooks.com/book/348</id>
+<author>
+  <name>Johann Wolfgang von Goethe</name>
+  <uri>http://www.feedbooks.com/author/46</uri>
+</author>
+<updated>2010-01-21T17:01:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1774</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>The Sorrows of Young Werther (Die Leiden des jungen Werthers) is an epistolary and loosely autobiographical novel by Johann Wolfgang von Goethe, first published in 1774; a revised edition of the novel was published in 1787. Werther was an important novel of the Sturm und Drang period in German literature, and it also influenced the later Romantic literary movement.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/348.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/348.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/348.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/348.png?t=20100121170127" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/348.png?size=smaller&amp;t=20100121170127" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/348.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Euthyphro</title>
+<id>http://www.feedbooks.com/book/682</id>
+<author>
+  <name>Plato</name>
+  <uri>http://www.feedbooks.com/author/144</uri>
+</author>
+<updated>2009-09-16T10:28:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-400</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/682.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/682.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/682.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/682.png?t=20090916102838" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/682.png?size=smaller&amp;t=20090916102838" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/682.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Descent into the Maelstr&#246;m</title>
+<id>http://www.feedbooks.com/book/765</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1841</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>Inspired by the Moskstraumen, it is couched as a story within a story, a tale told at the summit of a mountain climb. The story is told by an old man who reveals that he only appears old - &quot;You suppose me a very old man,&quot; he says, &quot;but I am not. It took less than a single day to change these hairs from a jetty black to white, to weaken my limbs, and to unstring my nerves.&quot; The narrator, convinced by the power of the whirlpools he sees in the ocean beyond, is then told of the &quot;old&quot; man's fishing trip with his two brothers a few years ago.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/765.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/765.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/765.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/765.png?t=20090916103015" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/765.png?size=smaller&amp;t=20090916103015" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/765.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Anne of Avonlea</title>
+<id>http://www.feedbooks.com/book/3197</id>
+<author>
+  <name>Lucy Maud Montgomery</name>
+  <uri>http://www.feedbooks.com/author/547</uri>
+</author>
+<updated>2009-08-18T01:18:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1909</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>Following Anne of Green Gables (1908), the book covers the second chapter in the life of Anne Shirley. This book follows Anne from the age of 16 to 18, during the two years that she teaches at Avonlea school. It includes many of the characters from Anne of Green Gables, as well as new ones like Mr Harrison, Miss Lavendar Lewis, Paul Irving, and the twins Dora and Davy.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3197.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3197.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3197.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3197.png?t=20090818011801" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3197.png?size=smaller&amp;t=20090818011801" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3197.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Crystal Crypt</title>
+<id>http://www.feedbooks.com/book/3878</id>
+<author>
+  <name>Philip K. Dick</name>
+  <uri>http://www.feedbooks.com/author/1023</uri>
+</author>
+<updated>2009-08-18T01:18:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Stark terror ruled the Inner-Flight ship on that last Mars-Terra run. For the black-clad Leiters were on the prowl ... and the grim red planet was not far behind.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3878.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3878.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3878.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3878.png?t=20090818011814" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3878.png?size=smaller&amp;t=20090818011814" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3878.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>This Side of Paradise</title>
+<id>http://www.feedbooks.com/book/1416</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-09-16T10:50:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1416.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1416.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1416.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1416.png?t=20090916105015" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1416.png?size=smaller&amp;t=20090916105015" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1416.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rupert of Hentzau</title>
+<id>http://www.feedbooks.com/book/3583</id>
+<author>
+  <name>Anthony Hope</name>
+  <uri>http://www.feedbooks.com/author/906</uri>
+</author>
+<updated>2009-08-18T01:18:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1898</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Thriller" label="Thriller"/>
+<summary>Rupert of Hentzau is a sequel by Anthony Hope to The Prisoner of Zenda, written in 1895, but not published until 1898.
+Queen Flavia, dutifully but unhappily married to her cousin Rudolf V, writes to her true love Rudolf Rassendyll. The letter is carried by von Tarlenheim to be delivered by hand, but it is stolen by the exiled Rupert of Hentzau, who sees in it a chance to return to favour by informing the pathologically jealous and paranoid King.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3583.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3583.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3583.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3583.png?t=20090818011810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3583.png?size=smaller&amp;t=20090818011810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3583.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Stable for Nightmares</title>
+<id>http://www.feedbooks.com/book/2834</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T12:27:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1896</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Collections" label="Collections"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2834.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2834.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2834.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2834.png?t=20090916122737" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2834.png?size=smaller&amp;t=20090916122737" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2834.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Anne of the Island</title>
+<id>http://www.feedbooks.com/book/3272</id>
+<author>
+  <name>Lucy Maud Montgomery</name>
+  <uri>http://www.feedbooks.com/author/547</uri>
+</author>
+<updated>2009-08-18T01:18:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Romance" label="Romance"/>
+<summary>This is the continuing story of Anne Shirley and the third book in the Anne of Green Gables series. Anne attends Redmond College in Kingsport, where she is studying for her BA. The book is dedicated to &quot;all the girls all over the world who have &quot;wanted more&quot; about ANNE.&quot; There was a gap of six years between the publications of Anne of Avonlea and the publication of this book.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3272.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3272.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3272.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3272.png?t=20090818011802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3272.png?size=smaller&amp;t=20090818011802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3272.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Kim</title>
+<id>http://www.feedbooks.com/book/3772</id>
+<author>
+  <name>Rudyard Kipling</name>
+  <uri>http://www.feedbooks.com/author/56</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1901</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Kim, aka Kimball O'Hara, is the orphan son of a British soldier and a half-caste opium addict in India. While running free through the streets of Lahore as a child he befriends a British secret service agent. Later, attaching himself to a Tibetan Lama on a quest to be freed from the Wheel of Life, Kim becomes the Lama's disciple, but is also used by the British to carry messages to the British commander in Umballa. Kim's trip with the Lama along the Grand Trunk Road is only the first great adventure in the novel...</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3772.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3772.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3772.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3772.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3772.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3772.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Our Mutual Friend</title>
+<id>http://www.feedbooks.com/book/688</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:29:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1865</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>A satiric masterpiece about the allure and peril of money, Our Mutual Friend revolves around the inheritance of a dust-heap where the rich throw their trash. When the body of John Harmon, the dust-heap&#8217;s expected heir, is found in the Thames, fortunes change hands surprisingly, raising to new heights &#8220;Noddy&#8221; Boffin, a low-born but kindly clerk who becomes &#8220;the Golden Dustman.&#8221; Charles Dickens&#8217;s last complete novel, Our Mutual Friend encompasses the great themes of his earlier works: the pretensions of the nouveaux riches, the ingenuousness of the aspiring poor, and the unfailing power of wealth to corrupt all who crave it. With its flavorful cast of characters and numerous subplots, Our Mutual Friend is one of Dickens&#8217;s most complex&#8212;and satisfying&#8212;novels.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/688.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/688.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/688.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/688.png?t=20090916102907" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/688.png?size=smaller&amp;t=20090916102907" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/688.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Ant King and Other Stories</title>
+<id>http://www.feedbooks.com/book/2872</id>
+<author>
+  <name>Benjamin Rosenbaum</name>
+  <uri>http://www.feedbooks.com/author/587</uri>
+</author>
+<updated>2009-09-16T12:14:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Collections" label="Collections"/>
+<summary>A dazzling, postmodern debut collection of pulp and surreal fictions: a writer of alternate histories defends his patron&#8217;s zeppelin against assassins and pirates; a woman transforms into hundreds of gumballs; an emancipated children&#8217;s collective goes house hunting.</summary>
+<dcterms:source>http://lcrw.net/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2872.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2872.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2872.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2872.png?t=20090916121447" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2872.png?size=smaller&amp;t=20090916121447" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2872.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Silent Witness</title>
+<id>http://www.feedbooks.com/book/2076</id>
+<author>
+  <name>R. Austin Freeman</name>
+  <uri>http://www.feedbooks.com/author/288</uri>
+</author>
+<updated>2009-09-16T11:40:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2076.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2076.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2076.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2076.png?t=20090916114008" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2076.png?size=smaller&amp;t=20090916114008" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2076.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Butcher Bird</title>
+<id>http://www.feedbooks.com/book/227</id>
+<author>
+  <name>Richard Kadrey</name>
+  <uri>http://www.feedbooks.com/author/109</uri>
+</author>
+<updated>2009-09-16T10:15:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Spyder Lee is a happy man who lives in San Francisco and owns a tattoo shop. One night an angry demon tries to bite his head off before he's saved by a stranger. The demon infected Spyder with something awful - the truth. He can suddenly see the world as it really is: full of angels and demons and monsters and monster-hunters. A world full of black magic and mysteries. These are the Dominions, parallel worlds full of wonder, beauty and horror. The Black Clerks, infinitely old and infinitely powerful beings whose job it is to keep the Dominions in balance, seem to have new interests and a whole new agenda. Dropped into the middle of a conflict between the Black Clerks and other forces he doesn't fully understand, Spyder finds himself looking for a magic book with the blind swordswoman who saved him. Their journey will take them from deserts to lush palaces, to underground caverns, to the heart of Hell itself.</summary>
+<dcterms:source>http://www.infinitematrix.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/227.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/227.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/227.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/227.png?t=20090916101507" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/227.png?size=smaller&amp;t=20090916101507" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/227.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Issahar Artifacts</title>
+<id>http://www.feedbooks.com/book/4662</id>
+<author>
+  <name>Jesse Franklin Bone</name>
+  <uri>http://www.feedbooks.com/author/167</uri>
+</author>
+<updated>2010-03-22T17:06:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Lincoln said it eons ago.... It took a speck of one-celled plant life on a world parsecs away to prove it for all the galaxy.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29271</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4662.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4662.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4662.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4662.png?t=20100322170627" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4662.png?size=smaller&amp;t=20100322170627" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4662.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Death Comes for the Archbishop</title>
+<id>http://www.feedbooks.com/book/2118</id>
+<author>
+  <name>Willa Cather</name>
+  <uri>http://www.feedbooks.com/author/296</uri>
+</author>
+<updated>2009-09-16T11:44:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1927</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Religion" label="Religion"/>
+<summary>A narrative that recounts a life lived simply in the silence of the southwestern desert.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2118.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2118.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2118.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2118.png?t=20090916114455" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2118.png?size=smaller&amp;t=20090916114455" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2118.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Wisdom of Father Brown</title>
+<id>http://www.feedbooks.com/book/3724</id>
+<author>
+  <name>Gilbert Keith Chesterton</name>
+  <uri>http://www.feedbooks.com/author/953</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<category term="Religion" label="Religion"/>
+<summary>From London to Cornwall, then to Italy and France, a short, shabby priest runs to earth bandits, traitors, killers. Why is he so successful? 
+
+The reason is that after years spent in the priesthood, Father Brown knows human nature and is not afraid of its dark side. Thus he understands criminal motivation and how to deal with it. 
+
+The stories included are &quot;The Paradise of Thieves,&quot; &quot;The Duel of Dr. Hirsch,&quot; &quot;The Man in the Passage,&quot; &quot;The Mistakes of the Machine,&quot; &quot;The Head of the Caesar,&quot; &quot;The Purple Wig,&quot; &quot;The Perishing of the Pendragons,&quot; &quot;The God of the Gongs,&quot; &quot;The Salad of the Colonel Cray,&quot; &quot;The Strange Crime of John Boulnois&quot; and &quot;The Fairy Tale of Father Brown.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3724.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3724.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3724.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3724.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3724.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3724.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>On Liberty</title>
+<id>http://www.feedbooks.com/book/4202</id>
+<author>
+  <name>John Stuart Mill</name>
+  <uri>http://www.feedbooks.com/author/1195</uri>
+</author>
+<updated>2009-09-17T10:16:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1859</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<summary>On Liberty is a philosophical work by 19th century English philosopher John Stuart Mill, first published in 1859. To the Victorian readers of the time it was a radical work, advocating moral and economic freedom of individuals from the state.</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4202.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4202.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4202.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4202.png?t=20090917101606" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4202.png?size=smaller&amp;t=20090917101606" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4202.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Scroogled</title>
+<id>http://www.feedbooks.com/book/1670</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T11:00:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.radaronline.com/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1670.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1670.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1670.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1670.png?t=20090916110023" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1670.png?size=smaller&amp;t=20090916110023" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1670.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dagon</title>
+<id>http://www.feedbooks.com/book/243</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/243.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/243.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/243.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/243.png?t=20090916101527" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/243.png?size=smaller&amp;t=20090916101527" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/243.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

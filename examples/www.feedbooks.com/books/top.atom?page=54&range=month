@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=54&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=54&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=54&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 54 | Feedbooks</title>
+  <updated>2010-04-07T18:25:04Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1061</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=53&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=55&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Back to God's Country and Other Stories</title>
+<id>http://www.feedbooks.com/book/4562</id>
+<author>
+  <name>James Oliver Curwood</name>
+  <uri>http://www.feedbooks.com/author/1285</uri>
+</author>
+<updated>2010-01-11T17:18:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Collections" label="Collections"/>
+<summary>After her father is killed by an outlaw, Dolores marries Peter. While at sea in the Arctic, Dolores meets the ship's captain -- the man who killed her father! The captain causes an 'accident' to happen to Peter, so Dolores is all alone and defenseless as they drop anchor in a remote harbor.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/4539</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4562.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4562.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4562.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4562.png?t=20100111171802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4562.png?size=smaller&amp;t=20100111171802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4562.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Bobbsey Twins at School</title>
+<id>http://www.feedbooks.com/book/4600</id>
+<author>
+  <name>Laura Lee Hope</name>
+  <uri>http://www.feedbooks.com/author/653</uri>
+</author>
+<updated>2010-01-29T17:12:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/737</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4600.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4600.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4600.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4600.png?t=20100129171229" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4600.png?size=smaller&amp;t=20100129171229" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4600.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Unwise Child</title>
+<id>http://www.feedbooks.com/book/1957</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-09-16T11:25:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>When a super-robot named Snookums discovers how to build his own superbombs, it becomes obvious that Earth is by no means the safest place for him to be. And so Dr. Fitzhugh, his designer, and Leda Crannon, a child psychologist acting as Snookums&#8217; nursemaid, agree to set up Operation Brainchild, a plan to transport the robot to a far distant planet. Mike the Angel--M. R. Gabriel, Power Design--has devised the power plant that is to propel the space ship Branchell to its secret destination, complete with its unusual cargo. And, as a reserve officer in the Space Patrol, Mike is a logical replacement for the craft&#8217;s unavoidably detained engineering officer. But once into space, the Branchell becomes the scene of some frightening events--the medical officer is murdered, and Snookums appears to be the culprit. Mike the Angel indulges himself in a bit of sleuthing, and the facts he turns up lead to a most unusual climax.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1957.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1957.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1957.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1957.png?t=20090916112549" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1957.png?size=smaller&amp;t=20090916112549" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1957.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Security</title>
+<id>http://www.feedbooks.com/book/2384</id>
+<author>
+  <name>Poul William Anderson</name>
+  <uri>http://www.feedbooks.com/author/352</uri>
+</author>
+<updated>2009-09-16T12:07:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>In a world where Security is all-important, nothing can ever be secure. A mountain-climbing vacation may wind up in deep Space. Or loyalty may prove to be high treason. But it has its rewards. </summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2384.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2384.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2384.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2384.png?t=20090916120705" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2384.png?size=smaller&amp;t=20090916120705" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2384.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Teeth of the Tiger</title>
+<id>http://www.feedbooks.com/book/2894</id>
+<author>
+  <name>Maurice Leblanc</name>
+  <uri>http://www.feedbooks.com/author/227</uri>
+</author>
+<updated>2009-09-16T12:14:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2894.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2894.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2894.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2894.png?t=20090916121454" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2894.png?size=smaller&amp;t=20090916121454" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2894.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Law and the Lady</title>
+<id>http://www.feedbooks.com/book/4371</id>
+<author>
+  <name>Wilkie Collins</name>
+  <uri>http://www.feedbooks.com/author/38</uri>
+</author>
+<updated>2009-11-03T21:21:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1875</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Valeria Woodville's first act as a married woman is to sign her name in the marriage register incorrectly, and this slip is followed by the gradual disclosure of a series of secrets about her husband's earlier life, each of which leads on to another set of questions and enigmas. Her discoveries prompt her to defy her husband's authority, to take the law into into a labyrinthine maze of false clues and deceptive identities, in which the exploration of the tangled workings of the mind becomes linked to an investigation into the masquerades of femininity. Probably the first full-length novel with a woman detective as its heroine, The Law and the Lady is a fascinating example of Collins's later fiction. First published in 1875, it employs many of the techniques used in The Moonstone, developing them in bizarre and unexpected ways, and in its Gothic and fantastic elements The Law and the Lady adds a significant dimension to the history of detective fiction.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/1622</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4371.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4371.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4371.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4371.png?t=20091103212149" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4371.png?size=smaller&amp;t=20091103212149" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4371.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Before Egypt</title>
+<id>http://www.feedbooks.com/book/4566</id>
+<author>
+  <name>E.K. Jarvis</name>
+  <uri>http://www.feedbooks.com/author/677</uri>
+</author>
+<updated>2010-01-12T15:58:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1957</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It was Mallison's strangest assignment. The weird little professor wanted to go to Egypt. That meant a trip back to Earth so far as Mallison was concerned. But the professor pointed to a distant star and Mallison wondered: &quot;Who moved Egypt?&quot;</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30932</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4566.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4566.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4566.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4566.png?t=20100112155821" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4566.png?size=smaller&amp;t=20100112155821" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4566.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Badge of Infamy</title>
+<id>http://www.feedbooks.com/book/851</id>
+<author>
+  <name>Lester Del Rey</name>
+  <uri>http://www.feedbooks.com/author/158</uri>
+</author>
+<updated>2009-09-16T10:31:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1957</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>As a doctor, Daniel Feldman once made the mistake of saving a friend's life in violation of Medical Lobby rules. Now he's a pariah, shunned by all, and forbidden to touch another patient. But rules are looser on Mars -- there, Doc Feldman is welcomed by the colonists, even as he's hunted by the authorities. But when he discovers a Martian plague may soon wipe out two planets, Feldman finds himself a pivotal figure. War erupts, Earth is poised to completely destroy the Mars colony, and a cure to the plague is the price of peace.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/851.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/851.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/851.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/851.png?t=20090916103131" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/851.png?size=smaller&amp;t=20090916103131" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/851.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Sky Is Falling</title>
+<id>http://www.feedbooks.com/book/853</id>
+<author>
+  <name>Lester Del Rey</name>
+  <uri>http://www.feedbooks.com/author/158</uri>
+</author>
+<updated>2009-09-16T10:31:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>''Dave stared around the office. He went to the window and stared upwards at the crazy patchwork of the sky. For all he knew, in such a sky there might be cracks. In fact, as he looked, he could make out a rift, and beyond that a ... hole ... a small patch where there was no color, and yet the sky there was not black. There were no stars there, though points of light were clustered around the edges, apparently retreating.''</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/853.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/853.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/853.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/853.png?t=20090916103135" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/853.png?size=smaller&amp;t=20090916103135" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/853.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Child That Went With The Fairies</title>
+<id>http://www.feedbooks.com/book/1575</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:02:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1870</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1575.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1575.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1575.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1575.png?t=20090916110235" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1575.png?size=smaller&amp;t=20090916110235" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1575.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mystery of 31 New Inn</title>
+<id>http://www.feedbooks.com/book/2061</id>
+<author>
+  <name>R. Austin Freeman</name>
+  <uri>http://www.feedbooks.com/author/288</uri>
+</author>
+<updated>2009-09-16T11:36:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2061.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2061.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2061.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2061.png?t=20090916113616" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2061.png?size=smaller&amp;t=20090916113616" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2061.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Cross Creek</title>
+<id>http://www.feedbooks.com/book/2127</id>
+<author>
+  <name>Marjorie Kinnan Rawlings</name>
+  <uri>http://www.feedbooks.com/author/300</uri>
+</author>
+<updated>2009-09-16T11:46:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1942</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Biography" label="Biography"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2127.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2127.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2127.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2127.png?t=20090916114620" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2127.png?size=smaller&amp;t=20090916114620" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2127.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Ultimate Weapon</title>
+<id>http://www.feedbooks.com/book/2308</id>
+<author>
+  <name>John Wood Campbell</name>
+  <uri>http://www.feedbooks.com/author/155</uri>
+</author>
+<updated>2009-09-16T12:00:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1936</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The star Mira was unpredictably variable. Sometimes it was blazing, brilliant and hot. Other times it was oddly dim, cool, shedding little warmth on its many planets. Gresth Gkae, leader of the Mirans, was seeking a better star, one to which his &quot;people&quot; could migrate. That star had to be steady, reliable, with a good planetary system. And in his astronomical searching, he found Sol. With hundreds of ships, each larger than whole Terrestrial spaceports, and traveling faster than the speed of light, the Mirans set out to move in to Solar regions and take over. And on Earth there was nothing which would be capable of beating off this incredible armada&#8212;until Buck Kendall stumbled upon THE ULTIMATE WEAPON.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2308.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2308.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2308.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2308.png?t=20090916120037" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2308.png?size=smaller&amp;t=20090916120037" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2308.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Star-begotten</title>
+<id>http://www.feedbooks.com/book/2600</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T12:11:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1937</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Star Begotten is a 1937 novel by H. G. Wells. It tells the story of a series of men who conjecture upon the possibility of the human race being altered by Martians to replace their own dying planet. The protagonist of the story Joseph Davis, who is an author of popular histories, becomes overtaken with suspicion that he and his family have already been exposed and are starting to change.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2600.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2600.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2600.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2600.png?t=20090916121130" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2600.png?size=smaller&amp;t=20090916121130" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2600.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Cautionary Tale</title>
+<id>http://www.feedbooks.com/book/2625</id>
+<author>
+  <name>Richard Kadrey</name>
+  <uri>http://www.feedbooks.com/author/109</uri>
+</author>
+<updated>2009-09-16T12:12:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2002</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.infinitematrix.net/stories/shortshorts/kadrey23.html</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2625.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2625.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2625.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2625.png?t=20090916121201" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2625.png?size=smaller&amp;t=20090916121201" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2625.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Malcolm Sage, Detective</title>
+<id>http://www.feedbooks.com/book/4542</id>
+<author>
+  <name>Herbert George Jenkins</name>
+  <uri>http://www.feedbooks.com/author/1320</uri>
+</author>
+<updated>2010-01-04T16:24:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>MALCOLM SAGE had been a hot shot intelligence agent for Britain's Division Z during the Great War, but when the fighting ceased, his thirst for action and adventure didn't. Fortunately, his old chief from division Z helped him set up the Malcolm Sage Detective Bureau, and much merry mayhem and more than a few ripping good yarns ensued.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/28084</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4542.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4542.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4542.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4542.png?t=20100104162408" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4542.png?size=smaller&amp;t=20100104162408" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4542.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Wealth of Echindul</title>
+<id>http://www.feedbooks.com/book/4631</id>
+<author>
+  <name>Noel Miller Loomis</name>
+  <uri>http://www.feedbooks.com/author/1357</uri>
+</author>
+<updated>2010-03-02T19:34:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Though he carried with him the loot of the ages, who in The Pass&#8212;that legalized city of vice and corruption&#8212;would dare risk his neck to help Russell, the Hard Luck Man of the Swamps?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31326</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4631.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4631.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4631.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4631.png?t=20100302193423" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4631.png?size=smaller&amp;t=20100302193423" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4631.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>An Alcoholic Case</title>
+<id>http://www.feedbooks.com/book/1113</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-09-16T10:42:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1937</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1113.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1113.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1113.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1113.png?t=20090916104220" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1113.png?size=smaller&amp;t=20090916104220" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1113.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Operation Haystack</title>
+<id>http://www.feedbooks.com/book/2444</id>
+<author>
+  <name>Frank Herbert</name>
+  <uri>http://www.feedbooks.com/author/384</uri>
+</author>
+<updated>2009-09-16T11:08:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It's hard to ferret out a gang of fanatics; it would, obviously, be even harder to spot a genetic line of dedicated men. But the problem Orne had was one step tougher than that!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2444.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2444.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2444.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2444.png?t=20090916110809" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2444.png?size=smaller&amp;t=20090916110809" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2444.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Uncommercial Traveller</title>
+<id>http://www.feedbooks.com/book/3327</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T12:32:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1860</dcterms:issued>
+<category term="Essay" label="Essay"/>
+<category term="Collections" label="Collections"/>
+<summary>The Uncommercial Traveller is a collection of literary sketches and reminiscences written by Charles Dickens.
+
+In 1859 Dickens founded a new journal called All the Year Round and the Uncommercial Traveller articles would be among his main contributions. He seems to have chosen the title and persona of the Uncommercial Traveller as a result of a speech he gave on the 22 December 1859 to the Commercial Travellers' School London in his role as honorary chairman and treasurer. The persona sits well with a writer who liked to travel, not only as a tourist, but also to research and report what he found; visiting Europe, America and giving book readings throughout Britain.
+
+Dickens began by writing seventeen episodes, which were printed in All the Year Round between 28 January and 13 October 1860 and these were published in a single edition in 1861. He sporadically produced eleven more articles between 1863-65 and an expanded edition of the work was printed in 1866. Once more he returned to the persona with some more sketches written 1868-69 and a complete set of these articles was published posthumously in 1875.</summary>
+<dcterms:source>Gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3327.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3327.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3327.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3327.png?t=20090916123246" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3327.png?size=smaller&amp;t=20090916123246" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3327.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

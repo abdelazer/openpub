@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=6&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=6&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=6&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 6 | Feedbooks</title>
+  <updated>2010-04-07T18:23:10Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>101</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=5&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=7&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Altered Destinies - a Harry Potter Fanfiction</title>
+<id>http://www.feedbooks.com/userbook/3035</id>
+<author>
+  <name>DobbyElfLord</name>
+  <uri>http://www.feedbooks.com/user/23398/profile#DobbyElfLord</uri>
+</author>
+<updated>2010-01-02T15:58:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>This is a fanfiction from &quot;www.fanfiction.net&quot; 
+
+Harry has defeated Voldemort, but it was a costly victory. Aberforth Dumbledore presents a plan to go back and kill the infant Riddle, but Harry will have to stay there 10 years. Can Harry alter the wizarding world's destiny? WWII and Grindelwald
+
+up to Chapter 21 of 39 
+
+http://www.fanfiction.net/s/3155057/1/</summary>
+<category term="suspense"/>
+<category term="supernatural"/>
+<category term="Tom R. Jr."/>
+<category term="Harry Potter"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3035.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3035.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3035.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3035.png?t=20100102155849" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3035.png?size=smaller&amp;t=20100102155849" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3035.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Royals</title>
+<id>http://www.feedbooks.com/userbook/10281</id>
+<author>
+  <name>Denise Kim Wy</name>
+  <uri>http://www.feedbooks.com/user/51109/profile#Denise%20Kim%20Wy</uri>
+</author>
+<updated>2010-02-12T22:56:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Matthew Hoarde now known as Vance Walton, is a hit man prodigy. His father was killed by an unknown murderer. He was accepted to the Royals, an underground brotherhood that is more stronger than the Mafia. After years of serving them and having his loved ones killed one by one he now decided to fight againts the system. Will he succeed? Or his mysterious past shall overpower his judgement?
+</summary>
+<category term="romance"/>
+<category term="mafia"/>
+<category term="love"/>
+<category term="death"/>
+<category term="assassin"/>
+<category term="action"/>
+<category term="Young Adult"/>
+<category term="hit man"/>
+<category term="crime"/>
+<category term="adventure"/>
+<category term="Identity"/>
+<category term="thriller"/>
+<category term="underground"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10281.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10281.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10281.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10281.png?t=20100212225622" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10281.png?size=smaller&amp;t=20100212225622" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10281.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>29 Jobs and a Million Lies</title>
+<id>http://www.feedbooks.com/userbook/10597</id>
+<author>
+  <name>Jenn Topper</name>
+  <uri>http://www.feedbooks.com/user/76934/profile#Jenn%20Topper</uri>
+</author>
+<updated>2010-02-24T17:42:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Dark, twisted, and outrageous, 29 Jobs and a Million Lies is not the story of your all-American girl seeking glory and success, but a glimpse at counterculture's underbelly and attempts to succeed within that world. From demented B-movie, roach-infested film production offices chock full of freakish characters to the Cannes Film Festival; from starting a punk rock record label to its hard but inevitable crash; from a grimy, Greenwich Village restaurant kitchen to failed attempts at joining the Navy, you gotta ask, What&#8217;s a nice girl from the suburbs doing all of this dirty work for, anyway?
+
+  
+
+29 Jobs and a Million Lies is the gut-wrenching, self-deprecating account of how ambition to stand out was wiped out by clumsy choices, immaturity and self-defeating righteousness. Energized to prove to the doubters that she could succeed despite the unorthodox approach, this litany of boneheaded decisions portrays how the author painfully hurled heart and soul into a long trail of draining pursuits, failing so often that success was invisible. 29 Jobs is a post-GenX novel, except it's true, and in the vein of Sarah Vowell, Chuck Klosterman, and Dave Eggers. 
+
+AVAILABLE FOR PURCHASE AT
+http://29jobsandamillionlies.com 
+or Amazon, B&amp;N, etc.
+
+Jenn Topper is just over the moon that she&#8217;s released 29 Jobs and a Million Lies. She&#8217;s currently a corporate sellout but her two perfect little boys don&#8217;t seem to mind one bit. Her first novel, Getting the Old Gang Back Together will be out soon so please stay tuned. Jenn is a proud member of the Year Zero Writer&#8217;s Collective where there are many writers more talented than herself. Visit Jenn at her blog, http://dontpublishme.blogspot.com.
+
+  
+
+ISBN 978-0-9843681-0-5
+</summary>
+<category term="culture"/>
+<category term="pop"/>
+<category term="music"/>
+<category term="memoir"/>
+<category term="comedy"/>
+<category term="Humor"/>
+<category term="hardcore"/>
+<category term="Restaurant"/>
+<category term="chef"/>
+<category term="boxing"/>
+<category term="Movies"/>
+<category term="horror"/>
+<category term="troma"/>
+<category term="punk"/>
+<category term="gen y"/>
+<category term="gen x"/>
+<category term="indie record label"/>
+<category term="law firm"/>
+<category term="cannes film festival"/>
+<category term="punk rock"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10597.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10597.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10597.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10597.png?t=20100224174242" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10597.png?size=smaller&amp;t=20100224174242" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10597.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rowan of the Wood (Preview)</title>
+<id>http://www.feedbooks.com/userbook/1998</id>
+<author>
+  <name>Christine and Ethan Rose</name>
+  <uri>http://www.feedbooks.com/user/18668/profile#Christine%20and%20Ethan%20Rose</uri>
+</author>
+<updated>2009-10-09T15:29:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Rowan of the Wood, WINNER of the 2009 Indie Excellence Award for YA Fiction and a Finalist for the 2008 National Best Books Award, tells the story of a young boy Cullen who meanders through the redwood forest every day on his way to school, losing himself in books and fantasy worlds full of elves, fairies, and wizards. He loves to escape to these magical lands because reality for him is not fun at all. Cullen and his two misfit friends, Maddy and April, are terribly unpopular amongst the other kids, and they regularly endure ridicule and bullying. Cullen's life changes incredibly one day when he uncovers an ancient magic wand that is inhabited by a powerful wizard, Rowan. Inadvertently, Cullen releases Rowan from the wand and finds himself possessed by the wizard, with a great power and an obsessive need to find a lost love. When danger is near, Rowan emerges from the frightened child to set things right. He and Cullen try to understand what has happened to them, only to discover a deeper problem. Nearly fourteen centuries ago, Rowan and his bride Fiana were separated on their wedding day. Rowan manages to survive, trapped in time, until Cullen releases him from the wand. Fiana uses dark magic to stay alive as she continues searching for Rowan. Over the centuries, Fiana descends deeper into the darkness becoming something evil and eventually giving up her search...until a young boy brings Rowan back to her. 
+
+The sequel, WITCH ON THE WATER, is now available on AMAZON and wherever fine books are sold.</summary>
+<category term="YA"/>
+<category term="fantastique"/>
+<category term="witch"/>
+<category term="vampires"/>
+<category term="vampire"/>
+<category term="love"/>
+<category term="tragic"/>
+<category term="gothic"/>
+<category term="orphan"/>
+<category term="California"/>
+<category term="Caledonia"/>
+<category term="Scotland"/>
+<category term="druid"/>
+<category term="Wizard"/>
+<category term="fantasy"/>
+<category term="Magic"/>
+<category term="Teen"/>
+<category term="*dark"/>
+<category term="dark fantasy"/>
+<category term="Young Adult"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/1998.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/1998.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/1998.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1998.png?t=20091009152928" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1998.png?size=smaller&amp;t=20091009152928" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/1998.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Diary of a Real Estate Agent</title>
+<id>http://www.feedbooks.com/userbook/10434</id>
+<author>
+  <name>Jon Citizen</name>
+  <uri>http://www.feedbooks.com/user/75756/profile#Jon%20Citizen</uri>
+</author>
+<updated>2010-02-16T05:51:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A short story describing Day 1 in the new life of Jon Citizen. A life in real estate. When we all thought the real estate industry was as low as it could go, it just gets worse. And worse. A humourous expos&#233; of one of the world's worst jobs. This story is a must for anyone who's buying a property or even thinking about buying a property!</summary>
+<category term="the truth about real estate"/>
+<category term="expose"/>
+<category term="diary"/>
+<category term="short story"/>
+<category term="fiction"/>
+<category term="humour"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10434.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10434.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10434.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10434.png?t=20100216055116" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10434.png?size=smaller&amp;t=20100216055116" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10434.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Make Do &amp; Cook: Savvy Shopping</title>
+<id>http://www.feedbooks.com/userbook/10639</id>
+<author>
+  <name>Patricia Mansfield-Devine</name>
+  <uri>http://www.feedbooks.com/user/77392/profile#Patricia%20Mansfield-Devine</uri>
+</author>
+<updated>2010-03-21T14:05:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>You can enjoy great food while still saving money. Adapted from 'Make Do &amp; Cook', this free e-book shows you how savings start before you get into the kitchen.
+
+By shopping smartly - including understanding how brands and price points work - you can ensure that you pay the least while still being able to create delicious and nutritious meals.
+
+As well as shopping tips, this book also looks at menu planing and budgeting. A great asset to the cost-conscious cook.</summary>
+<category term="budgeting"/>
+<category term="budget"/>
+<category term="money"/>
+<category term="shopping"/>
+<category term="cookery"/>
+<category term="cooking"/>
+<category term="food"/>
+<category term="low cost"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10639.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10639.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10639.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10639.png?t=20100321140534" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10639.png?size=smaller&amp;t=20100321140534" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10639.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Old Bull</title>
+<id>http://www.feedbooks.com/userbook/8205</id>
+<author>
+  <name>Xavier Leret</name>
+  <uri>http://www.feedbooks.com/user/57967/profile#Xavier%20Leret</uri>
+</author>
+<updated>2010-02-10T19:01:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Harry wakes up with a prostitute called Helena.
+
+Xavier is reading 'Turn The Porn On' for the Bordello Blush event - THE BOOK CLUB BOUTIQUE - Sat 13th Feb. Location: BLACKS. 67 DEAN ST. SOHO.London W1D 4QH
+Doors open at 8. Great club, big open fires, live music and sizzling, tingling, writings.</summary>
+<category term="www.xavierleret.com"/>
+<category term="Leret"/>
+<category term="Xavier"/>
+<category term="fiction"/>
+<category term="short"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8205.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8205.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8205.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8205.png?t=20100210190102" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8205.png?size=smaller&amp;t=20100210190102" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8205.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Goodbye</title>
+<id>http://www.feedbooks.com/userbook/7080</id>
+<author>
+  <name>Jan Gordon</name>
+  <uri>http://www.feedbooks.com/user/43049/profile#Jan%20Gordon</uri>
+</author>
+<updated>2009-11-29T17:45:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A story of love and life, of war and loss, and of longing and need.
+
+This short story is made up of sixteen drabbles.  A drabble is a story written in exactly one hundred words, not including the title, and cannot be one word more or one less than one hundred.  Each drabble within this book can be read on its own, but when read in conjunction with the other fifteen, will become part of a longer story.
+
+There is romance, there is angst, and there is violence.
+</summary>
+<category term="death"/>
+<category term="Drabble"/>
+<category term="angst"/>
+<category term="romance"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7080.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7080.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7080.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7080.png?t=20091129174537" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7080.png?size=smaller&amp;t=20091129174537" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7080.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Green Lantern #4</title>
+<id>http://www.feedbooks.com/userbook/10250</id>
+<author>
+  <name>John Elbe</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#John%20Elbe</uri>
+</author>
+<updated>2010-02-08T19:00:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Green Lantern: Eye of the Beholder, Part 1 (of 3): Paint it Black.</summary>
+<category term="Green Lantern"/>
+<category term="Black Hand"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Punch"/>
+<category term="Jewelee"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10250.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10250.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10250.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10250.png?t=20100208190044" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10250.png?size=smaller&amp;t=20100208190044" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10250.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Last Night, Said the Sunset</title>
+<id>http://www.feedbooks.com/userbook/10497</id>
+<author>
+  <name>P.J. Lyon</name>
+  <uri>http://www.feedbooks.com/user/26065/profile#P.J.%20Lyon</uri>
+</author>
+<updated>2010-03-03T21:38:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>They had looked for him everywhere.  Called all the friends in the book from A to Y (Z had always been missing from the book and, besides, he had never known anybody with a first or last name that began with Z).  His miniature dog, that tangled mess of hair punctured with a wet and dripping nose, was given an old tie and hopefully a scent to follow.
+</summary>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10497.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10497.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10497.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10497.png?t=20100303213823" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10497.png?size=smaller&amp;t=20100303213823" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10497.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Green Lantern #1</title>
+<id>http://www.feedbooks.com/userbook/9473</id>
+<author>
+  <name>Scott Kruger</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Scott%20Kruger</uri>
+</author>
+<updated>2010-01-08T20:00:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Green Lantern: Fear, Part 1 (of 3): The Disappearance.</summary>
+<category term="King Faraday"/>
+<category term="Green Lantern"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Sinestro"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9473.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9473.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9473.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9473.png?t=20100108200043" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9473.png?size=smaller&amp;t=20100108200043" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9473.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Shazam! #9</title>
+<id>http://www.feedbooks.com/userbook/10747</id>
+<author>
+  <name>KrystaleDragon and Mischief</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#KrystaleDragon%20and%20Mischief</uri>
+</author>
+<updated>2010-03-24T01:27:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Shazam!: Goddess Found, Part 3: I... AM.
+
+Someone in the shadows is making a move and that can't be good for Caesar and Adrianna. More is revealed about the bizarre killings of the homeless in Fawcett City. Black Adam makes another stunning guest appearance in this final chapter of Goddess Found entitled 'I AM...' </summary>
+<category term="Comics"/>
+<category term="Kid Marvel"/>
+<category term="Captain Marvel"/>
+<category term="Black Adam"/>
+<category term="Shazam"/>
+<category term="Isis"/>
+<category term="DC2"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10747.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10747.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10747.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10747.png?t=20100324012709" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10747.png?size=smaller&amp;t=20100324012709" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10747.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>ePublish: Self-Publish Fast and Profitably for Kindle, iPhone, CreateSpace and Print on Demand</title>
+<id>http://www.feedbooks.com/userbook/5524</id>
+<author>
+  <name>Steve Weber</name>
+  <uri>http://www.feedbooks.com/user/21844/profile#Steve%20Weber</uri>
+</author>
+<updated>2009-08-17T23:41:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Learn how to publish your book in eBook and paperback. 
+
+&#9650; Upload your book to Amazon&#8217;s Kindle, Apple&#8217;s iPhone, Smashwords, and other mobile platforms. 
+
+&#9650; Turn your text into a profitable paperback edition with no upfront costs for printing, storage, or shipping.
+
+&#9650; Get free, global exposure. 
+</summary>
+<category term="self-publish"/>
+<category term="Steve Weber"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5524.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5524.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5524.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5524.png?t=20090817234102" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5524.png?size=smaller&amp;t=20090817234102" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5524.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Book of Isaiah:Message to a Nation</title>
+<id>http://www.feedbooks.com/userbook/1959</id>
+<author>
+  <name>M. Christine Dickson</name>
+  <uri>http://www.feedbooks.com/user/18537/profile#M.%20Christine%20Dickson</uri>
+</author>
+<updated>2009-08-17T18:25:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>We have all heard the saying &quot;Those who don't know their history are doomed to repeat it.&quot; Have you been wondering why the world seems to be turned upside down? Do you think that the chaos today is brand new and has never been done? In this book a comparison to today's world vs. the Prophet Isaiah's world a few thousand years ago should send your head spinning and your knees to the ground.
+</summary>
+<category term="new"/>
+<category term="meaning"/>
+<category term="Thought"/>
+<category term="history"/>
+<category term="Christianity"/>
+<category term="Christian"/>
+<category term="religion"/>
+<category term="M.Christine Dickson"/>
+<category term="Jesus Christ"/>
+<category term="bible study"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/1959.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/1959.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/1959.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1959.png?t=20090817182537" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1959.png?size=smaller&amp;t=20090817182537" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/1959.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Turnscrew - a short story of DOOM</title>
+<id>http://www.feedbooks.com/userbook/10570</id>
+<author>
+  <name>Scott R Davis</name>
+  <uri>http://www.feedbooks.com/user/76746/profile#Scott%20R%20Davis</uri>
+</author>
+<updated>2010-03-16T02:19:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>It's been in my pocket the entire time. Lending me a comfort the origins of which I had temporarily forgotten. I remember it now, and slowly, I begin to realize I might live.</summary>
+<category term="science fiction"/>
+<category term="abduction"/>
+<category term="survival"/>
+<category term="horror"/>
+<category term="alien"/>
+<category term="Cyborg"/>
+<category term="tools"/>
+<category term="turnscrew"/>
+<category term="screwdriver"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10570.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10570.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10570.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10570.png?t=20100316021932" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10570.png?size=smaller&amp;t=20100316021932" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10570.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Old Kind</title>
+<id>http://www.feedbooks.com/userbook/11003</id>
+<author>
+  <name>Claire Farrell</name>
+  <uri>http://www.feedbooks.com/user/80314/profile#Claire%20Farrell</uri>
+</author>
+<updated>2010-03-17T17:36:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>A Short Sci-Fi tale. Lila has been hiding underground her whole life, constantly aware of the threat of an alien race who have enslaved most of the human race. When her clan finally trap one of the Raffians, she is tasked with watching over him during the celebrations. He reveals news to her that could change her life forever. 
+</summary>
+<category term="fantasy"/>
+<category term="alien"/>
+<category term="short story"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11003.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11003.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11003.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11003.png?t=20100317173614" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11003.png?size=smaller&amp;t=20100317173614" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11003.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Batman #12</title>
+<id>http://www.feedbooks.com/userbook/8849</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-12-12T01:33:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Batman: From the Pit, Finale.
+
+</summary>
+<category term="Victor Zsasz"/>
+<category term="The Question"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Question"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8849.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8849.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8849.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8849.png?t=20091212013324" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8849.png?size=smaller&amp;t=20091212013324" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8849.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>This Is Not A Test</title>
+<id>http://www.feedbooks.com/userbook/9971</id>
+<author>
+  <name>Pete Clark</name>
+  <uri>http://www.feedbooks.com/user/70774/profile#Pete%20Clark</uri>
+</author>
+<updated>2010-01-30T18:06:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>In the days following a worldwide infection, a man struggles with the challenge he faces, and copes by turning every encounter, even the flesh eating ones, into a test that he will either pass or fail.  </summary>
+<category term="zombie"/>
+<category term="horror"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9971.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9971.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9971.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9971.png?t=20100130180604" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9971.png?size=smaller&amp;t=20100130180604" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9971.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>DAY TRIPS to NARNIA</title>
+<id>http://www.feedbooks.com/userbook/10837</id>
+<author>
+  <name>Bruce T. Forbes</name>
+  <uri>http://www.feedbooks.com/user/78864/profile#Bruce%20T.%20Forbes</uri>
+</author>
+<updated>2010-04-04T12:52:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>STORY ADDED - EASTER 2010 ... A collection of 'fan fiction' short stories based on C. S. Lewis' world of Narnia. Although written for fun, most of the stories are moralistic in nature - but I think you will enjoy them anyway. When asked if he was going to write more Narnia books, C. S. Lewis' answer was: &quot;Why not write stories for yourself to fill up the gaps in Narnian history? I've left you plenty of hints - especially where Lucy and the unicorn are talking in 'The Last Battle'. I feel I have done all I can!&quot; (Paul Ford, COMPANION TO NARNIA (San Francisco: HarperSan Francisco, 2005) pg 443) Obviously, Narnia and anything to do with it is owned and copyrighted; hence this is merely 'fan fiction' and not copyrighted. Enjoy! If I find typo's, the corrected verions will be in my &quot;Grandpa Bruce's Gem Mine of Short Stories&quot;. Please post a comment if you enjoy this.
+</summary>
+<category term="Narnia"/>
+<category term="fantasy"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10837.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10837.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10837.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10837.png?t=20100404125232" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10837.png?size=smaller&amp;t=20100404125232" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10837.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Batman #8</title>
+<id>http://www.feedbooks.com/userbook/7986</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-10-21T23:37:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Batman: Half [A] Life.</summary>
+<category term="Mister Freeze"/>
+<category term="Doctor Phosphorous"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7986.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7986.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7986.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7986.png?t=20091021233703" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7986.png?size=smaller&amp;t=20091021233703" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7986.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

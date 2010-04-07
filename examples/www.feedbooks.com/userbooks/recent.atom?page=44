@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:app="http://www.w3.org/2007/app" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=44</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=44" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=44" rel="self"/>
+  <title>Original Books / New Releases / Page 44 | Feedbooks</title>
+  <updated>2010-04-07T18:24:23Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>861</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=43" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=45" rel="next" title="Next Page"/>
+<entry>
+<title>Mightiest Mortals #1</title>
+<id>http://www.feedbooks.com/userbook/4283</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:31:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Mightiest Mortals: With a Stroke of Lightning!</summary>
+<category term="Shazam"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Boss Ibac"/>
+<category term="Captain Marvel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4283.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4283.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4283.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4283.png?t=20090817163100" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4283.png?size=smaller&amp;t=20090817163100" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4283.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Speeding Bullet #1</title>
+<id>http://www.feedbooks.com/userbook/4282</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:30:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Speeding Bullet, Part 1 (of 4): Modern Gods.
+
+James Barr has developed a special device that allows him tremendous powers! Now he steps into a new world of masked men and heroic deeds, but is he really ready to take his place among the world's newest gods? Will the Murder Prophet usher in an age of blood first?</summary>
+<category term="Bulletman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Murder Prophet"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4282.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4282.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4282.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4282.png?t=20090817163059" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4282.png?size=smaller&amp;t=20090817163059" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4282.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Adventures of Superman #0</title>
+<id>http://www.feedbooks.com/userbook/4281</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T21:22:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>The Adventures of Superman: Lost Sons of Krypton, Prelude: Strange Visitors!</summary>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Faora"/>
+<category term="Kru-El"/>
+<category term="General Zod"/>
+<category term="Alexander Luthor"/>
+<category term="Lois Lane"/>
+<category term="Clark Kent"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4281.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4281.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4281.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4281.png?t=20090817212211" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4281.png?size=smaller&amp;t=20090817212211" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4281.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #7</title>
+<id>http://www.feedbooks.com/userbook/4280</id>
+<author>
+  <name>Ellen Fleischer</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Ellen%20Fleischer</uri>
+</author>
+<updated>2009-08-17T16:30:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Nightwing: The Great Unknown, Part 7 (of 7): One More Mile, One Step Back...</summary>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Barbara Gordon"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4280.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4280.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4280.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4280.png?t=20090817163057" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4280.png?size=smaller&amp;t=20090817163057" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4280.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aquaman #12</title>
+<id>http://www.feedbooks.com/userbook/4279</id>
+<author>
+  <name>Masoud House</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Masoud%20House</uri>
+</author>
+<updated>2009-08-17T16:30:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Aquaman: The Return, Part 3 (of 5): Taking on a Flood of Wickedness.
+
+As Orin tries to understand the mystery of the Leviathans, he finds another obstacle in his path in the form of a man called Noah: a man with strange abilities who claims that a second flood, like the Great Flood of the Bible, is coming to destroy humanity for its wickedness. How can Orin tackle a cult and this new foe while trying to finish his mission?</summary>
+<category term="Atlantis"/>
+<category term="Aquaman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Red Torpedo"/>
+<category term="Black Manta"/>
+<category term="Lex Luthor"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4279.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4279.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4279.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4279.png?t=20090817163058" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4279.png?size=smaller&amp;t=20090817163058" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4279.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Green Arrow #2</title>
+<id>http://www.feedbooks.com/userbook/4269</id>
+<author>
+  <name>Pat Owen</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Pat%20Owen</uri>
+</author>
+<updated>2009-08-18T01:07:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Ultimate Green Arrow: The Archer, Part 2 (of 2).
+
+Oliver and Roy must contend with nature. Trapped on a deserted island with no way out and, for all they know, thousands of miles from human life, the pair of friends must learn the skills they'll need to survive. Meanwhile, Arthur King begins to spread his power throughout Star City and has a surprise meeting with a certain bald billionaire...</summary>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Speedy"/>
+<category term="Green Arrow"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4269.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4269.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4269.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4269.png?t=20090818010733" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4269.png?size=smaller&amp;t=20090818010733" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4269.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Green Arrow #1</title>
+<id>http://www.feedbooks.com/userbook/4268</id>
+<author>
+  <name>Pat Owen</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Pat%20Owen</uri>
+</author>
+<updated>2009-08-17T18:30:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Ultimate Green Arrow: The Archer, Part 1 (of 2).
+
+A modern reinvention of the Emerald Archer as young playboy Oliver Queen is caught in the middle of a conspiracy against his father's company, the results of which may cause great change in the youthful man's lifestyle. It's GA as you've never seen him before! </summary>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Speedy"/>
+<category term="Green Arrow"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4268.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4268.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4268.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4268.png?t=20090817183011" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4268.png?size=smaller&amp;t=20090817183011" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4268.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aquaman #11</title>
+<id>http://www.feedbooks.com/userbook/4267</id>
+<author>
+  <name>Masoud House</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Masoud%20House</uri>
+</author>
+<updated>2009-08-17T16:30:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Aquaman: The Return&#8221;, Part 2 (of 5): The Behemoth of the Sea</summary>
+<category term="Atlantis"/>
+<category term="Aquaman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Black Manta"/>
+<category term="Black Shark"/>
+<category term="Black Jack"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4267.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4267.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4267.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4267.png?t=20090817163019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4267.png?size=smaller&amp;t=20090817163019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4267.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #6</title>
+<id>http://www.feedbooks.com/userbook/4264</id>
+<author>
+  <name>Ellen Fleischer</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Ellen%20Fleischer</uri>
+</author>
+<updated>2009-08-17T16:30:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Nightwing: The Great Unknown, Part 6 (of 7): Rolling With the Punches</summary>
+<category term="Vigilante"/>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Black Canary"/>
+<category term="Green Arrow"/>
+<category term="Barbara Gordon"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4264.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4264.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4264.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4264.png?t=20090817163019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4264.png?size=smaller&amp;t=20090817163019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4264.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #15</title>
+<id>http://www.feedbooks.com/userbook/4260</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T20:07:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Ultimate Gotham Girls: Facades, Part 2 (of 3)
+
+The investigation is underway-- Renee Montoya, AKA Batgirl, hot on the tail of Harvey Dent, AKA Two-Face! But can Renee truly believe that her old friend is a killer? And what would she do if she discovered the proof? Meanwhile, how long can Harvey hold his two selves together, under the stress and the guilt of what he's done? </summary>
+<category term="batgirl"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="poison ivy"/>
+<category term="Two Face"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4260.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4260.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4260.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4260.png?t=20090817200726" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4260.png?size=smaller&amp;t=20090817200726" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4260.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aquaman #10</title>
+<id>http://www.feedbooks.com/userbook/4259</id>
+<author>
+  <name>Masoud House</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Masoud%20House</uri>
+</author>
+<updated>2009-08-17T16:30:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Aquaman: The Return, Part 1 (of 5): Dreams &amp; Darkness.
+
+Though he&#8217;s evaded the spotlight for sometime, Aquaman makes a return, battling an enraged King Shark on the shores of Florida! But while our hero is busy, what forces, new and old, are plotting the downfall of Atlantis&#8217;s only savior?</summary>
+<category term="Atlantis"/>
+<category term="Aquaman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Captain Nemo"/>
+<category term="Supreme One"/>
+<category term="King Shark"/>
+<category term="Black Manta"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4259.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4259.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4259.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4259.png?t=20090817163052" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4259.png?size=smaller&amp;t=20090817163052" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4259.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #5</title>
+<id>http://www.feedbooks.com/userbook/4257</id>
+<author>
+  <name>Ellen Fleischer</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Ellen%20Fleischer</uri>
+</author>
+<updated>2009-08-17T19:16:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Nightwing: The Great Unknown, Part 5 (of 7): Little Acorns</summary>
+<category term="Vigilante"/>
+<category term="Huntress"/>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Black Canary"/>
+<category term="Green Arrow"/>
+<category term="Clark Kent"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4257.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4257.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4257.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4257.png?t=20090817191622" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4257.png?size=smaller&amp;t=20090817191622" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4257.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #14</title>
+<id>http://www.feedbooks.com/userbook/4247</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T20:07:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Ultimate Gotham Girls: Facades Part 1 (of 3).
+
+After years of hiding, Harvey Dent has finally returned to Gotham City. But for his old friend Renee, is this a good thing, or bad? And when Poison Ivy is framed for murder, who's going to search out the truth, no matter how shocking it may be? </summary>
+<category term="batgirl"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Two Face"/>
+<category term="harley quinn"/>
+<category term="poison ivy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4247.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4247.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4247.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4247.png?t=20090817200716" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4247.png?size=smaller&amp;t=20090817200716" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4247.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aquaman #9</title>
+<id>http://www.feedbooks.com/userbook/4246</id>
+<author>
+  <name>Brandon Herren</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brandon%20Herren</uri>
+</author>
+<updated>2009-08-17T16:30:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Aquaman: Between the Devil and the Deep Blue Sea (a.k.a. CRISIS: The Apokolips Imperative, Part 11)
+
+Editor's Note: There was no Aquaman #8. It was simply titled &quot;The Lost Adventure&quot; and is ... well... lost until the time that Mr. Herren chooses to revisit the events in the &quot;Sea Change&quot; plotline. So, for those of you who have been faithfully downloading all the issues, don't panic. You're not missing anything. Instead, issue #9 takes up part 11 of a multi-title crossover event called Crisis: The Apokolips Imperative. I will be posting a collected volume of the entire event soon.</summary>
+<category term="Aqualad"/>
+<category term="Atlantis"/>
+<category term="Aquaman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Big Barda"/>
+<category term="Mister Miracle"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4246.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4246.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4246.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4246.png?t=20090817163047" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4246.png?size=smaller&amp;t=20090817163047" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4246.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #4</title>
+<id>http://www.feedbooks.com/userbook/4240</id>
+<author>
+  <name>Ellen Fleischer</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Ellen%20Fleischer</uri>
+</author>
+<updated>2009-08-17T19:16:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Nightwing: The Great Unknown, Part 4 (of 7): Beyond the Shadows</summary>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Clark Kent"/>
+<category term="Grace Choi"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4240.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4240.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4240.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4240.png?t=20090817191612" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4240.png?size=smaller&amp;t=20090817191612" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4240.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #13</title>
+<id>http://www.feedbooks.com/userbook/4231</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T21:48:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Ultimate Gotham Girls: Overrun.
+
+The One Man Army Corps have taken the Gotham streets, and they're doing their jobs on the villains-- but are they safe for our heroes? When Batgirl ticks one off on patrol, can she stop a super-strong robot all by herself, before it hurts anyone else in its attack on her? </summary>
+<category term="OMAC"/>
+<category term="batgirl"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4231.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4231.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4231.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4231.png?t=20090817214825" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4231.png?size=smaller&amp;t=20090817214825" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4231.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aquaman #7</title>
+<id>http://www.feedbooks.com/userbook/4229</id>
+<author>
+  <name>Brandon Herren</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brandon%20Herren</uri>
+</author>
+<updated>2009-08-17T16:30:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Aquaman: Sea Change, Part 1 (of 2): Castles Made of Sand</summary>
+<category term="Aqualad"/>
+<category term="Trident"/>
+<category term="Atlantis"/>
+<category term="Aquaman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Ocean Master"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4229.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4229.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4229.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4229.png?t=20090817163043" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4229.png?size=smaller&amp;t=20090817163043" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4229.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #3</title>
+<id>http://www.feedbooks.com/userbook/4226</id>
+<author>
+  <name>Ellen Fleischer</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Ellen%20Fleischer</uri>
+</author>
+<updated>2009-08-17T19:15:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Nightwing: The Great Unknown, Part 3 (of 7): Decisions in the Dark</summary>
+<category term="Grace Choi"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Nightwing"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4226.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4226.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4226.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4226.png?t=20090817191558" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4226.png?size=smaller&amp;t=20090817191558" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4226.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #2</title>
+<id>http://www.feedbooks.com/userbook/4225</id>
+<author>
+  <name>Ellen Fleischer</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Ellen%20Fleischer</uri>
+</author>
+<updated>2009-08-17T19:15:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Nightwing: The Great Unknown, Part 2 (of 7): More to Me</summary>
+<category term="Raven"/>
+<category term="Breathtaker"/>
+<category term="Starfire"/>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Speedy"/>
+<category term="Wonder Girl"/>
+<category term="Kid Flash"/>
+<category term="Teen Titans"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4225.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4225.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4225.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4225.png?t=20090817191541" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4225.png?size=smaller&amp;t=20090817191541" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4225.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #12</title>
+<id>http://www.feedbooks.com/userbook/4214</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:30:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Danger Trail: The Stolen Myth Affair, Part 3 (of 3).
+
+Vandal Savage begins his plan to bring the world into his control! King Faraday, Speed Saunders and Midnight, along with their assembled allies, make their bid to stop him, but there are three queens in this game, and each one has their own vision for how the endgame should play out! It's the end of the first year on the Danger Trail...is it also just the end?</summary>
+<category term="Rima"/>
+<category term="Midnight"/>
+<category term="adventure"/>
+<category term="mystery"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Doctor Occult"/>
+<category term="Vandal Savage"/>
+<category term="Steven Savage"/>
+<category term="Enemy Ace"/>
+<category term="Argent St. Cloud"/>
+<category term="King Faraday"/>
+<category term="Speed Saunders"/>
+<category term="pulp fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4214.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4214.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4214.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4214.png?t=20090817163036" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4214.png?size=smaller&amp;t=20090817163036" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4214.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

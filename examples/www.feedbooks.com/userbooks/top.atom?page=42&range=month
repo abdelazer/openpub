@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=42&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=42&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=42&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 42 | Feedbooks</title>
+  <updated>2010-04-07T18:23:33Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>821</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=41&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=43&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Mary, the mother</title>
+<id>http://www.feedbooks.com/userbook/8914</id>
+<author>
+  <name>Paulo Roberto Candido dos Santos</name>
+  <uri>http://www.feedbooks.com/user/62908/profile#Paulo%20Roberto%20Candido%20dos%20Santos</uri>
+</author>
+<updated>2009-12-20T08:27:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>In this book, the author provides an overview hit&#243;ricos about Mary, the mother of Jesus, based on the Gospels and other ancient documents. Meet Mary of the Koran, the old story on the officer who would been the father of Jesus and the Marian apparitions. This book, pel its contents should not be read by devotees of Mary, because it contains text that will hurt sensibilities.It would be Mary, a copy of the old pagan goddesses? It is Christianity, a continuation of Mithraism?</summary>
+<category term="Mithraism."/>
+<category term="Tinitarianism;"/>
+<category term="Jesus;"/>
+<category term="apparitions"/>
+<category term="marian"/>
+<category term="Conception"/>
+<category term="Immaculate"/>
+<category term="mary"/>
+<category term="Virgin"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8914.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8914.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8914.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8914.png?t=20091220082732" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8914.png?size=smaller&amp;t=20091220082732" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8914.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Life After Hate -issue 1</title>
+<id>http://www.feedbooks.com/userbook/9644</id>
+<author>
+  <name>Angie Aker, Arno Michaels, Christian Picciolini</name>
+  <uri>http://www.feedbooks.com/user/70290/profile#Angie%20Aker%2C%20Arno%20Michaels%2C%20Christian%20Picciolini</uri>
+</author>
+<updated>2010-01-18T15:04:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Life After Hate is a quarterly e-publication about the triumph of love, peace, and openness. Forgiveness. Finding wisdom after travelling foolish paths. The joy of discovering common threads that interconnect all human beings.
+
+It's about basic human goodness.
+
+Leave racism and violence behind.
+
+also available online at http://lifeafterhate.org</summary>
+<category term="non-violence"/>
+<category term="equality"/>
+<category term="education"/>
+<category term="Progressive"/>
+<category term="sociology"/>
+<category term="empathy"/>
+<category term="discrimination"/>
+<category term="compassion"/>
+<category term="love"/>
+<category term="peace"/>
+<category term="skinhead"/>
+<category term="anti-racism"/>
+<category term="racism"/>
+<category term="peace education"/>
+<category term="basic human goodness"/>
+<category term="social justice"/>
+<category term="white power"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9644.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9644.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9644.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9644.png?t=20100118150458" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9644.png?size=smaller&amp;t=20100118150458" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9644.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #19</title>
+<id>http://www.feedbooks.com/userbook/10112</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2010-02-03T10:27:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Danger Trail: Affairs of Blood and State, Part 4.
+
+</summary>
+<category term="Azrael"/>
+<category term="adventure"/>
+<category term="mystery"/>
+<category term="pulp"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Plastic Man"/>
+<category term="Rose Psychic"/>
+<category term="pulp fiction"/>
+<category term="Speed Saunders"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10112.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10112.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10112.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10112.png?t=20100203102724" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10112.png?size=smaller&amp;t=20100203102724" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10112.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Global Curriculum Made in Hollywood</title>
+<id>http://www.feedbooks.com/userbook/879</id>
+<author>
+  <name>ijinkan</name>
+  <uri>http://www.feedbooks.com/user/11349/profile#ijinkan</uri>
+</author>
+<updated>2009-08-17T20:01:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>A Global Curriculum Made in Hollywood</summary>
+<category term="education"/>
+<category term="Curriculum"/>
+<category term="Hollywood"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/879.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/879.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/879.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/879.png?t=20090817200117" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/879.png?size=smaller&amp;t=20090817200117" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/879.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ladykiller - &quot;You Drive&quot;</title>
+<id>http://www.feedbooks.com/userbook/6075</id>
+<author>
+  <name>Charlotte Gill</name>
+  <uri>http://www.feedbooks.com/user/16337/profile#Charlotte%20Gill</uri>
+</author>
+<updated>2009-08-17T19:52:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>&quot;What could happen next besides gravity, besides the falling? The windshield smashed. Glass shattered, grains of glass hung suspended in confused air. Seconds elongated. Their guts compressed like they were submerging in fluid, a cold miasma of uncertainty. The airbags inflated in great slamming puffs against their chests. They gulped the sudden rush of cold air. Life ripped open, as by a sharp metal hook, and suddenly all things became possible.&quot;</summary>
+<category term="Canada"/>
+<category term="ladykiller"/>
+<category term="short stories"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6075.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6075.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6075.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6075.png?t=20090817195257" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6075.png?size=smaller&amp;t=20090817195257" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6075.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Knots</title>
+<id>http://www.feedbooks.com/userbook/3166</id>
+<author>
+  <name>Joseph Devon</name>
+  <uri>http://www.feedbooks.com/user/21430/profile#Joseph%20Devon</uri>
+</author>
+<updated>2009-08-17T21:12:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>In the course of my job I&#8217;ve given a lot of baths to little girls. There aren&#8217;t a lot of jobs where this can be considered a normal thing, but as a nanny that&#8217;s how it goes. Over the past few years there are few things I&#8217;ve come to dread more than having to comb out my girls&#8217; hair once bath time is done. I put myself in their shoes one day and the idea for this story came about. Simple and touching.</summary>
+<category term="mother daughter"/>
+<category term="daughter"/>
+<category term="mother"/>
+<category term="family"/>
+<category term="relationships"/>
+<category term="manny"/>
+<category term="nanny"/>
+<category term="hair"/>
+<category term="baths"/>
+<category term="kids"/>
+<category term="Creative Commons"/>
+<category term="fiction"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3166.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3166.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3166.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3166.png?t=20090817211237" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3166.png?size=smaller&amp;t=20090817211237" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3166.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Blood and Garlic: A Dick Burns Minit Mrdr&#174;</title>
+<id>http://www.feedbooks.com/userbook/3380</id>
+<author>
+  <name>William Garner &amp; Monkeyrotica</name>
+  <uri>http://www.feedbooks.com/user/19484/profile#William%20Garner%20%26%20Monkeyrotica</uri>
+</author>
+<updated>2009-08-17T16:25:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A brainwashed assassin runs amok in DC and is looking for a really good plate of ziti. Burns serves one up hot and steaming.</summary>
+<category term="hardboiled"/>
+<category term="dc"/>
+<category term="monkeyrotica"/>
+<category term="dick"/>
+<category term="burns"/>
+<category term="pulp"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3380.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3380.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3380.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3380.png?t=20090817162508" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3380.png?size=smaller&amp;t=20090817162508" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3380.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aquaman #4</title>
+<id>http://www.feedbooks.com/userbook/4194</id>
+<author>
+  <name>Brandon Herren</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brandon%20Herren</uri>
+</author>
+<updated>2009-08-17T16:30:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Aquaman: Shadows Over Atlantis, Part 1 (of 2)</summary>
+<category term="Atlantis"/>
+<category term="Aquaman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4194.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4194.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4194.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4194.png?t=20090817163021" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4194.png?size=smaller&amp;t=20090817163021" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4194.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mightiest Mortals #6</title>
+<id>http://www.feedbooks.com/userbook/4663</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:34:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Mightiest Mortals: Between Opposing Forces.
+
+Freddy finds himself having the most startlingly worst day of anyone's life! Can it be worse than losing a close relative? What about the dark secret within another relative? Or the secrets being held by his best friend? It all comes crashing down on him in a terrible avalanche of revelations! All this while the city moves on without him!</summary>
+<category term="Bulletman"/>
+<category term="Sabbac"/>
+<category term="Shazam"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Captain Marvel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4663.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4663.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4663.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4663.png?t=20090817163425" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4663.png?size=smaller&amp;t=20090817163425" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4663.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Titans #3</title>
+<id>http://www.feedbooks.com/userbook/7919</id>
+<author>
+  <name>Boris Mihajlovic and Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Boris%20Mihajlovic%20and%20Brian%20Burchette</uri>
+</author>
+<updated>2009-10-17T00:39:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Titans: Everything Old...
+
+After the startling discovery at the end of last issue, The Titans must face their past demons while still moving forward to stop a fiendish plot that involves old friends - and past loves.</summary>
+<category term="Titans"/>
+<category term="Nightwing"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Cyborg"/>
+<category term="Flamebird"/>
+<category term="Hotspot"/>
+<category term="Argent"/>
+<category term="Jericho"/>
+<category term="Ravager"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7919.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7919.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7919.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7919.png?t=20091017003953" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7919.png?size=smaller&amp;t=20091017003953" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7919.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Birds of Prey #1</title>
+<id>http://www.feedbooks.com/userbook/7773</id>
+<author>
+  <name>Matthew Davies</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Matthew%20Davies</uri>
+</author>
+<updated>2009-10-05T15:31:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Birds of Prey, Part One (of Four): Elimination Process.</summary>
+<category term="Vigilante"/>
+<category term="Zatanna"/>
+<category term="Omen"/>
+<category term="Huntress"/>
+<category term="batgirl"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Green Arrow"/>
+<category term="Black Canary"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7773.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7773.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7773.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7773.png?t=20091005153152" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7773.png?size=smaller&amp;t=20091005153152" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7773.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>BongoTree</title>
+<id>http://www.feedbooks.com/userbook/8092</id>
+<author>
+  <name>Tomid</name>
+  <uri>http://www.feedbooks.com/user/57283/profile#Tomid</uri>
+</author>
+<updated>2010-03-10T13:57:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1997</dcterms:issued>
+<summary>A jolly romp through the English language. BongoTree is a veritable smorgasbord of satirical wordplay.</summary>
+<category term="truth"/>
+<category term="Theology"/>
+<category term="Satire"/>
+<category term="Pirates"/>
+<category term="philosophy"/>
+<category term="humour"/>
+<category term="farce"/>
+<category term="comedy"/>
+<category term="agnostic"/>
+<category term="wordplay"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8092.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8092.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8092.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8092.png?t=20100310135737" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8092.png?size=smaller&amp;t=20100310135737" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8092.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Going Under</title>
+<id>http://www.feedbooks.com/userbook/8435</id>
+<author>
+  <name>Alwyne Ashweth</name>
+  <uri>http://www.feedbooks.com/user/44808/profile#Alwyne%20Ashweth</uri>
+</author>
+<updated>2009-11-18T20:33:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Take for granted, the London Underground delves deeply underneath this ancient city.  The forgotten past of countless humans lies there, waiting to be discovered.  And discarded deities prowl the tunnels, searching for those who would serve them.
+
+www.strangecircle.org.uk</summary>
+<category term="London"/>
+<category term="underground"/>
+<category term="tube"/>
+<category term="horror"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8435.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8435.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8435.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8435.png?t=20091118203346" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8435.png?size=smaller&amp;t=20091118203346" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8435.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #16</title>
+<id>http://www.feedbooks.com/userbook/8376</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-11-16T00:33:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Danger Trail: The Blood of Templars Affair.</summary>
+<category term="Trin Dee"/>
+<category term="pulp fiction"/>
+<category term="Enemy Ace"/>
+<category term="Speed Saunders"/>
+<category term="Rose Psychic"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Midnight"/>
+<category term="mystery"/>
+<category term="adventure"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8376.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8376.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8376.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8376.png?t=20091116003353" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8376.png?size=smaller&amp;t=20091116003353" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8376.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Carnival</title>
+<id>http://www.feedbooks.com/userbook/8778</id>
+<author>
+  <name>Jeremy W. Kerr</name>
+  <uri>http://www.feedbooks.com/user/61753/profile#Jeremy%20W.%20Kerr</uri>
+</author>
+<updated>2010-01-06T06:19:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>A prequel to &quot;Into the Black.&quot;  Tells the story of how a teenage Isambard Tims befriended the cyclops, Outis.</summary>
+<category term="third person"/>
+<category term="sci fi"/>
+<category term="short story"/>
+<category term="fantasy"/>
+<category term="carnival"/>
+<category term="SciFi"/>
+<category term="fiction"/>
+<category term="religion"/>
+<category term="death"/>
+<category term="slavery"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8778.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8778.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8778.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8778.png?t=20100106061938" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8778.png?size=smaller&amp;t=20100106061938" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8778.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Devil to Pay: Chapter 1</title>
+<id>http://www.feedbooks.com/userbook/8963</id>
+<author>
+  <name>Sarah Sammis</name>
+  <uri>http://www.feedbooks.com/user/63232/profile#Sarah%20Sammis</uri>
+</author>
+<updated>2010-01-04T03:25:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>The first book in a science fiction series where political missteps plunge a nation into a decades long inter-species war and will forever change the royal family.</summary>
+<category term="science fiction"/>
+<category term="SciFi"/>
+<category term="lgbt"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8963.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8963.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8963.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8963.png?t=20100104032522" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8963.png?size=smaller&amp;t=20100104032522" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8963.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Troilus and Criseyde</title>
+<id>http://www.feedbooks.com/userbook/8994</id>
+<author>
+  <name>Geoffrey Chaucer</name>
+  <uri>http://www.feedbooks.com/user/63079/profile#Geoffrey%20Chaucer</uri>
+</author>
+<updated>2009-12-20T20:29:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1385</dcterms:issued>
+<summary>The tragedy of Troilus and Criseyde is one of the greatest narrative poems in English literature. Set during the siege of Troy, it tells how the young knight Troilus, son of King Priam, falls in love with Criseyde, a beautiful widow. Brought together by Criseyde&#8217;s uncle, Pandarus, the lovers are then forced apart by the events of war, which test their oaths of fidelity and trust to the limits. The first work in English to depict human passion with such sympathy and understanding, Troilus and Criseyde is Chaucer&#8217;s supreme evocation of the joy and grief inherent in love.</summary>
+<category term="classic"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8994.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8994.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8994.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8994.png?t=20091220202902" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8994.png?size=smaller&amp;t=20091220202902" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8994.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Pirstovat Maapallon - 001 - S.S.H.U.T.</title>
+<id>http://www.feedbooks.com/userbook/10679</id>
+<author>
+  <name>Aamutakki Ethanin Taivasler</name>
+  <uri>http://www.feedbooks.com/user/69072/profile#Aamutakki%20Ethanin%20Taivasler</uri>
+</author>
+<updated>2010-03-01T11:47:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Historia, kirjoittanut voittaja, harvoin kirjaa kuvatuista tapahtumista, koska ne todella tapahtui, desinfioidaan ja yksinkertaistettu, on niiden opetus tappio suojelemiseksi, tai tuomita meid&#228;t?
+
+Lopussa toisen maailmansodan, piiritti h&#228;nen bunkkerissa, h&#228;nen Fantasy murskaamiseen h&#228;nen ymp&#228;rill&#228;&#228;n, Hitler tekee h&#228;nen paeta. Etel&#228;&#228;n h&#228;n lent&#228;&#228; ja viimeinen mahdollisuus, yksi lopullinen kanta ja yksi oppitunti historia unohdin opettaa meit&#228;.
+
+Pituus: 4000 sanoja tai 35 sivua noin.</summary>
+<category term="Novelleja"/>
+<category term="poliittista"/>
+<category term="science"/>
+<category term="fiction"/>
+<category term="truth"/>
+<category term="Hitlerin"/>
+<category term="kuolema"/>
+<category term="Alpine-Baijerin"/>
+<category term="Redoubt"/>
+<category term="Zhukov"/>
+<category term="Stalin"/>
+<category term="toisen"/>
+<category term="maailmansodan"/>
+<category term="Revisionismi"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10679.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10679.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10679.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10679.png?t=20100301114736" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10679.png?size=smaller&amp;t=20100301114736" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10679.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>&#1588;&#1592;&#1610;&#1577; &#1575;&#1604;&#1571;&#1585;&#1590; - OO1 - S.S.H.U.T.</title>
+<id>http://www.feedbooks.com/userbook/10670</id>
+<author>
+  <name>&#1585;&#1608;&#1576;&#1585;&#1578; &#1575;&#1610;&#1579;&#1575;&#1606;  &#1587;&#1603;&#1575;&#1610;&#1604;&#1585;</name>
+  <uri>http://www.feedbooks.com/user/69072/profile#%D8%B1%D9%88%D8%A8%D8%B1%D8%AA%20%D8%A7%D9%8A%D8%AB%D8%A7%D9%86%20%20%D8%B3%D9%83%D8%A7%D9%8A%D9%84%D8%B1</uri>
+</author>
+<updated>2010-03-01T09:54:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>&#1575;&#1604;&#1578;&#1575;&#1585;&#1610;&#1582; &#1575;&#1604;&#1584;&#1610; &#1603;&#1578;&#1576;&#1607; &#1604;&#1604;&#1601;&#1575;&#1574;&#1586; &#1548; &#1608;&#1606;&#1575;&#1583;&#1585;&#1575; &#1605;&#1575; &#1587;&#1580;&#1604; &#1575;&#1604;&#1571;&#1581;&#1583;&#1575;&#1579; &#1575;&#1604;&#1578;&#1610; &#1608;&#1589;&#1601;&#1607;&#1575; &#1603;&#1605;&#1575; &#1581;&#1583;&#1579; &#1601;&#1593;&#1604;&#1575; &#1563; &#1605;&#1591;&#1607;&#1585;&#1577; &#1608;&#1605;&#1576;&#1587;&#1591; &#1548; &#1607;&#1608; &#1575;&#1604;&#1583;&#1585;&#1587; &#1582;&#1587;&#1575;&#1585;&#1577; &#1604;&#1581;&#1605;&#1575;&#1610;&#1577; &#1548; &#1571;&#1608; &#1573;&#1583;&#1575;&#1606;&#1577; &#1604;&#1606;&#1575;&#1567;
+
+&#1601;&#1610; &#1606;&#1607;&#1575;&#1610;&#1577; &#1575;&#1604;&#1581;&#1585;&#1576; &#1575;&#1604;&#1593;&#1575;&#1604;&#1605;&#1610;&#1577; &#1575;&#1604;&#1579;&#1575;&#1606;&#1610;&#1577; &#1548; &#1575;&#1604;&#1605;&#1581;&#1575;&#1589;&#1585; &#1601;&#1610; &#1605;&#1582;&#1576;&#1574;&#1607; &#1548; &#1582;&#1610;&#1575;&#1604;&#1607; &#1575;&#1604;&#1605;&#1578;&#1583;&#1575;&#1593;&#1610;&#1577; &#1605;&#1606; &#1581;&#1608;&#1604;&#1607; &#1548; &#1608;&#1610;&#1580;&#1593;&#1604; &#1605;&#1606; &#1607;&#1578;&#1604;&#1585; &#1607;&#1585;&#1608;&#1576;&#1607;. &#1580;&#1606;&#1608;&#1576;&#1575; &#1610;&#1591;&#1610;&#1585; &#1604;&#1601;&#1585;&#1589;&#1577; &#1608;&#1575;&#1581;&#1583;&#1577; &#1571;&#1582;&#1610;&#1585;&#1577; &#1548; &#1608;&#1575;&#1581;&#1583;&#1577; &#1608;&#1605;&#1608;&#1602;&#1601; &#1606;&#1607;&#1575;&#1574;&#1610; &#1608;&#1575;&#1581;&#1583; &#1571;&#1603;&#1579;&#1585; &#1583;&#1585;&#1587;&#1575; &#1601;&#1610; &#1575;&#1604;&#1578;&#1575;&#1585;&#1610;&#1582; &#1606;&#1587;&#1610; &#1571;&#1606; &#1610;&#1593;&#1604;&#1605;&#1606;&#1575;.
+
+&#1575;&#1604;&#1591;&#1608;&#1604; : 5&#1548;000 &#1575;&#1604;&#1603;&#1604;&#1605;&#1575;&#1578; &#1571;&#1608; 30 &#1589;&#1601;&#1581;&#1577; &#1578;&#1602;&#1585;&#1610;&#1576;&#1575;.</summary>
+<category term="&#1575;&#1604;&#1578;&#1581;&#1585;&#1610;&#1601;&#1610;&#1577;"/>
+<category term="&#1580;&#1608;&#1603;&#1608;&#1601;"/>
+<category term="&#1575;&#1604;&#1576;&#1575;&#1601;&#1575;&#1585;&#1610;"/>
+<category term="&#1580;&#1576;&#1575;&#1604;"/>
+<category term="&#1607;&#1578;&#1604;&#1585;"/>
+<category term="&#1575;&#1604;&#1582;&#1610;&#1575;&#1604;"/>
+<category term="&#1575;&#1604;&#1587;&#1610;&#1575;&#1587;&#1610;&#1577;"/>
+<category term="&#1602;&#1589;&#1589;"/>
+<category term="&#1602;&#1589;&#1610;&#1585;"/>
+<category term="&#1587;&#1578;&#1575;&#1604;&#1610;&#1606;"/>
+<category term="&#1605;&#1578;&#1585;&#1575;&#1587;"/>
+<category term="&#1575;&#1604;&#1571;&#1604;&#1576;"/>
+<category term="&#1605;&#1608;&#1578;"/>
+<category term="&#1575;&#1604;&#1581;&#1602;&#1610;&#1602;&#1577;"/>
+<category term="&#1575;&#1604;&#1593;&#1604;&#1605;"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10670.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10670.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10670.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10670.png?t=20100301095436" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10670.png?size=smaller&amp;t=20100301095436" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10670.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Politicide &amp; The Revolution</title>
+<id>http://www.feedbooks.com/userbook/716</id>
+<author>
+  <name>Ulysses Storm</name>
+  <uri>http://www.feedbooks.com/user/8878/profile#Ulysses%20Storm</uri>
+</author>
+<updated>2009-08-17T16:05:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>A contemporary essay on clause for bloodless political revolution in the U.S.A..</summary>
+<category term="Politicide"/>
+<category term="Revolution"/>
+<category term="history"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/716.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/716.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/716.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/716.png?t=20090817160533" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/716.png?size=smaller&amp;t=20090817160533" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/716.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

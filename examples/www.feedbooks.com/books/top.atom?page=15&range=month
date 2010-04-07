@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=15&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=15&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=15&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 15 | Feedbooks</title>
+  <updated>2010-04-07T18:24:42Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>281</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=14&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=16&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Glinda of Oz</title>
+<id>http://www.feedbooks.com/book/324</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2010-01-02T15:27:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org/wiki/</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/324.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/324.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/324.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/324.png?t=20100102152703" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/324.png?size=smaller&amp;t=20100102152703" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/324.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Henry V</title>
+<id>http://www.feedbooks.com/book/3029</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:46:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1599</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Plays" label="Plays"/>
+<summary>Henry V is a history play by William Shakespeare, believed to be written in 1599. It is based on the life of King Henry V of England, and focuses on events immediately before and after the Battle of Agincourt during the Hundred Years' War.
+The play is the final part of a tetralogy, preceded by Richard II, Henry IV, part 1 and Henry IV, part 2. The original audiences would thus have already been familiar with the title character, who was depicted in the Henry IV plays as a wild, undisciplined lad known as &quot;Prince Hal.&quot; In Henry V, the young prince has become a mature man and embarks on an attempted conquest of France.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3029.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3029.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3029.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3029.png?t=20090916124648" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3029.png?size=smaller&amp;t=20090916124648" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3029.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Henry VIII</title>
+<id>http://www.feedbooks.com/book/3040</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:48:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1603</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Plays" label="Plays"/>
+<summary>The Famous History of the Life of King Henry the Eighth is a history play by William Shakespeare, based on the life of Henry VIII of England. An alternative title, All is True, is recorded in contemporary documents, the title Henry VIII not appearing until the play's publication in the First Folio of 1623. Stylistic evidence indicates that the play was written by Shakespeare in collaboration with, or revised by, his successor, John Fletcher. It is also somewhat characteristic of the late romances in its structure.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3040.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3040.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3040.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3040.png?t=20090916124805" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3040.png?size=smaller&amp;t=20090916124805" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3040.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Pilgrim's Progress</title>
+<id>http://www.feedbooks.com/book/4479</id>
+<author>
+  <name>John Bunyan</name>
+  <uri>http://www.feedbooks.com/author/1287</uri>
+</author>
+<updated>2009-12-10T21:48:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1678</dcterms:issued>
+<category term="Religion" label="Religion"/>
+<summary>The Pilgrim's Progress from This World to That Which Is to Come is a Christian allegory written by John Bunyan and published in February, 1678. It is regarded as one of the most significant works of English literature, has been translated into more than 200 languages, and has never been out of print.</summary>
+<dcterms:source>http://www.gutenberg.org/files/131/131-h/131-h.htm</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4479.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4479.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4479.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4479.png?t=20091210214859" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4479.png?size=smaller&amp;t=20091210214859" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4479.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>King Solomon's Mines</title>
+<id>http://www.feedbooks.com/book/89</id>
+<author>
+  <name>Henry Rider Haggard</name>
+  <uri>http://www.feedbooks.com/author/32</uri>
+</author>
+<updated>2009-09-16T10:09:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1885</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>King Solomon's Mines (1885) is a popular novel by the Victorian adventure writer and fabulist, Sir H. Rider Haggard. It tells of a quest into an unexplored region of Africa by a group of adventurers led by Allan Quatermain in search of the missing brother of one of the party. It is significant as the first English fictional adventure novel set in Africa, and is considered the genesis of the Lost World literary genre.</summary>
+<dcterms:source>Gutenberg</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/89.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/89.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/89.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/89.png?t=20090916100923" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/89.png?size=smaller&amp;t=20090916100923" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/89.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Colour Out of Space</title>
+<id>http://www.feedbooks.com/book/19</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:06:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1927</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>&quot;The Colour Out of Space&quot; is a first-person narrative written from the perspective of an unnamed surveyor from Boston. In order to prepare for the construction of a new reservoir in Massachusetts, he surveys a rural area that is to be flooded near Lovecraft's fictional town of Arkham. He comes across a mysterious patch of land, an abandoned five-acre farmstead, which is completely devoid of all life.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/19.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/19.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/19.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/19.png?t=20090916100643" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/19.png?size=smaller&amp;t=20090916100643" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/19.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Haunted House</title>
+<id>http://www.feedbooks.com/book/1388</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:46:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>Virginia Woolf's intention to publish her short stories is carried out in this volume, posthumously collected by her husband, Leonard Woolf. Containing six of eight stories from Monday or Tuesday, seven that appeared in magazines, and five other stories, the book makes available Virginia Woolf's shorter works of fiction.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1388.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1388.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1388.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1388.png?t=20090916104645" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1388.png?size=smaller&amp;t=20090916104645" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1388.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Beyond the Door</title>
+<id>http://www.feedbooks.com/book/3863</id>
+<author>
+  <name>Philip K. Dick</name>
+  <uri>http://www.feedbooks.com/author/1023</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Did you ever wonder at the lonely life the bird in a cuckoo clock has to lead&#8212;that it might possibly love and hate just as easily as a real animal of flesh and blood? Philip Dick used that idea for this brief fantasy tale. We're sure that after reading it you'll give cuckoo clocks more respect.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3863.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3863.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3863.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3863.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3863.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3863.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dracula's Guest</title>
+<id>http://www.feedbooks.com/book/462</id>
+<author>
+  <name>Bram Stoker</name>
+  <uri>http://www.feedbooks.com/author/31</uri>
+</author>
+<updated>2009-09-16T10:22:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Gothic" label="Gothic"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/462.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/462.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/462.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/462.png?t=20090916102229" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/462.png?size=smaller&amp;t=20090916102229" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/462.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Road to Oz</title>
+<id>http://www.feedbooks.com/book/218</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2009-09-16T10:14:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1909</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/218.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/218.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/218.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/218.png?t=20090916101436" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/218.png?size=smaller&amp;t=20090916101436" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/218.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Eugenics and Other Evils</title>
+<id>http://www.feedbooks.com/book/3719</id>
+<author>
+  <name>Gilbert Keith Chesterton</name>
+  <uri>http://www.feedbooks.com/author/953</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<category term="Essay" label="Essay"/>
+<category term="Science" label="Science"/>
+<category term="Collections" label="Collections"/>
+<category term="Politics" label="Politics"/>
+<summary>From the introduction:
+&quot;I publish these essays at the present time for a particular reason connected with the present situation; a reason which I should like briefly to emphasise and make clear.
+Though most of the conclusions, especially towards the end, are conceived with reference to recent events, the actual bulk of preliminary notes about the science of Eugenics were written before the war.[...]&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3719.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3719.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3719.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3719.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3719.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3719.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>After the Siege</title>
+<id>http://www.feedbooks.com/book/339</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:17:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/339.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/339.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/339.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/339.png?t=20090916101726" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/339.png?size=smaller&amp;t=20090916101726" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/339.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Burn</title>
+<id>http://www.feedbooks.com/book/651</id>
+<author>
+  <name>James Patrick Kelly</name>
+  <uri>http://www.feedbooks.com/author/139</uri>
+</author>
+<updated>2009-09-16T10:27:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Colonization is the theme of this exciting, complex page-turner that provides a provocative and entertaining look at Thoreau's classic eco-text Walden. Eccentric billionaire Jack Winter has bought the planet Beekman's Pea, renamed it Walden, and created a utopia in which members renounce the technologies of human civilization. Marginalized by these newcomers, the planet's original inhabitants are resisting the colony's dominance by setting fires to Walden's artificial ecology. A member of Walden, Prosper Gregory Leung is a veteran firefighter who believes in protecting Winter's utopian vision, but when he is wounded, he begins to learn of the terrible price that the people of Walden are paying for their paradise. Interwoven with themes of environmental responsibility, political struggle, and courage, this adventure novel nimbly combines political and social relevance with a flawless and gripping narrative from a veteran science fiction author.</summary>
+<dcterms:source>http://www.jimkelly.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/651.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/651.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/651.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/651.png?t=20090916102749" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/651.png?size=smaller&amp;t=20090916102749" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/651.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Where Love is, There God is Also</title>
+<id>http://www.feedbooks.com/book/1736</id>
+<author>
+  <name>Lev Nikolayevich Tolstoy</name>
+  <uri>http://www.feedbooks.com/author/28</uri>
+</author>
+<updated>2009-09-16T11:11:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1885</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Religion" label="Religion"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1736.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1736.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1736.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1736.png?t=20090916111106" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1736.png?size=smaller&amp;t=20090916111106" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1736.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>True Names</title>
+<id>http://www.feedbooks.com/book/3511</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<author>
+  <name>Benjamin Rosenbaum</name>
+  <uri>http://www.feedbooks.com/author/587</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The tale of duelling galactic colony-organisms that are competing to recruit all the matter in the universe for raw computation.</summary>
+<dcterms:source>http://boingboing.hexten.net/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3511.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3511.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3511.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3511.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3511.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3511.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Bleak House</title>
+<id>http://www.feedbooks.com/book/686</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:28:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1853</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Widely regarded as Dickens&#8217;s masterpiece, Bleak House centers on the generations-long lawsuit Jarndyce and Jarndyce, through which &#8220;whole families have inherited legendary hatreds.&#8221; Focusing on Esther Summerson, a ward of John Jarndyce, the novel traces Esther&#8217;s romantic coming-of-age and, in classic Dickensian style, the gradual revelation of long-buried secrets, all set against the foggy backdrop of the Court of Chancery. Mixing romance, mystery, comedy, and satire, Bleak House limns the suffering caused by the intricate inefficiency of the law. </summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/686.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/686.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/686.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/686.png?t=20090916102848" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/686.png?size=smaller&amp;t=20090916102848" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/686.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ten Years Later</title>
+<id>http://www.feedbooks.com/book/3596</id>
+<author>
+  <name>Alexandre Dumas</name>
+  <uri>http://www.feedbooks.com/author/25</uri>
+</author>
+<updated>2009-08-18T01:18:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1848</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<category term="Romance" label="Romance"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The Vicomte of Bragelonne: Ten Years Later (Le Vicomte de Bragelonne ou Dix ans plus tard) is a novel by Alexandre Dumas, p&#232;re. It is the third and last of the d'Artagnan Romances following The Three Musketeers and Twenty Years After. It appeared first in serial form between 1847 and 1850.
+Ten Years Later is the second volume.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3596.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3596.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3596.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3596.png?t=20090818011810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3596.png?size=smaller&amp;t=20090818011810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3596.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Geek Mafia</title>
+<id>http://www.feedbooks.com/book/917</id>
+<author>
+  <name>Rick Dakan</name>
+  <uri>http://www.feedbooks.com/author/187</uri>
+</author>
+<updated>2009-09-16T10:34:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Thriller" label="Thriller"/>
+<summary>Fired from a job he hated at a company he loved, videogame designer Paul Reynolds is drowning his sorrows in late-morning margaritas when he meets an alluring, pink-haired conwoman named Chloe. With her gang of techno-pirate friends, Chloe helps Paul not only take revenge on his former employers, but also extort a small fortune from them in the process. What more could a recently unemployed, over-worked videogame designer in Silicon Valley ask for?
+
+In return for Chloe&#8217;s help, Paul agrees to create counterfeit comic books for one of her crew&#8217;s criminal schemes. In the process finds himself drawn right into the center of their wild, seductive, underground world. He falls in for their fun loving, drug fueled &#8220;off the grid&#8221; lifestyle almost as fast as he falls head over heels for Chloe. Wary of the Crew&#8217;s darker side, but eager to impress both the girl and the gang, Paul uses his game design expertise to invent a masterful con of his own. If all goes according to plan, it will be one for the ages. But can he trust any of them, or is he the one who&#8217;s really being conned?
+
+Inspired by author Rick Dakan&#8217;s own eventful experiences in the videogame and comic book industries, &quot;Geek Mafia&quot;, satisfies the hunger in all of us to buck the system, take revenge on corporate America, and live a life of excitement and adventure.</summary>
+<dcterms:source>http://www.rickdakan.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/917.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/917.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/917.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/917.png?t=20090916103442" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/917.png?size=smaller&amp;t=20090916103442" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/917.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The $30,000 Bequest and other short stories</title>
+<id>http://www.feedbooks.com/book/1176</id>
+<author>
+  <name>Mark Twain</name>
+  <uri>http://www.feedbooks.com/author/24</uri>
+</author>
+<updated>2009-09-16T10:43:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2004</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>No Description Available</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1176.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1176.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1176.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1176.png?t=20090916104318" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1176.png?size=smaller&amp;t=20090916104318" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1176.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Heretics</title>
+<id>http://www.feedbooks.com/book/3679</id>
+<author>
+  <name>Gilbert Keith Chesterton</name>
+  <uri>http://www.feedbooks.com/author/953</uri>
+</author>
+<updated>2009-08-18T01:18:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1905</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Essay" label="Essay"/>
+<category term="Collections" label="Collections"/>
+<category term="Religion" label="Religion"/>
+<summary>Though he was on the whole a fun loving and gregarious man, during adolescence Chesterton was troubled by thoughts of suicide. In Christianity he found answers to many of the dilemmas and paradoxes of life. Throughout Heretics he provides a very personal critique of contemporary religious notions. His consistently engaging but often wayward humour is mixed liberally with daring flights of fancy and some startling turns of thought. A highly original collection of essays, providing an invaluable contribution to one of the major debates of the last century - one that continues to exercise leading thinkers in the present one.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3679.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3679.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3679.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3679.png?t=20090818011810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3679.png?size=smaller&amp;t=20090818011810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3679.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

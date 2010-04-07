@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=8&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=8&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=8&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 8 | Feedbooks</title>
+  <updated>2010-04-07T18:24:36Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>141</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=7&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=9&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Hacker Crackdown</title>
+<id>http://www.feedbooks.com/book/1309</id>
+<author>
+  <name>Bruce Sterling</name>
+  <uri>http://www.feedbooks.com/author/208</uri>
+</author>
+<updated>2009-09-16T10:46:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1992</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<summary>A journalist investigates the past, present, and future of computer crimes, as he attends a hacker convention, documents the extent of the computer crimes, and presents intriguing facts about hackers and their misdoings.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1309.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1309.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1309.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1309.png?t=20090916104631" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1309.png?size=smaller&amp;t=20090916104631" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1309.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>At the Mountains of Madness</title>
+<id>http://www.feedbooks.com/book/26</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:06:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<summary>At the Mountains of Madness is a novella by horror writer H. P. Lovecraft, written in February/March 1931 and originally serialized in the February, March and April 1936 issues of Astounding Stories. It has been reproduced in numerous collections since Lovecraft's death.
+Lovecraft scholar S. T. Joshi describes the novella as representing the decisive &quot;demythology&quot; of the Cthulhu Mythos by reinterpreting Lovecraft's earlier supernatural stories in a science fiction paradigm.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/26.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/26.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/26.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/26.png?t=20090916100649" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/26.png?size=smaller&amp;t=20090916100649" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/26.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Magic for Beginners</title>
+<id>http://www.feedbooks.com/book/3187</id>
+<author>
+  <name>Kelly Link</name>
+  <uri>http://www.feedbooks.com/author/588</uri>
+</author>
+<updated>2009-09-16T13:01:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Collections" label="Collections"/>
+<summary>Link's engaging and funny second collection -- call it kitchen-sink magical realism -- riffs on haunted convenience stores, husbands and wives, rabbits, zombies, weekly apocalyptic poker parties, witches, superheroes, marriage, and cannons -- and includes several new stories.</summary>
+<dcterms:source>http://www.lcrw.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3187.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3187.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3187.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3187.png?t=20090916130155" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3187.png?size=smaller&amp;t=20090916130155" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3187.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>His Last Bow</title>
+<id>http://www.feedbooks.com/book/65</id>
+<author>
+  <name>Arthur Conan Doyle</name>
+  <uri>http://www.feedbooks.com/author/1</uri>
+</author>
+<updated>2009-09-16T10:08:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<summary>His Last Bow is a collection of seven Sherlock Holmes stories (eight in American editions) by Arthur Conan Doyle, as well as the title of one of the stories in that collection. Originally published in 1917, it contains the various Holmes stories published between 1908 and 1913, as well as the one-off title story from 1917.
+The collection was originally called Reminiscences of Sherlock Holmes and did not contain the actual story His Last Bow, which appeared later, after the full-length The Valley of Fear was published. However later editions added it and changed the title. Some recent complete editions have restored the earlier title.
+When the Memoirs of Sherlock Holmes were published in the USA for the first time, the publishers believed &quot;The Adventure of the Cardboard Box&quot; was too scandalous for the American public, since it dealt with the theme of adultery. As a result, this story was not published in the USA until many years later, when it was added to His Last Bow. Even today, most American editions of the canon include it with His Last Bow, while most British editions keep the story in its original place in The Memoirs of Sherlock Holmes.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/65.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/65.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/65.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/65.png?t=20090916100802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/65.png?size=smaller&amp;t=20090916100802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/65.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Oliver Twist</title>
+<id>http://www.feedbooks.com/book/56</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-11-24T18:42:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1867</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Set in Victorian London, this is a tale of a spirited young innocent's unwilling but inevitable recruitment into a scabrous gang of thieves. Masterminded by the loathsome Fagin, the underworld crew features some of Dickens' most memorable characters, including the vicious Bill Sikes, gentle Nancy, and the juvenile pickpocket known as the Artful Dodger.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/56.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/56.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/56.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/56.png?t=20091124184255" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/56.png?size=smaller&amp;t=20091124184255" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/56.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Alchemist</title>
+<id>http://www.feedbooks.com/book/235</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>&quot;The Alchemist&quot; is a short story by H. P. Lovecraft, written in 1908, when Lovecraft was 17 or 18, and first published in the November 1916 issue of the United Amateur.
+The story is recounted by the protagonist, Antoine C-, in the first person. Hundreds of years ago, Antoine's noble ancestor was responsible for the death of a dark wizard, Michel Mauvais. The wizard's son, Charles le Sorcier, swore revenge on not only him but all his descendants, cursing them to die on reaching the age of 32.
+The protagonist recounts how his ancestors all died in some mysterious way around the age of 32. The line has dwindled and the castle has been left to fall into disrepair, tower by tower. Finally, Antoine is the only one left, with one poor servant, Pierre, who raised him, and a tiny section of the castle with a single tower is still usable. Antoine has reached adulthood, and his 32nd year is approaching.
+</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/235.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/235.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/235.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/235.png?t=20090916101526" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/235.png?size=smaller&amp;t=20090916101526" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/235.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>To the Lighthouse</title>
+<id>http://www.feedbooks.com/book/1234</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:44:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1927</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>To the Lighthouse (5 May 1927) is a novel by Virginia Woolf. A landmark novel of high modernism, the text, centering on the Ramsay family and their visits to the Isle of Skye in Scotland between 1910 and 1920, skillfully manipulates temporality and psychological exploration.
+To the Lighthouse follows and extends the tradition of modernist novelists like Marcel Proust and James Joyce, where the plot is secondary to philosophical introspection, and the prose can be winding and hard to follow. The novel includes little dialogue and almost no action; most of it is written as thoughts and observations. The novel recalls the power of childhood emotions and highlights the impermanence of adult relationships. One of the book's several themes is the ubiquity of transience.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1234.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1234.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1234.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1234.png?t=20090916104441" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1234.png?size=smaller&amp;t=20090916104441" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1234.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Babbitt</title>
+<id>http://www.feedbooks.com/book/1644</id>
+<author>
+  <name>Sinclair Lewis</name>
+  <uri>http://www.feedbooks.com/author/246</uri>
+</author>
+<updated>2009-11-26T09:37:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>In this sardonic portrait of the up-and-coming middle class during the prosperous 1920s, Sinclair Lewis (1885-1951) perfectly captures the sound, the feel, and the attitudes of the generation that created the cult of consumerism. With a sharp eye for detail and keen powers of observation, Lewis tracks successful realtor George Babbitt's daily struggles to rise to the top of his profession while maintaining his reputation as an upstanding family man.
+On the surface, Babbitt appears to be the quintessential middle-class embodiment of conservative values and enthusiasm for the well-to-do lifestyle of the small entrepreneur. But beneath the complacent facade, he also experiences a rising, nameless discontent. These feelings eventually lead Babbitt into risky escapades that threaten his family and his standing in the community.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1644.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1644.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1644.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1644.png?t=20091126093706" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1644.png?size=smaller&amp;t=20091126093706" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1644.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The United States Constitution</title>
+<id>http://www.feedbooks.com/book/4196</id>
+<author>
+  <name>James Madison</name>
+  <uri>http://www.feedbooks.com/author/1193</uri>
+</author>
+<updated>2009-09-23T07:23:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1787</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Politics" label="Politics"/>
+<summary>The Constitution of the United States of America is the supreme law of the United States. It is the foundation and source of the legal authority underlying the existence of the United States of America and the Federal Government of the United States. It provides the framework for the organization of the United States Government. The document defines the three main branches of the government: The legislative branch with a bicameral Congress, an executive branch led by the President, and a judicial branch headed by the Supreme Court. Besides providing for the organization of these branches, the Constitution outlines obligations of each office, as well as provides what powers each branch may exercise. It also reserves numerous rights for the individual states, thereby establishing the United States' federal system of government. It is the shortest and oldest written constitution of any major sovereign state. 
+The United States Constitution was adopted on September 17, 1787, by the Constitutional Convention (or Constitutional Congress[citation needed]) in Philadelphia, Pennsylvania, and later ratified by conventions in each U.S. state in the name of &quot;The People&quot;; it has since been amended twenty-seven times, the first ten amendments being known as the Bill of Rights. The Articles of Confederation and Perpetual Union was actually the first constitution of the United States of America. The U.S. Constitution replaced the Articles of Confederation as the governing document for the United States after being ratified by nine states. The Constitution has a central place in United States law and political culture. The handwritten, or &quot;engrossed&quot;, original document penned by Jacob Shallus is on display at the National Archives and Records Administration in Washington, D.C.</summary>
+<dcterms:source>http://en.wikipedia.org/wiki/United_States_Constitution  http://www.usconstitution.net/xconst.html</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4196.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4196.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4196.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4196.png?t=20090923072308" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4196.png?size=smaller&amp;t=20090923072308" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4196.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>When Sysadmins Ruled the Earth</title>
+<id>http://www.feedbooks.com/book/335</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:17:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The heroic exploits of &quot;sysadmins&quot; &#8212; systems administrators &#8212; as they defend the cyber-world, and hence the world at large, from worms and bioweapons. </summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/335.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/335.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/335.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/335.png?t=20090916101722" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/335.png?size=smaller&amp;t=20090916101722" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/335.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Portrait of the Artist as a Young Man</title>
+<id>http://www.feedbooks.com/book/222</id>
+<author>
+  <name>James Joyce</name>
+  <uri>http://www.feedbooks.com/author/4</uri>
+</author>
+<updated>2010-01-02T15:27:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>A Portrait of the Artist as a Young Man is a semi-autobiographical novel by James Joyce, first serialized in The Egoist from 1914 to 1915 and published in book form in 1916. It depicts the formative years in the life of Stephen Dedalus, a fictional alter ego of Joyce and a pointed allusion to the consummate craftsman of Greek mythology, Daedalus.
+A Portrait is a key example of the K&#252;nstlerroman (an artist's bildungsroman) in English literature. Joyce's novel traces the intellectual and religio-philosophical awakening of young Stephen Dedalus as he begins to question and rebel against the Catholic and Irish conventions he has been brought up in. He finally leaves for Paris to pursue his calling as an artist. The work pioneers some of Joyce's modernist techniques that would later come to fruition in Ulysses and Finnegans Wake. The Modern Library ranked Portrait as the third greatest English-language novel of the twentieth century.</summary>
+<dcterms:source>Gutenberg</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/222.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/222.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/222.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/222.png?t=20100102152702" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/222.png?size=smaller&amp;t=20100102152702" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/222.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Journey into the Interior of the Earth</title>
+<id>http://www.feedbooks.com/book/3796</id>
+<author>
+  <name>Jules Verne</name>
+  <uri>http://www.feedbooks.com/author/19</uri>
+</author>
+<updated>2010-03-31T18:17:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1877</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Journey to the Center of the Earth is a classic 1864 science fiction novel by Jules Verne (published in the original French as Voyage au centre de la Terre). The story involves a professor who leads his nephew and hired guide down a volcano in Iceland to the &quot;center of the Earth&quot;. They encounter many adventures, including prehistoric animals and natural hazards, eventually coming to the surface again in southern Italy.</summary>
+<dcterms:source>http://en.wikisource.org/wiki/Journey_into_the_Interior_of_the_Earth</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3796.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3796.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3796.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3796.png?t=20100331181736" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3796.png?size=smaller&amp;t=20100331181736" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3796.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>On the Duty of Civil Disobedience</title>
+<id>http://www.feedbooks.com/book/219</id>
+<author>
+  <name>Henry David Thoreau</name>
+  <uri>http://www.feedbooks.com/author/106</uri>
+</author>
+<updated>2009-09-16T10:14:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1849</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Essay" label="Essay"/>
+<category term="Politics" label="Politics"/>
+<summary>Thoreau wrote his famous essay, On the Duty of Civil Disobedience, as a protest against an unjust but popular war and the immoral but popular institution of slave-owning. </summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/219.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/219.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/219.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/219.png?t=20090916101436" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/219.png?size=smaller&amp;t=20090916101436" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/219.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Starfish</title>
+<id>http://www.feedbooks.com/book/974</id>
+<author>
+  <name>Peter Watts</name>
+  <uri>http://www.feedbooks.com/author/193</uri>
+</author>
+<updated>2009-09-17T09:18:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2000</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A huge international corporation has developed a facility along the Juan de Fuca Ridge at the bottom of the Pacific Ocean to exploit geothermal power. They send a bio-engineered crew--people who have been altered to withstand the pressure and breathe the seawater--down to live and work in this weird, fertile undersea darkness.
+
+Unfortunately the only people suitable for long-term employment in these experimental power stations are crazy, some of them in unpleasant ways. How many of them can survive, or will be allowed to survive, while worldwide disaster approaches from below?</summary>
+<dcterms:source>http://www.rifters.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/974.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/974.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/974.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/974.png?t=20090917091854" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/974.png?size=smaller&amp;t=20090917091854" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/974.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Howards End</title>
+<id>http://www.feedbooks.com/book/2071</id>
+<author>
+  <name>E. M. Forster</name>
+  <uri>http://www.feedbooks.com/author/290</uri>
+</author>
+<updated>2009-09-16T11:39:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1910</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>The disregard of a dying woman's bequest, a girl's attempt to help an impoverished clerk, and the marriage of an idealist and a materialist &#8212; all intersect at an estate called Howards End. The fate of this country home symbolizes the future of England in an exploration of social, economic, and philosophical trends during the post-Victorian era.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2071.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2071.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2071.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2071.png?t=20090916113929" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2071.png?size=smaller&amp;t=20090916113929" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2071.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Pagan Passions</title>
+<id>http://www.feedbooks.com/book/1963</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<author>
+  <name>Laurence Mark Janifer</name>
+  <uri>http://www.feedbooks.com/author/268</uri>
+</author>
+<updated>2009-09-16T11:26:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Sexuality" label="Sexuality"/>
+<summary>The Gods and Goddesses of Ancient Greece and Rome had returned to Earth -- with all their awesome powers intact. Overnight, Earth was transformed. War on any scale was outlawed, along with boom-and-bust economic cycles, and prudery. No change was more startling than the face of New York, where the Empire State Building became the Tower of Zeus.
+In this totally altered world, William Forrester is an acolyte of Athena, Goddess of Wisdom, and a teacher of history. Only Maya Wilson, one of his students and a worshipper of Venus, Goddess of Love, had a different sort of grading in mind. Maya is the first of the many Trials of Forrester, every bit as mighty and perilous as the Labors of Hercules. In love with Gerda Symes (like him, a devotee of Athena and a frequenter of the great Temple of Pallas Athena -- formerly known as the 42nd Street Library) and dedicated to the pleasures of the mind -- Forrester falls under the soft, compelling pressure of soft, compelling devotees of Venus and Bacchus. He's going to be in need of all the strength that he and his Goddess, the beautiful and intellectual Athena, can muster!
+
+Into this sensuous strife stride the Temple Myrmidons -- religious cops sworn to obey orders without question or hesitation -- with a pickup order for William Forrester. Where he is taken, what happens to him, and the truly fantastic discoveries he makes about himself and the Gods and Goddesses ... here are the ingredients that make up this science fiction novel of suspense, intrigue, mystery and danger!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1963.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1963.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1963.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1963.png?t=20090916112659" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1963.png?size=smaller&amp;t=20090916112659" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1963.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Art of War</title>
+<id>http://www.feedbooks.com/book/204</id>
+<author>
+  <name>Niccol&#242; Machiavelli</name>
+  <uri>http://www.feedbooks.com/author/36</uri>
+</author>
+<updated>2009-09-16T10:13:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1521</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="War" label="War"/>
+<summary>The Art of War (Dell'arte della guerra), is one of the lesser-read works of Florentine statesman and political philosopher Niccol&#242; Machiavelli.
+The format of 'The Art of War' was in socratic dialogue. The purpose, declared by Fabrizio (Machiavelli's persona) at the outset, &quot;To honor and reward virt&#249;, not to have contempt for poverty, to esteem the modes and orders of military discipline, to constrain citizens to love one another, to live without factions, to esteem less the private than the public good.&quot; To these ends, Machiavelli notes in his preface, the military is like the roof of a palazzo protecting the contents.
+Written between 1519 and 1520 and published the following year, it was the only historical or political work printed during Machiavelli's lifetime, though he was appointed official historian of Florence in 1520 and entrusted with minor civil duties.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/204.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/204.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/204.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/204.png?t=20090916101343" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/204.png?size=smaller&amp;t=20090916101343" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/204.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Black Arrow</title>
+<id>http://www.feedbooks.com/book/166</id>
+<author>
+  <name>Robert Louis Stevenson</name>
+  <uri>http://www.feedbooks.com/author/37</uri>
+</author>
+<updated>2009-09-16T10:11:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1884</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Adventure" label="Adventure"/>
+<summary>In fifteenth-century England, when his father's murderer is revealed to be his guardian, seventeen-year-old Richard Shelton joins the fellowship of the Black Arrow in avenging the death, rescuing the woman he loves, and participating in the struggle between the Yorks and Lancasters in the War of the Roses.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/166.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/166.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/166.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/166.png?t=20090916101138" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/166.png?size=smaller&amp;t=20090916101138" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/166.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Captains Courageous</title>
+<id>http://www.feedbooks.com/book/3584</id>
+<author>
+  <name>Rudyard Kipling</name>
+  <uri>http://www.feedbooks.com/author/56</uri>
+</author>
+<updated>2009-08-18T01:18:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The adventures of Harvey Chaney Jr., an arrogant and spoiled son of a railroad tycoon. Washed overboard from a transatlantic steamship and rescued by fishermen on the Grand Banks, Harvey cannot persuade them to take him ashore, nor convince them of his wealth. However, the captain of a passing schooner offers him a job as crew until they return to port. With no other choice, Harvey accepts, and there begins a series of trials and adventures where the boy learns to adjust to his rough new life, and takes the first steps towards becoming a man.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3584.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3584.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3584.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3584.png?t=20090818011810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3584.png?size=smaller&amp;t=20090818011810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3584.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Utopia</title>
+<id>http://www.feedbooks.com/book/198</id>
+<author>
+  <name>Thomas More</name>
+  <uri>http://www.feedbooks.com/author/97</uri>
+</author>
+<updated>2009-09-16T10:13:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1515</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<summary>De Optimo Republicae Statu deque Nova Insula Utopia (translated On the Best State of a Republic and on the New Island of Utopia) or more simply Utopia is a 1516 book by Sir (Saint) Thomas More.
+The book, written in Latin, is a frame narrative primarily depicting a fictional island society and its religious, social and political customs. The name of the place is derived from the Greek words &#959;&#8016; u (&quot;not&quot;) and &#964;&#972;&#960;&#959;&#962; t&#243;pos (&quot;place&quot;), with the topographical suffix -&#949;&#943;&#945; e&#237;a, hence &#927;&#8016;&#964;&#959;&#960;&#949;&#943;&#945; outope&#237;a (Latinized as Utopia), &#8220;no-place land.&#8221; It also contains a pun, however, because &#8220;Utopia&#8221; could also be the Latinization of &#917;&#8016;&#964;&#959;&#960;&#949;&#943;&#945; eutope&#237;a, &#8220;good-place land,&#8221; which uses the Greek prefix &#949;&#965; eu, &#8220;good,&#8221; instead of &#959;&#8016;. One interpretation holds that this suggests that while Utopia might be some sort of perfected society, it is ultimately unreachable. Despite modern connotations of the word &quot;utopia,&quot; it is widely accepted that the society More describes in this work was not actually his own &quot;perfect society.&quot; Rather he wished to use the contrast between the imaginary land's unusual political ideas and the chaotic politics of his own day as a platform from which to discuss social issues in Europe.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/198.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/198.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/198.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/198.png?t=20090916101320" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/198.png?size=smaller&amp;t=20090916101320" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/198.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

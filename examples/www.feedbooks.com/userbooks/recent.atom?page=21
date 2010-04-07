@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=21</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=21" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=21" rel="self"/>
+  <title>Original Books / New Releases / Page 21 | Feedbooks</title>
+  <updated>2010-04-07T18:24:04Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>401</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=20" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=22" rel="next" title="Next Page"/>
+<entry>
+<title>DC2 Special #3: A Very DC2 Christmas</title>
+<id>http://www.feedbooks.com/userbook/8729</id>
+<author>
+  <name>various</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#various</uri>
+</author>
+<updated>2009-12-22T03:35:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>The staff of DC2 come together again to give you a little taste of the holiday spirit in several stories that run the gamut of emotions. Join us as we give you our Christmas present.</summary>
+<category term="Superman"/>
+<category term="batgirl"/>
+<category term="Batman"/>
+<category term="Atom"/>
+<category term="Manhunter"/>
+<category term="Vixen"/>
+<category term="Question"/>
+<category term="Deadshot"/>
+<category term="Vigilante"/>
+<category term="holidays"/>
+<category term="Christmas"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Elongated Man"/>
+<category term="The Atom"/>
+<category term="The Question"/>
+<category term="Speed Saunders"/>
+<category term="King Faraday"/>
+<category term="Enemy Ace"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8729.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8729.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8729.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8729.png?t=20091222033558" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8729.png?size=smaller&amp;t=20091222033558" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8729.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>DC2 Special #2: World's Finest</title>
+<id>http://www.feedbooks.com/userbook/8715</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-12-05T20:37:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>DC2 Special: World's Finest.</summary>
+<category term="Lois Lane"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Batman"/>
+<category term="robin"/>
+<category term="Magpie"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8715.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8715.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8715.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8715.png?t=20091205203711" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8715.png?size=smaller&amp;t=20091205203711" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8715.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #43</title>
+<id>http://www.feedbooks.com/userbook/8714</id>
+<author>
+  <name>Pat Owen</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Pat%20Owen</uri>
+</author>
+<updated>2009-12-05T20:36:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Action Comics: Ring of Fire, Part 2 (of 4)
+
+Superman and Det. Maggie Sawyer try to track down Pete Ross but the situation has become even worse now that Pete's wife and Clark's childhood love, Lana Lang, has also been kidnapped! Meanwhile, Lex Luthor confronts Morgan Edge who has quite a startling secret! </summary>
+<category term="Lois Lane"/>
+<category term="Lana Lang"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Freaks"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8714.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8714.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8714.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8714.png?t=20091205203659" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8714.png?size=smaller&amp;t=20091205203659" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8714.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #43</title>
+<id>http://www.feedbooks.com/userbook/8713</id>
+<author>
+  <name>Imari Jade, Alex Vasquez and Charlie Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Imari%20Jade%2C%20Alex%20Vasquez%20and%20Charlie%20Wilkins</uri>
+</author>
+<updated>2009-12-05T20:36:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Nightwing: The Return, Part 6 (of 7): The Reckoning.
+
+Continuing on from the events of Detective Comics #43, Dick Grayson, aka Batman, faces the challenge of a lifetime as he comes face to face with the man that killed his former mentor, Bruce Wayne! How will Dick fare against Ra's Al Ghul? And who will stand by his side?</summary>
+<category term="Ras al Ghul"/>
+<category term="Jason Todd"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Nightwing"/>
+<category term="Batwoman"/>
+<category term="Talia"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8713.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8713.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8713.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8713.png?t=20091205203648" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8713.png?size=smaller&amp;t=20091205203648" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8713.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Katie's Rescue</title>
+<id>http://www.feedbooks.com/userbook/8727</id>
+<author>
+  <name>Michael Graeme</name>
+  <uri>http://www.feedbooks.com/user/21538/profile#Michael%20Graeme</uri>
+</author>
+<updated>2009-12-05T19:59:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A thirty minute read: It felt odd, driving into Raworth, because where I come from Raworth does not exist. I know that stretch of road, you see? It dips down to the river Warfe, crosses over by the old bridge, then rises up the dale on the other side. Ordinarily there's just a steep wooded ravine and a picturesque waterfall on the river but, like I said, on this occasion, there was also Raworth,...</summary>
+<category term="romantic"/>
+<category term="speculative"/>
+<category term="romance"/>
+<category term="time slip"/>
+<category term="short story"/>
+<category term="paranormal romance"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8727.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8727.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8727.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8727.png?t=20091205195907" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8727.png?size=smaller&amp;t=20091205195907" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8727.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>337 Days</title>
+<id>http://www.feedbooks.com/userbook/8721</id>
+<author>
+  <name>D.K Wy</name>
+  <uri>http://www.feedbooks.com/user/51109/profile#D.K%20Wy</uri>
+</author>
+<updated>2010-03-28T14:02:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Robert Mansen has a perfect life, until he discovered that his days were numbered. How will he live the remaining days of his life? Will he be able to fulfill his dreams or everything will crumble down in front of him?
+(This copy is just an excerpt from the novel 337 days)</summary>
+<category term="Faith"/>
+<category term="Teen"/>
+<category term="drama"/>
+<category term="Cancer"/>
+<category term="death"/>
+<category term="love"/>
+<category term="short novel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8721.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8721.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8721.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8721.png?t=20100328140245" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8721.png?size=smaller&amp;t=20100328140245" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8721.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In My Neighborhood</title>
+<id>http://www.feedbooks.com/userbook/8630</id>
+<author>
+  <name>Rev. John Sleestaxx</name>
+  <uri>http://www.feedbooks.com/user/37332/profile#Rev.%20John%20Sleestaxx</uri>
+</author>
+<updated>2009-12-30T13:44:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A glorious romp and recollection of events that occur &quot;in my neighborhood&quot;. If I had famous rock stars living all &quot;in my neighborhood&quot;.
+ All events are purely fictional and not a true recollection in the real world what so ever.  
+ Just my imagination and some creative writing of public figures.
+ Not to be confused with any true events that could be construed as maligning or defaming, just funny shit that occurs when you say &quot;what if my neighbor was Kidd Rock or Henry Rollins or even Wendy O' Williams.&quot;</summary>
+<category term="Humor"/>
+<category term="comedy"/>
+<category term="fiction"/>
+<category term="A waste of time"/>
+<category term="short stories"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8630.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8630.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8630.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8630.png?t=20091230134435" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8630.png?size=smaller&amp;t=20091230134435" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8630.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Watson's Finances</title>
+<id>http://www.feedbooks.com/userbook/8662</id>
+<author>
+  <name>Cress Roylott</name>
+  <uri>http://www.feedbooks.com/user/39419/profile#Cress%20Roylott</uri>
+</author>
+<updated>2009-12-03T10:05:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A brief speculation on how Watson supported himself before he was a famous author.</summary>
+<category term="Humor"/>
+<category term="Sherlock Holmes"/>
+<category term="short fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8662.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8662.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8662.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8662.png?t=20091203100556" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8662.png?size=smaller&amp;t=20091203100556" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8662.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>With A Mouthful Of Razorblades</title>
+<id>http://www.feedbooks.com/userbook/8516</id>
+<author>
+  <name>Rev. John Sleestaxx</name>
+  <uri>http://www.feedbooks.com/user/37332/profile#Rev.%20John%20Sleestaxx</uri>
+</author>
+<updated>2009-12-30T13:43:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Reverend John tells homilies about the anger the lord witnesses and the anger that the community experiences. Along with bible verse to support the lessons that are being taught.
+ RJS speaks of doing the lords work and of righting the injustices that are abound in today's world.
+
+ God wept and god wailed for the suffering his son was subjected to by our mortal hands, but he still loved us and he still listens to us.
+ Would you do that for the people that damaged, tortured and killed your son? I think not you selfish human!
+ Then just listen to what he has to say.
+ And do not be a moron and throw this chance away like you have with the rest of your poor pathetic life. 
+</summary>
+<category term="sermons"/>
+<category term="rage"/>
+<category term="anger"/>
+<category term="essays"/>
+<category term="fiction"/>
+<category term="fascist corporate warmongers"/>
+<category term="daily lessons"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8516.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8516.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8516.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8516.png?t=20091230134317" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8516.png?size=smaller&amp;t=20091230134317" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8516.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>How I Met My Daughter</title>
+<id>http://www.feedbooks.com/userbook/8622</id>
+<author>
+  <name>Max Barry</name>
+  <uri>http://www.feedbooks.com/user/27302/profile#Max%20Barry</uri>
+</author>
+<updated>2009-12-01T10:37:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A short story about a man's battle with infertility and alienation from his daughter.</summary>
+<category term="short"/>
+<category term="fiction"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8622.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8622.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8622.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8622.png?t=20091201103755" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8622.png?size=smaller&amp;t=20091201103755" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8622.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Radio Kill Report</title>
+<id>http://www.feedbooks.com/userbook/8604</id>
+<author>
+  <name>MorganB</name>
+  <uri>http://www.feedbooks.com/user/60964/profile#MorganB</uri>
+</author>
+<updated>2009-12-12T12:42:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>&quot;Where would I be in ten years, when a larger version of the map updated the red blotch beyond the royal purple zone, combining the colors into a dark, dried nosebleed red, which was a guesstimate of the outlet zone&#8217;s expansion rate as apartment buildings moved into the zones outside the old cities?  Soon, marred blouses will cross state lines, looking for plentiful parking.  I don&#8217;t own more than sixty hours of music and I am a joke at my job.&quot;</summary>
+<category term="apocalypse"/>
+<category term="radio"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8604.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8604.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8604.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8604.png?t=20091212124242" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8604.png?size=smaller&amp;t=20091212124242" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8604.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Summer of '83</title>
+<id>http://www.feedbooks.com/userbook/8578</id>
+<author>
+  <name>Michael Graeme</name>
+  <uri>http://www.feedbooks.com/user/21538/profile#Michael%20Graeme</uri>
+</author>
+<updated>2009-11-29T23:15:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Well, that's middle age for you: you either grow up, grow into it, accept its imperfections, its disappointments, and grow old grumbling at someone, or you ruin yourself on a mad fling with a girl half your age that you know won't last, and then you grow old alone and with only the walls to grumble at.
+
+In the absence of any other alternatives, I know which of the two I prefer,... but what if there was a third alternative?</summary>
+<category term="paranormal"/>
+<category term="speculative"/>
+<category term="love"/>
+<category term="romance"/>
+<category term="romantic"/>
+<category term="speculative fiction"/>
+<category term="time travel"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8578.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8578.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8578.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8578.png?t=20091129231554" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8578.png?size=smaller&amp;t=20091129231554" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8578.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Crystal Says</title>
+<id>http://www.feedbooks.com/userbook/8561</id>
+<author>
+  <name>Michael Graeme</name>
+  <uri>http://www.feedbooks.com/user/21538/profile#Michael%20Graeme</uri>
+</author>
+<updated>2010-02-16T20:27:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A twenty minute read: So, I'm standing in this crop circle, down in Wiltshire, England, and there's a girl dangling a crystal from the end of a chain. She's very pretty, so I'm thinking I'll have to find a way of overlooking the fact she's probably also some kind of crank if I want to take advantage of the situation here,...</summary>
+<category term="metaphysics"/>
+<category term="romance"/>
+<category term="fiction"/>
+<category term="speculative"/>
+<category term="mystery"/>
+<category term="short story"/>
+<category term="speculative fiction"/>
+<category term="crop circles"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8561.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8561.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8561.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8561.png?t=20100216202734" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8561.png?size=smaller&amp;t=20100216202734" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8561.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>DC2 Special #1: An Arkham Christmas Carol</title>
+<id>http://www.feedbooks.com/userbook/8550</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-11-27T16:20:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>DC2 Special: An Arkham Christmas Carol.</summary>
+<category term="The Spectre"/>
+<category term="Rose Psychic"/>
+<category term="Doctor Occult"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Zatara"/>
+<category term="Christmas"/>
+<category term="Spectre"/>
+<category term="holidays"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8550.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8550.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8550.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8550.png?t=20091127162043" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8550.png?size=smaller&amp;t=20091127162043" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8550.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #11</title>
+<id>http://www.feedbooks.com/userbook/8549</id>
+<author>
+  <name>Chris Paugh and Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Chris%20Paugh%20and%20Brian%20Burchette</uri>
+</author>
+<updated>2009-11-27T16:20:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Detective Comics: On the Surface.</summary>
+<category term="Two-Face"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Ventriloquist"/>
+<category term="Scarface"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8549.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8549.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8549.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8549.png?t=20091127162026" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8549.png?size=smaller&amp;t=20091127162026" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8549.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics Annual #1</title>
+<id>http://www.feedbooks.com/userbook/8548</id>
+<author>
+  <name>various</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#various</uri>
+</author>
+<updated>2009-11-27T16:20:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Featuring three different Batman stories by Brian Burchette, Charles Wilkins and Chris Paugh.</summary>
+<category term="Two-Face"/>
+<category term="Vicki Vale"/>
+<category term="Harvey Bullock"/>
+<category term="Jim Gordon"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Firefly"/>
+<category term="Penguin"/>
+<category term="Nightwing"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8548.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8548.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8548.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8548.png?t=20091127162006" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8548.png?size=smaller&amp;t=20091127162006" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8548.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Batman #11</title>
+<id>http://www.feedbooks.com/userbook/8547</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-11-27T16:19:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Batman: From the Pit, Part 1 (of 2).
+
+</summary>
+<category term="Question"/>
+<category term="Batman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="The Question"/>
+<category term="Victor Zsasz"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8547.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8547.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8547.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8547.png?t=20091127161933" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8547.png?size=smaller&amp;t=20091127161933" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8547.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Old Bull 2 Janet</title>
+<id>http://www.feedbooks.com/userbook/8541</id>
+<author>
+  <name>Xavier Leret</name>
+  <uri>http://www.feedbooks.com/user/57967/profile#Xavier%20Leret</uri>
+</author>
+<updated>2010-02-10T19:02:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Harry gets his wife Janet some sexy underwear.  It doesn't work out.
+
+Xavier is reading 'Turn The Porn On' for the Bordello Blush event - THE BOOK CLUB BOUTIQUE - Sat 13th Feb. Location: BLACKS. 67 DEAN ST. SOHO.London W1D 4QH
+Doors open at 8. Great club, big open fires, live music and sizzling, tingling, writings.</summary>
+<category term="fiction"/>
+<category term="flash"/>
+<category term="www.xavierleret.com"/>
+<category term="Leret"/>
+<category term="Xavier"/>
+<category term="fiction"/>
+<category term="short"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8541.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8541.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8541.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8541.png?t=20100210190235" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8541.png?size=smaller&amp;t=20100210190235" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8541.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Code Black Strategic National Emergency</title>
+<id>http://www.feedbooks.com/userbook/8531</id>
+<author>
+  <name>B Ghandi</name>
+  <uri>http://www.feedbooks.com/user/27012/profile#B%20Ghandi</uri>
+</author>
+<updated>2009-11-26T01:17:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>A novel about transcending injustice to achieve spirituality.</summary>
+<category term="skull and bones"/>
+<category term="God"/>
+<category term="satan"/>
+<category term="yahweh"/>
+<category term="religion"/>
+<category term="government"/>
+<category term="war"/>
+<category term="Political"/>
+<category term="Justice"/>
+<category term="news"/>
+<category term="yoga"/>
+<category term="Consciousness"/>
+<category term="drugs"/>
+<category term="Jesus"/>
+<category term="enlightenment"/>
+<category term="Christian"/>
+<category term="zionist"/>
+<category term="Jewish"/>
+<category term="Israel"/>
+<category term="d&#233;mon"/>
+<category term="illuminati"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8531.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8531.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8531.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8531.png?t=20091126011705" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8531.png?size=smaller&amp;t=20091126011705" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8531.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lovefool</title>
+<id>http://www.feedbooks.com/userbook/8512</id>
+<author>
+  <name>Amalia Angellinni</name>
+  <uri>http://www.feedbooks.com/user/60448/profile#Amalia%20Angellinni</uri>
+</author>
+<updated>2009-11-25T14:10:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>&#8222;I ordered it and I read it. Rather to act out of spite, because I couldn't believe that it could be something similar to Twilight and still something different. And Amalia managed to create something what I wasn't expecting. I ordered it and I couldn't stop reading until I finished.&#8220; 
+
+The story is about three young characters Mia, Sebastian and Julian. Everyone of them is special. Everyone of them has own impressions, problems and dreams. This book deals with current, real problems of young people who discover love and who have to deal with reality. That is the reason why this book is so deep and no superficial display like other teenager stories. 
+
+The profound thoughts attracts reader's attention and forces you unwillingly to focus on the story. You are on the wave of emotions with characters and you feel it. Every now an then, some details come up to surface and flabbergast you. It is written so well that you have a feeling it is a real world and not a story. The only point when you might think shyly that you are in a fantasy world is one of characters: Julian. He is no human being. &#8220;What are you&#8221; - Julian is asked in the book. Let the answer surprise you. And even if you will already know the answer, you will ask yourself: &#8222;Is it all just fantasy or is it indeed for real?&#8221; 
+
+Single fates meet each other. As different as they might be, as connected they are with each other. The story begins mysterious and has a surprisingly end. Let yourself surprise by it. 
+
+This book is written in English, very easy to read. The style is simple, but unbribable, awesome. You will put this book first then aside, when you finish reading the page 317. 
+
+You can buy this book directly at :: scholar-online.eu, :: amazon.co.uk or :: bezkartek.pl. Bio of the author you will finde at :: scholar-online.eu. 
+
+
+15.10.2009, Rita Beger from the publisher team Scholar Europe
+</summary>
+<category term="legends"/>
+<category term="European"/>
+<category term="philosophy"/>
+<category term="warsaw"/>
+<category term="germany"/>
+<category term="Poland"/>
+<category term="Europe"/>
+<category term="love"/>
+<category term="lovefool"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8512.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8512.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8512.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8512.png?t=20091125141029" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8512.png?size=smaller&amp;t=20091125141029" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8512.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

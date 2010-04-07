@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=64</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=64" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=64" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 64 | Feedbooks</title>
+  <updated>2010-04-07T18:26:57Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1261</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=63" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=65" rel="next" title="Next Page"/>
+<entry>
+<title>The Revolt of Man</title>
+<id>http://www.feedbooks.com/book/2397</id>
+<author>
+  <name>Sir Walter Besant</name>
+  <uri>http://www.feedbooks.com/author/362</uri>
+</author>
+<updated>2009-09-16T11:50:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1882</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Speculative fiction wherein the traditional roles of the sexes are reversed.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2397.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2397.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2397.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2397.png?t=20090916115002" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2397.png?size=smaller&amp;t=20090916115002" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2397.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Toy Shop</title>
+<id>http://www.feedbooks.com/book/2396</id>
+<author>
+  <name>Harry Harrison</name>
+  <uri>http://www.feedbooks.com/author/219</uri>
+</author>
+<updated>2009-09-16T11:55:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The gadget was strictly, beyond any question, a toy. Not a real, workable device. Except for the way it could work under a man's mental skin....</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2396.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2396.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2396.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2396.png?t=20090916115505" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2396.png?size=smaller&amp;t=20090916115505" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2396.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Planet of the Damned</title>
+<id>http://www.feedbooks.com/book/2395</id>
+<author>
+  <name>Harry Harrison</name>
+  <uri>http://www.feedbooks.com/author/219</uri>
+</author>
+<updated>2009-09-16T11:55:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Hugo nominated in 1962, originally published in Analog Science Fact-Science Fiction as &quot;Sense of Obligation.&quot; Brion has just won the Twenties, a global competition to test achievements in 20 categories of human activities -- but before he can enjoy his victory he's forced to leave his homeworld to help salvage Dis, the most hellish planet in the galaxy.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2395.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2395.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2395.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2395.png?t=20090916115512" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2395.png?size=smaller&amp;t=20090916115512" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2395.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Misplaced Battleship</title>
+<id>http://www.feedbooks.com/book/2394</id>
+<author>
+  <name>Harry Harrison</name>
+  <uri>http://www.feedbooks.com/author/219</uri>
+</author>
+<updated>2009-09-16T12:05:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It might seem a little careless to lose track of something as big as a battleship... but interstellar space is on a different scale of magnitude. But a misplaced battleship--in the wrong hands!--can be most dangerous.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2394.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2394.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2394.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2394.png?t=20090916120532" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2394.png?size=smaller&amp;t=20090916120532" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2394.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The K-Factor</title>
+<id>http://www.feedbooks.com/book/2393</id>
+<author>
+  <name>Harry Harrison</name>
+  <uri>http://www.feedbooks.com/author/219</uri>
+</author>
+<updated>2009-09-16T11:49:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Speed never hurt anybody--it's the sudden stop at the end. It's not how much change that signals danger, but how fast it's changing....</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2393.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2393.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2393.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2393.png?t=20090916114922" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2393.png?size=smaller&amp;t=20090916114922" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2393.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Radiant Shell</title>
+<id>http://www.feedbooks.com/book/2392</id>
+<author>
+  <name>Paul Frederick Ernst</name>
+  <uri>http://www.feedbooks.com/author/359</uri>
+</author>
+<updated>2009-09-16T11:52:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2392.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2392.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2392.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2392.png?t=20090916115244" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2392.png?size=smaller&amp;t=20090916115244" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2392.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Quiet, Please</title>
+<id>http://www.feedbooks.com/book/2391</id>
+<author>
+  <name>Kevin Scott</name>
+  <uri>http://www.feedbooks.com/author/358</uri>
+</author>
+<updated>2009-09-16T11:49:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Groverzb knew what he wanted--peace and quiet. He was willing to scream his head off for it!</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2391.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2391.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2391.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2391.png?t=20090916114951" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2391.png?size=smaller&amp;t=20090916114951" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2391.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Question of Comfort</title>
+<id>http://www.feedbooks.com/book/2390</id>
+<author>
+  <name>Les Collins</name>
+  <uri>http://www.feedbooks.com/author/357</uri>
+</author>
+<updated>2009-09-16T11:30:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The Gravity Gang was a group of geniuses--devoting its brilliance to creating a realistic Solar System for Disneyland. That was the story, anyway. No one would have believed all that stuff about cops and robbers from outer space.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2390.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2390.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2390.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2390.png?t=20090916113059" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2390.png?size=smaller&amp;t=20090916113059" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2390.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Quantum Jump</title>
+<id>http://www.feedbooks.com/book/2389</id>
+<author>
+  <name>Robert Wicks</name>
+  <uri>http://www.feedbooks.com/author/356</uri>
+</author>
+<updated>2009-09-16T11:49:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Captain Brandon was a pioneer. He explored the far reaches of space and reported back on how things were out there. So it was pretty disquieting to find out that the &#8220;far reaches of space&#8221; knew more about what went on at home than he did.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2389.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2389.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2389.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2389.png?t=20090916114922" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2389.png?size=smaller&amp;t=20090916114922" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2389.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Servant Problem</title>
+<id>http://www.feedbooks.com/book/2388</id>
+<author>
+  <name>Robert Franklin Young</name>
+  <uri>http://www.feedbooks.com/author/355</uri>
+</author>
+<updated>2009-09-16T11:02:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Selling a whole town, and doing it inconspicuously, can be a little difficult &#8230; either giving it away freely, or in a more normal sense of &quot;selling&quot;. People don't quite believe it&#8230;.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2388.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2388.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2388.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2388.png?t=20090916110205" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2388.png?size=smaller&amp;t=20090916110205" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2388.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sense from Thought Divide</title>
+<id>http://www.feedbooks.com/book/2387</id>
+<author>
+  <name>Mark Irvin Clifton</name>
+  <uri>http://www.feedbooks.com/author/354</uri>
+</author>
+<updated>2009-09-16T12:07:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>What is a &quot;phony&quot;? Someone who believes he can do X, when he can't, however sincerely he believes it? Or someone who can do X, believes he can't, and believes he is pretending he can?</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2387.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2387.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2387.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2387.png?t=20090916120706" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2387.png?size=smaller&amp;t=20090916120706" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2387.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Seed of the Toc-Toc Birds</title>
+<id>http://www.feedbooks.com/book/2386</id>
+<author>
+  <name>Francis Flagg</name>
+  <uri>http://www.feedbooks.com/author/353</uri>
+</author>
+<updated>2009-09-16T12:07:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Little did Prof. Reubens suspect what his atom-tampering would set loose upon the world.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2386.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2386.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2386.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2386.png?t=20090916120706" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2386.png?size=smaller&amp;t=20090916120706" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2386.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Burning Bridge</title>
+<id>http://www.feedbooks.com/book/2385</id>
+<author>
+  <name>Poul William Anderson</name>
+  <uri>http://www.feedbooks.com/author/352</uri>
+</author>
+<updated>2009-09-16T12:07:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Usually there are two &quot;reasons&quot; why something is done; the reason why it needs to be done, and, quite separate, the reason people want to do it. The foul-up starts when the reason-for-wanting is satisfied ... and the need remains!</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2385.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2385.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2385.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2385.png?t=20090916120705" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2385.png?size=smaller&amp;t=20090916120705" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2385.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Security</title>
+<id>http://www.feedbooks.com/book/2384</id>
+<author>
+  <name>Poul William Anderson</name>
+  <uri>http://www.feedbooks.com/author/352</uri>
+</author>
+<updated>2009-09-16T12:07:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>In a world where Security is all-important, nothing can ever be secure. A mountain-climbing vacation may wind up in deep Space. Or loyalty may prove to be high treason. But it has its rewards. </summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2384.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2384.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2384.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2384.png?t=20090916120705" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2384.png?size=smaller&amp;t=20090916120705" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2384.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Secret of the Ninth Planet</title>
+<id>http://www.feedbooks.com/book/2383</id>
+<author>
+  <name>Donald Allen Wollheim</name>
+  <uri>http://www.feedbooks.com/author/351</uri>
+</author>
+<updated>2009-09-16T12:07:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>While the circumnavigation of the solar system seems farfetched, it may not be once the problem of effective anti-gravitational control is solved. In this book I have assumed that the many researchers now actually at work on this problem will achieve such a result in the next decade. It is not at all impossible that they may for we all know that the more minds that work at a problem, the sooner it will be solved. The discovery of a means of negating, reversing or otherwise utilizing the immense force of gravitation for space flight purposes is now thought to be within the bounds of probability. It should occur some time within the next hundred years, possibly in even the short period I assume here.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2383.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2383.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2383.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2383.png?t=20090916120705" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2383.png?size=smaller&amp;t=20090916120705" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2383.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Edison's Conquest of Mars</title>
+<id>http://www.feedbooks.com/book/2382</id>
+<author>
+  <name>Garrett Putman Serviss</name>
+  <uri>http://www.feedbooks.com/author/164</uri>
+</author>
+<updated>2009-09-16T12:06:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1898</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Historically, the work is one of the earliest to employ the interplanetary theme. It is the first to portray a battle fought by space craft in the airless void; and possibly the first also to propose the use of sealed suits that enable men to traverse a vacuum. Of the more minor twists of plot initially found here that have since become parts of the &quot;pulp&quot; science-fiction writers' standard stock-in-trade, there are literally too many to mention.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2382.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2382.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2382.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2382.png?t=20090916120638" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2382.png?size=smaller&amp;t=20090916120638" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2382.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Iron Heel</title>
+<id>http://www.feedbooks.com/book/2381</id>
+<author>
+  <name>Jack London</name>
+  <uri>http://www.feedbooks.com/author/34</uri>
+</author>
+<updated>2009-09-16T12:06:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1908</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Politics" label="Politics"/>
+<summary>The Iron Heel is a dystopian novel by American writer Jack London, first published in 1908.
+Generally considered to be &quot;the earliest of the modern Dystopian,&quot; it chronicles the rise of an oligarchic tyranny in the United States. It is arguably the novel in which Jack London's socialist views are most explicitly on display. A forerunner of soft science fiction novels and stories of the 1960s and 1970s, the book stresses future changes in society and politics while paying much less attention to technological changes.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2381.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2381.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2381.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2381.png?t=20090916120652" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2381.png?size=smaller&amp;t=20090916120652" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2381.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Scarlet Plague</title>
+<id>http://www.feedbooks.com/book/2379</id>
+<author>
+  <name>Jack London</name>
+  <uri>http://www.feedbooks.com/author/34</uri>
+</author>
+<updated>2009-09-16T12:06:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>This novella explores life following a devastating plague that wipes out most of humanity.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2379.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2379.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2379.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2379.png?t=20090916120631" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2379.png?size=smaller&amp;t=20090916120631" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2379.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Cry from a Far Planet</title>
+<id>http://www.feedbooks.com/book/2378</id>
+<author>
+  <name>Tom Godwin</name>
+  <uri>http://www.feedbooks.com/author/270</uri>
+</author>
+<updated>2009-09-16T12:06:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The problem of separating the friends from the enemies was a major one in the conquest of space as many a dead spacer could have testified. A tough job when you could see an alien and judge appearances; far tougher when they were only whispers on the wind.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2378.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2378.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2378.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2378.png?t=20090916120629" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2378.png?size=smaller&amp;t=20090916120629" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2378.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sabotage in Space</title>
+<id>http://www.feedbooks.com/book/2377</id>
+<author>
+  <name>Carey Rockwell</name>
+  <uri>http://www.feedbooks.com/author/350</uri>
+</author>
+<updated>2009-09-16T12:06:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>What started out as an innocent campus prank at Space Academy almost cost the Polaris unit the chance to become officers in the Solar Guard. For punishment, Tom, Roger, and Astro were assigned to spend all their spare time on guard duty in the vicinity of a new building which housed the latest hush-hush project so important to the solar universe.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2377.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2377.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2377.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2377.png?t=20090916120628" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2377.png?size=smaller&amp;t=20090916120628" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2377.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

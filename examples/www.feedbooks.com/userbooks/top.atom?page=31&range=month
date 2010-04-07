@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=31&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=31&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=31&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 31 | Feedbooks</title>
+  <updated>2010-04-07T18:23:25Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>601</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=30&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=32&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Nightwing #21</title>
+<id>http://www.feedbooks.com/userbook/5302</id>
+<author>
+  <name>Batkid</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Batkid</uri>
+</author>
+<updated>2009-08-17T16:21:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Nightwing: Kiss in the Night.
+
+They're back! Night-Thief and Nocturna are back in action after breaking out of prison, with Nightwing hot on their trail. But Dick had better watch his back--Night-Thief has a score to settle with him.</summary>
+<category term="Night-Thief"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Nightwing"/>
+<category term="Nocturna"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5302.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5302.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5302.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5302.png?t=20090817162135" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5302.png?size=smaller&amp;t=20090817162135" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5302.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Justice League #16</title>
+<id>http://www.feedbooks.com/userbook/3936</id>
+<author>
+  <name>Susan Hillwig</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig</uri>
+</author>
+<updated>2009-08-17T16:28:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Lead Us Not Into Desecration, Part 3 (of 3).
+
+It's past and present versus the future as the Justice League teams up with some of the greatest heroes of the Old West to take down the Lord of Time! Can they stop his scheme before it's too late, or will Arizona be blown right off the map?</summary>
+<category term="justice league"/>
+<category term="Cinnamon"/>
+<category term="Scalphunter"/>
+<category term="flash"/>
+<category term="Hawkgirl"/>
+<category term="Western"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Jonah Hex"/>
+<category term="Bat Lash"/>
+<category term="Elongated Man"/>
+<category term="Green Lantern"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3936.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3936.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3936.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3936.png?t=20090817162849" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3936.png?size=smaller&amp;t=20090817162849" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3936.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #6</title>
+<id>http://www.feedbooks.com/userbook/3981</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T20:06:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Reality Check.
+
+Harley Quinn can't believe her good fortune! She's made friends with Ivy, won the love of her sweetheart, The Joker, and discovered her old mentor, Jonathan Crane is now in town. Could any woman's life be any better? She's on cloud nine, facing a future bright and exciting, despite The Joker's dislike of Crane's potential influence on the young woman. And then it happens...</summary>
+<category term="Scarecrow"/>
+<category term="Joker"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="harley quinn"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3981.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3981.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3981.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3981.png?t=20090817200614" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3981.png?size=smaller&amp;t=20090817200614" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3981.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Maximum Catwoman #2</title>
+<id>http://www.feedbooks.com/userbook/4069</id>
+<author>
+  <name>Jay Zirron</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Jay%20Zirron</uri>
+</author>
+<updated>2009-08-17T16:29:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Maximum Catwoman: &quot;You've Become a Part of Me.&quot;
+
+Lust.
+
+Greed.
+
+Diamonds!
+
+Those are the hallmarks of a good cat burglar....
+
+What will Selina have to do though to keep her identity a secret from those who would want her dead?</summary>
+<category term="Catwoman"/>
+<category term="Batman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4069.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4069.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4069.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4069.png?t=20090817162935" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4069.png?size=smaller&amp;t=20090817162935" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4069.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aquaman #9</title>
+<id>http://www.feedbooks.com/userbook/4246</id>
+<author>
+  <name>Brandon Herren</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brandon%20Herren</uri>
+</author>
+<updated>2009-08-17T16:30:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Aquaman: Between the Devil and the Deep Blue Sea (a.k.a. CRISIS: The Apokolips Imperative, Part 11)
+
+Editor's Note: There was no Aquaman #8. It was simply titled &quot;The Lost Adventure&quot; and is ... well... lost until the time that Mr. Herren chooses to revisit the events in the &quot;Sea Change&quot; plotline. So, for those of you who have been faithfully downloading all the issues, don't panic. You're not missing anything. Instead, issue #9 takes up part 11 of a multi-title crossover event called Crisis: The Apokolips Imperative. I will be posting a collected volume of the entire event soon.</summary>
+<category term="Aqualad"/>
+<category term="Atlantis"/>
+<category term="Aquaman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Big Barda"/>
+<category term="Mister Miracle"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4246.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4246.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4246.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4246.png?t=20090817163047" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4246.png?size=smaller&amp;t=20090817163047" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4246.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Green Arrow #2</title>
+<id>http://www.feedbooks.com/userbook/4269</id>
+<author>
+  <name>Pat Owen</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Pat%20Owen</uri>
+</author>
+<updated>2009-08-18T01:07:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Ultimate Green Arrow: The Archer, Part 2 (of 2).
+
+Oliver and Roy must contend with nature. Trapped on a deserted island with no way out and, for all they know, thousands of miles from human life, the pair of friends must learn the skills they'll need to survive. Meanwhile, Arthur King begins to spread his power throughout Star City and has a surprise meeting with a certain bald billionaire...</summary>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Speedy"/>
+<category term="Green Arrow"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4269.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4269.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4269.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4269.png?t=20090818010733" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4269.png?size=smaller&amp;t=20090818010733" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4269.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Donuts with Dad</title>
+<id>http://www.feedbooks.com/userbook/4369</id>
+<author>
+  <name>Jim Dayton</name>
+  <uri>http://www.feedbooks.com/user/23688/profile#Jim%20Dayton</uri>
+</author>
+<updated>2009-08-17T16:31:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Donuts with Dad is a story about elementary-school popularity and gladiators.</summary>
+<category term="teachers"/>
+<category term="fighting"/>
+<category term="gladiators"/>
+<category term="kindergarten"/>
+<category term="daughters"/>
+<category term="love"/>
+<category term="popularity"/>
+<category term="elementary school"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4369.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4369.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4369.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4369.png?t=20090817163137" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4369.png?size=smaller&amp;t=20090817163137" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4369.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #11</title>
+<id>http://www.feedbooks.com/userbook/4642</id>
+<author>
+  <name>Batkid</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Batkid</uri>
+</author>
+<updated>2009-08-17T23:37:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Nightwing: Lawyers and Other Slimy Things (Part 1)</summary>
+<category term="Starfire"/>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4642.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4642.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4642.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4642.png?t=20090817233710" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4642.png?size=smaller&amp;t=20090817233710" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4642.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rogues Gallery #8</title>
+<id>http://www.feedbooks.com/userbook/10376</id>
+<author>
+  <name>Krystaledragon and Mischief</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Krystaledragon%20and%20Mischief</uri>
+</author>
+<updated>2010-03-24T01:14:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Rogues Gallery: Black Adam, Part 1 (of 2).
+
+Wondering where Black Adam has been??? Find out a bit more about Teth-Adam in this tie-in to the Goddess Found story currently running in Shazam! </summary>
+<category term="Isis"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Black Adam"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10376.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10376.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10376.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10376.png?t=20100324011451" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10376.png?size=smaller&amp;t=20100324011451" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10376.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Titans #1</title>
+<id>http://www.feedbooks.com/userbook/7805</id>
+<author>
+  <name>Boris Mihajlovic</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Boris%20Mihajlovic</uri>
+</author>
+<updated>2009-10-07T21:20:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Titans: Like an Onion.
+
+Who are The Titans? Find out in this action packed first issue that starts with the infiltration of H.I.V.E. and leads the team to discoveries that will change not only their lives forever...! </summary>
+<category term="Ravager"/>
+<category term="Jericho"/>
+<category term="Argent"/>
+<category term="Hotspot"/>
+<category term="Cyborg"/>
+<category term="Nightwing"/>
+<category term="Titans"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7805.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7805.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7805.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7805.png?t=20091007212001" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7805.png?size=smaller&amp;t=20091007212001" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7805.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Emu Patrol</title>
+<id>http://www.feedbooks.com/userbook/8794</id>
+<author>
+  <name>Iain Wells</name>
+  <uri>http://www.feedbooks.com/user/61952/profile#Iain%20Wells</uri>
+</author>
+<updated>2009-12-12T20:32:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Emu Patrol is the farcical tale of an obsessional pursuit of love, sex, drugs, rock &#8216;n&#8217; roll and emus.
+
+Who is Jake Lewis? Is he the drug-dealing terrorist the police think he is? Is he the perverted stalker his kidnappers believe him to be? Or is he just an incurable romantic unable to hold onto Sam, the girl of his dreams, and desperate to do anything to get her back?
+
+Join Jake and his overactive mind, as it creates and plays out a soundtrack to his life on his quest to win back Sam. A quest that takes him on a bizarre journey from the electrifying London music scene, to the romantic Eilean Donan Castle on the tranquil shores of Loch Duich, and finally back to the conservative Medway towns of Kent.
+
+Featuring music by The White Stripes, Prefab Sprout, Aimee Mann, The Pretenders, Squeeze, U2, The Delgados, Blondie, Mercury Rev, The Wannadies, Suzanne Vega, Cake, Lloyd Cole and the Commotions, Fountains of Wayne, The Beatles and The Broken Family Band.
+</summary>
+<category term="indie music"/>
+<category term="alternative music"/>
+<category term="6 music"/>
+<category term="rock &#8216;n&#8217; roll"/>
+<category term="eilean donan"/>
+<category term="loch duich"/>
+<category term="medway towns"/>
+<category term="happy holder"/>
+<category term="emu patrol"/>
+<category term="fiction"/>
+<category term="humour"/>
+<category term="comedy"/>
+<category term="music"/>
+<category term="soundtrack"/>
+<category term="compilation"/>
+<category term="nme"/>
+<category term="radio"/>
+<category term="xfm"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8794.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8794.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8794.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8794.png?t=20091212203231" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8794.png?size=smaller&amp;t=20091212203231" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8794.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls Annual #1</title>
+<id>http://www.feedbooks.com/userbook/9578</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2010-01-13T02:26:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Ultimate Gotham Girls Annual: Resolution &amp; Spoiler's Nutcracker Suite.</summary>
+<category term="poison ivy"/>
+<category term="harley quinn"/>
+<category term="Comics"/>
+<category term="DC3"/>
+<category term="batgirl"/>
+<category term="Spoiler"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9578.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9578.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9578.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9578.png?t=20100113022655" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9578.png?size=smaller&amp;t=20100113022655" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9578.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Theaker's Quarterly Fiction #25</title>
+<id>http://www.feedbooks.com/userbook/2729</id>
+<author>
+  <name>Silver Age Books</name>
+  <uri>http://www.feedbooks.com/user/20670/profile#Silver%20Age%20Books</uri>
+</author>
+<updated>2009-08-18T00:47:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>TQF#25 contains horror from Bob Lock (&quot;Jack&quot;), Ralph Robert Moore (&quot;Strangers Wear Masks of Your Face&quot;), J.R. Parks (&quot;Mississippi Sunshine&quot;) and John Hall (&quot;In the Vale of Pnath&quot;); fantasy from Rafe McGregor (&quot;Murder in the Minster&quot;, a Ruritanian tale), Richard K. Lyon and Andrew J. Offutt (&quot;Naked Before Mine Enemies&quot;); science fiction from John Greenwood (&quot;In the Mountain of Sanity&quot;, plus two more); and a lot of reviews and second-hand news items from the editor.</summary>
+<category term="tqf"/>
+<category term="magazine"/>
+<category term="horror"/>
+<category term="fantasy"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/2729.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/2729.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/2729.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2729.png?t=20090818004742" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2729.png?size=smaller&amp;t=20090818004742" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/2729.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Maximum Catwoman #3</title>
+<id>http://www.feedbooks.com/userbook/4085</id>
+<author>
+  <name>Jay Zirron</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Jay%20Zirron</uri>
+</author>
+<updated>2009-08-17T16:29:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Maximum Catwoman: &quot;Guardian Angel, Part 3.&quot;
+
+The trail has grown cold, and Selina's running out of time... Can she get her life back before her murder happens?</summary>
+<category term="Catwoman"/>
+<category term="Batman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4085.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4085.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4085.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4085.png?t=20090817162940" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4085.png?size=smaller&amp;t=20090817162940" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4085.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #4</title>
+<id>http://www.feedbooks.com/userbook/4240</id>
+<author>
+  <name>Ellen Fleischer</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Ellen%20Fleischer</uri>
+</author>
+<updated>2009-08-17T19:16:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Nightwing: The Great Unknown, Part 4 (of 7): Beyond the Shadows</summary>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Clark Kent"/>
+<category term="Grace Choi"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4240.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4240.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4240.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4240.png?t=20090817191612" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4240.png?size=smaller&amp;t=20090817191612" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4240.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Resurfacing Billy</title>
+<id>http://www.feedbooks.com/userbook/4300</id>
+<author>
+  <name>Douglas Lain</name>
+  <uri>http://www.feedbooks.com/user/1/profile#Douglas%20Lain</uri>
+</author>
+<updated>2009-08-17T16:31:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>A moody and multilayered metaphor that compares our approach to waste management with our approach to our own minds&#8230; and the minds of our children.
+
+Charged with subtle emotion, &#8220;Resurfacing Billy&#8221; will provide you with plenty of food for thought, and greatly rewards a close re-reading. Enjoy!</summary>
+<category term="futurismic"/>
+<category term="waste management"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4300.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4300.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4300.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4300.png?t=20090817163106" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4300.png?size=smaller&amp;t=20090817163106" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4300.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aquaman #15</title>
+<id>http://www.feedbooks.com/userbook/4340</id>
+<author>
+  <name>Pat Owen</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Pat%20Owen</uri>
+</author>
+<updated>2009-08-17T16:31:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Aquaman: A Promise Kept.
+
+It's a romantic and relaxing day for the happy couple of Aquaman and Mera when the king shows his wife the home he grew up in. However evil lurks in the shadows from both the ocean and the surface. Meanwhile, Aqualad has some startling mood swings.</summary>
+<category term="Aqualad"/>
+<category term="Atlantis"/>
+<category term="Aquaman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Ocean Master"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4340.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4340.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4340.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4340.png?t=20090817163124" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4340.png?size=smaller&amp;t=20090817163124" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4340.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #37</title>
+<id>http://www.feedbooks.com/userbook/7661</id>
+<author>
+  <name>Batkid</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Batkid</uri>
+</author>
+<updated>2009-09-26T23:10:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Nightwing: Dance of Death.
+
+When a ballerina unexpectedly collapses during a performance, Batman and Robin dive into the investigation to find out who killed the dancer... and why.</summary>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Nightwing"/>
+<category term="Batman"/>
+<category term="robin"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7661.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7661.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7661.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7661.png?t=20090926231002" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7661.png?size=smaller&amp;t=20090926231002" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7661.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In My Neighborhood</title>
+<id>http://www.feedbooks.com/userbook/8630</id>
+<author>
+  <name>Rev. John Sleestaxx</name>
+  <uri>http://www.feedbooks.com/user/37332/profile#Rev.%20John%20Sleestaxx</uri>
+</author>
+<updated>2009-12-30T13:44:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A glorious romp and recollection of events that occur &quot;in my neighborhood&quot;. If I had famous rock stars living all &quot;in my neighborhood&quot;.
+ All events are purely fictional and not a true recollection in the real world what so ever.  
+ Just my imagination and some creative writing of public figures.
+ Not to be confused with any true events that could be construed as maligning or defaming, just funny shit that occurs when you say &quot;what if my neighbor was Kidd Rock or Henry Rollins or even Wendy O' Williams.&quot;</summary>
+<category term="Humor"/>
+<category term="comedy"/>
+<category term="fiction"/>
+<category term="A waste of time"/>
+<category term="short stories"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8630.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8630.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8630.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8630.png?t=20091230134435" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8630.png?size=smaller&amp;t=20091230134435" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8630.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #24</title>
+<id>http://www.feedbooks.com/userbook/9339</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2010-01-05T04:49:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Ultimate Gotham Girls: Face to Face, Part 2.
+
+Two-Face is on the loose, with only Poison Ivy to keep an eye on him. Will Ivy slide back into her villainous ways, or will Two-Face force her to show her new colors? How will Harvey Dent be able to face up to his deepest fears, when he's just become free of them? And what on earth are Ivy and Batgirl doing working together? All this and more in the thrilling conclusion to Gotham Girls year two! </summary>
+<category term="batgirl"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Two-Face"/>
+<category term="harley quinn"/>
+<category term="poison ivy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9339.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9339.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9339.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9339.png?t=20100105044922" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9339.png?size=smaller&amp;t=20100105044922" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9339.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=16</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=16" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=16" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 16 | Feedbooks</title>
+  <updated>2010-04-07T18:26:22Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>301</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=15" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=17" rel="next" title="Next Page"/>
+<entry>
+<title>The Plague</title>
+<id>http://www.feedbooks.com/book/4255</id>
+<author>
+  <name>Teddy Keller</name>
+  <uri>http://www.feedbooks.com/author/1219</uri>
+</author>
+<updated>2009-09-28T10:42:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Suppose a strictly one hundred per cent American plague showed up.... One that attacked only people within the political borders of the United States!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30062</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4255.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4255.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4255.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4255.png?t=20090928104209" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4255.png?size=smaller&amp;t=20090928104209" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4255.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rashoumon</title>
+<id>http://www.feedbooks.com/book/4254</id>
+<author>
+  <name>Ry&#363;nosuke Akutagawa</name>
+  <uri>http://www.feedbooks.com/author/1068</uri>
+</author>
+<updated>2009-09-28T08:58:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<category term="Psychology" label="Psychology"/>
+<summary>&quot;Rash&#333;mon&quot; (Japanese: &#32645;&#29983;&#38272;) is a short story by Akutagawa Ry&#363;nosuke based on tales from the Konjaku Monogatarish&#363;. A man considering whether or not to become a thief meets a woman stealing hair from corpses. Their conversation explores the morality of theft.
+
+The story was first published in 1915 in Teikoku Bungaku. Despite its name, it provided no direct plot material for the Akira Kurosawa movie Rash&#333;mon, which was based on Akutagawa's 1921 short story, In a Grove.
+(source: Wikipedia)
+
+Note: The original Japanese version of Rashoumon is available on Feedbooks at http://feedbooks.com/book/3923</summary>
+<dcterms:source>http://sites.google.com/site/renemalenfant/rashomon</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4254.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4254.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4254.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4254.png?t=20090928085851" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4254.png?size=smaller&amp;t=20090928085851" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4254.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Connecticut Yankee in King Arthur's Court</title>
+<id>http://www.feedbooks.com/book/4195</id>
+<author>
+  <name>Mark Twain</name>
+  <uri>http://www.feedbooks.com/author/24</uri>
+</author>
+<updated>2009-09-27T13:11:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1889</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>This is the tale of a 19th-century citizen of Hartford, Connecticut who awakens to find himself inexplicably transported back in time to early medieval England at the time of the legendary King Arthur in AD 528.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4195.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4195.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4195.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4195.png?t=20090927131101" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4195.png?size=smaller&amp;t=20090927131101" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4195.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Code of Hammurabi</title>
+<id>http://www.feedbooks.com/book/4239</id>
+<author>
+  <name>Hammurabi</name>
+  <uri>http://www.feedbooks.com/author/1216</uri>
+</author>
+<updated>2009-09-23T08:00:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-1790</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="History" label="History"/>
+<category term="Politics" label="Politics"/>
+<summary>The Code of Hammurabi (Codex Hammurabi) is a well-preserved ancient law code, created ca. 1790 BC (middle chronology) in ancient Babylon. It was enacted by the sixth Babylonian king, Hammurabi. One nearly complete example of the Code survives today, inscribed on a seven foot, four inch tall basalt stele in the Akkadian language in the cuneiform script. One of the first written codes of law in recorded history. These laws were written on a stone tablet standing over eight feet tall (2.4 meters) that was found in 1901.</summary>
+<dcterms:source>http://oll.libertyfund.org/index.php?option=com_content&amp;task=view&amp;id=1472&amp;Itemid=264</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4239.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4239.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4239.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4239.png?t=20090923080010" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4239.png?size=smaller&amp;t=20090923080010" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4239.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The United States Constitution</title>
+<id>http://www.feedbooks.com/book/4196</id>
+<author>
+  <name>James Madison</name>
+  <uri>http://www.feedbooks.com/author/1193</uri>
+</author>
+<updated>2009-09-23T07:23:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1787</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Politics" label="Politics"/>
+<summary>The Constitution of the United States of America is the supreme law of the United States. It is the foundation and source of the legal authority underlying the existence of the United States of America and the Federal Government of the United States. It provides the framework for the organization of the United States Government. The document defines the three main branches of the government: The legislative branch with a bicameral Congress, an executive branch led by the President, and a judicial branch headed by the Supreme Court. Besides providing for the organization of these branches, the Constitution outlines obligations of each office, as well as provides what powers each branch may exercise. It also reserves numerous rights for the individual states, thereby establishing the United States' federal system of government. It is the shortest and oldest written constitution of any major sovereign state. 
+The United States Constitution was adopted on September 17, 1787, by the Constitutional Convention (or Constitutional Congress[citation needed]) in Philadelphia, Pennsylvania, and later ratified by conventions in each U.S. state in the name of &quot;The People&quot;; it has since been amended twenty-seven times, the first ten amendments being known as the Bill of Rights. The Articles of Confederation and Perpetual Union was actually the first constitution of the United States of America. The U.S. Constitution replaced the Articles of Confederation as the governing document for the United States after being ratified by nine states. The Constitution has a central place in United States law and political culture. The handwritten, or &quot;engrossed&quot;, original document penned by Jacob Shallus is on display at the National Archives and Records Administration in Washington, D.C.</summary>
+<dcterms:source>http://en.wikipedia.org/wiki/United_States_Constitution  http://www.usconstitution.net/xconst.html</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4196.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4196.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4196.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4196.png?t=20090923072308" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4196.png?size=smaller&amp;t=20090923072308" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4196.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Epistle to Can Grande</title>
+<id>http://www.feedbooks.com/book/4237</id>
+<author>
+  <name>Dante Alighieri</name>
+  <uri>http://www.feedbooks.com/author/100</uri>
+</author>
+<updated>2009-09-22T15:40:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1319</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<summary>Dante's letter to Lord Can Grande della Scala, concerning the Divine Comedy in general, the Paradiso in particular, and the method to be used for interpretation.</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4237.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4237.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4237.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4237.png?t=20090922154029" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4237.png?size=smaller&amp;t=20090922154029" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4237.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Duties of Parents</title>
+<id>http://www.feedbooks.com/book/4236</id>
+<author>
+  <name>J.C. Ryle</name>
+  <uri>http://www.feedbooks.com/author/1214</uri>
+</author>
+<updated>2009-09-22T15:35:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1860</dcterms:issued>
+<category term="Essay" label="Essay"/>
+<category term="Religion" label="Religion"/>
+<summary>A primer on raising children and the duties all Christian parents have toward those God has entrusted to them.</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4236.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4236.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4236.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4236.png?t=20090922153515" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4236.png?size=smaller&amp;t=20090922153515" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4236.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Grace and Glory</title>
+<id>http://www.feedbooks.com/book/4235</id>
+<author>
+  <name>Geerhardus Vos</name>
+  <uri>http://www.feedbooks.com/author/1213</uri>
+</author>
+<updated>2009-09-22T15:21:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1903</dcterms:issued>
+<category term="Collections" label="Collections"/>
+<category term="Religion" label="Religion"/>
+<summary>15 sermons preached at Princeton Seminary in the early 1900's by the great scholar of Biblical Theology. Also includes his address on &quot;The Nature and Aims of Biblical Theology.&quot;</summary>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4235.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4235.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4235.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4235.png?t=20090922152139" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4235.png?size=smaller&amp;t=20090922152139" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4235.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Beatitudes</title>
+<id>http://www.feedbooks.com/book/4234</id>
+<author>
+  <name>Thomas Watson</name>
+  <uri>http://www.feedbooks.com/author/1212</uri>
+</author>
+<updated>2009-09-22T15:18:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1660</dcterms:issued>
+<category term="Essay" label="Essay"/>
+<category term="Religion" label="Religion"/>
+<summary>A classic English Puritan exposition of Matthew 5:1-12.</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4234.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4234.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4234.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4234.png?t=20090922151825" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4234.png?size=smaller&amp;t=20090922151825" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4234.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Planet of Dreams</title>
+<id>http://www.feedbooks.com/book/4233</id>
+<author>
+  <name>James McKimmey</name>
+  <uri>http://www.feedbooks.com/author/1145</uri>
+</author>
+<updated>2009-09-22T14:20:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The climate was perfect, the sky was always blue, and&#8212;best of all&#8212;nobody had to work. What more could anyone want?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30045</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4233.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4233.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4233.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4233.png?t=20090922142008" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4233.png?size=smaller&amp;t=20090922142008" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4233.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Carnivore</title>
+<id>http://www.feedbooks.com/book/4232</id>
+<author>
+  <name>G.A. Morris</name>
+  <uri>http://www.feedbooks.com/author/1211</uri>
+</author>
+<updated>2009-09-22T14:17:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Why were they apologetic? It wasn't their fault that they came to Earth much too late.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30044</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4232.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4232.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4232.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4232.png?t=20090922141722" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4232.png?size=smaller&amp;t=20090922141722" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4232.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Flamedown</title>
+<id>http://www.feedbooks.com/book/4231</id>
+<author>
+  <name>Horace Brown Fyfe</name>
+  <uri>http://www.feedbooks.com/author/340</uri>
+</author>
+<updated>2009-09-21T09:41:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It was, of course, one Hell of an ending for a trip to Mars&#8212;</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29936</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4231.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4231.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4231.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4231.png?t=20090921094137" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4231.png?size=smaller&amp;t=20090921094137" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4231.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Spacemen Never Die!</title>
+<id>http://www.feedbooks.com/book/4230</id>
+<author>
+  <name>Morris Hershman</name>
+  <uri>http://www.feedbooks.com/author/1210</uri>
+</author>
+<updated>2009-09-21T09:38:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Henry knew his wife had been married once before; now he expected her to start a new life with him&#8212;but to her the past was alive, and&#8212; Spacemen Never Die!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29947</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4230.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4230.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4230.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4230.png?t=20090921093807" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4230.png?size=smaller&amp;t=20090921093807" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4230.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Two Timer</title>
+<id>http://www.feedbooks.com/book/4229</id>
+<author>
+  <name>Frederic Brown</name>
+  <uri>http://www.feedbooks.com/author/479</uri>
+</author>
+<updated>2009-09-21T09:35:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Here is a brace of vignettes by the Old Vignette Master ... short and sharp ... like a hypodermic!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29948</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4229.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4229.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4229.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4229.png?t=20090921093519" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4229.png?size=smaller&amp;t=20090921093519" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4229.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Celebrity</title>
+<id>http://www.feedbooks.com/book/4228</id>
+<author>
+  <name>James McKimmey</name>
+  <uri>http://www.feedbooks.com/author/1145</uri>
+</author>
+<updated>2009-09-21T09:32:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Sound the fanfare! Beat the drums! Shout hosannas! Here he comes.... CELEBRITY</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29962</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4228.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4228.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4228.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4228.png?t=20090921093226" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4228.png?size=smaller&amp;t=20090921093226" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4228.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Goodbye, Dead Man!</title>
+<id>http://www.feedbooks.com/book/4227</id>
+<author>
+  <name>Tom W. Harris</name>
+  <uri>http://www.feedbooks.com/author/1209</uri>
+</author>
+<updated>2009-09-21T09:28:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Mattup had killed a man, so it was logical he should be punished. It was Danny who came up with the idea of leaving him with the prophecy&#8212;</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29963</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4227.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4227.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4227.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4227.png?t=20090921092809" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4227.png?size=smaller&amp;t=20090921092809" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4227.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Off Course</title>
+<id>http://www.feedbooks.com/book/4226</id>
+<author>
+  <name>Mack Reynolds</name>
+  <uri>http://www.feedbooks.com/author/273</uri>
+</author>
+<updated>2009-09-21T09:22:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Shure and begorra, it was a great day for the Earth! The first envoy from another world was about to speak--that is, if he could forget that horse for a minute....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30035</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4226.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4226.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4226.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4226.png?t=20090921092244" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4226.png?size=smaller&amp;t=20090921092244" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4226.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>I'll Kill You Tomorrow</title>
+<id>http://www.feedbooks.com/book/4225</id>
+<author>
+  <name>Helen Huber</name>
+  <uri>http://www.feedbooks.com/author/1208</uri>
+</author>
+<updated>2009-09-21T09:20:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The entities were utterly, ambitiously evil; their line of defense, apparently, was absolutely impregnable.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30034</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4225.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4225.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4225.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4225.png?t=20090921092004" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4225.png?size=smaller&amp;t=20090921092004" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4225.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Navy Day</title>
+<id>http://www.feedbooks.com/book/4224</id>
+<author>
+  <name>Harry Harrison</name>
+  <uri>http://www.feedbooks.com/author/219</uri>
+</author>
+<updated>2009-09-21T09:03:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The Army had a new theme song: &quot;Anything you can do, we can do better!&quot; And they meant anything, including up-to-date hornpipes!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30019</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4224.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4224.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4224.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4224.png?t=20090921090323" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4224.png?size=smaller&amp;t=20090921090323" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4224.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In a Grove</title>
+<id>http://www.feedbooks.com/book/4205</id>
+<author>
+  <name>Ry&#363;nosuke Akutagawa</name>
+  <uri>http://www.feedbooks.com/author/1068</uri>
+</author>
+<updated>2009-09-28T08:01:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Psychology" label="Psychology"/>
+<summary>&quot;In a Grove&quot; is an early modernist short story consisting of seven varying accounts of the murder of a samurai, Kanazawa no Takehiro, whose corpse has been found in a bamboo forest near Kyoto. Each section simultaneously clarifies and obfuscates what the reader knows about the murder, eventually creating a complex and contradictory vision of events that brings into question humanity's ability or willingness to perceive and transmit objective truth. It is the basis for Kurosawa's &quot;Rashoumon.&quot;
+(from Wikipedia)
+---
+Note: The original Japanese text version is also available on Feedbooks at http://www.feedbooks.com/book/4204</summary>
+<dcterms:source>http://www.scribd.com/doc/3682435/In-a-Grove-by-Ryunosuke-Akutagawa</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4205.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4205.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4205.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4205.png?t=20090928080129" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4205.png?size=smaller&amp;t=20090928080129" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4205.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

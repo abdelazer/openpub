@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=13</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=13" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=13" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 13 | Feedbooks</title>
+  <updated>2010-04-07T18:26:20Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>241</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=12" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=14" rel="next" title="Next Page"/>
+<entry>
+<title>Antonina, or, The Fall of Rome</title>
+<id>http://www.feedbooks.com/book/4374</id>
+<author>
+  <name>Wilkie Collins</name>
+  <uri>http://www.feedbooks.com/author/38</uri>
+</author>
+<updated>2009-11-04T13:55:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1850</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<summary>Ancient Rome, AD 408: Young Antonia had the misfortune to live in interesting times -- the days when mighty Rome was brought low by the terror of the Goths.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/3606</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4374.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4374.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4374.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4374.png?t=20091104135545" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4374.png?size=smaller&amp;t=20091104135545" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4374.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Other Likeness</title>
+<id>http://www.feedbooks.com/book/4373</id>
+<author>
+  <name>James Henry Schmitz</name>
+  <uri>http://www.feedbooks.com/author/278</uri>
+</author>
+<updated>2009-11-04T13:07:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There is a limit to how perfect a counterfeit can be&#8212; a limit that cannot be passed without an odd phenomenon setting in....The Other Likeness</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30398</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4373.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4373.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4373.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4373.png?t=20091104130704" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4373.png?size=smaller&amp;t=20091104130704" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4373.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Pythias</title>
+<id>http://www.feedbooks.com/book/4372</id>
+<author>
+  <name>Frederik Pohl</name>
+  <uri>http://www.feedbooks.com/author/436</uri>
+</author>
+<updated>2009-11-03T22:16:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Sure, Larry Connaught saved my life&#8212;but it was how he did it that forced me to murder him!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30399</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4372.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4372.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4372.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4372.png?t=20091103221638" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4372.png?size=smaller&amp;t=20091103221638" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4372.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Law and the Lady</title>
+<id>http://www.feedbooks.com/book/4371</id>
+<author>
+  <name>Wilkie Collins</name>
+  <uri>http://www.feedbooks.com/author/38</uri>
+</author>
+<updated>2009-11-03T21:21:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1875</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Valeria Woodville's first act as a married woman is to sign her name in the marriage register incorrectly, and this slip is followed by the gradual disclosure of a series of secrets about her husband's earlier life, each of which leads on to another set of questions and enigmas. Her discoveries prompt her to defy her husband's authority, to take the law into into a labyrinthine maze of false clues and deceptive identities, in which the exploration of the tangled workings of the mind becomes linked to an investigation into the masquerades of femininity. Probably the first full-length novel with a woman detective as its heroine, The Law and the Lady is a fascinating example of Collins's later fiction. First published in 1875, it employs many of the techniques used in The Moonstone, developing them in bizarre and unexpected ways, and in its Gothic and fantastic elements The Law and the Lady adds a significant dimension to the history of detective fiction.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/1622</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4371.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4371.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4371.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4371.png?t=20091103212149" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4371.png?size=smaller&amp;t=20091103212149" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4371.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Brother Jacob</title>
+<id>http://www.feedbooks.com/book/4370</id>
+<author>
+  <name>George Eliot</name>
+  <uri>http://www.feedbooks.com/author/132</uri>
+</author>
+<updated>2009-11-03T20:56:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1860</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Brother Jacob is Eliot's literary homage to Thackeray, a satirical modern fable that draws telling parallels between eating and reading. Revealing Eliot's deep engagement with the question of whether there are 'necessary truths' independent of our perception of them and the boundaries of art and the self.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/2171</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4370.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4370.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4370.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4370.png?t=20091103205603" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4370.png?size=smaller&amp;t=20091103205603" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4370.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Twelve Men</title>
+<id>http://www.feedbooks.com/book/4366</id>
+<author>
+  <name>Theodore Dreiser</name>
+  <uri>http://www.feedbooks.com/author/1249</uri>
+</author>
+<updated>2009-11-02T17:22:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Biography" label="Biography"/>
+<category term="Collections" label="Collections"/>
+<summary>Character sketches, combining the best of biography with the finest of narrative - short and illustrative.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/14717</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4366.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4366.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4366.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4366.png?t=20091102172234" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4366.png?size=smaller&amp;t=20091102172234" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4366.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jennie Gerhardt</title>
+<id>http://www.feedbooks.com/book/4365</id>
+<author>
+  <name>Theodore Dreiser</name>
+  <uri>http://www.feedbooks.com/author/1249</uri>
+</author>
+<updated>2009-11-26T18:11:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1911</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Jennie Gerhardt, a destitute young woman, meets Senator Brander in Columbus, Ohio. He seduces her and gives her money to tide them over...</summary>
+<dcterms:source>http://www.gutenberg.org/etext/28988</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4365.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4365.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4365.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4365.png?t=20091126181106" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4365.png?size=smaller&amp;t=20091126181106" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4365.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Titan</title>
+<id>http://www.feedbooks.com/book/4363</id>
+<author>
+  <name>Theodore Dreiser</name>
+  <uri>http://www.feedbooks.com/author/1249</uri>
+</author>
+<updated>2009-11-02T16:38:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>The Titan is a novel written by Theodore Dreiser in 1914. It is Dreiser's sequel to The Financier.
+Cowperwood moves to Chicago with his new wife Aileen. He decides to take over the street-railway system.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/3629</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4363.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4363.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4363.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4363.png?t=20091102163818" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4363.png?size=smaller&amp;t=20091102163818" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4363.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Financier</title>
+<id>http://www.feedbooks.com/book/4362</id>
+<author>
+  <name>Theodore Dreiser</name>
+  <uri>http://www.feedbooks.com/author/1249</uri>
+</author>
+<updated>2009-11-02T16:23:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Published in 1912, The Financier, a novel by Theodore Dreiser, is the first volume of the Trilogy of Desire, which includes The Titan (1914) and The Stoic (1947).
+
+</summary>
+<dcterms:source>http://www.gutenberg.org/etext/1840</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4362.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4362.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4362.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4362.png?t=20091102162356" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4362.png?size=smaller&amp;t=20091102162356" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4362.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sister Carrie</title>
+<id>http://www.feedbooks.com/book/4361</id>
+<author>
+  <name>Theodore Dreiser</name>
+  <uri>http://www.feedbooks.com/author/1249</uri>
+</author>
+<updated>2009-11-02T15:50:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1900</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Sister Carrie (1900) is a novel by Theodore Dreiser about a young country girl who moves to the big city where she starts realizing her own American Dream by first becoming a mistress to men that she perceives as superior and later as a famous actress.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/233</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4361.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4361.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4361.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4361.png?t=20091102155003" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4361.png?size=smaller&amp;t=20091102155003" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4361.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Prelude to Space</title>
+<id>http://www.feedbooks.com/book/4360</id>
+<author>
+  <name>Robert W. Haseltine</name>
+  <uri>http://www.feedbooks.com/author/1248</uri>
+</author>
+<updated>2009-11-02T15:18:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>You're certain to be included in a survey at one time or another. However, there's one you may not recognize as such. Chances are it will be more important than you imagine. It could be man's&#8212; Prelude To Space</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30381</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4360.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4360.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4360.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4360.png?t=20091102151823" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4360.png?size=smaller&amp;t=20091102151823" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4360.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Service with a Smile</title>
+<id>http://www.feedbooks.com/book/4359</id>
+<author>
+  <name>Charles Louis Fontenay</name>
+  <uri>http://www.feedbooks.com/author/172</uri>
+</author>
+<updated>2009-11-02T15:16:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Herbert was truly a gentleman robot. The ladies' slightest wish was his command....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30371</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4359.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4359.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4359.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4359.png?t=20091102151600" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4359.png?size=smaller&amp;t=20091102151600" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4359.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Pipe of Peace</title>
+<id>http://www.feedbooks.com/book/4358</id>
+<author>
+  <name>James McKimmey</name>
+  <uri>http://www.feedbooks.com/author/1145</uri>
+</author>
+<updated>2009-11-02T15:14:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There's a song that says &quot;it's later than you think&quot; and it is perhaps lamentable that someone didn't sing it for Henry that beautiful morning....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30380</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4358.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4358.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4358.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4358.png?t=20091102151401" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4358.png?size=smaller&amp;t=20091102151401" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4358.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Freedom</title>
+<id>http://www.feedbooks.com/book/4351</id>
+<author>
+  <name>Mack Reynolds</name>
+  <uri>http://www.feedbooks.com/author/273</uri>
+</author>
+<updated>2009-10-30T18:46:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Politics" label="Politics"/>
+<summary>Freedom is a very dangerous thing indeed. It is so catching&#8212;like a plague&#8212;even the doctors get it.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30338</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4351.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4351.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4351.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4351.png?t=20091030184633" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4351.png?size=smaller&amp;t=20091030184633" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4351.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultima Thule</title>
+<id>http://www.feedbooks.com/book/4350</id>
+<author>
+  <name>Mack Reynolds</name>
+  <uri>http://www.feedbooks.com/author/273</uri>
+</author>
+<updated>2009-10-30T18:17:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30334</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4350.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4350.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4350.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4350.png?t=20091030181749" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4350.png?size=smaller&amp;t=20091030181749" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4350.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Fifty Per Cent Prophet</title>
+<id>http://www.feedbooks.com/book/4349</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-10-30T17:59:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>That he was a phony Swami was beyond doubt. That he was a genuine prophet, though, seemed ... but then, what's the difference between a dictator and a true prophet? So was he....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30337</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4349.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4349.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4349.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4349.png?t=20091030175951" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4349.png?size=smaller&amp;t=20091030175951" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4349.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>High Dragon Bump</title>
+<id>http://www.feedbooks.com/book/4348</id>
+<author>
+  <name>Don Thompson</name>
+  <uri>http://www.feedbooks.com/author/1247</uri>
+</author>
+<updated>2009-10-30T17:57:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>If it took reduction or torch hair, the Cirissins wanted a bump. Hokum, thistle, gluck.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30330</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4348.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4348.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4348.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4348.png?t=20091030175706" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4348.png?size=smaller&amp;t=20091030175706" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4348.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Black Eyes and the Daily Grind</title>
+<id>http://www.feedbooks.com/book/4347</id>
+<author>
+  <name>Stephen Marlowe</name>
+  <uri>http://www.feedbooks.com/author/744</uri>
+</author>
+<updated>2009-10-30T17:54:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The little house pet from Venus didn't like New York, so New York had to change.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30329</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4347.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4347.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4347.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4347.png?t=20091030175413" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4347.png?size=smaller&amp;t=20091030175413" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4347.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Helpful Hand of God</title>
+<id>http://www.feedbooks.com/book/4346</id>
+<author>
+  <name>Tom Godwin</name>
+  <uri>http://www.feedbooks.com/author/270</uri>
+</author>
+<updated>2009-10-30T17:51:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The helpful hand of God ... can be very helpful indeed. But of course, it's long been known that God helps those who wisely help themselves...</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30322</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4346.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4346.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4346.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4346.png?t=20091030175101" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4346.png?size=smaller&amp;t=20091030175101" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4346.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Black Robe</title>
+<id>http://www.feedbooks.com/book/4344</id>
+<author>
+  <name>Wilkie Collins</name>
+  <uri>http://www.feedbooks.com/author/38</uri>
+</author>
+<updated>2009-10-29T15:35:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1881</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>A high ranking Catholic priest schemes to recover land considered Church property.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/1587</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4344.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4344.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4344.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4344.png?t=20091029153534" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4344.png?size=smaller&amp;t=20091029153534" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4344.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=45</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=45" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=45" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 45 | Feedbooks</title>
+  <updated>2010-04-07T18:26:42Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>881</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=44" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=46" rel="next" title="Next Page"/>
+<entry>
+<title>Cully</title>
+<id>http://www.feedbooks.com/book/3067</id>
+<author>
+  <name>Jack Egan</name>
+  <uri>http://www.feedbooks.com/author/659</uri>
+</author>
+<updated>2010-02-09T14:30:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Psychology" label="Psychology"/>
+<summary>By all the laws of nature, he should have been dead. But if he were alive ... then there was something he had to find.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3067.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3067.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3067.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3067.png?t=20100209143020" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3067.png?size=smaller&amp;t=20100209143020" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3067.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Leavenworth Case</title>
+<id>http://www.feedbooks.com/book/3066</id>
+<author>
+  <name>Anna Katharine Green</name>
+  <uri>http://www.feedbooks.com/author/658</uri>
+</author>
+<updated>2009-09-16T12:52:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1878</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Horatio Leavenworth is a New York merchant whose material wealth is matched by his eminence in the community and reputation for good works. He is also the guardian of two striking nieces who share his Fifth Avenue mansion. Mary, her uncle's favorite, is to inherit his fortune at his death. As this mystery opens, that lamentable event has just occurred. Leavenworth has been shot to death and circumstances point to one of his young wards...</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3066.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3066.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3066.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3066.png?t=20090916125205" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3066.png?size=smaller&amp;t=20090916125205" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3066.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Valley of the Moon</title>
+<id>http://www.feedbooks.com/book/3064</id>
+<author>
+  <name>Jack London</name>
+  <uri>http://www.feedbooks.com/author/34</uri>
+</author>
+<updated>2009-09-16T12:51:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>The novel Valley of the Moon is a story of a working-class couple, Billy and Saxon Roberts, struggling laborers in Oakland at the Turn-of-the-Century, who left the city life behind and searched Central and Northern California for a suitable farmland to own. The book is notable for the scenes in which the proletarian hero enjoys fellowship with the artists' colony in Carmel, and he settles in the Valley of the Moon.</summary>
+<dcterms:source>http://london.sonoma.edu</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3064.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3064.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3064.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3064.png?t=20090916125123" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3064.png?size=smaller&amp;t=20090916125123" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3064.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Seven Out of Time</title>
+<id>http://www.feedbooks.com/book/3060</id>
+<author>
+  <name>Arthur Leo Zagat</name>
+  <uri>http://www.feedbooks.com/author/652</uri>
+</author>
+<updated>2009-09-16T12:50:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1939</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The novel concerns scientists from the future who pull seven people out of time in order to study emotion which has been lost to the human race.</summary>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3060.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3060.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3060.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3060.png?t=20090916125049" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3060.png?size=smaller&amp;t=20090916125049" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3060.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Moving Picture Girls</title>
+<id>http://www.feedbooks.com/book/3059</id>
+<author>
+  <name>Laura Lee Hope</name>
+  <uri>http://www.feedbooks.com/author/653</uri>
+</author>
+<updated>2009-09-16T12:50:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>Actor Hosmer DeVere and his daughters Ruth and Alice struggle to make ends meet while Mr. DeVere is between theatrical engagements.  Things look up when he wins a leading role in an upcoming play, but he is suddenly afflicted with hoarseness just before the play opens.  When his voice does not improve, he loses his role in the play and must seek other work. 
+
+Russ Dalwood, a friend to Ruth and Alice, suggests that Mr. DeVere join his film company as an actor in the moving pictures. Considering the moving pictures to be vulgar and cheap, he refuses until the situation has become critical and the family is served with an eviction notice.  Mr. DeVere gives in and accepts the job at the film company. 
+
+Over time, Alice and Ruth also gain positions with the film company where they experience many adventures and help Russ prevent thieves from stealing his newly invented  film stabilizer from him.</summary>
+<dcterms:source>http://gutenberg.org/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3059.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3059.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3059.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3059.png?t=20090916125036" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3059.png?size=smaller&amp;t=20090916125036" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3059.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Children of Tomorrow</title>
+<id>http://www.feedbooks.com/book/3058</id>
+<author>
+  <name>Arthur Leo Zagat</name>
+  <uri>http://www.feedbooks.com/author/652</uri>
+</author>
+<updated>2009-09-16T12:50:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1939</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>They roamed the vanished world that yesterday was America.</summary>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3058.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3058.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3058.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3058.png?t=20090916125021" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3058.png?size=smaller&amp;t=20090916125021" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3058.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Putnam Tradition</title>
+<id>http://www.feedbooks.com/book/3057</id>
+<author>
+  <name>Sonya Dorman</name>
+  <uri>http://www.feedbooks.com/author/651</uri>
+</author>
+<updated>2009-09-16T12:50:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Through generations the power has descended, now weaker, now stronger. And which way did the power run in the four-year-old in the garden, playing with a pie plate?</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3057.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3057.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3057.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3057.png?t=20090916125018" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3057.png?size=smaller&amp;t=20090916125018" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3057.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>I'm a Stranger Here Myself</title>
+<id>http://www.feedbooks.com/book/3056</id>
+<author>
+  <name>Mack Reynolds</name>
+  <uri>http://www.feedbooks.com/author/273</uri>
+</author>
+<updated>2009-09-16T12:50:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>One can't be too cautious about the people one meets in Tangier. They're all weirdies of one kind or another. Me? Oh, I'm A Stranger Here Myself</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3056.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3056.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3056.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3056.png?t=20090916125018" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3056.png?size=smaller&amp;t=20090916125018" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3056.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Talleyrand Maxim</title>
+<id>http://www.feedbooks.com/book/3053</id>
+<author>
+  <name>Joseph Smith Fletcher</name>
+  <uri>http://www.feedbooks.com/author/610</uri>
+</author>
+<updated>2009-09-16T12:49:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Nesta, left alone, gave herself up to deep thought, and to a careful reckoning of her position. She was longing to confide in some trustworthy person or persons, for Pratt's revelations had plunged her into a maze of perplexity. But her difficulties were many. First of all, she would have to tell all about the terrible charge brought by Pratt against her mother. Then about the second which he professed to--or probably did--hold. What sort of a secret could it be? And supposing her advisers suggested strong measures against Pratt--what then, about the danger to her mother, in a twofold direction?</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3053.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3053.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3053.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3053.png?t=20090916124938" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3053.png?size=smaller&amp;t=20090916124938" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3053.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Scarhaven Keep</title>
+<id>http://www.feedbooks.com/book/3052</id>
+<author>
+  <name>Joseph Smith Fletcher</name>
+  <uri>http://www.feedbooks.com/author/610</uri>
+</author>
+<updated>2009-09-16T12:50:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>When the great actor, Bassett Oliver, who was a martinet for punctuality, failed to turn up to a rehearsal which he himself had called, his business manager guessed that something had happened. It had. But it took more than one set of brains to discover the truth, and another set of very curious circumstances was mixed up in it. Copplestone, the young dramatist, helping to solve the mystery, found himself suddenly in love; and the solution and his happiness were discovered together.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3052.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3052.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3052.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3052.png?t=20090916125017" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3052.png?size=smaller&amp;t=20090916125017" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3052.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Safety Pin</title>
+<id>http://www.feedbooks.com/book/3048</id>
+<author>
+  <name>Joseph Smith Fletcher</name>
+  <uri>http://www.feedbooks.com/author/610</uri>
+</author>
+<updated>2009-09-16T12:49:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1924</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>An elderly man called Deane is murdered in an English town. Inspector Mellapont thinks it's a simple robbery, but others disagree, and Deane's business partner, an attractive young girl named Miss Pretty, offers a reward for information. No fewer than three rogues decide to improve their own prospects by investigating &#8212; the two Hackdale brothers, John and Simmons, working independently, and the town drunk James Bartlett, who sobers up rapidly when blackmail and extortion are in prospect. Attention centers on the mayor, Mrs. Champernowne; but when thieves fall out information gets into the hands of the police and a local solicitor, Francis Shelmore, and the plot unravels rapidly.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3048.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3048.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3048.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3048.png?t=20090916124923" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3048.png?size=smaller&amp;t=20090916124923" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3048.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Rayner-Slade Amalgamation</title>
+<id>http://www.feedbooks.com/book/3047</id>
+<author>
+  <name>Joseph Smith Fletcher</name>
+  <uri>http://www.feedbooks.com/author/610</uri>
+</author>
+<updated>2009-09-16T12:49:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt: &quot;That's just what I was going to suggest, he said. &quot;There's no good to be done hanging about here. Let's get on to the scene of operations. If Miss Lennard's maid has stolen her jewels, she's probably had some hand in the theft from my cousin. We must find her. Now, then, let me come in. I'll look up the train, settle up with these hotel folk, and we'll be off. You give your attention to your packing, Miss Lennard, and leave the rest to me--you won't mind travelling the night?&quot;</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3047.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3047.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3047.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3047.png?t=20090916124904" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3047.png?size=smaller&amp;t=20090916124904" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3047.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ravensdene Court</title>
+<id>http://www.feedbooks.com/book/3046</id>
+<author>
+  <name>Joseph Smith Fletcher</name>
+  <uri>http://www.feedbooks.com/author/610</uri>
+</author>
+<updated>2009-09-16T12:48:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>An expert in rare books is invited to a remote Northumbrian manor house to catalogue a library. Mysterious events ensue...</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3046.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3046.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3046.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3046.png?t=20090916124847" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3046.png?size=smaller&amp;t=20090916124847" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3046.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Richard III</title>
+<id>http://www.feedbooks.com/book/3045</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:48:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1591</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Plays" label="Plays"/>
+<summary>Richard III is a history play by William Shakespeare, believed to have been written in approximately 1591. The play is an unflattering depiction of the short reign of Richard III of England. While generally classified as a history, as grouped in the First Folio, the play is sometimes called a tragedy (as in the first quarto). It picks up the story from Henry VI, Part 3 and concludes the historical series that stretches back to Richard II. </summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3045.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3045.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3045.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3045.png?t=20090916124834" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3045.png?size=smaller&amp;t=20090916124834" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3045.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Henry VIII</title>
+<id>http://www.feedbooks.com/book/3040</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:48:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1603</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Plays" label="Plays"/>
+<summary>The Famous History of the Life of King Henry the Eighth is a history play by William Shakespeare, based on the life of Henry VIII of England. An alternative title, All is True, is recorded in contemporary documents, the title Henry VIII not appearing until the play's publication in the First Folio of 1623. Stylistic evidence indicates that the play was written by Shakespeare in collaboration with, or revised by, his successor, John Fletcher. It is also somewhat characteristic of the late romances in its structure.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3040.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3040.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3040.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3040.png?t=20090916124805" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3040.png?size=smaller&amp;t=20090916124805" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3040.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>King John</title>
+<id>http://www.feedbooks.com/book/3038</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:47:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1595</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Plays" label="Plays"/>
+<summary>The Life and Death of King John, a history play by William Shakespeare, dramatizes the reign of King John of England (ruled 1199&#8211;1216), son of Henry II of England and Eleanor of Aquitaine and father of Henry III of England. It is believed to have been written in the mid-1590s but was not published until it appeared in the First Folio in 1623.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3038.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3038.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3038.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3038.png?t=20090916124756" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3038.png?size=smaller&amp;t=20090916124756" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3038.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Paradise Mystery</title>
+<id>http://www.feedbooks.com/book/3036</id>
+<author>
+  <name>Joseph Smith Fletcher</name>
+  <uri>http://www.feedbooks.com/author/610</uri>
+</author>
+<updated>2009-09-16T12:47:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>A quiet cathedral town in England, full of gossips and people who are not quite who they seem to be, is the setting for this murder mystery.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3036.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3036.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3036.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3036.png?t=20090916124750" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3036.png?size=smaller&amp;t=20090916124750" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3036.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Henry VI, Part 3</title>
+<id>http://www.feedbooks.com/book/3035</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:47:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1591</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Plays" label="Plays"/>
+<summary>Henry the Sixth, Part 3, is a history play by William Shakespeare, believed written in approximately 1590, and set during the lifetime of King Henry VI of England. It prepares the ground for one of his best-known and most controversial plays: the tragedy of King Richard III (Richard III of England). It continues the action from Henry VI, Part 1 and Henry VI, Part 2, though they may not have been written in that order.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3035.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3035.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3035.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3035.png?t=20090916124737" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3035.png?size=smaller&amp;t=20090916124737" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3035.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Henry VI, Part 2</title>
+<id>http://www.feedbooks.com/book/3034</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:47:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1591</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Plays" label="Plays"/>
+<summary>The Second Part of King Henry the Sixth, or Henry VI, Part 2, is a history play by William Shakespeare believed written in approximately 1590-91. It is the second part of the trilogy on Henry VI, and often grouped together with Richard III as a tetralogy on The Wars of the Roses&#8212;the success of which established Shakespeare's reputation as a playwright.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3034.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3034.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3034.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3034.png?t=20090916124725" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3034.png?size=smaller&amp;t=20090916124725" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3034.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Henry VI, Part 1</title>
+<id>http://www.feedbooks.com/book/3033</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:47:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1590</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Plays" label="Plays"/>
+<summary>The First Part of King Henry the Sixth is history play by William Shakespeare, believed written in approximately 1588&#8211;1590. It is the first in the cycle of four plays often referred to as &quot;The First Tetralogy&quot;.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3033.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3033.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3033.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3033.png?t=20090916124714" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3033.png?size=smaller&amp;t=20090916124714" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3033.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

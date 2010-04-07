@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=125</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=125" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=125" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 125 | Feedbooks</title>
+  <updated>2010-04-07T18:27:35Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2481</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=124" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=126" rel="next" title="Next Page"/>
+<entry>
+<title>Pellucidar</title>
+<id>http://www.feedbooks.com/book/854</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:31:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1923</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>In this sequel to At the Earth's Core, return to the world of Pellucidar&#8212;an exotic, savage land at the center of the Earth, an untamed wilderness where the sun never sets. When American explorer David Innes first discovered Pellucidar, he fell under the spell of the strange world, earning the respect of many, the undying hatred of a few, and the love of the beautiful Dian. Torn from her arms by trickery, Innes vows revenge and returns to the Inner World to seek his lost love.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/854.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/854.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/854.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/854.png?t=20090916103136" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/854.png?size=smaller&amp;t=20090916103136" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/854.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Sky Is Falling</title>
+<id>http://www.feedbooks.com/book/853</id>
+<author>
+  <name>Lester Del Rey</name>
+  <uri>http://www.feedbooks.com/author/158</uri>
+</author>
+<updated>2009-09-16T10:31:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>''Dave stared around the office. He went to the window and stared upwards at the crazy patchwork of the sky. For all he knew, in such a sky there might be cracks. In fact, as he looked, he could make out a rift, and beyond that a ... hole ... a small patch where there was no color, and yet the sky there was not black. There were no stars there, though points of light were clustered around the edges, apparently retreating.''</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/853.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/853.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/853.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/853.png?t=20090916103135" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/853.png?size=smaller&amp;t=20090916103135" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/853.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Police Your Planet</title>
+<id>http://www.feedbooks.com/book/852</id>
+<author>
+  <name>Lester Del Rey</name>
+  <uri>http://www.feedbooks.com/author/158</uri>
+</author>
+<updated>2009-09-16T10:31:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Bruce Gordon was an ex-fighter, ex-gambler, ex-cop, ex-reporter, and now he was an ex-patriot of Earth. Security shipped him to Mars with a knife, 100 credits, and a yellow card that meant no return.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/852.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/852.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/852.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/852.png?t=20090916103133" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/852.png?size=smaller&amp;t=20090916103133" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/852.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Badge of Infamy</title>
+<id>http://www.feedbooks.com/book/851</id>
+<author>
+  <name>Lester Del Rey</name>
+  <uri>http://www.feedbooks.com/author/158</uri>
+</author>
+<updated>2009-09-16T10:31:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1957</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>As a doctor, Daniel Feldman once made the mistake of saving a friend's life in violation of Medical Lobby rules. Now he's a pariah, shunned by all, and forbidden to touch another patient. But rules are looser on Mars -- there, Doc Feldman is welcomed by the colonists, even as he's hunted by the authorities. But when he discovers a Martian plague may soon wipe out two planets, Feldman finds himself a pivotal figure. War erupts, Earth is poised to completely destroy the Mars colony, and a cure to the plague is the price of peace.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/851.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/851.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/851.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/851.png?t=20090916103131" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/851.png?size=smaller&amp;t=20090916103131" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/851.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The White Invaders</title>
+<id>http://www.feedbooks.com/book/850</id>
+<author>
+  <name>Raymond King Cummings</name>
+  <uri>http://www.feedbooks.com/author/157</uri>
+</author>
+<updated>2009-09-16T10:31:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Out of their unknown fourth dimensional realm materializes a horde of White Invaders with power invincible.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/850.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/850.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/850.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/850.png?t=20090916103129" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/850.png?size=smaller&amp;t=20090916103129" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/850.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Wandl the Invader</title>
+<id>http://www.feedbooks.com/book/849</id>
+<author>
+  <name>Raymond King Cummings</name>
+  <uri>http://www.feedbooks.com/author/157</uri>
+</author>
+<updated>2009-09-16T10:31:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There were nine major planets in the Solar System, and it was within their boundaries that man first set up interplanetary commerce and began trading with the ancient Martian civilization. And then they discovered a tenth planet -- a maverick!
+This tenth world, if it had an orbit, had a strange one, for it was heading inwards from interstellar space, heading close to the Earth-Mars spaceways, upsetting astronautic calculations and raising turmoil on the two inhabited worlds.
+
+But even so none suspected then just how much trouble this new world would make. For it was WANDL THE INVADER and it was no barren planetoid. It was a manned world, manned by minds and monsters and traveling into our system with a purpose beyond that of astronomical accident!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/849.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/849.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/849.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/849.png?t=20090916103127" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/849.png?size=smaller&amp;t=20090916103127" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/849.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Girl in the Golden Atom</title>
+<id>http://www.feedbooks.com/book/848</id>
+<author>
+  <name>Raymond King Cummings</name>
+  <uri>http://www.feedbooks.com/author/157</uri>
+</author>
+<updated>2009-09-16T10:31:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1923</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A classic work of science fiction, this novel was one of the first to explore the world of the atom. The Girl in the Golden Atom is the story of a young chemist who finds a hidden atomic world within his mother&#8217;s wedding ring. Under a microscope, he sees within the ring a beautiful young woman sitting before a cave. Enchanted by her, he shrinks himself so that he can join her world.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/848.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/848.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/848.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/848.png?t=20090916103124" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/848.png?size=smaller&amp;t=20090916103124" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/848.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Brigands of the Moon</title>
+<id>http://www.feedbooks.com/book/847</id>
+<author>
+  <name>Raymond King Cummings</name>
+  <uri>http://www.feedbooks.com/author/157</uri>
+</author>
+<updated>2009-09-16T10:31:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Gregg Haljan was aware that there was a certain danger in having the giant spaceship Planetara stop off at the moon to pick up Grantline's special cargo of moon ore. For that rare metal--invaluable in keeping Earth's technology running--was the target of many greedy eyes. But nevertheless he hadn't figured on the special twist the clever Martian brigands would use. So when he found both the ship and himself suddenly in their hands, he knew that there was only one way in which he could hope to save that cargo and his own secret--that would be by turning space-pirate himself and paying the Brigands of the Moon back in their own interplanetary coin.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/847.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/847.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/847.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/847.png?t=20090916103119" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/847.png?size=smaller&amp;t=20090916103119" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/847.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Warlord of Kor</title>
+<id>http://www.feedbooks.com/book/846</id>
+<author>
+  <name>Terry Gene Carr</name>
+  <uri>http://www.feedbooks.com/author/156</uri>
+</author>
+<updated>2009-09-16T10:31:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Backward world -- or secret outpost of another galaxy? ...Now they would attempt further to discover the forbidden directives of Kor. Horng remembered, somewhere far back in the fossil layers of his thoughts, a warning. They must be stopped! If he had to, he would stamp out these creatures who were called 'humans.'</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/846.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/846.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/846.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/846.png?t=20090916103111" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/846.png?size=smaller&amp;t=20090916103111" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/846.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Black Star Passes</title>
+<id>http://www.feedbooks.com/book/845</id>
+<author>
+  <name>John Wood Campbell</name>
+  <uri>http://www.feedbooks.com/author/155</uri>
+</author>
+<updated>2009-09-16T10:31:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A sky pirate armed with superior weapons of his own invention....
+
+First contact with an alien race dangerous enough to threaten the safety of two planets....
+
+The arrival of an unseen dark sun whose attendant marauders aimed at the very end of civilization in this Solar System....</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/845.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/845.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/845.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/845.png?t=20090916103110" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/845.png?size=smaller&amp;t=20090916103110" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/845.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Invaders from the Infinite</title>
+<id>http://www.feedbooks.com/book/844</id>
+<author>
+  <name>John Wood Campbell</name>
+  <uri>http://www.feedbooks.com/author/155</uri>
+</author>
+<updated>2009-09-16T10:31:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The alien spaceship was unthinkably huge, enormously powerful, apparently irresistible. It came from the void and settled on Earth, striking awe into the hearts of all who saw it. Its burden, however, was not conquest -- but a call for help!
+
+First contact was a job for the brilliant team of scientists, Arcot, Wade, and Morey,explorers of the Islands of Space. And what they learned was an offer of an alliance against an invading foe so powerful that no known force could turn them back!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/844.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/844.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/844.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/844.png?t=20090916103107" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/844.png?size=smaller&amp;t=20090916103107" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/844.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Islands of Space</title>
+<id>http://www.feedbooks.com/book/836</id>
+<author>
+  <name>John Wood Campbell</name>
+  <uri>http://www.feedbooks.com/author/155</uri>
+</author>
+<updated>2009-09-16T10:31:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>&quot;Their space-drive engine shattered the intergalactic barriers&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/836.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/836.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/836.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/836.png?t=20090916103104" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/836.png?size=smaller&amp;t=20090916103104" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/836.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Door Through Space</title>
+<id>http://www.feedbooks.com/book/835</id>
+<author>
+  <name>Marion Zimmer Bradley</name>
+  <uri>http://www.feedbooks.com/author/154</uri>
+</author>
+<updated>2009-09-16T10:31:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>... across half a Galaxy, the Terran Empire maintains its sovereignty with the consent of the governed. It is a peaceful reign, held by compact and not by conquest. Again and again, when rebellion threatens the Terran Peace, the natives of the rebellious world have turned against their own people and sided with the men of Terra; not from fear, but from a sense of dedication. There has never been open war. The battle for these worlds is fought in the minds of a few men who stand between worlds; bound to one world by interest, loyalties and allegiance; bound to the other by love. Such a world is Wolf. Such a man was Race Cargill of the Terran Secret Service.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/835.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/835.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/835.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/835.png?t=20090916103101" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/835.png?size=smaller&amp;t=20090916103101" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/835.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Colors of Space</title>
+<id>http://www.feedbooks.com/book/834</id>
+<author>
+  <name>Marion Zimmer Bradley</name>
+  <uri>http://www.feedbooks.com/author/154</uri>
+</author>
+<updated>2009-09-16T10:30:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It was a week before the Lhari ship went into warp-drive, and all that time young Bart Steele had stayed in his cabin. He was so bored with his own company that the Mentorian medic was a welcome sight when he came to prepare him for cold-sleep!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/834.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/834.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/834.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/834.png?t=20090916103058" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/834.png?size=smaller&amp;t=20090916103058" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/834.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Atlantida</title>
+<id>http://www.feedbooks.com/book/833</id>
+<author>
+  <name>Pierre Benoit</name>
+  <uri>http://www.feedbooks.com/author/153</uri>
+</author>
+<updated>2009-09-16T10:30:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The classic novel of finding the Lost Atlantis.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/833.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/833.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/833.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/833.png?t=20090916103056" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/833.png?size=smaller&amp;t=20090916103056" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/833.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Infra-Medians</title>
+<id>http://www.feedbooks.com/book/832</id>
+<author>
+  <name>Sewell Peaslee Wright</name>
+  <uri>http://www.feedbooks.com/author/151</uri>
+</author>
+<updated>2009-09-16T10:30:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Into a land of shadows and lost souls goes Pete Grahame in search of his hapless friends.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/832.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/832.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/832.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/832.png?t=20090916103053" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/832.png?size=smaller&amp;t=20090916103053" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/832.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The World Set Free</title>
+<id>http://www.feedbooks.com/book/831</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:30:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>THE WORLD SET FREE was written in 1913 and published early in 1914, and it is the latest of a series of three fantasias of possibility, stories which all turn on the possible developments in the future of some contemporary force or group of forces. The World Set Free was written under the immediate shadow of the Great War. Every intelligent person in the world felt that disaster was impending and knew no way of averting it, but few of us realised in the earlier half of 1914 how near the crash was to us. The reader will be amused to find that here it is put off until the year 1956.
+
+Noteworthy for its depiction of fictional ''atomic bombs'' which eerily prefigure the development of real nuclear weapons.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/831.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/831.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/831.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/831.png?t=20090916103053" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/831.png?size=smaller&amp;t=20090916103053" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/831.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Skylark of Space</title>
+<id>http://www.feedbooks.com/book/830</id>
+<author>
+  <name>Edward Elmer &quot;Doc&quot; Smith</name>
+  <uri>http://www.feedbooks.com/author/150</uri>
+</author>
+<updated>2009-09-16T10:30:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1928</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>We know so little about intra-atomic forces, that this story, improbable as it will appear in spots, will read commonplace years hence, when we have atomic engines, and when we have solved the riddle of the atom. You will follow the hair-raising explorations and strange ventures into far-away worlds with bated breath, and you will be fascinated, as we were, with the strangeness of it all.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/830.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/830.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/830.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/830.png?t=20090916103045" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/830.png?size=smaller&amp;t=20090916103045" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/830.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Looking Backward</title>
+<id>http://www.feedbooks.com/book/829</id>
+<author>
+  <name>Edward Bellamy</name>
+  <uri>http://www.feedbooks.com/author/149</uri>
+</author>
+<updated>2009-09-16T10:30:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1888</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Set in Boston on December 26, 2000, but written before the turn of the nineteenth century, this classic Utopian novel is more significant and relevant than ever with its reappearance this millennium. Addressing moral and material concerns of late nineteenth century industrial America through romantic narrative, Bellamy suggests a fictionalized society in which war, poverty, and malice do not exist.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/829.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/829.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/829.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/829.png?t=20090916103043" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/829.png?size=smaller&amp;t=20090916103043" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/829.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Spacehounds of IPC</title>
+<id>http://www.feedbooks.com/book/828</id>
+<author>
+  <name>Edward Elmer &quot;Doc&quot; Smith</name>
+  <uri>http://www.feedbooks.com/author/150</uri>
+</author>
+<updated>2009-09-16T10:30:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>When the Inter-Planetary Corporation's top spaceliner Arcturus took off on a routine flight to Mars it turned out to be the beginning of a most unexpected and long voyage: attacked by a mysterious spaceship, the liner crash-landed on Ganymede. The survivors must first master that world's primeval terrors, then construct a new spacecraft, and finally, find a way to deal with the warring intelligences of the Jovian system.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/828.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/828.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/828.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/828.png?t=20090916103037" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/828.png?size=smaller&amp;t=20090916103037" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/828.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

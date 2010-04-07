@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=25</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=25" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=25" rel="self"/>
+  <title>Original Books / New Releases / Page 25 | Feedbooks</title>
+  <updated>2010-04-07T18:24:06Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>481</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=24" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=26" rel="next" title="Next Page"/>
+<entry>
+<title>Action Comics #39</title>
+<id>http://www.feedbooks.com/userbook/7922</id>
+<author>
+  <name>Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brian%20Burchette</uri>
+</author>
+<updated>2009-10-17T00:40:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Action Comics: Kon-El, Part Three
+
+There's a new, and younger, Superman up for bid, but which insane genius will get his hands on him? Lex Luthor? Dr. Ivo? Dr. Sivana? Or will Superman, Supergirl, Captain Marvel, and Mary Marvel be able to stop this potential weapon from falling into the wrong hands?</summary>
+<category term="Captain Marvel"/>
+<category term="Slam Bradley"/>
+<category term="Lois Lane"/>
+<category term="Doctor Xadu"/>
+<category term="Mary Marvel"/>
+<category term="Lex Luthor"/>
+<category term="Doctor Sivana"/>
+<category term="Professor Ivo"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Amazo"/>
+<category term="Supergirl"/>
+<category term="Superboy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7922.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7922.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7922.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7922.png?t=20091017004023" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7922.png?size=smaller&amp;t=20091017004023" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7922.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #39</title>
+<id>http://www.feedbooks.com/userbook/7921</id>
+<author>
+  <name>Batkid</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Batkid</uri>
+</author>
+<updated>2009-10-17T00:40:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Nightwing: Living Nightmare
+
+There's a villain loose in Gotham, and it's up to Batman and Robin to stop him. They may be in for more than they've bargained for, however, because the tables can be turned in the blink of an eye!</summary>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Nightwing"/>
+<category term="Batman"/>
+<category term="Scarecrow"/>
+<category term="robin"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7921.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7921.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7921.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7921.png?t=20091017004014" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7921.png?size=smaller&amp;t=20091017004014" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7921.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Birds of Prey #4</title>
+<id>http://www.feedbooks.com/userbook/7920</id>
+<author>
+  <name>Matthew Davies</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Matthew%20Davies</uri>
+</author>
+<updated>2009-10-17T00:40:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Birds of Prey, Part Four (of Four): Salvations and Revelations.</summary>
+<category term="Black Canary"/>
+<category term="Green Arrow"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="batgirl"/>
+<category term="Nightwing"/>
+<category term="Overmaster"/>
+<category term="Huntress"/>
+<category term="Omen"/>
+<category term="Zatanna"/>
+<category term="Vigilante"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7920.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7920.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7920.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7920.png?t=20091017004004" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7920.png?size=smaller&amp;t=20091017004004" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7920.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Titans #3</title>
+<id>http://www.feedbooks.com/userbook/7919</id>
+<author>
+  <name>Boris Mihajlovic and Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Boris%20Mihajlovic%20and%20Brian%20Burchette</uri>
+</author>
+<updated>2009-10-17T00:39:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Titans: Everything Old...
+
+After the startling discovery at the end of last issue, The Titans must face their past demons while still moving forward to stop a fiendish plot that involves old friends - and past loves.</summary>
+<category term="Titans"/>
+<category term="Nightwing"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Cyborg"/>
+<category term="Flamebird"/>
+<category term="Hotspot"/>
+<category term="Argent"/>
+<category term="Jericho"/>
+<category term="Ravager"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7919.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7919.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7919.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7919.png?t=20091017003953" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7919.png?size=smaller&amp;t=20091017003953" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7919.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Forever In Time</title>
+<id>http://www.feedbooks.com/userbook/7906</id>
+<author>
+  <name>Nicky Charles</name>
+  <uri>http://www.feedbooks.com/user/45603/profile#Nicky%20Charles</uri>
+</author>
+<updated>2010-02-22T23:16:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>She was in there, he knew it. He'd been following her for weeks and knew every move she made. There'd be no escaping him.  Time was on his side.  &quot;I'm waiting, Steph. I've been waiting a long, long time.&quot; 
+
+Stephanie thought she was ordinary.  Her life was stable, or at least it was until the stranger appeared. Was he the answer to her dreams or a nightmare?
+
+</summary>
+<category term="fiction"/>
+<category term="mystery"/>
+<category term="suspense"/>
+<category term="paranormal"/>
+<category term="romance"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7906.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7906.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7906.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7906.png?t=20100222231604" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7906.png?size=smaller&amp;t=20100222231604" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7906.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>M@ilbox</title>
+<id>http://www.feedbooks.com/userbook/7914</id>
+<author>
+  <name>Gabriel Prospero</name>
+  <uri>http://www.feedbooks.com/user/54869/profile#Gabriel%20Prospero</uri>
+</author>
+<updated>2009-10-20T05:33:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>The others know not that in this quarrel we perish. Back home after Seth's funeral, Kev sends him a final email, which receives a reply. A voice from beyond the grave, a computer hoax by a Rogerian hacker, a manipulation of no importance? It is in India, following the course of the Ganges, that the discussion will take shape and substance, and come to life.</summary>
+<category term="post death"/>
+<category term="science fiction"/>
+<category term="Ondin"/>
+<category term="Viviane"/>
+<category term="arthur"/>
+<category term="Puck"/>
+<category term="travel"/>
+<category term="road"/>
+<category term="mystery"/>
+<category term="Entropy"/>
+<category term="Turing"/>
+<category term="hacker"/>
+<category term="Celts"/>
+<category term="Merlin"/>
+<category term="India"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7914.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7914.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7914.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7914.png?t=20091020053307" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7914.png?size=smaller&amp;t=20091020053307" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7914.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Closeness in Love</title>
+<id>http://www.feedbooks.com/userbook/7913</id>
+<author>
+  <name>Lovers in Training</name>
+  <uri>http://www.feedbooks.com/user/55401/profile#Lovers%20in%20Training</uri>
+</author>
+<updated>2009-10-16T03:04:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Free ebook about closeness in love relationships. We enter into love relationships because we want to be close. Or so we say. Learn about a deeper understanding of closeness, different kinds of closeness, the ingredients of closeness, ways to measure closeness, how to apply closeness in love to bring healing into your love relationship or to help you create one, and more.</summary>
+<category term="ebook"/>
+<category term="free"/>
+<category term="counseling"/>
+<category term="marriage"/>
+<category term="divorce"/>
+<category term="healing"/>
+<category term="relationships"/>
+<category term="romance"/>
+<category term="love"/>
+<category term="closeness"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7913.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7913.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7913.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7913.png?t=20091016030441" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7913.png?size=smaller&amp;t=20091016030441" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7913.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>THE MOST EVIL OF ALL GODS</title>
+<id>http://www.feedbooks.com/userbook/7862</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2009-12-10T01:24:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>THE GOD SLANDERING DARK AGE DOCTRINE OF HELL MAKES GOD EVIL, CRUEL, SADISTIC, AND FIENDISH. By some unknown and twisted reasoning it is assumed that for God to be just He must forever torment the lost for His justice demands this. From the first sin, God's sentence to Adam was not eternal torment but death. Throughout the Bible, the sentence for sin is always death, not torment. &quot;The wages of sin is death.&quot; That His justice demands that He must forever torment the lost is without any foundation in His word. To put it pure and simple, it is a doctrine of man and it makes God evil, cruel, and fiendish.</summary>
+<category term="&#8232;&#8232;&#8221;CALVIN"/>
+<category term="GOD&#8221;"/>
+<category term="&#8220;JONATHAN"/>
+<category term="EDWARDS"/>
+<category term="GOD&#8221;"/>
+<category term="Israel"/>
+<category term="gnashing"/>
+<category term="of"/>
+<category term="teeth"/>
+<category term="outer"/>
+<category term="darkness"/>
+<category term="Lazarus"/>
+<category term="rich"/>
+<category term="man"/>
+<category term="Fiendish"/>
+<category term="Pagan"/>
+<category term="eternal"/>
+<category term="eternity"/>
+<category term="heaven"/>
+<category term="God"/>
+<category term="hell"/>
+<category term="death"/>
+<category term="universalists"/>
+<category term="religion"/>
+<category term="resurrection"/>
+<category term="immortality"/>
+<category term="sou"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7862.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7862.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7862.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7862.png?t=20091210012429" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7862.png?size=smaller&amp;t=20091210012429" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7862.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Octogenarian ski-jumper: free sample</title>
+<id>http://www.feedbooks.com/userbook/7806</id>
+<author>
+  <name>Martin McGovern</name>
+  <uri>http://www.feedbooks.com/user/54359/profile#Martin%20McGovern</uri>
+</author>
+<updated>2009-10-21T10:06:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>This e-book has sample chapters describing the achievements of the famous and the not-so-famous, arranged by the age at which they achieved sporting greatness, wrote that novel, or invented that everyday gadget. Mary Wesley wrote her first book at 70, Ethel Seymour won an Olympic medal in gymnastics at 46. This book has something for everyone with an age. </summary>
+<category term="inspirational"/>
+<category term="gift"/>
+<category term="Age"/>
+<category term="birthday"/>
+<category term="reference"/>
+<category term="biography"/>
+<category term="trivia"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7806.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7806.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7806.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7806.png?t=20091021100644" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7806.png?size=smaller&amp;t=20091021100644" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7806.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Batman #7</title>
+<id>http://www.feedbooks.com/userbook/7844</id>
+<author>
+  <name>Chris Weiherer</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Chris%20Weiherer</uri>
+</author>
+<updated>2009-10-12T02:09:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Batman: Clay Beginnings.</summary>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Clayface"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7844.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7844.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7844.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7844.png?t=20091012020948" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7844.png?size=smaller&amp;t=20091012020948" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7844.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #7</title>
+<id>http://www.feedbooks.com/userbook/7843</id>
+<author>
+  <name>Ramon Villalobos</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Ramon%20Villalobos</uri>
+</author>
+<updated>2009-10-12T02:09:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Detective Comics: Grim, Part Two: One Long Night.</summary>
+<category term="The Reaper"/>
+<category term="Jim Gordon"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7843.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7843.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7843.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7843.png?t=20091012020938" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7843.png?size=smaller&amp;t=20091012020938" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7843.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Birds of Prey #3</title>
+<id>http://www.feedbooks.com/userbook/7842</id>
+<author>
+  <name>Matthew Davies</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Matthew%20Davies</uri>
+</author>
+<updated>2009-10-12T02:09:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Birds of Prey, Part Three (of Four): Divided We Fall.</summary>
+<category term="Black Canary"/>
+<category term="Green Arrow"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="batgirl"/>
+<category term="Huntress"/>
+<category term="Omen"/>
+<category term="Zatanna"/>
+<category term="Vigilante"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7842.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7842.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7842.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7842.png?t=20091012020927" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7842.png?size=smaller&amp;t=20091012020927" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7842.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Titans #2</title>
+<id>http://www.feedbooks.com/userbook/7841</id>
+<author>
+  <name>Boris Mihajlovic</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Boris%20Mihajlovic</uri>
+</author>
+<updated>2009-10-12T02:09:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Titans: Darhk Days Ahead.
+
+
+The Titans confront H.I.V.E. </summary>
+<category term="Ravager"/>
+<category term="Jericho"/>
+<category term="Argent"/>
+<category term="Hotspot"/>
+<category term="Flamebird"/>
+<category term="Cyborg"/>
+<category term="Nightwing"/>
+<category term="Titans"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7841.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7841.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7841.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7841.png?t=20091012020911" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7841.png?size=smaller&amp;t=20091012020911" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7841.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lady Caine (Sample)</title>
+<id>http://www.feedbooks.com/userbook/7828</id>
+<author>
+  <name>Steve Mansfield-Devine</name>
+  <uri>http://www.feedbooks.com/user/32561/profile#Steve%20Mansfield-Devine</uri>
+</author>
+<updated>2009-10-10T09:32:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A strange cast of misfits is on the hunt for a missing pilot - either for what he has or what he knows. Each member of this weird posse poses a threat to the others. But their greatest danger comes from their own egos, paranoia, incompetence and inability to cope. The result is an offbeat thriller about the hilarious fringes of international drug crime.</summary>
+<category term="crime"/>
+<category term="thriller"/>
+<category term="comedy"/>
+<category term="Satire"/>
+<category term="Novel"/>
+<category term="fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7828.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7828.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7828.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7828.png?t=20091010093229" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7828.png?size=smaller&amp;t=20091010093229" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7828.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Theaker's Quarterly Fiction #30</title>
+<id>http://www.feedbooks.com/userbook/7819</id>
+<author>
+  <name>Silver Age Books</name>
+  <uri>http://www.feedbooks.com/user/20670/profile#Silver%20Age%20Books</uri>
+</author>
+<updated>2010-01-02T16:02:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>The issue opens with &quot;Citadel Ninety-Nine&quot; by Michael Canfield, in which a bloodthirsty army tears its way across a strange, strange world.
+
+Also in this issue&#8230; John Greenwood plots the next point in Newton Braddell's weary journey. Jon Vagg shows what really goes on at conventions in &quot;DeadSoulsCon&quot;. K.J. Hays tells the story of &quot;The Zombie Who Went to Town in Style&quot;. K.J. Hannah Greenberg writes about creatures in mailboxes in &quot;Just One Case of Flash: Another Chimera Story&quot;. And Ben Thomas &amp; Skadi meic Beorh win this issue's best title award with &quot;The Periodic Honking of the Fruit-Seller's Truck&quot;.
+
+The issue ends with our usual bountiful selection of reviews, including comment on all of this year's British Fantasy Award-nominated novels, two books from Rhys Hughes, and a collection by Steve Redwood.</summary>
+<category term="fantasy"/>
+<category term="horror"/>
+<category term="SF"/>
+<category term="tqf"/>
+<category term="magazine"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7819.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7819.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7819.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7819.png?t=20100102160232" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7819.png?size=smaller&amp;t=20100102160232" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7819.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dreaming Lies to Change the Truth</title>
+<id>http://www.feedbooks.com/userbook/7817</id>
+<author>
+  <name>Kaolin Fire</name>
+  <uri>http://www.feedbooks.com/user/53469/profile#Kaolin%20Fire</uri>
+</author>
+<updated>2009-10-09T02:36:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>[620 words] She wove lies of leaves and fruit as she crawled about the tree; it had rotted and split, but her webbing held it whole. She wove eight-faceted apples that glistened like negative prisms, sucking in all heat and life. </summary>
+<category term="fantasy"/>
+<category term="Spider"/>
+<category term="Eve"/>
+<category term="short fiction"/>
+<category term="tree of knowledge"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7817.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7817.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7817.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7817.png?t=20091009023612" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7817.png?size=smaller&amp;t=20091009023612" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7817.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Birds of Prey #2</title>
+<id>http://www.feedbooks.com/userbook/7803</id>
+<author>
+  <name>Matthew Davies</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Matthew%20Davies</uri>
+</author>
+<updated>2009-10-08T18:29:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Birds of Prey, Part Two (of Four): Dissention in the Ranks.</summary>
+<category term="Vigilante"/>
+<category term="Zatanna"/>
+<category term="Omen"/>
+<category term="Huntress"/>
+<category term="batgirl"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Green Arrow"/>
+<category term="Black Canary"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7803.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7803.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7803.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7803.png?t=20091008182927" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7803.png?size=smaller&amp;t=20091008182927" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7803.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #38</title>
+<id>http://www.feedbooks.com/userbook/7802</id>
+<author>
+  <name>Roy Flinchum and Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Roy%20Flinchum%20and%20Brian%20Burchette</uri>
+</author>
+<updated>2009-10-07T21:20:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Action Comics: Kon-El, Part Two (of Four).
+
+The search begins for Superman's clone, but where it is, who has it, and what they will do with it, will shock you!
+
+With Guest Star: Captain Marvel! </summary>
+<category term="Doctor Xadu"/>
+<category term="Lois Lane"/>
+<category term="Slam Bradley"/>
+<category term="Captain Marvel"/>
+<category term="Comics"/>
+<category term="Professor Ivo"/>
+<category term="Doctor Sivana"/>
+<category term="Lex Luthor"/>
+<category term="Mary Marvel"/>
+<category term="Superboy"/>
+<category term="Supergirl"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7802.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7802.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7802.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7802.png?t=20091007212018" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7802.png?size=smaller&amp;t=20091007212018" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7802.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Titans #1</title>
+<id>http://www.feedbooks.com/userbook/7805</id>
+<author>
+  <name>Boris Mihajlovic</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Boris%20Mihajlovic</uri>
+</author>
+<updated>2009-10-07T21:20:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Titans: Like an Onion.
+
+Who are The Titans? Find out in this action packed first issue that starts with the infiltration of H.I.V.E. and leads the team to discoveries that will change not only their lives forever...! </summary>
+<category term="Ravager"/>
+<category term="Jericho"/>
+<category term="Argent"/>
+<category term="Hotspot"/>
+<category term="Cyborg"/>
+<category term="Nightwing"/>
+<category term="Titans"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7805.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7805.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7805.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7805.png?t=20091007212001" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7805.png?size=smaller&amp;t=20091007212001" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7805.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Secrets Of The PKA</title>
+<id>http://www.feedbooks.com/userbook/7801</id>
+<author>
+  <name>pcam0302</name>
+  <uri>http://www.feedbooks.com/user/54271/profile#pcam0302</uri>
+</author>
+<updated>2009-10-07T16:58:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Memoirs Of A Lifer</summary>
+<category term="prison"/>
+<category term="crime"/>
+<category term="thriller"/>
+<category term="revenge"/>
+<category term="murder"/>
+<category term="children"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7801.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7801.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7801.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7801.png?t=20091007165827" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7801.png?size=smaller&amp;t=20091007165827" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7801.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

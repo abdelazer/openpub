@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=79</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=79" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=79" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 79 | Feedbooks</title>
+  <updated>2010-04-07T18:27:05Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1561</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=78" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=80" rel="next" title="Next Page"/>
+<entry>
+<title>Darkness and the Light</title>
+<id>http://www.feedbooks.com/book/2044</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:33:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1942</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2044.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2044.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2044.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2044.png?t=20090916113329" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2044.png?size=smaller&amp;t=20090916113329" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2044.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Moon and Sixpence</title>
+<id>http://www.feedbooks.com/book/2043</id>
+<author>
+  <name>W. Somerset Maugham</name>
+  <uri>http://www.feedbooks.com/author/269</uri>
+</author>
+<updated>2009-09-16T11:33:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>An uncompromising and self-destructive deserts his wife, family, business, and civilization for his art. Shedding harsh light on an artist's ego, Maugham reveals the lengths to which one man will go to focus on his art. Written in 1919, this unforgettable story is timeless in its appeal. </summary>
+<dcterms:source>http://www.gutenberg.org/files/222/222-h/222-h.htm</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2043.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2043.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2043.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2043.png?t=20090916113320" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2043.png?size=smaller&amp;t=20090916113320" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2043.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Madame Bovary</title>
+<id>http://www.feedbooks.com/book/2042</id>
+<author>
+  <name>Gustave Flaubert</name>
+  <uri>http://www.feedbooks.com/author/127</uri>
+</author>
+<updated>2009-09-16T11:33:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1857</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Madame Bovary scandalized its readers when it was first published in 1857. And the story itself remains as fresh today as when it was first written, a work that remains unsurpassed in its unveiling of character and society. It tells the tragic story of the romantic but empty-headed Emma Rouault. When Emma marries Charles Bovary, she imagines she will pass into the life of luxury and passion that she reads about in sentimental novels and women's magazines. But Charles is an ordinary country doctor, and provincial life is very different from the romantic excitement for which she yearns. In her quest to realize her dreams she takes a lover, Rodolphe, and begins a devastating spiral into deceit and despair. And Flaubert captures every step of this catastrophe with sharp-eyed detail and a wonderfully subtle understanding of human emotions. </summary>
+<dcterms:source>http://www.gutenberg.org/files/2413/2413-h/2413-h.htm</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2042.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2042.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2042.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2042.png?t=20090916113304" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2042.png?size=smaller&amp;t=20090916113304" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2042.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Death into Life</title>
+<id>http://www.feedbooks.com/book/2041</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:32:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1946</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="War" label="War"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2041.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2041.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2041.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2041.png?t=20090916113243" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2041.png?size=smaller&amp;t=20090916113243" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2041.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Man Divided</title>
+<id>http://www.feedbooks.com/book/2040</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:32:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1950</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2040.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2040.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2040.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2040.png?t=20090916113230" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2040.png?size=smaller&amp;t=20090916113230" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2040.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Flames</title>
+<id>http://www.feedbooks.com/book/2039</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:32:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1947</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2039.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2039.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2039.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2039.png?t=20090916113225" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2039.png?size=smaller&amp;t=20090916113225" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2039.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Road to the Aide Post</title>
+<id>http://www.feedbooks.com/book/2038</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:32:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="War" label="War"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2038.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2038.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2038.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2038.png?t=20090916113223" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2038.png?size=smaller&amp;t=20090916113223" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2038.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Seed and the Flower</title>
+<id>http://www.feedbooks.com/book/2037</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:32:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Religion" label="Religion"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2037.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2037.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2037.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2037.png?t=20090916113223" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2037.png?size=smaller&amp;t=20090916113223" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2037.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A World of Sound</title>
+<id>http://www.feedbooks.com/book/2036</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:32:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1936</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2036.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2036.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2036.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2036.png?t=20090916113223" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2036.png?size=smaller&amp;t=20090916113223" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2036.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Arms Out of Hand</title>
+<id>http://www.feedbooks.com/book/2035</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:32:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1946</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2035.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2035.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2035.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2035.png?t=20090916113222" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2035.png?size=smaller&amp;t=20090916113222" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2035.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>East is West</title>
+<id>http://www.feedbooks.com/book/2034</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:32:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1979</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2034.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2034.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2034.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2034.png?t=20090916113222" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2034.png?size=smaller&amp;t=20090916113222" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2034.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Modern Magician</title>
+<id>http://www.feedbooks.com/book/2033</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:32:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1979</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2033.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2033.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2033.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2033.png?t=20090916113221" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2033.png?size=smaller&amp;t=20090916113221" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2033.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Last Men in London</title>
+<id>http://www.feedbooks.com/book/2032</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:32:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Last Men in London (1932) is a science fiction novel by Olaf Stapledon.
+The narrator is the same member of the eighteenth and final human species who purportedly induced Stapledon to write Last and First Men. Last Men in London is the story of this being's exploration of the consciousness of a present-day Englishman named Paul, from childhood through service with an ambulance crew in the First World War (mirroring Stapledon's own personal history) to adult life as a schoolteacher faced with a &quot;submerged superman&quot; in his class nicknamed Humpty. The inadequacies of Paul's character, the various dilemmas he has to face during his life, and the occasional influence of the advanced being who shares his experiences, provide Stapledon with a semi-autobiographical platform on which to expound his philosophical and moral beliefs.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2032.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2032.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2032.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2032.png?t=20090916113217" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2032.png?size=smaller&amp;t=20090916113217" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2032.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sirius: A Fantasy of Love and Discord</title>
+<id>http://www.feedbooks.com/book/2031</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:32:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1944</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Sirius is Thomas Trelone's great experiment - a huge, handsome dog with the brain and intelligence of a human being. Raised and educated in Trelone's own family alongside Plaxy, his youngest daughter, Sirius is a truly remarkable and gifted creature. His relationship with the Trelones, particularly with Plaxy, is deep and close, and his inquiring mind ranges across the spectrum of human knowledge and experience. But Sirius isn't human and the conflicts and inner turmoil that torture him cannot be resolved.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2031.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2031.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2031.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2031.png?t=20090916113205" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2031.png?size=smaller&amp;t=20090916113205" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2031.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Odd John: A Story Between Jest and Earnest</title>
+<id>http://www.feedbooks.com/book/2030</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:31:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1935</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2030.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2030.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2030.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2030.png?t=20090916113159" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2030.png?size=smaller&amp;t=20090916113159" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2030.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Star Maker</title>
+<id>http://www.feedbooks.com/book/2029</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:31:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1937</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Widely regarded as one of the true classics of science fiction, Star Maker is a poetic and deeply philosophical work. The story details the mental journey of an unnamed narrator who is transported not only to other worlds but also other galaxies and parallel universes, until he eventually becomes part of the &quot;cosmic mind.&quot; First published in 1937, Olaf Stapledon's descriptions of alien life are a political commentary on human life in the turbulent inter-war years. The book challenges preconceived notions of intelligence and awareness, and ultimately argues for a broadened perspective that would free us from culturally ingrained thought and our inevitable anthropomorphism. This is the first scholarly edition of a book that influenced such writers as C.S. Lewis and Arthur C. Clarke and which Jorge Luis Borges called &quot;a prodigious novel.&quot;</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2029.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2029.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2029.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2029.png?t=20090916113154" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2029.png?size=smaller&amp;t=20090916113154" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2029.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Last and First Men</title>
+<id>http://www.feedbooks.com/book/2028</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:31:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1930</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Last and First Men: A Story of the Near and Far Future is a science fiction novel written in 1930 by the British author Olaf Stapledon. A work of unprecedented scale in the genre, it describes the history of humanity from the present onwards across two billion years and eighteen distinct human species, of which our own is the first and most primitive. Stapledon's conception of history is based on the Hegelian Dialectic, following a repetitive cycle with many varied civilizations rising from and descending back into savagery over millions of years, but it is also one of progress, as the later civilizations rise to far greater heights than the first. The book anticipates genetic engineering, and the idea of superminds composed of many telepathically-linked individuals.
+A controversial part of the book depicts humans, in the far-off future, escaping the dying Earth and settling on Venus&#8212;in the process totally exterminating its native inhabitants, a marine intelligent species. Stapledon's book has been interpreted by some as condoning such interplanetary genocide as a justified act if necessary for racial survival, though a number of Stapledon's partisans denied that such was his intention, arguing instead that Stapledon was merely showing that although mankind had advanced in a number of ways in the future, at bottom it still possessed the same capacity for savagery as it has always had.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2028.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2028.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2028.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2028.png?t=20090916113143" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2028.png?size=smaller&amp;t=20090916113143" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2028.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Big Bounce</title>
+<id>http://www.feedbooks.com/book/2027</id>
+<author>
+  <name>Walter Tevis</name>
+  <uri>http://www.feedbooks.com/author/283</uri>
+</author>
+<updated>2009-09-16T11:31:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Seeing it in action, anybody would quaver in alarm: What hath Farnsworth overwrought?</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2027.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2027.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2027.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2027.png?t=20090916113124" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2027.png?size=smaller&amp;t=20090916113124" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2027.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Doctor Thorne</title>
+<id>http://www.feedbooks.com/book/2025</id>
+<author>
+  <name>Anthony Trollope</name>
+  <uri>http://www.feedbooks.com/author/281</uri>
+</author>
+<updated>2009-09-16T11:31:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1858</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/files/3166/3166-h/3166-h.htm</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2025.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2025.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2025.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2025.png?t=20090916113122" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2025.png?size=smaller&amp;t=20090916113122" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2025.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Barchester Towers</title>
+<id>http://www.feedbooks.com/book/2021</id>
+<author>
+  <name>Anthony Trollope</name>
+  <uri>http://www.feedbooks.com/author/281</uri>
+</author>
+<updated>2009-09-16T11:30:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1857</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Religion" label="Religion"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/files/3409/3409-h/3408-h.html</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2021.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2021.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2021.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2021.png?t=20090916113059" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2021.png?size=smaller&amp;t=20090916113059" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2021.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

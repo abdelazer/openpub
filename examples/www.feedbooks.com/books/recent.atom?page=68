@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=68</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=68" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=68" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 68 | Feedbooks</title>
+  <updated>2010-04-07T18:26:59Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1341</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=67" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=69" rel="next" title="Next Page"/>
+<entry>
+<title>The Creature from Beyond Infinity</title>
+<id>http://www.feedbooks.com/book/2316</id>
+<author>
+  <name>Henry Kuttner</name>
+  <uri>http://www.feedbooks.com/author/339</uri>
+</author>
+<updated>2009-09-16T12:00:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1940</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Cosmic terror strikes as a messenger of death sweeps through the universe.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2316.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2316.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2316.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2316.png?t=20090916120049" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2316.png?size=smaller&amp;t=20090916120049" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2316.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Untouchable</title>
+<id>http://www.feedbooks.com/book/2315</id>
+<author>
+  <name>Stephan A. Kallis</name>
+  <uri>http://www.feedbooks.com/author/338</uri>
+</author>
+<updated>2009-09-16T12:00:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>&quot;You can see it--you can watch it--but mustn't touch!&quot; And what could possibly be more frustrating &#8230; when you need, most violently, to get your hands on it for just one second&#8230;</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2315.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2315.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2315.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2315.png?t=20090916120043" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2315.png?size=smaller&amp;t=20090916120043" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2315.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Unspecialist</title>
+<id>http://www.feedbooks.com/book/2314</id>
+<author>
+  <name>Murray F. Yaco</name>
+  <uri>http://www.feedbooks.com/author/337</uri>
+</author>
+<updated>2009-09-16T12:00:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A machine can be built to do any accurately described job better than any man. The superiority of a man is that he can do an unexpected, undescribed, and emergency job... provided he hasn't been especially trained to be a machine.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2314.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2314.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2314.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2314.png?t=20090916120043" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2314.png?size=smaller&amp;t=20090916120043" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2314.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Unborn Tomorrow</title>
+<id>http://www.feedbooks.com/book/2313</id>
+<author>
+  <name>Mack Reynolds</name>
+  <uri>http://www.feedbooks.com/author/273</uri>
+</author>
+<updated>2009-09-16T12:00:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Unfortunately, there was only one thing he could bring back from the wonderful future... and though he didn't want to... nevertheless he did....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2313.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2313.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2313.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2313.png?t=20090916120042" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2313.png?size=smaller&amp;t=20090916120042" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2313.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Summit</title>
+<id>http://www.feedbooks.com/book/2312</id>
+<author>
+  <name>Mack Reynolds</name>
+  <uri>http://www.feedbooks.com/author/273</uri>
+</author>
+<updated>2009-09-16T12:00:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Almost anything, if it goes on long enough, can be reduced to, first a Routine, and then, to a Tradition. And at the point it is, obviously, Necessary.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2312.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2312.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2312.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2312.png?t=20090916120042" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2312.png?size=smaller&amp;t=20090916120042" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2312.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Revolution</title>
+<id>http://www.feedbooks.com/book/2311</id>
+<author>
+  <name>Mack Reynolds</name>
+  <uri>http://www.feedbooks.com/author/273</uri>
+</author>
+<updated>2009-09-16T12:00:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Before you wish for something--or send agents to get it for you--make very, very sure you really want it. You might get it, you know....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2311.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2311.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2311.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2311.png?t=20090916120042" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2311.png?size=smaller&amp;t=20090916120042" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2311.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mercenary</title>
+<id>http://www.feedbooks.com/book/2310</id>
+<author>
+  <name>Mack Reynolds</name>
+  <uri>http://www.feedbooks.com/author/273</uri>
+</author>
+<updated>2009-09-16T12:00:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Every status-quo-caste society in history has left open two roads to rise above your caste: The Priest and The Warrior. But in a society of TV and tranquilizers--the Warrior acquires a strange new meaning....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2310.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2310.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2310.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2310.png?t=20090916120040" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2310.png?size=smaller&amp;t=20090916120040" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2310.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Gun for Hire</title>
+<id>http://www.feedbooks.com/book/2309</id>
+<author>
+  <name>Mack Reynolds</name>
+  <uri>http://www.feedbooks.com/author/273</uri>
+</author>
+<updated>2009-09-16T12:00:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A gun is an interesting weapon; it can be hired, of course, and naturally doesn't care who hires it. Something much the same can be said of the gunman, too....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2309.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2309.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2309.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2309.png?t=20090916120037" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2309.png?size=smaller&amp;t=20090916120037" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2309.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Ultimate Weapon</title>
+<id>http://www.feedbooks.com/book/2308</id>
+<author>
+  <name>John Wood Campbell</name>
+  <uri>http://www.feedbooks.com/author/155</uri>
+</author>
+<updated>2009-09-16T12:00:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1936</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The star Mira was unpredictably variable. Sometimes it was blazing, brilliant and hot. Other times it was oddly dim, cool, shedding little warmth on its many planets. Gresth Gkae, leader of the Mirans, was seeking a better star, one to which his &quot;people&quot; could migrate. That star had to be steady, reliable, with a good planetary system. And in his astronomical searching, he found Sol. With hundreds of ships, each larger than whole Terrestrial spaceports, and traveling faster than the speed of light, the Mirans set out to move in to Solar regions and take over. And on Earth there was nothing which would be capable of beating off this incredible armada&#8212;until Buck Kendall stumbled upon THE ULTIMATE WEAPON.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2308.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2308.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2308.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2308.png?t=20090916120037" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2308.png?size=smaller&amp;t=20090916120037" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2308.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Ultimate Experiment</title>
+<id>http://www.feedbooks.com/book/2307</id>
+<author>
+  <name>Thornton DeKy</name>
+  <uri>http://www.feedbooks.com/author/336</uri>
+</author>
+<updated>2009-09-16T12:00:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1941</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2307.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2307.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2307.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2307.png?t=20090916120032" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2307.png?size=smaller&amp;t=20090916120032" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2307.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Troubadour</title>
+<id>http://www.feedbooks.com/book/2306</id>
+<author>
+  <name>Robert Augustine Ward Lowndes</name>
+  <uri>http://www.feedbooks.com/author/335</uri>
+</author>
+<updated>2009-09-16T12:00:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1951</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There was something odd about the guest attraction, Mr. Fayliss, and something odder still about his songs.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2306.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2306.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2306.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2306.png?t=20090916120032" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2306.png?size=smaller&amp;t=20090916120032" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2306.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Voyage to the Moon</title>
+<id>http://www.feedbooks.com/book/2305</id>
+<author>
+  <name>George Tucker</name>
+  <uri>http://www.feedbooks.com/author/334</uri>
+</author>
+<updated>2009-09-16T12:00:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1827</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>On my return to this my native State, as soon as it was noised abroad that I had met with extraordinary adventures, and made a most wonderful voyage, crowds of people pressed eagerly to see me.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2305.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2305.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2305.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2305.png?t=20090916120030" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2305.png?size=smaller&amp;t=20090916120030" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2305.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Vortex Blaster</title>
+<id>http://www.feedbooks.com/book/2304</id>
+<author>
+  <name>Edward Elmer &quot;Doc&quot; Smith</name>
+  <uri>http://www.feedbooks.com/author/150</uri>
+</author>
+<updated>2009-09-16T12:00:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1941</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Introducing ''Storm'' Cloud, who, through tragedy, is destined to become the most noted figure in the galaxy -- The Vortex Blaster!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2304.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2304.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2304.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2304.png?t=20090916120023" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2304.png?size=smaller&amp;t=20090916120023" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2304.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Subspace Survivors</title>
+<id>http://www.feedbooks.com/book/2303</id>
+<author>
+  <name>Edward Elmer &quot;Doc&quot; Smith</name>
+  <uri>http://www.feedbooks.com/author/150</uri>
+</author>
+<updated>2009-09-16T12:00:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There has always been, and will always be, the problem of surviving the experience that any trained expert can handle ... when there hasn't been any first survivor to be an expert! When no one has ever gotten back to explain what happened....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2303.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2303.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2303.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2303.png?t=20090916120023" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2303.png?size=smaller&amp;t=20090916120023" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2303.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Masters of Space</title>
+<id>http://www.feedbooks.com/book/2302</id>
+<author>
+  <name>Edward Elmer &quot;Doc&quot; Smith</name>
+  <uri>http://www.feedbooks.com/author/150</uri>
+</author>
+<author>
+  <name>Edward Everett Evans</name>
+  <uri>http://www.feedbooks.com/author/169</uri>
+</author>
+<updated>2009-09-16T12:00:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The Masters had ruled all space with an unconquerable iron fist. But the Masters were gone. And this new, young race who came now to take their place--could they hope to defeat the ancient Enemy of All?</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2302.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2302.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2302.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2302.png?t=20090916120020" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2302.png?size=smaller&amp;t=20090916120020" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2302.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Defiant Agents</title>
+<id>http://www.feedbooks.com/book/2301</id>
+<author>
+  <name>Andre Alice Norton</name>
+  <uri>http://www.feedbooks.com/author/159</uri>
+</author>
+<updated>2009-09-16T12:00:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Alien technology scavenged by U.S. and Russian scientists has started a race to colonize planets outside our solar system -- and the U.S. scientists are losing! In a desperate move the U.S. government decides to use a group of Apache volunteers in an experimental attempt to colonize a primitive planet, but before they can even begin their spaceship crashes on the planet Topaz...</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2301.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2301.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2301.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2301.png?t=20090916120014" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2301.png?size=smaller&amp;t=20090916120014" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2301.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Victory</title>
+<id>http://www.feedbooks.com/book/2300</id>
+<author>
+  <name>Lester Del Rey</name>
+  <uri>http://www.feedbooks.com/author/158</uri>
+</author>
+<updated>2009-09-16T12:00:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="War" label="War"/>
+<summary>It seemed Earth was a rich and undefended planet in a warring, hating galaxy. Things can be deceptive though; children playing can be quite rough--but that ain't war, friend!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2300.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2300.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2300.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2300.png?t=20090916120008" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2300.png?size=smaller&amp;t=20090916120008" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2300.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mumu</title>
+<id>http://www.feedbooks.com/book/2299</id>
+<author>
+  <name>Ivan Sergeyevich Turgenev</name>
+  <uri>http://www.feedbooks.com/author/126</uri>
+</author>
+<updated>2009-09-16T11:47:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1879</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Romance" label="Romance"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2299.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2299.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2299.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2299.png?t=20090916114712" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2299.png?size=smaller&amp;t=20090916114712" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2299.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>First Love</title>
+<id>http://www.feedbooks.com/book/2298</id>
+<author>
+  <name>Ivan Sergeyevich Turgenev</name>
+  <uri>http://www.feedbooks.com/author/126</uri>
+</author>
+<updated>2009-09-16T11:59:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1860</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Romance" label="Romance"/>
+<summary>Vladimir Petrovich Voldemar, a 16-year-old, is staying in the country with his family and meets Zinaida Alexandrovna Zasyekina, a beautiful 21-year-old woman, staying with her mother, Princess Zasyekina, in a wing of the manor. This family, as with many of the Russian minor nobility with royal ties of that time, were only afforded a degree of respectability because of their titles; the Zasyekins, in the case of this story, are a very poor family. The young Vladimir falls irretrievably in love with Zinaida, who has a set of several other (socially more eligible) suitors whom he joins in their difficult and often fruitless search for the young lady's favour.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2298.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2298.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2298.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2298.png?t=20090916115932" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2298.png?size=smaller&amp;t=20090916115932" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2298.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Torrents Of Spring</title>
+<id>http://www.feedbooks.com/book/2297</id>
+<author>
+  <name>Ivan Sergeyevich Turgenev</name>
+  <uri>http://www.feedbooks.com/author/126</uri>
+</author>
+<updated>2009-09-16T11:42:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1872</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Romance" label="Romance"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2297.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2297.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2297.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2297.png?t=20090916114220" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2297.png?size=smaller&amp;t=20090916114220" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2297.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

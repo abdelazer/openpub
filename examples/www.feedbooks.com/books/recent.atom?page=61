@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=61</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=61" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=61" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 61 | Feedbooks</title>
+  <updated>2010-04-07T18:26:55Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1201</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=60" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=62" rel="next" title="Next Page"/>
+<entry>
+<title>In the Days of the Comet</title>
+<id>http://www.feedbooks.com/book/2477</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T12:09:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1906</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A fantastic tale of the world's beauty and unity after the Great Change occurs.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2477.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2477.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2477.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2477.png?t=20090916120907" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2477.png?size=smaller&amp;t=20090916120907" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2477.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Kalevala</title>
+<id>http://www.feedbooks.com/book/2476</id>
+<author>
+  <name>Elias L&#246;nnrot</name>
+  <uri>http://www.feedbooks.com/author/401</uri>
+</author>
+<updated>2009-09-16T12:08:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1888</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.sacred-texts.com</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2476.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2476.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2476.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2476.png?t=20090916120849" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2476.png?size=smaller&amp;t=20090916120849" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2476.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Last American</title>
+<id>http://www.feedbooks.com/book/2475</id>
+<author>
+  <name>J.A. Mitchell</name>
+  <uri>http://www.feedbooks.com/author/400</uri>
+</author>
+<updated>2009-09-16T12:08:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1889</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The astounding discoveries of Khan-li of Dimph-yoo-chur have thrown floods of light upon the domestic life of the Mehrikan people. He little realized when he landed upon that sleeping continent what a service he was about to render history, or what enthusiasm his discoveries would arouse among Persian archaeologists.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2475.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2475.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2475.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2475.png?t=20090916120829" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2475.png?size=smaller&amp;t=20090916120829" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2475.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>King's Evil</title>
+<id>http://www.feedbooks.com/book/2474</id>
+<author>
+  <name>Avram Davidson</name>
+  <uri>http://www.feedbooks.com/author/399</uri>
+</author>
+<updated>2009-09-16T12:08:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2474.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2474.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2474.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2474.png?t=20090916120829" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2474.png?size=smaller&amp;t=20090916120829" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2474.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Man Made</title>
+<id>http://www.feedbooks.com/book/2472</id>
+<author>
+  <name>Albert Teichner</name>
+  <uri>http://www.feedbooks.com/author/347</uri>
+</author>
+<updated>2009-09-16T11:47:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A story that comes to grips with an age-old question--what is soul? and where?--and postulates an age-new answer.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2472.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2472.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2472.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2472.png?t=20090916114712" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2472.png?size=smaller&amp;t=20090916114712" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2472.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Filbert Is a Nut</title>
+<id>http://www.feedbooks.com/book/2471</id>
+<author>
+  <name>Raphael Rick</name>
+  <uri>http://www.feedbooks.com/author/163</uri>
+</author>
+<updated>2009-09-16T11:20:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>That the gentleman in question was a nut was beyond question. He was an institutionalized psychotic. He was nutty enough to think he could make an atom bomb out of modeling clay!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2471.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2471.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2471.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2471.png?t=20090916112046" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2471.png?size=smaller&amp;t=20090916112046" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2471.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Make Mine Homogenized</title>
+<id>http://www.feedbooks.com/book/2470</id>
+<author>
+  <name>Raphael Rick</name>
+  <uri>http://www.feedbooks.com/author/163</uri>
+</author>
+<updated>2009-09-16T11:49:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Anyone looking for guaranteed sound science will have to look elsewhere. But if it's fun you want... try the world's most potent eggnogg!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2470.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2470.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2470.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2470.png?t=20090916114910" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2470.png?size=smaller&amp;t=20090916114910" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2470.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>On a Torn-Away World</title>
+<id>http://www.feedbooks.com/book/2469</id>
+<author>
+  <name>Roy Rockwood</name>
+  <uri>http://www.feedbooks.com/author/395</uri>
+</author>
+<updated>2009-09-16T11:18:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Jack and Mark build an airship and head North, hoping to find a rare plant that grows only in Alaska. But a freak earthquake causes a chunk of the Earth, along with our protagonists, to fly into outer space.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2469.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2469.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2469.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2469.png?t=20090916111849" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2469.png?size=smaller&amp;t=20090916111849" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2469.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lost on the Moon</title>
+<id>http://www.feedbooks.com/book/2468</id>
+<author>
+  <name>Roy Rockwood</name>
+  <uri>http://www.feedbooks.com/author/395</uri>
+</author>
+<updated>2009-09-16T11:59:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1911</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>After learning of a diamond field on the Moon, our crew heads for the satellite, where they discover a petrified city populated by petrified people.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2468.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2468.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2468.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2468.png?t=20090916115920" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2468.png?size=smaller&amp;t=20090916115920" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2468.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Through Space to Mars</title>
+<id>http://www.feedbooks.com/book/2467</id>
+<author>
+  <name>Roy Rockwood</name>
+  <uri>http://www.feedbooks.com/author/395</uri>
+</author>
+<updated>2009-09-16T11:51:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1910</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Mark and Jack enroll in the Universal Electrical &amp; Chemical College, and meet the inventor Santell Roumann. Santell has discovered a new fuel source called Etherium, and together the group builds a rocket ship and travel to Mars.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2467.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2467.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2467.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2467.png?t=20090916115141" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2467.png?size=smaller&amp;t=20090916115141" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2467.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Little Brother</title>
+<id>http://www.feedbooks.com/book/2466</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T11:56:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Marcus, a.k.a &#8220;w1n5t0n,&#8221; is only seventeen years old, but he figures he already knows how the system works&#8211;and how to work the system. Smart, fast, and wise to the ways of the networked world, he has no trouble outwitting his high school&#8217;s intrusive but clumsy surveillance systems.
+
+But his whole world changes when he and his friends find themselves caught in the aftermath of a major terrorist attack on San Francisco. In the wrong place at the wrong time, Marcus and his crew are apprehended by the Department of Homeland Security and whisked away to a secret prison where they&#8217;re mercilessly interrogated for days.
+
+When the DHS finally releases them, Marcus discovers that his city has become a police state where every citizen is treated like a potential terrorist. He knows that no one will believe his story, which leaves him only one option: to take down the DHS himself.</summary>
+<dcterms:source>http://craphound.com/littlebrother</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2466.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2466.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2466.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2466.png?t=20090916115632" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2466.png?size=smaller&amp;t=20090916115632" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2466.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Five Thousand Miles Underground</title>
+<id>http://www.feedbooks.com/book/2465</id>
+<author>
+  <name>Roy Rockwood</name>
+  <uri>http://www.feedbooks.com/author/395</uri>
+</author>
+<updated>2009-09-16T12:08:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1908</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Dismantling the dirigible-ship Monarch &amp; the submarine Porpoise, our crew constructs from the combined parts the Flying Mermaid which is both airship &amp; submarine. They leave their home in Maine &amp; head for a region of the South Polar sea where they previously found an opening into the Hollow Earth &amp; fly right in. Deep below the earth they discover a lost race of giants &amp; experience a tremendous lot of adventures involving a murderous plant, weird animals, &amp; a subterranean temple of treasure. Using parts taken from the dirigible-ship Monarch and the submarine Dolphin our crew constructs the Flying Mermaid, an airship-submarine! They take their new vehicle to the South Polar sea and discover an entrance in the Hollow Earth, where they find a lost race of giants, murderous plants, weird animals, and a temple full of treasure...</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2465.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2465.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2465.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2465.png?t=20090916120828" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2465.png?size=smaller&amp;t=20090916120828" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2465.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Under the Ocean to the South Pole</title>
+<id>http://www.feedbooks.com/book/2464</id>
+<author>
+  <name>Roy Rockwood</name>
+  <uri>http://www.feedbooks.com/author/395</uri>
+</author>
+<updated>2009-09-16T12:08:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The adventuresome crew builds a submersible craft, the Dolphin, that runs on sea water and chemicals. On the maiden voyage they battle sea monsters, pass through a sunken graveyard, and discover an opening that leads to the center of the Earth!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2464.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2464.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2464.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2464.png?t=20090916120817" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2464.png?size=smaller&amp;t=20090916120817" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2464.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Through the Air to the North Pole</title>
+<id>http://www.feedbooks.com/book/2463</id>
+<author>
+  <name>Roy Rockwood</name>
+  <uri>http://www.feedbooks.com/author/395</uri>
+</author>
+<updated>2009-09-16T11:51:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1906</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Orphans Mark and Jack are fostered by Professor Henderson, with help from the professor's assistant Washington White and his friend Andy Sudds, the big game hunter. In their first adventures the Professor builds a unique boat/dirigible called the Monarch, which they use to visit the North Pole.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2463.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2463.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2463.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2463.png?t=20090916115104" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2463.png?size=smaller&amp;t=20090916115104" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2463.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lord of the World</title>
+<id>http://www.feedbooks.com/book/2462</id>
+<author>
+  <name>Robert Hugh Benson</name>
+  <uri>http://www.feedbooks.com/author/394</uri>
+</author>
+<updated>2009-09-16T11:26:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Religion" label="Religion"/>
+<summary>In or about the year 2000, humanity has reached &quot;that incredibly lofty goal to which its intrinsic efforts can carry it&quot; &#8212; but rejected everything but crass materialism. Technology has advanced to the point where no one need work for a living, while the social sciences have achieved a smoothly-running if almost unbearably sterile social order. Formal religious beliefs except for Catholicism have been uprooted and eliminated as coherent systems, and the Catholic Church has been completely discredited in the eyes of the world, finally being outlawed. The result is everything the late Victorians and Edwardians believed would bring human happiness &#8212; and which brings nothing but the advent of new superstitions, despair, and the end of the world &#8230; maybe.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2462.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2462.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2462.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2462.png?t=20090916112605" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2462.png?size=smaller&amp;t=20090916112605" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2462.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dawn of All</title>
+<id>http://www.feedbooks.com/book/2461</id>
+<author>
+  <name>Robert Hugh Benson</name>
+  <uri>http://www.feedbooks.com/author/394</uri>
+</author>
+<updated>2009-09-16T12:08:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1911</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Religion" label="Religion"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2461.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2461.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2461.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2461.png?t=20090916120806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2461.png?size=smaller&amp;t=20090916120806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2461.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Longevity</title>
+<id>http://www.feedbooks.com/book/2460</id>
+<author>
+  <name>Therese Windser</name>
+  <uri>http://www.feedbooks.com/author/393</uri>
+</author>
+<updated>2009-09-16T12:07:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2460.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2460.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2460.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2460.png?t=20090916120748" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2460.png?size=smaller&amp;t=20090916120748" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2460.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mightiest Man</title>
+<id>http://www.feedbooks.com/book/2459</id>
+<author>
+  <name>Patrick Fahy</name>
+  <uri>http://www.feedbooks.com/author/392</uri>
+</author>
+<updated>2009-09-16T12:07:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>He had betrayed mankind, but he was not afraid of the consequences--ever!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2459.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2459.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2459.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2459.png?t=20090916120748" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2459.png?size=smaller&amp;t=20090916120748" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2459.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Measure for a Loner</title>
+<id>http://www.feedbooks.com/book/2458</id>
+<author>
+  <name>Jim Harmon</name>
+  <uri>http://www.feedbooks.com/author/391</uri>
+</author>
+<updated>2009-09-16T12:07:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>You can measure everything these days--heat, light, gravity, reflexes, force-fields, star-drives. And now I know there even is a... Measure for a Loner.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2458.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2458.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2458.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2458.png?t=20090916120748" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2458.png?size=smaller&amp;t=20090916120748" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2458.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Last Place on Earth</title>
+<id>http://www.feedbooks.com/book/2457</id>
+<author>
+  <name>Jim Harmon</name>
+  <uri>http://www.feedbooks.com/author/391</uri>
+</author>
+<updated>2009-09-16T12:07:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Naturally an undertaker will get the last word. But shouldn't he wait until his clients are dead?</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2457.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2457.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2457.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2457.png?t=20090916120748" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2457.png?size=smaller&amp;t=20090916120748" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2457.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

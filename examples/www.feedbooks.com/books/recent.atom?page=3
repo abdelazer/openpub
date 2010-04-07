@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=3</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=3" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=3" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 3 | Feedbooks</title>
+  <updated>2010-04-07T18:26:13Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>41</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=2" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=4" rel="next" title="Next Page"/>
+<entry>
+<title>West Wind Drift</title>
+<id>http://www.feedbooks.com/book/4636</id>
+<author>
+  <name>George Barr McCutcheon</name>
+  <uri>http://www.feedbooks.com/author/1062</uri>
+</author>
+<updated>2010-03-04T17:20:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The romantic story of the shipwreck of a great modern liner on an uninhabited island, where the passengers built homes, established a government, created laws and enforced them and kept the fires of courage burning through the years that followed.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/6014</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4636.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4636.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4636.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4636.png?t=20100304172013" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4636.png?size=smaller&amp;t=20100304172013" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4636.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>One Purple Hope!</title>
+<id>http://www.feedbooks.com/book/4634</id>
+<author>
+  <name>Henry Hasse</name>
+  <uri>http://www.feedbooks.com/author/897</uri>
+</author>
+<updated>2010-03-02T19:51:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Once he had been a tall, straight spaceman, free as the galaxies. Now Joel Latham was a tsith-addict, a beach-comber at Venusport. Maybe he'd get one last chance....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31307</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4634.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4634.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4634.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4634.png?t=20100302195136" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4634.png?size=smaller&amp;t=20100302195136" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4634.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Bride of the Dark One</title>
+<id>http://www.feedbooks.com/book/4633</id>
+<author>
+  <name>Florence Verbell Brown</name>
+  <uri>http://www.feedbooks.com/author/1359</uri>
+</author>
+<updated>2010-03-02T19:47:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The outcasts; the hunted of all the brighter worlds, crowded onto Yaroto. But even here was there salvation for Ransome, the jinx-scarred acolyte, when tonight was the night of Bani-tai ... the night of expiation by the photo-memoried priests of dark Darion?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31306</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4633.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4633.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4633.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4633.png?t=20100302194750" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4633.png?size=smaller&amp;t=20100302194750" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4633.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Master of the Moondog</title>
+<id>http://www.feedbooks.com/book/4632</id>
+<author>
+  <name>Stanley Mullen</name>
+  <uri>http://www.feedbooks.com/author/1358</uri>
+</author>
+<updated>2010-03-02T19:43:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Idiotic pets rate idiotic masters. Tod Denver and Charley, the moondog, made ideal companions as they set a zigzag course for the Martian diggings&#8212;paradise for fools.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31327</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4632.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4632.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4632.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4632.png?t=20100302194306" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4632.png?size=smaller&amp;t=20100302194306" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4632.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Wealth of Echindul</title>
+<id>http://www.feedbooks.com/book/4631</id>
+<author>
+  <name>Noel Miller Loomis</name>
+  <uri>http://www.feedbooks.com/author/1357</uri>
+</author>
+<updated>2010-03-02T19:34:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Though he carried with him the loot of the ages, who in The Pass&#8212;that legalized city of vice and corruption&#8212;would dare risk his neck to help Russell, the Hard Luck Man of the Swamps?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31326</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4631.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4631.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4631.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4631.png?t=20100302193423" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4631.png?size=smaller&amp;t=20100302193423" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4631.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Invaders</title>
+<id>http://www.feedbooks.com/book/4630</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2010-03-02T19:30:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It started in Greece on the day after tomorrow. Before the last act raced to a close, Coburn was buried to his ears in assorted adventures, including a revolution and an invasion from outer space! We're not given to throwing around the word &quot;epic&quot; lightly, but here is one! Swashbuckling action, a great many vivid characters, and a weird mystery&#8212;all spun for you by one of the master story-tellers of our time.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31343</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4630.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4630.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4630.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4630.png?t=20100302193020" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4630.png?size=smaller&amp;t=20100302193020" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4630.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>To Each His Star</title>
+<id>http://www.feedbooks.com/book/4629</id>
+<author>
+  <name>Bryce Walton</name>
+  <uri>http://www.feedbooks.com/author/946</uri>
+</author>
+<updated>2010-03-02T19:23:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<summary>&quot;Nothing around those other suns but ashes and dried blood,&quot; old Dunbar told the space-wrecked, desperate men. &quot;Only one way to go, where we can float down through the clouds to Paradise. That's straight ahead to the sun with the red rim around it.&quot; But Dunbar's eyes were old and uncertain. How could they believe in his choice when every star in this forsaken section of space was surrounded by a beckoning red rim?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31355</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4629.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4629.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4629.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4629.png?t=20100302192320" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4629.png?size=smaller&amp;t=20100302192320" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4629.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>B-12's Moon Glow</title>
+<id>http://www.feedbooks.com/book/4628</id>
+<author>
+  <name>Charles A. Stearns</name>
+  <uri>http://www.feedbooks.com/author/1356</uri>
+</author>
+<updated>2010-03-02T18:47:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Among the metal-persons of Phobos, robot B-12 held a special niche. He might not have been stronger, larger, faster than some &#8230; but he could be devious &#8230; and more important, he was that junkyard planetoid&#8217;s only moonshiner.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31364</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4628.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4628.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4628.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4628.png?t=20100302184729" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4628.png?size=smaller&amp;t=20100302184729" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4628.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Man Who Staked the Stars</title>
+<id>http://www.feedbooks.com/book/4627</id>
+<author>
+  <name>Charles Dye</name>
+  <uri>http://www.feedbooks.com/author/168</uri>
+</author>
+<updated>2010-03-02T18:42:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Bryce Carter could afford a smug smile. For hadn't he risen gloriously from Thieves Row to director of famed U.T.? Was not Earth, Moon, and all the Belt, at this very moment awaiting his command for the grand coup? And wasn't his cousin-from-Montehedo a star-sent help?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31356</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4627.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4627.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4627.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4627.png?t=20100302184240" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4627.png?size=smaller&amp;t=20100302184240" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4627.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Inhabited</title>
+<id>http://www.feedbooks.com/book/4626</id>
+<author>
+  <name>Richard Wilson</name>
+  <uri>http://www.feedbooks.com/author/1220</uri>
+</author>
+<updated>2010-03-02T18:28:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Containing a foe is sound military thinking&#8212;unless it's carried out so literally that everybody becomes an innocent Trojan Horse!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31392</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4626.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4626.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4626.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4626.png?t=20100302182859" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4626.png?size=smaller&amp;t=20100302182859" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4626.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Turnover Point</title>
+<id>http://www.feedbooks.com/book/4617</id>
+<author>
+  <name>Alfred Coppel</name>
+  <uri>http://www.feedbooks.com/author/412</uri>
+</author>
+<updated>2010-02-18T17:07:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Every era in history has had its Pop Ganlon's. Along in years and not successful and not caring much anyway. A matter of living out their years, following an obscure path to oblivion. It was that way in ancient Egypt, just as it will be when the Solar System shrinks to our size. And once in a while such men are given an opportunity to contribute to the society that has forgotten them....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31287</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4617.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4617.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4617.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4617.png?t=20100218170752" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4617.png?size=smaller&amp;t=20100218170752" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4617.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Let 'Em Breathe Space</title>
+<id>http://www.feedbooks.com/book/4616</id>
+<author>
+  <name>Lester Del Rey</name>
+  <uri>http://www.feedbooks.com/author/158</uri>
+</author>
+<updated>2010-02-17T16:44:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Eighteen men and two women in the closed world of a space ship for five months can only spell tension and trouble&#8212;but in this case, the atmosphere was literally poisoned.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31286</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4616.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4616.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4616.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4616.png?t=20100217164402" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4616.png?size=smaller&amp;t=20100217164402" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4616.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Martyr</title>
+<id>http://www.feedbooks.com/book/4614</id>
+<author>
+  <name>Alan Nourse</name>
+  <uri>http://www.feedbooks.com/author/162</uri>
+</author>
+<updated>2010-02-11T11:01:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1957</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Rejuvenation for the millions&#8212;or rejuvenation for the five hundred lucky ones, the select ones, that can be treated each year? Tough, independent Senator Dan Fowler fights a one-man battle against the clique that seeks perpetual power and perpetual youth, in this hard-hitting novel by Alan E. Nourse. Why did it have to be his personal fight? The others would fumble it&#8212;they'd foul it up, Fowler protested? But why was he in the fight and what was to happen to Senator Fowler's fight against this fantastic conspiracy? Who would win?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31236</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4614.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4614.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4614.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4614.png?t=20100211110132" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4614.png?size=smaller&amp;t=20100211110132" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4614.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Collectivum</title>
+<id>http://www.feedbooks.com/book/4613</id>
+<author>
+  <name>Mike Lewis</name>
+  <uri>http://www.feedbooks.com/author/1347</uri>
+</author>
+<updated>2010-02-09T23:51:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The Oren were one and their strength was legion. They had it all figured out, in their own parasitical, cold-blooded way. But they'd neglected one she-cat of a girl....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31208</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4613.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4613.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4613.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4613.png?t=20100209235119" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4613.png?size=smaller&amp;t=20100209235119" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4613.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Infinite Intruder</title>
+<id>http://www.feedbooks.com/book/4612</id>
+<author>
+  <name>Alan Nourse</name>
+  <uri>http://www.feedbooks.com/author/162</uri>
+</author>
+<updated>2010-02-09T23:47:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>When Roger Strang found that someone was killing his son&#8212;killing him horribly and often&#8212;he started investigating. He wasn't prepared to find the results of another investigation&#8212;this time about his own life.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31223</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4612.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4612.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4612.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4612.png?t=20100209234747" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4612.png?size=smaller&amp;t=20100209234747" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4612.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A World Apart</title>
+<id>http://www.feedbooks.com/book/4611</id>
+<author>
+  <name>Sam Merwin</name>
+  <uri>http://www.feedbooks.com/author/1346</uri>
+</author>
+<updated>2010-02-09T23:40:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Most men of middle age would welcome a chance to live their lives a second time. But Coulter did not.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31215</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4611.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4611.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4611.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4611.png?t=20100209234036" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4611.png?size=smaller&amp;t=20100209234036" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4611.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Planet with No Nightmare</title>
+<id>http://www.feedbooks.com/book/4607</id>
+<author>
+  <name>Jim Harmon</name>
+  <uri>http://www.feedbooks.com/author/391</uri>
+</author>
+<updated>2010-02-06T12:31:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The creatures on the little planet were real bafflers. The first puzzler about them was that they died so easily. The second was that they didn't die at all.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31174</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4607.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4607.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4607.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4607.png?t=20100206123144" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4607.png?size=smaller&amp;t=20100206123144" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4607.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Bobbsey Twins in the Great West</title>
+<id>http://www.feedbooks.com/book/4606</id>
+<author>
+  <name>Laura Lee Hope</name>
+  <uri>http://www.feedbooks.com/author/653</uri>
+</author>
+<updated>2010-02-04T10:27:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/5952</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4606.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4606.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4606.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4606.png?t=20100204102747" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4606.png?size=smaller&amp;t=20100204102747" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4606.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Bobbsey Twins in Washington</title>
+<id>http://www.feedbooks.com/book/4605</id>
+<author>
+  <name>Laura Lee Hope</name>
+  <uri>http://www.feedbooks.com/author/653</uri>
+</author>
+<updated>2010-02-03T21:06:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/5617</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4605.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4605.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4605.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4605.png?t=20100203210637" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4605.png?size=smaller&amp;t=20100203210637" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4605.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Bobbsey Twins in a Great City</title>
+<id>http://www.feedbooks.com/book/4604</id>
+<author>
+  <name>Laura Lee Hope</name>
+  <uri>http://www.feedbooks.com/author/653</uri>
+</author>
+<updated>2010-02-03T20:34:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/15169</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4604.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4604.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4604.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4604.png?t=20100203203454" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4604.png?size=smaller&amp;t=20100203203454" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4604.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

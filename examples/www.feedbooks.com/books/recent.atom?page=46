@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:app="http://www.w3.org/2007/app" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=46</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=46" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=46" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 46 | Feedbooks</title>
+  <updated>2010-04-07T18:26:43Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>901</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=45" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=47" rel="next" title="Next Page"/>
+<entry>
+<title>Maquech</title>
+<id>http://www.feedbooks.com/book/3030</id>
+<author>
+  <name>Silvia Moreno-Garcia</name>
+  <uri>http://www.feedbooks.com/author/641</uri>
+</author>
+<updated>2009-09-16T12:46:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A haunting and darkly beautiful tale of dreams and desperation set in a scarcity-riddled near-future Mexico City.</summary>
+<dcterms:source>http://futurismic.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3030.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3030.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3030.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3030.png?t=20090916124649" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3030.png?size=smaller&amp;t=20090916124649" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3030.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Henry V</title>
+<id>http://www.feedbooks.com/book/3029</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:46:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1599</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Plays" label="Plays"/>
+<summary>Henry V is a history play by William Shakespeare, believed to be written in 1599. It is based on the life of King Henry V of England, and focuses on events immediately before and after the Battle of Agincourt during the Hundred Years' War.
+The play is the final part of a tetralogy, preceded by Richard II, Henry IV, part 1 and Henry IV, part 2. The original audiences would thus have already been familiar with the title character, who was depicted in the Henry IV plays as a wild, undisciplined lad known as &quot;Prince Hal.&quot; In Henry V, the young prince has become a mature man and embarks on an attempted conquest of France.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3029.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3029.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3029.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3029.png?t=20090916124648" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3029.png?size=smaller&amp;t=20090916124648" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3029.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Henry IV, Part 2</title>
+<id>http://www.feedbooks.com/book/3027</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:46:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1599</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Plays" label="Plays"/>
+<summary>Henry IV, Part 2 is a history play by William Shakespeare, believed written between 1596 and 1599. It is the third part of a tetralogy, preceded by Richard II and Henry IV, Part 1 and succeeded by Henry V.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3027.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3027.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3027.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3027.png?t=20090916124623" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3027.png?size=smaller&amp;t=20090916124623" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3027.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Richard II</title>
+<id>http://www.feedbooks.com/book/3024</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:45:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1595</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Plays" label="Plays"/>
+<summary>King Richard the Second is a history play by William Shakespeare believed to be written in approximately 1595. It is based on the life of King Richard II of England and is the first part of a tetralogy, referred to by scholars as the Henriad, followed by three plays concerning Richard's successors: Henry IV, part 1, Henry IV, part 2, and Henry V. It may not have been written as a stand-alone work.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3024.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3024.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3024.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3024.png?t=20090916124543" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3024.png?size=smaller&amp;t=20090916124543" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3024.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Henry IV, Part 1</title>
+<id>http://www.feedbooks.com/book/3023</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:45:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1597</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Plays" label="Plays"/>
+<summary>Henry IV, Part 1 is a history play by William Shakespeare, believed to have been written no later than 1597. It is the second of Shakespeare's tetralogy that deals with the successive reigns of Richard II, Henry IV (2 plays), and Henry V. Henry IV, Part 1 depicts a span of history that begins with Hotspur's battle at Homildon against the Douglas late in 1402 and ends with the defeat of the rebels at Shrewsbury in the middle of 1403. From the start it has been an extremely popular play both with the public and the critics.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3023.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3023.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3023.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3023.png?t=20090916124536" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3023.png?size=smaller&amp;t=20090916124536" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3023.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mr. Justice Raffles</title>
+<id>http://www.feedbooks.com/book/3022</id>
+<author>
+  <name>Ernest William Hornung</name>
+  <uri>http://www.feedbooks.com/author/444</uri>
+</author>
+<updated>2009-09-16T12:45:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1909</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>This engaging rascal is found helping a young cricket player out of the toils of a money shark. Novel in plot, thrilling and amusing.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3022.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3022.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3022.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3022.png?t=20090916124526" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3022.png?size=smaller&amp;t=20090916124526" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3022.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Orange-Yellow Diamond</title>
+<id>http://www.feedbooks.com/book/3020</id>
+<author>
+  <name>Joseph Smith Fletcher</name>
+  <uri>http://www.feedbooks.com/author/610</uri>
+</author>
+<updated>2009-09-16T12:44:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3020.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3020.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3020.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3020.png?t=20090916124453" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3020.png?size=smaller&amp;t=20090916124453" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3020.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Middle Temple Murder</title>
+<id>http://www.feedbooks.com/book/3018</id>
+<author>
+  <name>Joseph Smith Fletcher</name>
+  <uri>http://www.feedbooks.com/author/610</uri>
+</author>
+<updated>2009-09-16T12:44:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>The body of a man is found on the steps to Middle Temple Lane near London's courts of law, and a journalist and a young lawyer are drawn into the ensuing investigation.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3018.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3018.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3018.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3018.png?t=20090916124418" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3018.png?size=smaller&amp;t=20090916124418" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3018.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Middle of Things</title>
+<id>http://www.feedbooks.com/book/3017</id>
+<author>
+  <name>Joseph Smith Fletcher</name>
+  <uri>http://www.feedbooks.com/author/610</uri>
+</author>
+<updated>2009-09-16T12:44:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Classic detective fiction featuring amateur detectives.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3017.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3017.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3017.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3017.png?t=20090916124401" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3017.png?size=smaller&amp;t=20090916124401" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3017.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Herapath Property</title>
+<id>http://www.feedbooks.com/book/3016</id>
+<author>
+  <name>Joseph Smith Fletcher</name>
+  <uri>http://www.feedbooks.com/author/610</uri>
+</author>
+<updated>2009-09-16T12:43:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt: &quot;This was the third week of Selwood&#8217;s secretaryship to Jacob Herapath. Herapath was a well-known man in London. He was a Member of Parliament, the owner of a sort of model estate of up-to-date flats, and something of a crank about such matters as ventilation, sanitation, and lighting. He himself, a bachelor, lived in one of the best houses in Portman Square; when he engaged Selwood as his secretary he made him take a convenient set of rooms in Upper Seymour Street, close by. He also caused a telephone communication to be set up between his own house and Selwood&#8217;s bedroom, so that he could summon his secretary at any hour of the night. Herapath occasionally had notions about things in the small hours, and he was one of those active, restless persons who, if they get a new idea, like to figure on it at once. All the same, during those three weeks he had not once troubled his secretary in this fashion.&quot;</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3016.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3016.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3016.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3016.png?t=20090916124349" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3016.png?size=smaller&amp;t=20090916124349" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3016.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>On the Origin of Species, 6th Edition</title>
+<id>http://www.feedbooks.com/book/3015</id>
+<author>
+  <name>Charles Darwin</name>
+  <uri>http://www.feedbooks.com/author/94</uri>
+</author>
+<updated>2010-01-02T15:27:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1872</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Science" label="Science"/>
+<summary>Charles Darwin's On the Origin of Species, in which he writes of his theories of evolution by natural selection, is one of the most important works of scientific study ever published.</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3015.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3015.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3015.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3015.png?t=20100102152707" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3015.png?size=smaller&amp;t=20100102152707" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3015.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In the Mayor's Parlour</title>
+<id>http://www.feedbooks.com/book/3011</id>
+<author>
+  <name>Joseph Smith Fletcher</name>
+  <uri>http://www.feedbooks.com/author/610</uri>
+</author>
+<updated>2009-09-16T12:42:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>The Mayor of a small town is found murdered. A classic &quot;whodunnit&quot;.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3011.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3011.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3011.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3011.png?t=20090916124203" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3011.png?size=smaller&amp;t=20090916124203" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3011.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Winter's Tale</title>
+<id>http://www.feedbooks.com/book/3010</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:41:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1611</dcterms:issued>
+<category term="Romance" label="Romance"/>
+<category term="Plays" label="Plays"/>
+<summary>The Winter's Tale is a play by William Shakespeare, first published in the First Folio in 1623. Although it was listed as a comedy when it first appeared, some modern editors have relabeled the play a romance. Some critics, among them W. W. Lawrence (Lawrence, 9-13), consider it to be one of Shakespeare's &quot;problem plays&quot;, because the first three acts are filled with intense psychological drama, while the last two acts are comedic and supply a happy ending.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3010.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3010.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3010.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3010.png?t=20090916124153" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3010.png?size=smaller&amp;t=20090916124153" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3010.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Two Gentlemen of Verona</title>
+<id>http://www.feedbooks.com/book/3009</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:41:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1598</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<summary>The Two Gentlemen of Verona is a comedy by William Shakespeare from early in his career. It has the smallest cast of any of Shakespeare's plays, and is the first of his plays in which a heroine dresses as a boy. It deals with the themes of friendship and infidelity. The highlight of the play is considered by some to be Launce, the clownish servant of Proteus, and his dog Crab, to whom &quot;the most scene-stealing non-speaking role in the canon&quot; has been attributed.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3009.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3009.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3009.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3009.png?t=20090916124145" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3009.png?size=smaller&amp;t=20090916124145" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3009.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Twelfth Night</title>
+<id>http://www.feedbooks.com/book/3008</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:41:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1601</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<summary>Twelfth Night, Or What You Will is a comedy by William Shakespeare, based on the short story &quot;Of Apolonius and Silla&quot; by Barnabe Rich. It is named after the Twelfth Night holiday of the Christmas season. It was written around 1601 and first published in the First Folio in 1623. The main title is believed to be an afterthought, created after John Marston premiered a play titled What You Will during the course of the writing.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3008.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3008.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3008.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3008.png?t=20090916124135" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3008.png?size=smaller&amp;t=20090916124135" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3008.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Troilus and Cressida</title>
+<id>http://www.feedbooks.com/book/3007</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:41:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1602</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<summary>Troilus and Cressida is a tragedy by William Shakespeare, believed to have been written in 1602. The play (also described as one of Shakespeare's problem plays) is not a conventional tragedy, since its protagonist (Troilus) does not die. The play ends instead on a very bleak note with the death of the noble Trojan Hector and destruction of the love between Troilus and Cressida. Throughout the play, the tone lurches wildly between bawdy comedy and tragic gloom, and readers and theatre-goers have frequently found it difficult to understand how one is meant to respond to the characters.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3007.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3007.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3007.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3007.png?t=20090916124127" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3007.png?size=smaller&amp;t=20090916124127" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3007.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Alchymical Romance</title>
+<id>http://www.feedbooks.com/book/3005</id>
+<author>
+  <name>Lee Battersby</name>
+  <uri>http://www.feedbooks.com/author/637</uri>
+</author>
+<updated>2009-09-16T12:41:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Romance" label="Romance"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.remixmylit.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3005.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3005.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3005.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3005.png?t=20090916124114" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3005.png?size=smaller&amp;t=20090916124114" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3005.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Tempest</title>
+<id>http://www.feedbooks.com/book/3000</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:40:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1611</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<summary>The Tempest is a comedy written by William Shakespeare. It is generally dated to 1610-11 and accepted as the last play written solely by him, although some scholars have argued for an earlier dating. While listed as a comedy in its initial publication in the First Folio of 1623, many modern editors have relabelled the play a romance. </summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3000.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3000.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3000.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3000.png?t=20090916124038" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3000.png?size=smaller&amp;t=20090916124038" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3000.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Taming of the Shrew</title>
+<id>http://www.feedbooks.com/book/2999</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:40:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1594</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<summary>The Taming of the Shrew is a comedy by William Shakespeare. It was one of his earlier plays, believed to have been written between 1590 and 1594. The play begins with a framing device in which a drunkard is deceived into thinking he is a nobleman who then watches the &quot;play&quot; itself, which depicts a nobleman, Petruchio, who marries an outspoken, intelligent, and bad-tempered shrew named Katherina. Petruchio manipulates and &quot;tames&quot; her until she is obedient to his will. The main subplot features the courting of Katherina's more conventional sister Bianca by numerous suitors.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2999.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2999.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2999.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2999.png?t=20090916124035" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2999.png?size=smaller&amp;t=20090916124035" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2999.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Pericles, Prince of Tyre</title>
+<id>http://www.feedbooks.com/book/2998</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:40:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1609</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<summary>Pericles, Prince of Tyre is a play written (at least in part) by William Shakespeare and included in modern editions of his collected works despite some questions over its authorship, as it was not included in the First Folio. Many modern editors believe that Shakespeare is responsible for the main portion of the play after scene 9 that follows the story of Pericles and Marina, and that the first two acts, detailing the many voyages of Pericles, were written by a relatively untalented reviser or collaborator, possibly George Wilkins.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2998.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2998.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2998.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2998.png?t=20090916124028" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2998.png?size=smaller&amp;t=20090916124028" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2998.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

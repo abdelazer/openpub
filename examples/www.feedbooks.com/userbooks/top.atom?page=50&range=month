@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=50&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=50&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=50&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 50 | Feedbooks</title>
+  <updated>2010-04-07T18:23:41Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>981</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=49&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=51&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Weird Western Quarterly #4</title>
+<id>http://www.feedbooks.com/userbook/3861</id>
+<author>
+  <name>Susan Hillwig</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig</uri>
+</author>
+<updated>2009-08-17T16:22:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Jonah Hex: Death &amp; Gunsmoke, Part 4 (of 4): When Jonah Comes Marching Home</summary>
+<category term="Comics"/>
+<category term="Western"/>
+<category term="Jonah Hex"/>
+<category term="DC2"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3861.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3861.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3861.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3861.png?t=20090817162214" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3861.png?size=smaller&amp;t=20090817162214" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3861.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Autobiography of Herbert W. Armstrong - Vol. 1</title>
+<id>http://www.feedbooks.com/userbook/5490</id>
+<author>
+  <name>Herbert W. Armstrong</name>
+  <uri>http://www.feedbooks.com/user/39350/profile#Herbert%20W.%20Armstrong</uri>
+</author>
+<updated>2009-09-30T04:38:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Autobiography of Herbert W. Armstrong - Vol. 1</summary>
+<category term="Autobiography"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5490.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5490.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5490.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5490.png?t=20090930043814" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5490.png?size=smaller&amp;t=20090930043814" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5490.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>CV</title>
+<id>http://www.feedbooks.com/userbook/5467</id>
+<author>
+  <name>vitalie81</name>
+  <uri>http://www.feedbooks.com/user/39308/profile#vitalie81</uri>
+</author>
+<updated>2009-10-02T07:13:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>cv</summary>
+<category term="vb"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5467.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5467.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5467.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5467.png?t=20091002071320" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5467.png?size=smaller&amp;t=20091002071320" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5467.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>God's Family Government</title>
+<id>http://www.feedbooks.com/userbook/5660</id>
+<author>
+  <name>Gerald Flurry</name>
+  <uri>http://www.feedbooks.com/user/39350/profile#Gerald%20Flurry</uri>
+</author>
+<updated>2009-08-17T16:39:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2001</dcterms:issued>
+<summary>The greatest tragedy in this end-time is the falling away of God&#8217;s own Laodicean Church (Rev. 3:14-22). The Laodiceans, comprised of several groups, are deceived on many different issues. But there is one issue that all of the Laodiceans are deceived on: God&#8217;s government! And it is the most important subject in the Bible! This booklet will explain how Christ is the Head of His spiritual body, the Church. He looks after and protects His family, if they respond to Him. The Bible indicates that 50 percent of the lukewarm Laodiceans will die for all eternity! The other 50 percent experience the greatest suffering ever on this Earth. Remember, these are God&#8217;s own people. You can&#8217;t afford not to understand this subject!</summary>
+<category term="religion"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5660.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5660.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5660.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5660.png?t=20090817163942" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5660.png?size=smaller&amp;t=20090817163942" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5660.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>My Inaugural Address at the Great White Throne Judgment of the Dead</title>
+<id>http://www.feedbooks.com/userbook/6971</id>
+<author>
+  <name>secretrapture</name>
+  <uri>http://www.feedbooks.com/user/47576/profile#secretrapture</uri>
+</author>
+<updated>2009-08-17T22:53:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>An unusual perspective on current End Times events, as predicted in the Book of Revelation, including the Rapture and the Tribulation.</summary>
+<category term="secret rapture"/>
+<category term="second coming"/>
+<category term="Day of the Lord"/>
+<category term="End Times"/>
+<category term="alien spacemen"/>
+<category term="Judgment Day"/>
+<category term="rapture"/>
+<category term="prophecies"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6971.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6971.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6971.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6971.png?t=20090817225332" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6971.png?size=smaller&amp;t=20090817225332" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6971.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Faith</title>
+<id>http://www.feedbooks.com/userbook/7544</id>
+<author>
+  <name>Przemek Kowal</name>
+  <uri>http://www.feedbooks.com/user/47296/profile#Przemek%20Kowal</uri>
+</author>
+<updated>2010-03-18T15:39:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>It is a collection of my positive thoughts aphorisms closed in, the strength of faith.The fact that we always believe in themselves and their faith.I wanted to include in them something timeless and magic,the beauty of the world,the meaning of life,As faith presents one of foundation of perception world beautiful and life of this beauty.</summary>
+<category term="Aphorism"/>
+<category term="World"/>
+<category term="life"/>
+<category term="Faith"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7544.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7544.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7544.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7544.png?t=20100318153913" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7544.png?size=smaller&amp;t=20100318153913" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7544.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Blue Beetle Vol. 2 #2</title>
+<id>http://www.feedbooks.com/userbook/7988</id>
+<author>
+  <name>Chris Paugh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Chris%20Paugh</uri>
+</author>
+<updated>2009-10-21T23:36:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Blue Beetle: Secret Origins
+
+Mysteries unravel and ravel back up in the second installment of the ongoing series starring Ted Kord. A destroyed S.T.A.R. Labs facility, replicating scarabs and two familiar faces you may know join the fray as Ted tries to find the answers to a few urgent questions. </summary>
+<category term="Blue Beetle"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Peacemaker"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7988.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7988.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7988.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7988.png?t=20091021233624" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7988.png?size=smaller&amp;t=20091021233624" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7988.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>With A Mouthful Of Razorblades</title>
+<id>http://www.feedbooks.com/userbook/8516</id>
+<author>
+  <name>Rev. John Sleestaxx</name>
+  <uri>http://www.feedbooks.com/user/37332/profile#Rev.%20John%20Sleestaxx</uri>
+</author>
+<updated>2009-12-30T13:43:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Reverend John tells homilies about the anger the lord witnesses and the anger that the community experiences. Along with bible verse to support the lessons that are being taught.
+ RJS speaks of doing the lords work and of righting the injustices that are abound in today's world.
+
+ God wept and god wailed for the suffering his son was subjected to by our mortal hands, but he still loved us and he still listens to us.
+ Would you do that for the people that damaged, tortured and killed your son? I think not you selfish human!
+ Then just listen to what he has to say.
+ And do not be a moron and throw this chance away like you have with the rest of your poor pathetic life. 
+</summary>
+<category term="sermons"/>
+<category term="rage"/>
+<category term="anger"/>
+<category term="essays"/>
+<category term="fiction"/>
+<category term="fascist corporate warmongers"/>
+<category term="daily lessons"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8516.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8516.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8516.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8516.png?t=20091230134317" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8516.png?size=smaller&amp;t=20091230134317" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8516.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>After the Rain - How the West Lost the East</title>
+<id>http://www.feedbooks.com/userbook/9411</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T13:47:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>An anthology of more than 50 articles regarding the politics, economics, geopolitics and history of countries in central and eastern Europe and the Balkans.</summary>
+<category term="Central"/>
+<category term="Europe"/>
+<category term="Southeastern"/>
+<category term="Europe"/>
+<category term="Balkans"/>
+<category term="Eastern"/>
+<category term="Europe"/>
+<category term="Yugoslavia"/>
+<category term="Russia"/>
+<category term="Albania"/>
+<category term="Macedonia"/>
+<category term="Bulgaria"/>
+<category term="Croatia"/>
+<category term="Centraleastern"/>
+<category term="Europe"/>
+<category term="Habsburg"/>
+<category term="Ottoman"/>
+<category term="turkey"/>
+<category term="germany"/>
+<category term="Austria"/>
+<category term="czech"/>
+<category term="Repub"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9411.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9411.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9411.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9411.png?t=20100106134728" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9411.png?size=smaller&amp;t=20100106134728" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9411.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Falsehood: An Analysis of Illusion's Singularity</title>
+<id>http://www.feedbooks.com/userbook/9133</id>
+<author>
+  <name>Marc Burock</name>
+  <uri>http://www.feedbooks.com/user/65829/profile#Marc%20Burock</uri>
+</author>
+<updated>2010-02-06T16:05:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>It is a common tactic, going back to the beginnings of religion and philosophy, to presume that we are enveloped in a world of untruth and illusion, thereby fueling our movement toward truth. In more modern times, Descartes demonstrates this process clearly with his Meditations. This work extends the Cartesian skeptical position by challenging the concept of illusion itself, asking those who have ever called something &#8216;an illusion&#8217; to question the meaning of these assertions. This broader skepticism partially annihilates itself without completely collapsing under the weight of self-contradiction.</summary>
+<category term="Epistemology"/>
+<category term="falsehood"/>
+<category term="philosophy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9133.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9133.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9133.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9133.png?t=20100206160541" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9133.png?size=smaller&amp;t=20100206160541" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9133.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Beard</title>
+<id>http://www.feedbooks.com/userbook/9215</id>
+<author>
+  <name>Andersen Prunty</name>
+  <uri>http://www.feedbooks.com/user/66890/profile#Andersen%20Prunty</uri>
+</author>
+<updated>2010-01-03T01:03:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Seven-year-old David Glum watches as his grandfather is abducted by a legendary herd of elephants. Twenty years later, David returns to his parents' home to focus on growing a beard, a goal he feels sure he can accomplish. Once the beard reaches a respectable girth, uncontrollable things begin happening around him. His mother dies. Maybe. His father might really be a man named Gary Wrench. David is sure of one thing: his family is cursed. It could have something to do with an eternal flame his grandfather stole from a possibly imaginary group of people called the Nefarions. David and Wrench begin a surreal cross-country journey that might have something to do with saving the world. Along the way they pass through a number of absurd towns, meet some disagreeable people, and discover an America that is radically different from the one they thought they knew. And all the while, the beard grows, gaining strength, leading them toward a distant island that most people think doesn't exist.</summary>
+<category term="adventure"/>
+<category term="weird"/>
+<category term="surreal"/>
+<category term="beards"/>
+<category term="Novel"/>
+<category term="Humor"/>
+<category term="free book"/>
+<category term="andersen prunty"/>
+<category term="the beard"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9215.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9215.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9215.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9215.png?t=20100103010302" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9215.png?size=smaller&amp;t=20100103010302" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9215.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Smallfish Clover</title>
+<id>http://www.feedbooks.com/userbook/2270</id>
+<author>
+  <name>Heather Shaw</name>
+  <uri>http://www.feedbooks.com/user/19611/profile#Heather%20Shaw</uri>
+</author>
+<updated>2009-08-17T16:16:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Smallfish Clover, like most affluent American boys, has many skills
+and inner resources. But how these gifts get used in the real world
+can lead to success and happiness, or useless death. It&#8217;s a test all
+young people must take at some time or another, although in our
+society we often try to postpone it indefinitely. The children of poverty, however, don&#8217;t have the luxury of wasting difficult decisions. And in a sense, the writing of this book was a kind of
+incantation to protect my own children from making bad choices
+with terrible consequences.
+
+
+Heather Shaw paints a beautiful masterpiece of a story that leaves the reader feeling proud, sad, and somewhat confused&#8212;much like Smallfish and his friends feel much of the time. This is powerful, reality-based fiction&#8212;albeit of a reality few of us know, and one which no boy should ever have to face head-on the way Smallfish does. &#8212;Daniel Jolley, Top 50
+Reviewer at Amazon.com
+
+
+&#8230;Shaw deftly evokes the wonder of an ordinary individual&#8217;s ability to
+affect changes beyond his wildest dreams. &#8212;ForeWord Magazine</summary>
+<category term="street theater"/>
+<category term="fairy tales"/>
+<category term="street kids"/>
+<category term="literary fiction"/>
+<category term="illegal immigration"/>
+<category term="Guatemala"/>
+<category term="mythology"/>
+<category term="dreams"/>
+<category term="Peru"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/2270.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/2270.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/2270.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2270.png?t=20090817161653" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2270.png?size=smaller&amp;t=20090817161653" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/2270.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Heartland Verses - memoirs of a Rosie-the-Riveter</title>
+<id>http://www.feedbooks.com/userbook/3173</id>
+<author>
+  <name>Clara Treat</name>
+  <uri>http://www.feedbooks.com/user/23897/profile#Clara%20Treat</uri>
+</author>
+<updated>2009-08-18T00:43:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>WWII memoirs, short stories, and poems from the heart of Clara Treat, one of America's Rosie the Riveters.</summary>
+<category term="poetry"/>
+<category term="memoir"/>
+<category term="short"/>
+<category term="WWII"/>
+<category term="rosie the riveter"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3173.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3173.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3173.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3173.png?t=20090818004312" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3173.png?size=smaller&amp;t=20090818004312" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3173.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Plain Text - Day 16</title>
+<id>http://www.feedbooks.com/userbook/3577</id>
+<author>
+  <name>Wiley Davis</name>
+  <uri>http://www.feedbooks.com/user/18753/profile#Wiley%20Davis</uri>
+</author>
+<updated>2009-08-17T16:26:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Uploads of my daily work on a new novel. Approx. 500 words/day.
+
+See all at: http://thungy.com/500words/
+
+In a world of free food and networked living, something interesting is happening down in
+Baja. A fifteen year old girl named Zoe, her biologist father, and a coastline of drugged-out fishermen help us reconcile the conflict between physical reality and virtual freedom.</summary>
+<category term="text"/>
+<category term="plain"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3577.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3577.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3577.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3577.png?t=20090817162618" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3577.png?size=smaller&amp;t=20090817162618" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3577.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Plain Text - Day 24</title>
+<id>http://www.feedbooks.com/userbook/3743</id>
+<author>
+  <name>Wiley Davis</name>
+  <uri>http://www.feedbooks.com/user/18753/profile#Wiley%20Davis</uri>
+</author>
+<updated>2009-08-17T16:27:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Uploads of my daily work on a new novel. Approx. 500 words/day.
+
+See all at: http://thungy.com
+
+In a world of free food and networked living, something interesting is happening down in
+Baja. A fifteen year old girl named Zoe, her biologist father, and a coastline of drugged-out fishermen help us reconcile the conflict between physical reality and virtual freedom.</summary>
+<category term="plain text"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3743.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3743.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3743.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3743.png?t=20090817162742" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3743.png?size=smaller&amp;t=20090817162742" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3743.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Weird Western Quarterly #5</title>
+<id>http://www.feedbooks.com/userbook/3882</id>
+<author>
+  <name>Susan Hillwig</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig</uri>
+</author>
+<updated>2009-08-17T16:28:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Nighthawk: 'Til Things Are Brighter</summary>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Western"/>
+<category term="Nighthawk"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3882.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3882.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3882.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3882.png?t=20090817162826" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3882.png?size=smaller&amp;t=20090817162826" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3882.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>For Let</title>
+<id>http://www.feedbooks.com/userbook/5561</id>
+<author>
+  <name>Lea Emry</name>
+  <uri>http://www.feedbooks.com/user/39873/profile#Lea%20Emry</uri>
+</author>
+<updated>2009-08-17T16:35:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>a collection of stories about love fails, mine specifically. (052509: part 2 is up)</summary>
+<category term="dating"/>
+<category term="heartbreak"/>
+<category term="short story"/>
+<category term="Humor"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5561.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5561.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5561.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5561.png?t=20090817163542" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5561.png?size=smaller&amp;t=20090817163542" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5561.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Immortality and Resurrection</title>
+<id>http://www.feedbooks.com/userbook/5274</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2010-01-23T23:23:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Immortality or resurrection? Both not possable</summary>
+<category term="hell"/>
+<category term="soul"/>
+<category term="resurrection"/>
+<category term="immortality"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5274.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5274.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5274.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5274.png?t=20100123232302" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5274.png?size=smaller&amp;t=20100123232302" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5274.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Wonderful World Tomorrow - What It Will Be Like</title>
+<id>http://www.feedbooks.com/userbook/7395</id>
+<author>
+  <name>Herbert W. Armstrong</name>
+  <uri>http://www.feedbooks.com/user/39350/profile#Herbert%20W.%20Armstrong</uri>
+</author>
+<updated>2009-09-30T04:35:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>The Wonderful World Tomorrow - What it Will be Like</summary>
+<category term="the"/>
+<category term="Wonderful"/>
+<category term="World"/>
+<category term="Tomorrow"/>
+<category term="-"/>
+<category term="what"/>
+<category term="IT"/>
+<category term="Will"/>
+<category term="be"/>
+<category term="Like"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7395.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7395.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7395.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7395.png?t=20090930043500" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7395.png?size=smaller&amp;t=20090930043500" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7395.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Steet</title>
+<id>http://www.feedbooks.com/userbook/8842</id>
+<author>
+  <name>Jenue brosinski</name>
+  <uri>http://www.feedbooks.com/user/33355/profile#Jenue%20brosinski</uri>
+</author>
+<updated>2009-12-11T12:04:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>This a short story about growing up in a really bad neighborhood. It has a pretty dramatic ending.</summary>
+<category term="short story"/>
+<category term="science fiction"/>
+<category term="fiction"/>
+<category term="literature"/>
+<category term="fantasy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8842.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8842.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8842.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8842.png?t=20091211120435" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8842.png?size=smaller&amp;t=20091211120435" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8842.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

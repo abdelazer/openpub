@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=122</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=122" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=122" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 122 | Feedbooks</title>
+  <updated>2010-04-07T18:27:33Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2421</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=121" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=123" rel="next" title="Next Page"/>
+<entry>
+<title>Necahual</title>
+<id>http://www.feedbooks.com/book/916</id>
+<author>
+  <name>Tobias Buckell</name>
+  <uri>http://www.feedbooks.com/author/186</uri>
+</author>
+<updated>2009-09-16T10:34:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2004</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.tobiasbuckell.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/916.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/916.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/916.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/916.png?t=20090916103435" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/916.png?size=smaller&amp;t=20090916103435" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/916.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Four Eyes</title>
+<id>http://www.feedbooks.com/book/915</id>
+<author>
+  <name>Tobias Buckell</name>
+  <uri>http://www.feedbooks.com/author/186</uri>
+</author>
+<updated>2009-09-16T10:34:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2004</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.tobiasbuckell.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/915.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/915.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/915.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/915.png?t=20090916103434" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/915.png?size=smaller&amp;t=20090916103434" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/915.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Toy Planes</title>
+<id>http://www.feedbooks.com/book/914</id>
+<author>
+  <name>Tobias Buckell</name>
+  <uri>http://www.feedbooks.com/author/186</uri>
+</author>
+<updated>2009-09-16T10:34:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.tobiasbuckell.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/914.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/914.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/914.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/914.png?t=20090916103434" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/914.png?size=smaller&amp;t=20090916103434" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/914.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aerophilia</title>
+<id>http://www.feedbooks.com/book/913</id>
+<author>
+  <name>Tobias Buckell</name>
+  <uri>http://www.feedbooks.com/author/186</uri>
+</author>
+<updated>2009-09-16T10:34:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.tobiasbuckell.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/913.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/913.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/913.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/913.png?t=20090916103434" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/913.png?size=smaller&amp;t=20090916103434" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/913.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>2 B R O 2 B</title>
+<id>http://www.feedbooks.com/book/912</id>
+<author>
+  <name>Kurt Vonnegut</name>
+  <uri>http://www.feedbooks.com/author/185</uri>
+</author>
+<updated>2009-09-16T10:34:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>2 B R 0 2 B is a satiric short story that imagines life (and death) in a future world where aging has been &#8220;cured&#8221; and population control is mandated and administered by the government.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/912.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/912.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/912.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/912.png?t=20090916103433" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/912.png?size=smaller&amp;t=20090916103433" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/912.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Texas Matchmaker</title>
+<id>http://www.feedbooks.com/book/911</id>
+<author>
+  <name>Andy Adams</name>
+  <uri>http://www.feedbooks.com/author/184</uri>
+</author>
+<updated>2009-09-16T10:34:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1904</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>From the writer and genuine Western Trail cattle driver, responsible for some of the best and most realistic accounts of cowboy life in literature.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/911.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/911.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/911.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/911.png?t=20090916103433" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/911.png?size=smaller&amp;t=20090916103433" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/911.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Reed Anthony, Cowman</title>
+<id>http://www.feedbooks.com/book/910</id>
+<author>
+  <name>Andy Adams</name>
+  <uri>http://www.feedbooks.com/author/184</uri>
+</author>
+<updated>2009-09-16T10:34:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Biography" label="Biography"/>
+<category term="Western" label="Western"/>
+<summary>From the writer and genuine Western Trail cattle driver, responsible for some of the best and most realistic accounts of cowboy life in literature.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/910.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/910.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/910.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/910.png?t=20090916103430" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/910.png?size=smaller&amp;t=20090916103430" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/910.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Outlet</title>
+<id>http://www.feedbooks.com/book/909</id>
+<author>
+  <name>Andy Adams</name>
+  <uri>http://www.feedbooks.com/author/184</uri>
+</author>
+<updated>2009-09-16T10:34:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1905</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>From the writer and genuine Western Trail cattle driver, responsible for some of the best and most realistic accounts of cowboy life in literature.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/909.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/909.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/909.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/909.png?t=20090916103427" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/909.png?size=smaller&amp;t=20090916103427" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/909.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Cattle Brands</title>
+<id>http://www.feedbooks.com/book/908</id>
+<author>
+  <name>Andy Adams</name>
+  <uri>http://www.feedbooks.com/author/184</uri>
+</author>
+<updated>2009-09-16T10:34:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1906</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<category term="Western" label="Western"/>
+<summary>It was a wet, bad year on the Old Western Trail. From Red River north and all along was herd after herd waterbound by high water in the rivers. Our outfit lay over nearly a week on the South Canadian, but we were not alone, for there were five other herds waiting for the river to go down. This river had tumbled over her banks for several days, and the driftwood that was coming down would have made it dangerous swimming for cattle. We were expected to arrive in Dodge early in June, but when we reached the North Fork of the Canadian, we were two weeks behind time.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/908.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/908.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/908.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/908.png?t=20090916103424" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/908.png?size=smaller&amp;t=20090916103424" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/908.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Log of a Cowboy</title>
+<id>http://www.feedbooks.com/book/907</id>
+<author>
+  <name>Andy Adams</name>
+  <uri>http://www.feedbooks.com/author/184</uri>
+</author>
+<updated>2009-09-16T10:34:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1903</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>The Log of a Cowboy is an account of a five-month drive of 3,000 cattle from Brownsville, Texas, to Montana in 1882 along the Great Western Cattle Trail. Although the book is fiction, it is firmly based on Adams's own experiences on the trail, and it is considered by many to be the best account of cowboy life in literature. Adams was disgusted by the unrealistic cowboy fiction being published in his day; The Log of a Cowboy was his response. It is still in print, and even modern reviewers consider it a compelling classic. The Chicago Herald said: &quot;As a narrative of cowboy life, Andy Adams' book is clearly the real thing. It carries its own certificate of authentic first-hand experience on every page.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/907.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/907.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/907.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/907.png?t=20090916103422" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/907.png?size=smaller&amp;t=20090916103422" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/907.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Wells Brothers</title>
+<id>http://www.feedbooks.com/book/906</id>
+<author>
+  <name>Andy Adams</name>
+  <uri>http://www.feedbooks.com/author/184</uri>
+</author>
+<updated>2009-09-16T10:34:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1911</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>A cowboy story, firmly based on Adams's own experience.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/906.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/906.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/906.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/906.png?t=20090916103419" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/906.png?size=smaller&amp;t=20090916103419" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/906.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Journey in Other Worlds</title>
+<id>http://www.feedbooks.com/book/905</id>
+<author>
+  <name>John Jacob Astor</name>
+  <uri>http://www.feedbooks.com/author/183</uri>
+</author>
+<updated>2009-09-16T10:34:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1894</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>What did our ancestors dream of when they gazed up at the stars and looked beyond the present? Wildly imaginative but grounded in reasoned scientific speculation, A Journey in Other Worlds races far ahead of the nineteenth century to imagine what life would be like in the year 2000. At the beginning of the twenty-first century, Earth is effectively a corporate technocracy, with big businesses using incredible advances in science to improve life on the planet as a whole. Seeking other planets habitable for the growing human population, the spaceship Callisto, powered by an antigravitational force known as apergy, embarks on a momentous tour of the solar system. Jupiter proves to be a wilderness paradise, full of threatening beasts and landscapes of inspired beauty, where the explorers must fight for their lives. Dangers less tangible but equally deadly await the Callisto crew on Saturn, which yields profound secrets about their fate and the ultimate destiny of mankind.
+ 
+Thoughtful, adventurous, and replete with a dazzling array of futuristic devices, A Journey in Other Worlds is a classic, unforgettable story of utopias and humankind&#8217;s restless exploration of the stars.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/905.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/905.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/905.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/905.png?t=20090916103416" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/905.png?size=smaller&amp;t=20090916103416" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/905.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Moon Pool</title>
+<id>http://www.feedbooks.com/book/904</id>
+<author>
+  <name>Abraham Merritt</name>
+  <uri>http://www.feedbooks.com/author/182</uri>
+</author>
+<updated>2009-09-16T10:34:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/904.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/904.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/904.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/904.png?t=20090916103405" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/904.png?size=smaller&amp;t=20090916103405" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/904.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Metal Monster</title>
+<id>http://www.feedbooks.com/book/903</id>
+<author>
+  <name>Abraham Merritt</name>
+  <uri>http://www.feedbooks.com/author/182</uri>
+</author>
+<updated>2009-09-16T10:34:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>In the wilds of the Trans-Himalayan region, a quartet of adventurers led by Dr. Walter T. Goodwin stumbles upon a tribe of human primitives forgotten since the age of Alexander the Great, and an awesome being of living metal commanded by the exiled Norhala. As Norhala&#8217;s guests, Goodwin and his team witness the mind-boggling marvels that are the Metal Monster&#8217;s way of life, and the unspeakable horrors it commits when Norhala takes it to war against her persecutors.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/903.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/903.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/903.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/903.png?t=20090916103401" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/903.png?size=smaller&amp;t=20090916103401" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/903.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Face in the Abyss</title>
+<id>http://www.feedbooks.com/book/902</id>
+<author>
+  <name>Abraham Merritt</name>
+  <uri>http://www.feedbooks.com/author/182</uri>
+</author>
+<updated>2009-09-16T10:33:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1923</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>The novel concerns American mining engineer Nicholas Graydon. While searching for lost Inca treasure in South America, he encounters Suarra, handmaiden to the Snake Mother of Yu-Atlanchi.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/902.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/902.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/902.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/902.png?t=20090916103356" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/902.png?size=smaller&amp;t=20090916103356" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/902.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Voyage to Arcturus</title>
+<id>http://www.feedbooks.com/book/901</id>
+<author>
+  <name>David Lindsay</name>
+  <uri>http://www.feedbooks.com/author/181</uri>
+</author>
+<updated>2009-09-16T10:33:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A stunning achievement in speculative fiction, A Voyage to Arcturus has inspired, enchanted, and unsettled readers for decades. It is simultaneously an epic quest across one of the most unusual and brilliantly depicted alien worlds ever conceived, a profoundly moving journey of discovery into the metaphysical heart of the universe, and a shockingly intimate excursion into what makes us human and unique.
+ 
+After a strange interstellar journey, Maskull, a man from Earth, awakens alone in a desert on the planet Tormance, seared by the suns of the binary star Arcturus. As he journeys northward, guided by a drumbeat, he encounters a world and its inhabitants like no other, where gender is a victory won at dear cost; where landscape and emotion are drawn into an accursed dance; where heroes are killed, reborn, and renamed; and where the cosmological lures of Shaping, who may be God, torment Maskull in his astonishing pilgrimage. At the end of his arduous and increasingly mystical quest waits a dark secret and an unforgettable revelation.
+ 
+A Voyage to Arcturus was the first novel by writer David Lindsay (1878&#8211;1945), and it remains one of the most revered classics of science fiction. </summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/901.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/901.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/901.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/901.png?t=20090916103353" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/901.png?size=smaller&amp;t=20090916103353" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/901.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Wailing Asteroid</title>
+<id>http://www.feedbooks.com/book/900</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2009-09-16T10:33:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>THE PUBLIC ABRUPTLY ceased to be interested in news of the signals. Rather, it suddenly wanted to stop thinking about them. The public was scared. Throughout all human history, the most horrifying of all ideas has been the idea of something which was as intelligent as a man, but wasn't human.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/900.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/900.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/900.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/900.png?t=20090916103349" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/900.png?size=smaller&amp;t=20090916103349" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/900.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>This World Is Taboo</title>
+<id>http://www.feedbooks.com/book/899</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2009-09-16T10:33:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Land on Dara? One might as well commit suicide! Untouchable, like the Darans -- that's what they'd call Calhoun if he broke the quarantine. And they'd wipe him out on sight. But Dara needed him and that was the kind of challenge this Interstellar Med Serviceman would never dodge.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/899.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/899.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/899.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/899.png?t=20090916103348" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/899.png?size=smaller&amp;t=20090916103348" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/899.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Space Tug</title>
+<id>http://www.feedbooks.com/book/898</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2009-09-16T10:33:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Joe had helped launch the first Space Platform--that initial rung in man's ladder to the stars. But the enemies who had ruthlessly tried to destroy the space station before it left Earth were still at work. They were plotting to destroy Joe's mission!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/898.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/898.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/898.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/898.png?t=20090916103346" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/898.png?size=smaller&amp;t=20090916103346" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/898.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Runaway Skyscraper</title>
+<id>http://www.feedbooks.com/book/897</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2009-09-16T10:33:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/897.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/897.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/897.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/897.png?t=20090916103345" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/897.png?size=smaller&amp;t=20090916103345" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/897.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

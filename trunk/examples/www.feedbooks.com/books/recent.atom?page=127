@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=127</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=127" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=127" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 127 | Feedbooks</title>
+  <updated>2010-04-07T18:27:37Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2521</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=126" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=128" rel="next" title="Next Page"/>
+<entry>
+<title>Silence</title>
+<id>http://www.feedbooks.com/book/807</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1832</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/807.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/807.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/807.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/807.png?t=20090916103021" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/807.png?size=smaller&amp;t=20090916103021" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/807.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Shadow</title>
+<id>http://www.feedbooks.com/book/806</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1835</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/806.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/806.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/806.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/806.png?t=20090916103021" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/806.png?size=smaller&amp;t=20090916103021" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/806.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Purloined Letter</title>
+<id>http://www.feedbooks.com/book/805</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1844</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>&quot;The Purloined Letter&quot; is a short story by American author Edgar Allan Poe. It is the third of his three detective stories featuring the fictional C. Auguste Dupin, the other two being &quot;The Murders in the Rue Morgue&quot; and &quot;The Mystery of Marie Rog&#234;t&quot;. These stories are considered to be important early forerunners of the modern detective story. It first appeared in The Gift for 1845 (1844) and was soon reprinted in numerous journals and newspapers.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/805.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/805.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/805.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/805.png?t=20090916103020" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/805.png?size=smaller&amp;t=20090916103020" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/805.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Premature Burial</title>
+<id>http://www.feedbooks.com/book/804</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1844</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/804.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/804.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/804.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/804.png?t=20090916103020" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/804.png?size=smaller&amp;t=20090916103020" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/804.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Predicament</title>
+<id>http://www.feedbooks.com/book/803</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1838</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/803.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/803.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/803.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/803.png?t=20090916103020" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/803.png?size=smaller&amp;t=20090916103020" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/803.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Power of Words</title>
+<id>http://www.feedbooks.com/book/802</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1845</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/802.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/802.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/802.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/802.png?t=20090916103020" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/802.png?size=smaller&amp;t=20090916103020" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/802.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Pit and the Pendulum</title>
+<id>http://www.feedbooks.com/book/801</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1842</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>&quot;The Pit and the Pendulum&quot; is a short story written by Edgar Allan Poe and first published in 1842. The story is about the torments endured by a prisoner of the Spanish Inquisition, though Poe skews historical facts. The narrator of the story is deemed guilty for an unnamed crime and put into a completely dark room. He passes out while trying to determine the size of the room. When he wakes up, he realizes there is a large, deep pit in the middle of the room. He loses consciousness again and awakens strapped on his back, unable to move more than his head. He soon realizes there is a large blade-like pendulum hanging above him, slowly getting closer to cutting through his chest. He finds a way to escape but the walls of his prison start to move and close in on him, pushing him closer and closer to falling into the pit.
+The story is especially effective at inspiring fear in the reader because of its heavy focus on the senses, such as sound, emphasizing its reality, unlike many of Poe's stories which are aided by the supernatural. The traditional elements established in popular horror tales at the time are followed but critical reception has been mixed.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/801.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/801.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/801.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/801.png?t=20090916103020" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/801.png?size=smaller&amp;t=20090916103020" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/801.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Oval Portrait</title>
+<id>http://www.feedbooks.com/book/800</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1842</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/800.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/800.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/800.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/800.png?t=20090916103020" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/800.png?size=smaller&amp;t=20090916103020" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/800.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Oblong Box</title>
+<id>http://www.feedbooks.com/book/799</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1844</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/799.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/799.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/799.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/799.png?t=20090916103020" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/799.png?size=smaller&amp;t=20090916103020" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/799.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Never Bet the Devil Your Head</title>
+<id>http://www.feedbooks.com/book/798</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1841</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/798.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/798.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/798.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/798.png?t=20090916103020" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/798.png?size=smaller&amp;t=20090916103020" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/798.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mystification</title>
+<id>http://www.feedbooks.com/book/797</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/797.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/797.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/797.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/797.png?t=20090916103020" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/797.png?size=smaller&amp;t=20090916103020" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/797.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mystery of Marie Rog&#234;t</title>
+<id>http://www.feedbooks.com/book/796</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1842</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/796.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/796.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/796.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/796.png?t=20090916103020" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/796.png?size=smaller&amp;t=20090916103020" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/796.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Murders in the Rue Morgue</title>
+<id>http://www.feedbooks.com/book/795</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1841</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>&quot;The Murders in the Rue Morgue&quot; is a short story by Edgar Allan Poe published in Graham's Magazine in 1841. It has been claimed as the first detective story; Poe referred to it as one of his &quot;tales of ratiocination&quot;. Similar works predate Poe's stories, including Das Fr&#228;ulein von Scuderi (1819) by E.T.A. Hoffmann and Zadig (1748) by Voltaire.
+C. Auguste Dupin is a man in Paris who solves the mysterious brutal murder of two women. Numerous witnesses heard a suspect, though no one agrees on what language was spoken. At the murder scene, Dupin finds a hair that does not appear to be human.
+As the first true detective in fiction, the Dupin character established many literary devices which would be used in future fictional detectives including Sherlock Holmes and Hercule Poirot. Many later characters, for example, follow Poe's model of the brilliant detective, his personal friend who serves as narrator, and the final revelation being presented before the reasoning that leads up to it. Dupin himself reappears in &quot;The Mystery of Marie Roget&quot; and &quot;The Purloined Letter&quot;.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/795.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/795.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/795.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/795.png?t=20090916103019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/795.png?size=smaller&amp;t=20090916103019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/795.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>MS. Found in a Bottle</title>
+<id>http://www.feedbooks.com/book/794</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1833</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/794.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/794.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/794.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/794.png?t=20090916103019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/794.png?size=smaller&amp;t=20090916103019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/794.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Morella</title>
+<id>http://www.feedbooks.com/book/793</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1835</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/793.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/793.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/793.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/793.png?t=20090916103019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/793.png?size=smaller&amp;t=20090916103019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/793.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Metzengerstein</title>
+<id>http://www.feedbooks.com/book/792</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1832</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/792.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/792.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/792.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/792.png?t=20090916103019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/792.png?size=smaller&amp;t=20090916103019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/792.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mesmeric Revelation</title>
+<id>http://www.feedbooks.com/book/791</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1844</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Psychology" label="Psychology"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/791.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/791.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/791.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/791.png?t=20090916103019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/791.png?size=smaller&amp;t=20090916103019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/791.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mellonta Tauta</title>
+<id>http://www.feedbooks.com/book/790</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1849</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/790.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/790.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/790.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/790.png?t=20090916103019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/790.png?size=smaller&amp;t=20090916103019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/790.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Masque of the Red Death</title>
+<id>http://www.feedbooks.com/book/789</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1842</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>&quot;The Masque of the Red Death&quot;, originally published as &quot;The Mask of the Red Death&quot;, is a short story written by Edgar Allan Poe and first published in 1842. The story follows Prince Prospero's attempts to avoid a dangerous plague known as the Red Death by hiding in his abbey. He, along with many other wealthy nobles, has a masquerade ball within seven rooms of his abbey, each decorated with a different color. In the midst of their revelry, a mysterious figure enters and makes his way through each of the rooms. When Prospero confronts this stranger, he falls dead. The story follows many traditions of Gothic fiction and is often analyzed as an allegory about the inevitability of death, though some critics advise against an allegorical reading. Many different interpretations have been presented, as well as attempts to identify the true nature of the disease of the &quot;Red Death.&quot;</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/789.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/789.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/789.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/789.png?t=20090916103019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/789.png?size=smaller&amp;t=20090916103019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/789.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Man That Was Used Up</title>
+<id>http://www.feedbooks.com/book/788</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1839</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/788.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/788.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/788.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/788.png?t=20090916103019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/788.png?size=smaller&amp;t=20090916103019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/788.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

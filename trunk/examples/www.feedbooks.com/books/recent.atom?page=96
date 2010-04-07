@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=96</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=96" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=96" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 96 | Feedbooks</title>
+  <updated>2010-04-07T18:27:16Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1901</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=95" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=97" rel="next" title="Next Page"/>
+<entry>
+<title>The Lost Stradivarius</title>
+<id>http://www.feedbooks.com/book/1605</id>
+<author>
+  <name>John Meade Falkner</name>
+  <uri>http://www.feedbooks.com/author/244</uri>
+</author>
+<updated>2009-09-16T10:59:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1895</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>The Lost Stradivarius (1895), by J. Meade Falkner, is a short novel of ghosts and the evil that can be invested in an object, in this case an extremely fine Stradivarius violin. After finding the violin of the title in a hidden compartment in his college rooms, the protagonist, a wealthy young heir, becomes increasingly secretive as well as obsessed by a particular piece of music, which seems to have the power to call up the ghost of its previous owner. Roaming from England to Italy, the story involves family love, lordly depravity, and the tragedy of obsession, all conveyed in a &quot;high&quot; serious tone not uncommon in late Victorian literature. Preceding M.R. James's ghost stories by several years, it has been called the novel James might have written, had he written novels.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1605.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1605.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1605.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1605.png?t=20090916105929" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1605.png?size=smaller&amp;t=20090916105929" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1605.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Incomplete Amorist</title>
+<id>http://www.feedbooks.com/book/1604</id>
+<author>
+  <name>Edith Nesbit</name>
+  <uri>http://www.feedbooks.com/author/210</uri>
+</author>
+<updated>2009-09-16T11:07:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1906</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1604.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1604.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1604.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1604.png?t=20090916110706" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1604.png?size=smaller&amp;t=20090916110706" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1604.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In Homespun</title>
+<id>http://www.feedbooks.com/book/1603</id>
+<author>
+  <name>Edith Nesbit</name>
+  <uri>http://www.feedbooks.com/author/210</uri>
+</author>
+<updated>2009-09-16T11:07:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1896</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Collections" label="Collections"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1603.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1603.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1603.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1603.png?t=20090916110709" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1603.png?size=smaller&amp;t=20090916110709" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1603.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Story of the Amulet</title>
+<id>http://www.feedbooks.com/book/1602</id>
+<author>
+  <name>Edith Nesbit</name>
+  <uri>http://www.feedbooks.com/author/210</uri>
+</author>
+<updated>2009-09-16T11:07:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1905</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>When Cyril, Robert, Anthea and Jane rescue the magic sand-fairy from a pet shop, they have no idea of the astonishing adventures to come!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1602.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1602.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1602.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1602.png?t=20090916110755" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1602.png?size=smaller&amp;t=20090916110755" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1602.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Phoenix and the Carpet</title>
+<id>http://www.feedbooks.com/book/1601</id>
+<author>
+  <name>Edith Nesbit</name>
+  <uri>http://www.feedbooks.com/author/210</uri>
+</author>
+<updated>2009-09-16T11:07:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1904</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>It's startling enough to have a Phoenix hatch in your house, but even more startling when it reveals you have a magic carpet on the floor. Conceited it may be, but the Phoenix is also good-hearted, and obligingly accompanies the children on their adventures through time and space-which, magic being what it is, rarely turn out as they were meant...</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1601.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1601.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1601.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1601.png?t=20090916110752" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1601.png?size=smaller&amp;t=20090916110752" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1601.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Five Children and It</title>
+<id>http://www.feedbooks.com/book/1600</id>
+<author>
+  <name>Edith Nesbit</name>
+  <uri>http://www.feedbooks.com/author/210</uri>
+</author>
+<updated>2009-09-16T11:07:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1902</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>To Cyril, Anthea, Robert, Jane, and their baby brother, the house in the country promises a summer of freedom and play. But when they accidently uncover an accident Psammead--or Sand-fairy--who has the power to make wishes come true, they find themselves having the holiday of a lifetime, sharing one thrilling adventure after another.
+
+Asleep since dinosaurs roamed the earth, the ill-tempered, odd--looking Psammead --with his spider-shaped body, bat's ears, and snail's eyes --grudgingly agrees to grant the children one wish per day. Soon, though the children discover that their wishes have a tendancy to turn out quite differnetly than expected. Whatever they wish whether it's to fly like a bird, live in a mighty castle, or have an immense fortune --something goes terribly wrong, hilariously wrong.
+
+Then an accidental wish has horrible consequences, and the children are faced with a difficult choice: to let an innoncent manbe charged with a crime or to lose for all time their gift of magical wishes. Five Children and It is one of E. Nesbit's most beloved tales of enchantment.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1600.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1600.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1600.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1600.png?t=20090916110748" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1600.png?size=smaller&amp;t=20090916110748" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1600.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Enchanted Castle</title>
+<id>http://www.feedbooks.com/book/1599</id>
+<author>
+  <name>Edith Nesbit</name>
+  <uri>http://www.feedbooks.com/author/210</uri>
+</author>
+<updated>2009-09-16T11:07:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>An invisible princess, a magic ring, and more adventures than you could dream of. This is what Gerald, Kathleen and Jimmy find when they stumble upon a mysterious castle. At first it all appears to be a lark. But the children soon discover they need all their bravery and ingenuity to contend with the castle's supernatural forces.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1599.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1599.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1599.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1599.png?t=20090916110745" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1599.png?size=smaller&amp;t=20090916110745" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1599.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Gorgon's Head</title>
+<id>http://www.feedbooks.com/book/1598</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:07:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1852</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1598.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1598.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1598.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1598.png?t=20090916110742" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1598.png?size=smaller&amp;t=20090916110742" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1598.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Fire Worship</title>
+<id>http://www.feedbooks.com/book/1597</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:07:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1843</dcterms:issued>
+<category term="Essay" label="Essay"/>
+<category term="Politics" label="Politics"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1597.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1597.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1597.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1597.png?t=20090916110742" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1597.png?size=smaller&amp;t=20090916110742" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1597.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Flatland: A Romance of Many Dimensions</title>
+<id>http://www.feedbooks.com/book/1596</id>
+<author>
+  <name>Edwin Abbott Abbott</name>
+  <uri>http://www.feedbooks.com/author/243</uri>
+</author>
+<updated>2009-09-16T11:07:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1884</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Philosophy" label="Philosophy"/>
+<category term="Science" label="Science"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Flatland: A Romance of Many Dimensions is an 1884 science fiction novella by the English schoolmaster Edwin Abbott Abbott.
+As a satire, Flatland offered pointed observations on the social hierarchy of Victorian culture. However, the novella's more enduring contribution is its examination of dimensions; in a foreword to one of the many publications of the novella, noted science writer Isaac Asimov described Flatland as &quot;The best introduction one can find into the manner of perceiving dimensions.&quot; As such, the novella is still popular amongst mathematics, physics and computer science students.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1596.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1596.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1596.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1596.png?t=20090916110741" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1596.png?size=smaller&amp;t=20090916110741" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1596.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Spell of Intrigue</title>
+<id>http://www.feedbooks.com/book/1595</id>
+<author>
+  <name>Mayer Alan Brenner</name>
+  <uri>http://www.feedbooks.com/author/242</uri>
+</author>
+<updated>2009-09-16T11:07:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1990</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Any interesting scheme will have more than a single motivation.
+
+Were they pawns in the power games of gods or players in a no-spells-barred contest between mortals and masters?</summary>
+<dcterms:source>http://www.mayerbrenner.com/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1595.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1595.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1595.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1595.png?t=20090916110736" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1595.png?size=smaller&amp;t=20090916110736" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1595.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Spell of Catastrophe</title>
+<id>http://www.feedbooks.com/book/1594</id>
+<author>
+  <name>Mayer Alan Brenner</name>
+  <uri>http://www.feedbooks.com/author/242</uri>
+</author>
+<updated>2009-09-16T11:07:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1989</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>For a change, Max was not actually on the run, which is to say that he didn't think anyone in particular was after him. Of course, his perception (which happened to be wrong) did not materially change the situation. He did indeed have a pursuer, and later that night the pursuer caught up.</summary>
+<dcterms:source>http://www.mayerbrenner.com/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1594.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1594.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1594.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1594.png?t=20090916110726" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1594.png?size=smaller&amp;t=20090916110726" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1594.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Earth's Holocaust</title>
+<id>http://www.feedbooks.com/book/1593</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:07:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1844</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1593.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1593.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1593.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1593.png?t=20090916110719" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1593.png?size=smaller&amp;t=20090916110719" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1593.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dr Buillivant</title>
+<id>http://www.feedbooks.com/book/1592</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:07:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1863</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1592.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1592.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1592.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1592.png?t=20090916110719" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1592.png?size=smaller&amp;t=20090916110719" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1592.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Christmas Banquet</title>
+<id>http://www.feedbooks.com/book/1591</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:07:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1844</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1591.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1591.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1591.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1591.png?t=20090916110719" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1591.png?size=smaller&amp;t=20090916110719" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1591.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Biographical Stories</title>
+<id>http://www.feedbooks.com/book/1590</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:07:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1842</dcterms:issued>
+<category term="Biography" label="Biography"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1590.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1590.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1590.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1590.png?t=20090916110719" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1590.png?size=smaller&amp;t=20090916110719" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1590.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The House by the Church-Yard</title>
+<id>http://www.feedbooks.com/book/1589</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:06:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1863</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<category term="Gothic" label="Gothic"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1589.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1589.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1589.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1589.png?t=20090916110659" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1589.png?size=smaller&amp;t=20090916110659" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1589.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mr. Justice Harbottle</title>
+<id>http://www.feedbooks.com/book/1588</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:06:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1872</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1588.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1588.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1588.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1588.png?t=20090916110633" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1588.png?size=smaller&amp;t=20090916110633" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1588.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Green Tea</title>
+<id>http://www.feedbooks.com/book/1587</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:02:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1872</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1587.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1587.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1587.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1587.png?t=20090916110253" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1587.png?size=smaller&amp;t=20090916110253" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1587.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Varney the Vampire</title>
+<id>http://www.feedbooks.com/book/1585</id>
+<author>
+  <name>James Malcom Rymer</name>
+  <uri>http://www.feedbooks.com/author/241</uri>
+</author>
+<updated>2009-09-16T11:01:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1847</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<category term="Gothic" label="Gothic"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1585.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1585.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1585.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1585.png?t=20090916110114" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1585.png?size=smaller&amp;t=20090916110114" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1585.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

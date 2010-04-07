@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=58&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=58&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=58&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 58 | Feedbooks</title>
+  <updated>2010-04-07T18:25:06Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1141</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=57&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=59&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Double Spy</title>
+<id>http://www.feedbooks.com/book/4669</id>
+<author>
+  <name>Dan T. Moore</name>
+  <uri>http://www.feedbooks.com/author/1369</uri>
+</author>
+<updated>2010-03-30T13:37:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Meet the man with no name. Nothing cool about this cat. He was built along the lines of a necktie rack, weighed slightly more than a used napkin, and was as shy as the ante in a crooked poker game. No sex appeal there, you'd say. Yet within the space of a few days every woman in the country melted into quivering protoplasm at the very thought of this mystery man!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31788</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4669.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4669.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4669.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4669.png?t=20100330133734" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4669.png?size=smaller&amp;t=20100330133734" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4669.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Evil Clergyman</title>
+<id>http://www.feedbooks.com/book/248</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1939</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/248.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/248.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/248.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/248.png?t=20090916101528" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/248.png?size=smaller&amp;t=20090916101528" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/248.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Hypnos</title>
+<id>http://www.feedbooks.com/book/262</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1923</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/262.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/262.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/262.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/262.png?t=20090916101536" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/262.png?size=smaller&amp;t=20090916101536" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/262.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Lost Stradivarius</title>
+<id>http://www.feedbooks.com/book/1605</id>
+<author>
+  <name>John Meade Falkner</name>
+  <uri>http://www.feedbooks.com/author/244</uri>
+</author>
+<updated>2009-09-16T10:59:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1895</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>The Lost Stradivarius (1895), by J. Meade Falkner, is a short novel of ghosts and the evil that can be invested in an object, in this case an extremely fine Stradivarius violin. After finding the violin of the title in a hidden compartment in his college rooms, the protagonist, a wealthy young heir, becomes increasingly secretive as well as obsessed by a particular piece of music, which seems to have the power to call up the ghost of its previous owner. Roaming from England to Italy, the story involves family love, lordly depravity, and the tragedy of obsession, all conveyed in a &quot;high&quot; serious tone not uncommon in late Victorian literature. Preceding M.R. James's ghost stories by several years, it has been called the novel James might have written, had he written novels.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1605.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1605.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1605.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1605.png?t=20090916105929" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1605.png?size=smaller&amp;t=20090916105929" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1605.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Robot and the One You Love</title>
+<id>http://www.feedbooks.com/book/1998</id>
+<author>
+  <name>Tom Maddox</name>
+  <uri>http://www.feedbooks.com/author/277</uri>
+</author>
+<updated>2009-09-16T11:29:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1988</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A story published in OMNI, concerning love, industrial espionage, and robots. Or something like that.</summary>
+<dcterms:source>http://www.dthomasmaddox.com/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1998.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1998.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1998.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1998.png?t=20090916112905" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1998.png?size=smaller&amp;t=20090916112905" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1998.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Turnover Point</title>
+<id>http://www.feedbooks.com/book/4617</id>
+<author>
+  <name>Alfred Coppel</name>
+  <uri>http://www.feedbooks.com/author/412</uri>
+</author>
+<updated>2010-02-18T17:07:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Every era in history has had its Pop Ganlon's. Along in years and not successful and not caring much anyway. A matter of living out their years, following an obscure path to oblivion. It was that way in ancient Egypt, just as it will be when the Solar System shrinks to our size. And once in a while such men are given an opportunity to contribute to the society that has forgotten them....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31287</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4617.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4617.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4617.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4617.png?t=20100218170752" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4617.png?size=smaller&amp;t=20100218170752" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4617.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Woodlanders</title>
+<id>http://www.feedbooks.com/book/4067</id>
+<author>
+  <name>Thomas Hardy</name>
+  <uri>http://www.feedbooks.com/author/48</uri>
+</author>
+<updated>2009-08-18T01:18:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1887</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>The story takes place in a small woodland village called Little Hintock, and concerns the efforts of an honest woodsman, Giles Winterborne, to marry his childhood sweetheart, Grace Melbury. Although they have been informally betrothed for some time, her father has made financial sacrifices to give his adored only child a superior education and no longer considers Giles good enough for her. When the new doctor &#8211; a well-born and handsome young man named Edred Fitzpiers &#8211; takes an interest in Grace, her father does all he can to make Grace forget Giles, and to encourage what he sees as a brilliant match.</summary>
+<dcterms:source>Gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4067.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4067.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4067.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4067.png?t=20090818011819" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4067.png?size=smaller&amp;t=20090818011819" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4067.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Shadow</title>
+<id>http://www.feedbooks.com/book/806</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1835</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/806.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/806.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/806.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/806.png?t=20090916103021" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/806.png?size=smaller&amp;t=20090916103021" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/806.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Red Shadows</title>
+<id>http://www.feedbooks.com/book/1637</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T11:08:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1928</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1637.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1637.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1637.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1637.png?t=20090916110835" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1637.png?size=smaller&amp;t=20090916110835" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1637.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tales of Three Hemispheres</title>
+<id>http://www.feedbooks.com/book/3373</id>
+<author>
+  <name>Lord Dunsany</name>
+  <uri>http://www.feedbooks.com/author/757</uri>
+</author>
+<updated>2009-08-18T01:18:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Collections" label="Collections"/>
+<summary>Tales of Three Hemispheres is a collection of fantasy short stories by Lord Dunsany. The first edition was published in Boston by John W. Luce &amp; Co. in November, 1919; the first British edition was published in London by T. Fisher Unwin in June, 1920.
+The collection's significance in the history of fantasy literature was recognized by its republication in a new edition by Owlswick Press in 1976, with illustrations by Tim Kirk and a foreword by H. P. Lovecraft, actually a general article on Dunsany's work originally written by Lovecraft in 1922, but unpublished until it appeared in his posthumous Marginalia (Arkham House, 1944).
+The book collects 14 short pieces by Dunsany; the last three, under the general heading &quot;Beyond the Fields We Know,&quot; are related tales, as explained in the publisher's note preceding the first, &quot;Idle Days on the Yann,&quot; which was previously published in the author's earlier collection A Dreamer's Tales, but reprinted in the current one owing to the relationship.
+Source: Wikipedia</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3373.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3373.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3373.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3373.png?t=20090818011804" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3373.png?size=smaller&amp;t=20090818011804" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3373.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Princess and Curdie</title>
+<id>http://www.feedbooks.com/book/3418</id>
+<author>
+  <name>George MacDonald</name>
+  <uri>http://www.feedbooks.com/author/817</uri>
+</author>
+<updated>2009-08-18T01:18:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1883</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>A sequel to The Princess and the Goblin: Princess Irene and Curdie are a year or two older, and must overthrow a set of corrupt ministers who are poisoning Irene's father, the king. </summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3418.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3418.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3418.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3418.png?t=20090818011805" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3418.png?size=smaller&amp;t=20090818011805" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3418.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Facts Concerning the Late Arthur Jermyn and His Family</title>
+<id>http://www.feedbooks.com/book/250</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/250.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/250.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/250.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/250.png?t=20090916101528" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/250.png?size=smaller&amp;t=20090916101528" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/250.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Picture in the House</title>
+<id>http://www.feedbooks.com/book/277</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/277.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/277.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/277.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/277.png?t=20090916101539" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/277.png?size=smaller&amp;t=20090916101539" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/277.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Outlaw of Torn</title>
+<id>http://www.feedbooks.com/book/941</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:35:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/941.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/941.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/941.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/941.png?t=20090916103558" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/941.png?size=smaller&amp;t=20090916103558" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/941.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Land of Hidden Men</title>
+<id>http://www.feedbooks.com/book/1465</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:38:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1465.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1465.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1465.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1465.png?t=20090916103836" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1465.png?size=smaller&amp;t=20090916103836" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1465.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Project Mastodon</title>
+<id>http://www.feedbooks.com/book/2511</id>
+<author>
+  <name>Clifford Donald Simak</name>
+  <uri>http://www.feedbooks.com/author/426</uri>
+</author>
+<updated>2009-09-16T12:09:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2511.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2511.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2511.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2511.png?t=20090916120943" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2511.png?size=smaller&amp;t=20090916120943" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2511.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Book of Wonder</title>
+<id>http://www.feedbooks.com/book/3355</id>
+<author>
+  <name>Lord Dunsany</name>
+  <uri>http://www.feedbooks.com/author/757</uri>
+</author>
+<updated>2009-08-18T01:18:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Collections" label="Collections"/>
+<summary>The Book of Wonder is the seventh book and fifth original short story collection of Irish fantasy writer Lord Dunsany, considered a major influence on the work of J. R. R. Tolkien, H. P. Lovecraft, Ursula LeGuin and others. It was first published in hardcover by William Heinemann in November, 1912, and has been reprinted a number of times since. A 1918 edition from the Modern Library was actually a combined edition with Time and the Gods.
+The book collects fourteen fantasy short stories by the author.
+Source: Wikipedia</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3355.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3355.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3355.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3355.png?t=20090818011804" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3355.png?size=smaller&amp;t=20090818011804" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3355.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Phantastes</title>
+<id>http://www.feedbooks.com/book/3437</id>
+<author>
+  <name>George MacDonald</name>
+  <uri>http://www.feedbooks.com/author/817</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1858</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Phantastes: A Faerie Romance for Men and Women is a fantasy novel written by George MacDonald, first published in London in 1858. Its importance was recognized in its later revival in paperback by Ballantine Books as the fourteenth volume of the celebrated Ballantine Adult Fantasy series in April 1970. 
+This was the first prose work published by MacDonald. Because of its limited financial success, MacDonald saw himself forced to turn to writing realistic novels. Phantastes, however, exerted a strong influence on fantasy authors of later generations: for example, C. S. Lewis in his book Suprised by Joy claimed that his imagination had been &quot;baptized&quot; by reading it.
+The story centers on the character Anodos (&quot;pathless&quot; or &quot;ascent&quot; in Greek) and takes its inspiration from German Romanticism, particularly Novalis. The story concerns a young man who is pulled into a dreamlike world and there hunts for his ideal of female beauty, embodied by the &quot;Marble Lady&quot;. Anodos lives through many adventures and temptations while in the other world, until he is finally ready to give up his ideals. In its themes and overall storyline, Phantastes is a kind of dry run for MacDonald's later novel Lilith.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3437.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3437.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3437.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3437.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3437.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3437.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mirror of Kong Ho</title>
+<id>http://www.feedbooks.com/book/3905</id>
+<author>
+  <name>Ernest Bramah Smith</name>
+  <uri>http://www.feedbooks.com/author/933</uri>
+</author>
+<updated>2009-08-18T01:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1905</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>A lively and amusing collection of letters on western living written by Kong Ho, a Chinese gentleman. These addressed to his homeland, refer to the Westerners in London as barbarians and many of the aids to life in our society give Kong Ho endless food for thought. These are things such as the motor car and the piano; unknown in China at this time.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/1077</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3905.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3905.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3905.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3905.png?t=20090818011816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3905.png?size=smaller&amp;t=20090818011816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3905.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In the Walls of Eryx</title>
+<id>http://www.feedbooks.com/book/266</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1939</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/266.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/266.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/266.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/266.png?t=20090916101536" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/266.png?size=smaller&amp;t=20090916101536" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/266.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

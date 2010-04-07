@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=143</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=143" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=143" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 143 | Feedbooks</title>
+  <updated>2010-04-07T18:27:46Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2841</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=142" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=144" rel="next" title="Next Page"/>
+<entry>
+<title>The Sorrows of Young Werther</title>
+<id>http://www.feedbooks.com/book/348</id>
+<author>
+  <name>Johann Wolfgang von Goethe</name>
+  <uri>http://www.feedbooks.com/author/46</uri>
+</author>
+<updated>2010-01-21T17:01:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1774</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>The Sorrows of Young Werther (Die Leiden des jungen Werthers) is an epistolary and loosely autobiographical novel by Johann Wolfgang von Goethe, first published in 1774; a revised edition of the novel was published in 1787. Werther was an important novel of the Sturm und Drang period in German literature, and it also influenced the later Romantic literary movement.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/348.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/348.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/348.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/348.png?t=20100121170127" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/348.png?size=smaller&amp;t=20100121170127" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/348.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Caleb Williams</title>
+<id>http://www.feedbooks.com/book/347</id>
+<author>
+  <name>William Godwin</name>
+  <uri>http://www.feedbooks.com/author/122</uri>
+</author>
+<updated>2009-09-16T10:17:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1794</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Politics" label="Politics"/>
+<summary>Things as They Are; or The Adventures of Caleb Williams (often abbreviated to Caleb Williams) (1794) by William Godwin is a three-volume novel written as a call to end the abuse of power by what Godwin saw as a tyrannical government. Intended as a popularization of the ideas presented in his 1793 treatise Political Justice Godwin uses Caleb Williams to show how legal and other institutions can and do destroy individuals, even when the people the justice system touches are innocent of any crime. This reality, in Godwin's mind was therefore a description of &quot;things as they are.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/347.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/347.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/347.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/347.png?t=20090916101754" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/347.png?size=smaller&amp;t=20090916101754" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/347.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African</title>
+<id>http://www.feedbooks.com/book/346</id>
+<author>
+  <name>Olaudah Equiano</name>
+  <uri>http://www.feedbooks.com/author/121</uri>
+</author>
+<updated>2009-09-16T10:17:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1789</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Biography" label="Biography"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/346.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/346.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/346.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/346.png?t=20090916101747" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/346.png?size=smaller&amp;t=20090916101747" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/346.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Awakening &amp; Other Short Stories</title>
+<id>http://www.feedbooks.com/book/342</id>
+<author>
+  <name>Kate Chopin</name>
+  <uri>http://www.feedbooks.com/author/119</uri>
+</author>
+<updated>2009-09-16T10:17:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1899</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Sexuality" label="Sexuality"/>
+<summary>The Awakening shocked turn-of-the-century readers with its forthright treatment of sex and suicide. Departing from literary convention, Kate Chopin failed to condemn her heroine's desire for an affair with the son of a Louisiana resort owner, whom she meets on vacation. The power of sensuality, the delusion of ecstatic love, and the solitude that accompanies the trappings of middle- and upper-class life are the themes of this now-classic novel. As Kaye Gibbons points out in her Introduction, Chopin &quot;was writing American realism before most Americans could bear to hear that they were living it.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/342.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/342.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/342.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/342.png?t=20090916101742" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/342.png?size=smaller&amp;t=20090916101742" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/342.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Born In Exile</title>
+<id>http://www.feedbooks.com/book/341</id>
+<author>
+  <name>George Gissing</name>
+  <uri>http://www.feedbooks.com/author/22</uri>
+</author>
+<updated>2009-09-16T10:17:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1891</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/341.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/341.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/341.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/341.png?t=20090916101735" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/341.png?size=smaller&amp;t=20090916101735" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/341.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>What Maisie Knew</title>
+<id>http://www.feedbooks.com/book/340</id>
+<author>
+  <name>Henry James</name>
+  <uri>http://www.feedbooks.com/author/113</uri>
+</author>
+<updated>2009-09-16T10:17:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/340.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/340.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/340.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/340.png?t=20090916101730" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/340.png?size=smaller&amp;t=20090916101730" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/340.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>After the Siege</title>
+<id>http://www.feedbooks.com/book/339</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:17:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/339.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/339.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/339.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/339.png?t=20090916101726" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/339.png?size=smaller&amp;t=20090916101726" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/339.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>I, Row-Boat</title>
+<id>http://www.feedbooks.com/book/338</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:17:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/338.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/338.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/338.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/338.png?t=20090916101725" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/338.png?size=smaller&amp;t=20090916101725" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/338.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>I, Robot</title>
+<id>http://www.feedbooks.com/book/337</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:17:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>&quot;I, Robot&quot; is a science-fiction short story by Cory Doctorow published in 2005.
+The story is set in the type of police state needed to ensure that only one company is allowed to make robots, and only one type of robot is allowed.
+The story follows single Father detective Arturo Icaza de Arana-Goldberg while he tries to track down his missing teenage daughter. The detective is a bit of an outcast because his wife defected to Eurasia, a rival Superpower.
+</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/337.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/337.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/337.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/337.png?t=20090916101723" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/337.png?size=smaller&amp;t=20090916101723" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/337.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Anda's Game</title>
+<id>http://www.feedbooks.com/book/336</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:17:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2004</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/336.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/336.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/336.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/336.png?t=20090916101722" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/336.png?size=smaller&amp;t=20090916101722" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/336.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>When Sysadmins Ruled the Earth</title>
+<id>http://www.feedbooks.com/book/335</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:17:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The heroic exploits of &quot;sysadmins&quot; &#8212; systems administrators &#8212; as they defend the cyber-world, and hence the world at large, from worms and bioweapons. </summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/335.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/335.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/335.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/335.png?t=20090916101722" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/335.png?size=smaller&amp;t=20090916101722" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/335.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Printcrime</title>
+<id>http://www.feedbooks.com/book/334</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:17:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/334.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/334.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/334.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/334.png?t=20090916101720" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/334.png?size=smaller&amp;t=20090916101720" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/334.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mysteries of Udolpho</title>
+<id>http://www.feedbooks.com/book/332</id>
+<author>
+  <name>Ann Radcliffe</name>
+  <uri>http://www.feedbooks.com/author/117</uri>
+</author>
+<updated>2009-09-16T10:17:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1794</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Romance" label="Romance"/>
+<category term="Gothic" label="Gothic"/>
+<summary>Follow the fortunes of Emily St. Aubert who suffers, among other misadventures, the death of her father, supernatural terrors in a gloomy castle, and the machinations of an Italian brigand. Considered by many to be the first &quot;Gothic&quot; novel.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/332.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/332.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/332.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/332.png?t=20090916101716" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/332.png?size=smaller&amp;t=20090916101716" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/332.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Monk</title>
+<id>http://www.feedbooks.com/book/331</id>
+<author>
+  <name>Matthew Lewis</name>
+  <uri>http://www.feedbooks.com/author/116</uri>
+</author>
+<updated>2009-09-16T10:17:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1796</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Sexuality" label="Sexuality"/>
+<category term="Gothic" label="Gothic"/>
+<summary>The Monk is remembered for being one of the more lurid and &quot;transgressive&quot; of Gothic novels. It is also the first book to feature a priest as the villain. 
+The story concerns Ambrosio - a pious, well-respected monk in Spain - and his violent downfall.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/331.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/331.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/331.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/331.png?t=20090916101701" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/331.png?size=smaller&amp;t=20090916101701" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/331.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dearest</title>
+<id>http://www.feedbooks.com/book/329</id>
+<author>
+  <name>Henry Beam Piper</name>
+  <uri>http://www.feedbooks.com/author/114</uri>
+</author>
+<updated>2009-09-16T10:16:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1951</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/329.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/329.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/329.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/329.png?t=20090916101656" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/329.png?size=smaller&amp;t=20090916101656" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/329.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Day of the Moron</title>
+<id>http://www.feedbooks.com/book/328</id>
+<author>
+  <name>Henry Beam Piper</name>
+  <uri>http://www.feedbooks.com/author/114</uri>
+</author>
+<updated>2009-09-16T10:16:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1951</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It's natural to trust the unproven word of the fellow who's &quot;on my side&quot;--but the emotional moron is on no one's side, not even his own. Once, such an emotional moron could, at worst, hurt a few. But with the mighty, leashed forces Man employs now....</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/328.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/328.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/328.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/328.png?t=20090916101656" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/328.png?size=smaller&amp;t=20090916101656" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/328.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Crossroads of Destiny</title>
+<id>http://www.feedbooks.com/book/327</id>
+<author>
+  <name>Henry Beam Piper</name>
+  <uri>http://www.feedbooks.com/author/114</uri>
+</author>
+<updated>2009-09-16T10:16:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No wonder he'd been so interested in the talk of whether our people accepted these theories!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/327.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/327.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/327.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/327.png?t=20090916101656" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/327.png?size=smaller&amp;t=20090916101656" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/327.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Answer</title>
+<id>http://www.feedbooks.com/book/326</id>
+<author>
+  <name>Henry Beam Piper</name>
+  <uri>http://www.feedbooks.com/author/114</uri>
+</author>
+<updated>2009-09-16T10:16:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/326.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/326.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/326.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/326.png?t=20090916101656" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/326.png?size=smaller&amp;t=20090916101656" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/326.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Kidnapped Santa Claus</title>
+<id>http://www.feedbooks.com/book/325</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2009-09-16T10:16:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1904</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Santa Claus lives in the Laughing Valley, where stands the big, rambling castle in which his toys are manufactured. His workmen, selected from the ryls, knooks, pixies and fairies, live with him, and every one is as busy as can be from one year's end to another. On one side is the mighty Forest of Burzee. At the other side stands the huge mountain that contains the Caves of the Daemons. And between them the Valley lies smiling and peaceful. One would think that our good old Santa Claus, who devotes his days to making children happy, would have no enemies on all the earth; and, as a matter of fact, for a long period of time he encountered nothing but love wherever he might go. But the Daemons who live in the mountain caves grew to hate Santa Claus very much, and all for the simple reason that he made children happy. One Christmas Eve, they decided to take action!</summary>
+<dcterms:source>http://en.wikisource.org/wiki/</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/325.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/325.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/325.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/325.png?t=20090916101655" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/325.png?size=smaller&amp;t=20090916101655" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/325.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Glinda of Oz</title>
+<id>http://www.feedbooks.com/book/324</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2010-01-02T15:27:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org/wiki/</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/324.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/324.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/324.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/324.png?t=20100102152703" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/324.png?size=smaller&amp;t=20100102152703" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/324.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

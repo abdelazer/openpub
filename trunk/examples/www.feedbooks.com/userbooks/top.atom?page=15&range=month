@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=15&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=15&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=15&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 15 | Feedbooks</title>
+  <updated>2010-04-07T18:23:15Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>281</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=14&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=16&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Eaglethorpe Buxton and the Sorceress</title>
+<id>http://www.feedbooks.com/userbook/8396</id>
+<author>
+  <name>Wesley Allison</name>
+  <uri>http://www.feedbooks.com/user/5943/profile#Wesley%20Allison</uri>
+</author>
+<updated>2010-02-02T02:49:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Eaglethorpe Buxton, famed adventurer and story-teller is back, this time to put on a play about a sorceress. When the sorceress, subject of his play arrives with fire in her eyes, Eaglethorpe must pretend to be his good friend Ellwood. Will he pull off this charade and survive? And what happens when the real Ellwood shows up? One can never tell, especially when Eaglethorpe tells the story. 
+</summary>
+<category term="Magic"/>
+<category term="swords"/>
+<category term="play"/>
+<category term="drama"/>
+<category term="comedy"/>
+<category term="adventure"/>
+<category term="fantasy"/>
+<category term="sorcery"/>
+<category term="sorceress"/>
+<category term="Eaglethorpe Buxton"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8396.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8396.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8396.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8396.png?t=20100202024927" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8396.png?size=smaller&amp;t=20100202024927" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8396.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Consumerism Essay</title>
+<id>http://www.feedbooks.com/userbook/10895</id>
+<author>
+  <name>Esra Froese</name>
+  <uri>http://www.feedbooks.com/user/79231/profile#Esra%20Froese</uri>
+</author>
+<updated>2010-03-13T01:22:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Consumerism is what keeps some economic systems going. If a recession hits, though, the economies that rely on consumerism are screwed. Our consumerist habits mess up the futures of young people in the Third World, and a somewhat planned economy provides a fall back in the case of recession. Canada&#8217;s economy should be partly controlled by consumerism, but only partly, so if the economy tanks, we have a fall back.</summary>
+<category term="economics"/>
+<category term="consumerism"/>
+<category term="recession"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10895.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10895.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10895.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10895.png?t=20100313012217" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10895.png?size=smaller&amp;t=20100313012217" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10895.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Adventures of Superman #2</title>
+<id>http://www.feedbooks.com/userbook/4339</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T16:31:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>The Adventures of Superman: Kingdom of Zod</summary>
+<category term="Faora"/>
+<category term="Bizarro"/>
+<category term="Shazam"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="General Zod"/>
+<category term="Lois Lane"/>
+<category term="Lex Luthor"/>
+<category term="Captain Marvel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4339.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4339.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4339.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4339.png?t=20090817163123" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4339.png?size=smaller&amp;t=20090817163123" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4339.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #13</title>
+<id>http://www.feedbooks.com/userbook/5125</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-08-17T21:20:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: Convergence, Part 1 (of 2): The Thing That Should Not Be...</summary>
+<category term="Lex Luthor"/>
+<category term="Lois Lane"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Parasite"/>
+<category term="Barrage"/>
+<category term="Bloodsport"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5125.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5125.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5125.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5125.png?t=20090817212055" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5125.png?size=smaller&amp;t=20090817212055" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5125.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tales of the Green Lantern Corps Special: Vidar #1</title>
+<id>http://www.feedbooks.com/userbook/5679</id>
+<author>
+  <name>Scott Kruger</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Scott%20Kruger</uri>
+</author>
+<updated>2009-08-17T16:39:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Tales of the Green Lantern Corps Special: Vidar, Part 1 (of 3)</summary>
+<category term="Green Lantern"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Vidar"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5679.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5679.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5679.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5679.png?t=20090817163909" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5679.png?size=smaller&amp;t=20090817163909" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5679.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>All-Star Comics Annual #1</title>
+<id>http://www.feedbooks.com/userbook/7048</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T22:34:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>All-Star Comics Annual: Justice Society of America: The Time of Their Lives.
+
+</summary>
+<category term="JSA"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Justice Society of America"/>
+<category term="Justice Society"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7048.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7048.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7048.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7048.png?t=20090817223427" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7048.png?size=smaller&amp;t=20090817223427" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7048.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Into the Black</title>
+<id>http://www.feedbooks.com/userbook/8752</id>
+<author>
+  <name>Jeremy W. Kerr</name>
+  <uri>http://www.feedbooks.com/user/61753/profile#Jeremy%20W.%20Kerr</uri>
+</author>
+<updated>2009-12-10T07:34:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Isambard Tims captains &quot;The Matador,&quot; a spaceship with an interesting crew: a cyclops, a humanoid lizard, and the clone of a Chinese female pirate.  However, a stowaway is about to take the ship and its crew hostage.  Besides wanting to kill them, this stranger has a dangerous secret.  One that will change Isambard's life forever...if he escapes, that is.</summary>
+<category term="fiction"/>
+<category term="science"/>
+<category term="ship"/>
+<category term="travel"/>
+<category term="space"/>
+<category term="first person"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8752.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8752.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8752.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8752.png?t=20091210073401" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8752.png?size=smaller&amp;t=20091210073401" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8752.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Butterfly Killer</title>
+<id>http://www.feedbooks.com/userbook/11137</id>
+<author>
+  <name>Claire Farrell</name>
+  <uri>http://www.feedbooks.com/user/80314/profile#Claire%20Farrell</uri>
+</author>
+<updated>2010-03-25T02:08:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Flash Fiction - A patient and doctor have conflicting ideas on what being cured really means.</summary>
+<category term="flash fiction"/>
+<category term="Bipolar"/>
+<category term="electroshock"/>
+<category term="butterflies"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11137.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11137.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11137.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11137.png?t=20100325020834" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11137.png?size=smaller&amp;t=20100325020834" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11137.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Last Sun of Krypton #1</title>
+<id>http://www.feedbooks.com/userbook/3964</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T22:48:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Last Sun of Krypton, Part 1 (of 3).
+
+Travel with us now, into the past, to a time when a great and advanced race of people lived, loved, fought and struggled with the day-to-day and with the higher aspirations of all people. Come and witness Kal-El, with his family around him, as he discovers that for his generation...there seems no future to aspire to! What do you do in the face of the ultimate end?</summary>
+<category term="Krypton"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3964.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3964.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3964.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3964.png?t=20090817224815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3964.png?size=smaller&amp;t=20090817224815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3964.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tales of the Green Lantern Corps Special: Vidar #3</title>
+<id>http://www.feedbooks.com/userbook/5681</id>
+<author>
+  <name>Scott Kruger</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Scott%20Kruger</uri>
+</author>
+<updated>2009-08-17T16:39:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Tales of the Green Lantern Corps Special: Vidar, Part 3 (of 3)</summary>
+<category term="Green Lantern"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Vidar"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5681.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5681.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5681.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5681.png?t=20090817163917" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5681.png?size=smaller&amp;t=20090817163917" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5681.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Continuation</title>
+<id>http://www.feedbooks.com/userbook/7603</id>
+<author>
+  <name>CD Clement</name>
+  <uri>http://www.feedbooks.com/user/44089/profile#CD%20Clement</uri>
+</author>
+<updated>2009-09-21T19:27:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>So I died, and to be totally honest with you it was a lot more painful than I had expected. A hell of a lot more painful. But then again I am fairly sure that you are not supposed to remember the actual death part, if you know what I mean. 
+No, you don't, do you? 
+You're aware of Life Extension Technologies Inc.? 
+No? 
+Okay, I think I had better explain a little,.
+Actually, I had better go back to the very beginning.</summary>
+<category term="science fiction"/>
+<category term="short story"/>
+<category term="speculative fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7603.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7603.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7603.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7603.png?t=20090921192722" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7603.png?size=smaller&amp;t=20090921192722" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7603.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Eaglethorpe Buxton and the Elven Princess</title>
+<id>http://www.feedbooks.com/userbook/8395</id>
+<author>
+  <name>Wesley Allison</name>
+  <uri>http://www.feedbooks.com/user/5943/profile#Wesley%20Allison</uri>
+</author>
+<updated>2010-02-02T02:50:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Eaglethorpe Buxton, famed adventurer and story-teller, friend to those in need of a friend and guardian to those in need of a guardian. He is a liar and braggart, not to be trusted, especially around pies. Who are we to believe? Buxton himself leads us through his world as he comes to the aid of&#8230; a poor orphan? An elven princess? Who can guess with Eaglethorpe himself telling the tale? 
+</summary>
+<category term="elves"/>
+<category term="elf"/>
+<category term="sorcery"/>
+<category term="swords"/>
+<category term="adventure"/>
+<category term="comedy"/>
+<category term="fantasy"/>
+<category term="wesley allison"/>
+<category term="Elven Princess"/>
+<category term="Eaglethorpe Buxton"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8395.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8395.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8395.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8395.png?t=20100202025010" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8395.png?size=smaller&amp;t=20100202025010" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8395.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Cyclopedia of Economics</title>
+<id>http://www.feedbooks.com/userbook/9429</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T14:46:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Cyclopedia of issues in economics analyzed through the prism of the economies of countries in transition, emerging markets, and developing countries.</summary>
+<category term="transition"/>
+<category term="microeconomics"/>
+<category term="macroeconomics"/>
+<category term="business"/>
+<category term="government"/>
+<category term="privatization"/>
+<category term="private"/>
+<category term="sector"/>
+<category term="Public"/>
+<category term="sector"/>
+<category term="capital"/>
+<category term="markets"/>
+<category term="stock"/>
+<category term="exchange"/>
+<category term="shares"/>
+<category term="bonds"/>
+<category term="finance"/>
+<category term="banks"/>
+<category term="savings"/>
+<category term="Credit"/>
+<category term="money"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9429.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9429.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9429.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9429.png?t=20100106144634" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9429.png?size=smaller&amp;t=20100106144634" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9429.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #8</title>
+<id>http://www.feedbooks.com/userbook/4750</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T16:35:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Action Comics: For All Mankind... (Crisis #9)</summary>
+<category term="Darkseid"/>
+<category term="Shazam"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Martian Manhunter"/>
+<category term="Captain Marvel"/>
+<category term="Wonder Woman"/>
+<category term="Green Lantern"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4750.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4750.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4750.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4750.png?t=20090817163501" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4750.png?size=smaller&amp;t=20090817163501" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4750.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Barnabus and the New Year</title>
+<id>http://www.feedbooks.com/userbook/10819</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-03-30T09:51:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>It's New Year's Eve and Barnabus as all alone in his church basement home.  Have all his friends gone out and left him?  he feels really miserable, and then...</summary>
+<category term="School&quot;"/>
+<category term="StoryBarnabusSunday"/>
+<category term="StoryBedtime"/>
+<category term="s"/>
+<category term="children"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10819.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10819.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10819.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10819.png?t=20100330095130" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10819.png?size=smaller&amp;t=20100330095130" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10819.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Barnabus Makes Someone Smile</title>
+<id>http://www.feedbooks.com/userbook/10903</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-03-30T09:57:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Barnabus notices a smal child who does not seen to smile, ever.  However, with a little lesson from a peculiar cat Barnabus learns how to make him smile.</summary>
+<category term="Sunday School"/>
+<category term="Barnabus"/>
+<category term="Bedtime Story"/>
+<category term="Childrens Story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10903.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10903.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10903.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10903.png?t=20100330095704" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10903.png?size=smaller&amp;t=20100330095704" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10903.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #14</title>
+<id>http://www.feedbooks.com/userbook/5166</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-08-18T00:26:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: Convergence, Part 2 (of 2): With Teeth!</summary>
+<category term="Lois Lane"/>
+<category term="Lex Luthor"/>
+<category term="Hal Jordan"/>
+<category term="Martian Manhunter"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Parasite"/>
+<category term="Steel"/>
+<category term="Bloodsport"/>
+<category term="Guardian"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5166.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5166.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5166.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5166.png?t=20090818002643" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5166.png?size=smaller&amp;t=20090818002643" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5166.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ravaging Myths</title>
+<id>http://www.feedbooks.com/userbook/7959</id>
+<author>
+  <name>Frederick Marshall Brown</name>
+  <uri>http://www.feedbooks.com/user/55348/profile#Frederick%20Marshall%20Brown</uri>
+</author>
+<updated>2009-10-21T04:49:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>FREE first in series novel that neatly fits in the sci fi / fantasy / horror/ mystery/ suspense /alternate history genre. 
+
+A small town doctor in the Shawnee Nation is severely injured and briefly dies in an Internation highway pileup. When the doctor is brought back, he recovers and returns to work but has residual seizures and paranoia. The doctor and his immigrant town are then increasingly plagued by the presence of a menacing dark figure, and the figure appears to contribute to a number of deaths in the town. 
+</summary>
+<category term="Novel"/>
+<category term="Series"/>
+<category term="mystery"/>
+<category term="horror"/>
+<category term="fantasy"/>
+<category term="SciFi"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7959.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7959.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7959.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7959.png?t=20091021044953" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7959.png?size=smaller&amp;t=20091021044953" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7959.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Summer of '83</title>
+<id>http://www.feedbooks.com/userbook/8578</id>
+<author>
+  <name>Michael Graeme</name>
+  <uri>http://www.feedbooks.com/user/21538/profile#Michael%20Graeme</uri>
+</author>
+<updated>2009-11-29T23:15:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Well, that's middle age for you: you either grow up, grow into it, accept its imperfections, its disappointments, and grow old grumbling at someone, or you ruin yourself on a mad fling with a girl half your age that you know won't last, and then you grow old alone and with only the walls to grumble at.
+
+In the absence of any other alternatives, I know which of the two I prefer,... but what if there was a third alternative?</summary>
+<category term="paranormal"/>
+<category term="speculative"/>
+<category term="love"/>
+<category term="romance"/>
+<category term="romantic"/>
+<category term="speculative fiction"/>
+<category term="time travel"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8578.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8578.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8578.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8578.png?t=20091129231554" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8578.png?size=smaller&amp;t=20091129231554" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8578.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Black Eyed Susan</title>
+<id>http://www.feedbooks.com/userbook/2738</id>
+<author>
+  <name>Joseph Devon</name>
+  <uri>http://www.feedbooks.com/user/21430/profile#Joseph%20Devon</uri>
+</author>
+<updated>2009-08-17T16:20:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>True love can develop in a number of ways. Sometimes it happens at first sight. Sometimes it takes warm beer, teenage nights at the beach, misunderstood conversations and a lot of persistence. A little luck never hurt either.</summary>
+<category term="Young Adult"/>
+<category term="teenage"/>
+<category term="beer"/>
+<category term="shore"/>
+<category term="beach"/>
+<category term="New Jersey"/>
+<category term="love story"/>
+<category term="romance"/>
+<category term="love"/>
+<category term="Creative Commons"/>
+<category term="fiction"/>
+<category term="romance"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/2738.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/2738.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/2738.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2738.png?t=20090817162029" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2738.png?size=smaller&amp;t=20090817162029" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/2738.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

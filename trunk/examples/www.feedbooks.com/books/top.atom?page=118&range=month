@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=118&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=118&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=118&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 118 | Feedbooks</title>
+  <updated>2010-04-07T18:25:46Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2341</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=117&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=119&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Redemption Cairn</title>
+<id>http://www.feedbooks.com/book/2259</id>
+<author>
+  <name>Stanley Grauman Weinbaum</name>
+  <uri>http://www.feedbooks.com/author/322</uri>
+</author>
+<updated>2009-09-16T11:32:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1936</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2259.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2259.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2259.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2259.png?t=20090916113245" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2259.png?size=smaller&amp;t=20090916113245" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2259.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Pleasure Cruise</title>
+<id>http://www.feedbooks.com/book/2614</id>
+<author>
+  <name>Richard Kadrey</name>
+  <uri>http://www.feedbooks.com/author/109</uri>
+</author>
+<updated>2009-09-16T11:47:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2001</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.infinitematrix.net/stories/shortshorts/kadrey5.html</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2614.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2614.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2614.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2614.png?t=20090916114721" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2614.png?size=smaller&amp;t=20090916114721" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2614.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Winds of Time</title>
+<id>http://www.feedbooks.com/book/2288</id>
+<author>
+  <name>James Henry Schmitz</name>
+  <uri>http://www.feedbooks.com/author/278</uri>
+</author>
+<updated>2009-09-16T11:59:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2288.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2288.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2288.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2288.png?t=20090916115936" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2288.png?size=smaller&amp;t=20090916115936" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2288.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Letter of the Law</title>
+<id>http://www.feedbooks.com/book/2356</id>
+<author>
+  <name>Alan Nourse</name>
+  <uri>http://www.feedbooks.com/author/162</uri>
+</author>
+<updated>2009-09-16T12:04:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2356.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2356.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2356.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2356.png?t=20090916120429" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2356.png?size=smaller&amp;t=20090916120429" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2356.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Pursuit of the House-Boat</title>
+<id>http://www.feedbooks.com/book/2840</id>
+<author>
+  <name>John Kendrick Bangs</name>
+  <uri>http://www.feedbooks.com/author/574</uri>
+</author>
+<updated>2009-09-16T12:27:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2840.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2840.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2840.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2840.png?t=20090916122755" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2840.png?size=smaller&amp;t=20090916122755" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2840.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Operation Lorelie</title>
+<id>http://www.feedbooks.com/book/3998</id>
+<author>
+  <name>William P. Salton</name>
+  <uri>http://www.feedbooks.com/author/1106</uri>
+</author>
+<updated>2009-08-18T01:18:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It was a new time and a vast new war of complete and awful annihilation. Yet, some things never change, and, as in ancient times, Ulysses walked again&#8212;brave and unconquerable--and again, the sirens wove their deadly spell with a smile and a song.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29160</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3998.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3998.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3998.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3998.png?t=20090818011801" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3998.png?size=smaller&amp;t=20090818011801" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3998.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Raiders Invisible</title>
+<id>http://www.feedbooks.com/book/3977</id>
+<author>
+  <name>Desmond Winter Hall</name>
+  <uri>http://www.feedbooks.com/author/851</uri>
+</author>
+<updated>2009-08-18T01:18:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Alone and unaided, Pilot Travers copes with the invisible foes who have struck down America's great engine of war.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29053</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3977.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3977.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3977.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3977.png?t=20090818011802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3977.png?size=smaller&amp;t=20090818011802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3977.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tarquin of Cheapside</title>
+<id>http://www.feedbooks.com/book/3433</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>This short story was first published in the &quot;Smart Set&quot; in 1921, although it had been written 5 years previous. It was first published in book form in Tales of the Jazz Age in 1922.
+&quot;Written almost six years ago, this story is a product of undergraduate days at Princeton. Considerably revised, it was published in the &quot;Smart Set&quot; in 1921. At the time of its conception I had but one idea&#8212;to be a poet&#8212;and the fact that I was interested in the ring of every phrase, that I dreaded the obvious in prose if not in plot, shows throughout. Probably the peculiar affection I feel for it depends more upon its age than upon any intrinsic merit.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3433.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3433.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3433.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3433.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3433.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3433.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Third Book</title>
+<id>http://www.feedbooks.com/book/301</id>
+<author>
+  <name>Fran&#231;ois Rabelais</name>
+  <uri>http://www.feedbooks.com/author/98</uri>
+</author>
+<updated>2009-09-16T10:15:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1546</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/301.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/301.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/301.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/301.png?t=20090916101553" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/301.png?size=smaller&amp;t=20090916101553" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/301.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The White Invaders</title>
+<id>http://www.feedbooks.com/book/850</id>
+<author>
+  <name>Raymond King Cummings</name>
+  <uri>http://www.feedbooks.com/author/157</uri>
+</author>
+<updated>2009-09-16T10:31:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Out of their unknown fourth dimensional realm materializes a horde of White Invaders with power invincible.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/850.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/850.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/850.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/850.png?t=20090916103129" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/850.png?size=smaller&amp;t=20090916103129" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/850.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Stop, Look and Dig</title>
+<id>http://www.feedbooks.com/book/877</id>
+<author>
+  <name>George Oliver Smith</name>
+  <uri>http://www.feedbooks.com/author/152</uri>
+</author>
+<updated>2009-09-16T10:32:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The enlightened days of mental telepathy and ESP should have made the world a better place, but the minute the Rhine Institute opened up, all the crooks decided it was time to go collegiate!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/877.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/877.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/877.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/877.png?t=20090916103242" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/877.png?size=smaller&amp;t=20090916103242" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/877.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Morale</title>
+<id>http://www.feedbooks.com/book/894</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2009-09-16T10:33:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/894.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/894.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/894.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/894.png?t=20090916103341" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/894.png?size=smaller&amp;t=20090916103341" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/894.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Casey Ryan</title>
+<id>http://www.feedbooks.com/book/919</id>
+<author>
+  <name>B.M. Bower</name>
+  <uri>http://www.feedbooks.com/author/188</uri>
+</author>
+<updated>2010-02-15T17:11:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>Casey Ryan, known as the most reckless stage driver ever to carry the mail, was bitten by the speed bug and deserted his stage coach for a Ford; but not even a Ford could stand Casey's handling and he eventually found himself bereft of machine, job, and bankroll. To rebuild his fallen fortunes Casey must search out a legendary gold mine, the secret of Injun Jim.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/919.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/919.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/919.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/919.png?t=20100215171137" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/919.png?size=smaller&amp;t=20100215171137" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/919.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Flying U Ranch</title>
+<id>http://www.feedbooks.com/book/922</id>
+<author>
+  <name>B.M. Bower</name>
+  <uri>http://www.feedbooks.com/author/188</uri>
+</author>
+<updated>2009-09-16T10:34:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/922.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/922.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/922.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/922.png?t=20090916103459" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/922.png?size=smaller&amp;t=20090916103459" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/922.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Wanderer's Necklace</title>
+<id>http://www.feedbooks.com/book/1021</id>
+<author>
+  <name>Henry Rider Haggard</name>
+  <uri>http://www.feedbooks.com/author/32</uri>
+</author>
+<updated>2009-09-16T10:39:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1021.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1021.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1021.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1021.png?t=20090916103951" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1021.png?size=smaller&amp;t=20090916103951" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1021.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Night at the Fair</title>
+<id>http://www.feedbooks.com/book/1109</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-09-16T10:42:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1928</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1109.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1109.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1109.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1109.png?t=20090916104219" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1109.png?size=smaller&amp;t=20090916104219" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1109.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Three Hours Between Planes</title>
+<id>http://www.feedbooks.com/book/1159</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-09-16T10:42:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1941</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1159.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1159.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1159.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1159.png?t=20090916104240" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1159.png?size=smaller&amp;t=20090916104240" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1159.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Fanshawe</title>
+<id>http://www.feedbooks.com/book/1546</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:02:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1828</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1546.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1546.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1546.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1546.png?t=20090916110256" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1546.png?size=smaller&amp;t=20090916110256" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1546.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Glorious Pool</title>
+<id>http://www.feedbooks.com/book/1534</id>
+<author>
+  <name>Thorne Smith</name>
+  <uri>http://www.feedbooks.com/author/230</uri>
+</author>
+<updated>2009-09-16T11:03:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1934</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1534.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1534.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1534.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1534.png?t=20090916110321" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1534.png?size=smaller&amp;t=20090916110321" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1534.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>An Old Woman's Tale</title>
+<id>http://www.feedbooks.com/book/1561</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:03:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1830</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1561.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1561.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1561.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1561.png?t=20090916110345" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1561.png?size=smaller&amp;t=20090916110345" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1561.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

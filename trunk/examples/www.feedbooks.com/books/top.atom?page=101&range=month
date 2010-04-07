@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=101&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=101&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=101&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 101 | Feedbooks</title>
+  <updated>2010-04-07T18:25:35Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2001</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=100&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=102&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Power-House</title>
+<id>http://www.feedbooks.com/book/1187</id>
+<author>
+  <name>John Buchan</name>
+  <uri>http://www.feedbooks.com/author/17</uri>
+</author>
+<updated>2009-09-16T10:43:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1187.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1187.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1187.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1187.png?t=20090916104345" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1187.png?size=smaller&amp;t=20090916104345" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1187.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Watcher by the Threshold</title>
+<id>http://www.feedbooks.com/book/1200</id>
+<author>
+  <name>John Buchan</name>
+  <uri>http://www.feedbooks.com/author/17</uri>
+</author>
+<updated>2009-09-16T10:44:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1900</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1200.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1200.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1200.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1200.png?t=20090916104410" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1200.png?size=smaller&amp;t=20090916104410" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1200.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lodore</title>
+<id>http://www.feedbooks.com/book/1352</id>
+<author>
+  <name>Mary Shelley</name>
+  <uri>http://www.feedbooks.com/author/33</uri>
+</author>
+<updated>2009-09-16T10:47:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1835</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1352.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1352.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1352.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1352.png?t=20090916104739" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1352.png?size=smaller&amp;t=20090916104739" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1352.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Leader</title>
+<id>http://www.feedbooks.com/book/2015</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2009-09-16T11:30:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The trouble with being a Superman, with Super powers, and knowing it, is it's so easy to overlook the unpleasant possibility of a super-superman!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2015.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2015.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2015.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2015.png?t=20090916113016" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2015.png?size=smaller&amp;t=20090916113016" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2015.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Youth and the Bright Medusa</title>
+<id>http://www.feedbooks.com/book/2123</id>
+<author>
+  <name>Willa Cather</name>
+  <uri>http://www.feedbooks.com/author/296</uri>
+</author>
+<updated>2009-09-16T11:45:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2123.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2123.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2123.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2123.png?t=20090916114547" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2123.png?size=smaller&amp;t=20090916114547" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2123.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Last American</title>
+<id>http://www.feedbooks.com/book/2475</id>
+<author>
+  <name>J.A. Mitchell</name>
+  <uri>http://www.feedbooks.com/author/400</uri>
+</author>
+<updated>2009-09-16T12:08:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1889</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The astounding discoveries of Khan-li of Dimph-yoo-chur have thrown floods of light upon the domestic life of the Mehrikan people. He little realized when he landed upon that sleeping continent what a service he was about to render history, or what enthusiasm his discoveries would arouse among Persian archaeologists.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2475.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2475.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2475.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2475.png?t=20090916120829" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2475.png?size=smaller&amp;t=20090916120829" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2475.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Interplanetary Hunter</title>
+<id>http://www.feedbooks.com/book/2482</id>
+<author>
+  <name>Arthur K. Barnes</name>
+  <uri>http://www.feedbooks.com/author/405</uri>
+</author>
+<updated>2009-09-16T12:09:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>This book collects and blends five previously published stories about Gerry Carlyle, a worldwide celebrity who travels to different planets collecting alien animals for the Interplanetary Zoo in London. </summary>
+<dcterms:source>http://www.manybooks.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2482.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2482.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2482.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2482.png?t=20090916120918" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2482.png?size=smaller&amp;t=20090916120918" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2482.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Beyond Pandora</title>
+<id>http://www.feedbooks.com/book/2593</id>
+<author>
+  <name>Robert J. Martin</name>
+  <uri>http://www.feedbooks.com/author/466</uri>
+</author>
+<updated>2009-09-16T12:11:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The ideal way to deal with a pest--any menace--is, of course, to make it useful to you....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2593.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2593.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2593.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2593.png?t=20090916121110" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2593.png?size=smaller&amp;t=20090916121110" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2593.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Accidental Death</title>
+<id>http://www.feedbooks.com/book/2598</id>
+<author>
+  <name>Peter Baily</name>
+  <uri>http://www.feedbooks.com/author/470</uri>
+</author>
+<updated>2009-09-16T12:11:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The most dangerous of weapons is the one you don't know is loaded.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2598.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2598.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2598.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2598.png?t=20090916121115" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2598.png?size=smaller&amp;t=20090916121115" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2598.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Abysmal Brute</title>
+<id>http://www.feedbooks.com/book/2967</id>
+<author>
+  <name>Jack London</name>
+  <uri>http://www.feedbooks.com/author/34</uri>
+</author>
+<updated>2009-09-16T12:37:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1911</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>A prize fighter faces the corruption of civilization and finds redemption in the wilds of California.</summary>
+<dcterms:source>http://london.sonoma.edu/Writings/</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2967.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2967.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2967.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2967.png?t=20090916123718" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2967.png?size=smaller&amp;t=20090916123718" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2967.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Benefactor</title>
+<id>http://www.feedbooks.com/book/3932</id>
+<author>
+  <name>George H. Smith</name>
+  <uri>http://www.feedbooks.com/author/1070</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>We can anticipate that robots will be fiercely resented, at first, in a society that will see them as the latest&#8212;and an indestructible&#8212;widespread threat to the workers whom they will replace. The men who will seek to alter the status quo will be called &quot;robot lovers&quot; and stoned. But what happens next?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/28892</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3932.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3932.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3932.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3932.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3932.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3932.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>George Loves Gistla</title>
+<id>http://www.feedbooks.com/book/4081</id>
+<author>
+  <name>James McKimmey</name>
+  <uri>http://www.feedbooks.com/author/1145</uri>
+</author>
+<updated>2009-08-18T01:18:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Romance" label="Romance"/>
+<summary>&quot;Why don't you find yourself some nice little American girl,&quot; his father had often repeated. But George was on Venus ... and he loved pale green skin ... and globular heads and most of all, George loved Gistla.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29578</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4081.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4081.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4081.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4081.png?t=20090818011818" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4081.png?size=smaller&amp;t=20090818011818" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4081.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Decision</title>
+<id>http://www.feedbooks.com/book/4113</id>
+<author>
+  <name>Frank M. Robinson</name>
+  <uri>http://www.feedbooks.com/author/1163</uri>
+</author>
+<updated>2009-08-18T01:18:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The captain had learned to hate. It was his profession&#8212;and his personal reason for going on. But even hatred has to be channeled for its maximum use, and no truths exist forever.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29680</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4113.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4113.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4113.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4113.png?t=20090818011819" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4113.png?size=smaller&amp;t=20090818011819" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4113.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Calumet 'K'</title>
+<id>http://www.feedbooks.com/book/4387</id>
+<author>
+  <name>Samuel Merwin</name>
+  <uri>http://www.feedbooks.com/author/1080</uri>
+</author>
+<author>
+  <name>Henry Kitchell Webster</name>
+  <uri>http://www.feedbooks.com/author/1255</uri>
+</author>
+<updated>2009-11-09T16:39:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1901</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>This 1901 novel is the story of one man's ingenuity, perseverance and struggle in the construction of a grain elevator, and of his exhilarating triumph. Ayn Rand declared it her favorite novel, and it served inspiration for the heroes of her novel Atlas Shrugged.
+
+&quot;Calumet 'K'&quot; is the name of a two-million bushel grain elevator being constructed by Charlie Bannon. Farmers and commodity markets are depending on Bannon to build it on time. In opposition are several tycoons wagering on it not getting built.
+
+Bannon must heroically overcome incompetance, scheming, and sabotage, in addition to the daunting task of building the massive grain elevator. This is the story of competence &#8211; of single-minded effort, unstoppable determination, unflagging certainty and unbeatable ability. </summary>
+<dcterms:source>http://www.gutenberg.org/etext/30431</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4387.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4387.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4387.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4387.png?t=20091109163943" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4387.png?size=smaller&amp;t=20091109163943" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4387.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Betty Gordon at Mountain Camp</title>
+<id>http://www.feedbooks.com/book/4405</id>
+<author>
+  <name>Alice B. Emerson</name>
+  <uri>http://www.feedbooks.com/author/1262</uri>
+</author>
+<updated>2009-11-16T15:06:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>At Mountain Camp Betty found herself in the midst of a mystery involving a girl whom she had previously met in Washington.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/14546</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4405.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4405.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4405.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4405.png?t=20091116150621" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4405.png?size=smaller&amp;t=20091116150621" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4405.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Rustler of Wind River</title>
+<id>http://www.feedbooks.com/book/4412</id>
+<author>
+  <name>George W. Ogden</name>
+  <uri>http://www.feedbooks.com/author/1265</uri>
+</author>
+<updated>2009-11-17T17:06:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>An exciting tale of the attempts of the unscrupulous cattlemen to drive the homesteader from their holdings and leave the land free for grazing. Alan Macdonald leads the homesteaders in their defense and, after many misunderstandings and unjust accusations clears his love story as well.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30485</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4412.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4412.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4412.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4412.png?t=20091117170645" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4412.png?size=smaller&amp;t=20091117170645" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4412.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dead Man's Planet</title>
+<id>http://www.feedbooks.com/book/4524</id>
+<author>
+  <name>Joseph Samachson</name>
+  <uri>http://www.feedbooks.com/author/1311</uri>
+</author>
+<updated>2009-12-28T18:41:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>When a driven man arrives at a cemetery world, what else can it be but journey's end&#8212;and the start of a new one?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30773</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4524.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4524.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4524.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4524.png?t=20091228184122" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4524.png?size=smaller&amp;t=20091228184122" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4524.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Madame de Treymes</title>
+<id>http://www.feedbooks.com/book/442</id>
+<author>
+  <name>Edith Wharton</name>
+  <uri>http://www.feedbooks.com/author/35</uri>
+</author>
+<updated>2009-09-16T10:21:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/442.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/442.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/442.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/442.png?t=20090916102139" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/442.png?size=smaller&amp;t=20090916102139" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/442.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Atlantida</title>
+<id>http://www.feedbooks.com/book/833</id>
+<author>
+  <name>Pierre Benoit</name>
+  <uri>http://www.feedbooks.com/author/153</uri>
+</author>
+<updated>2009-09-16T10:30:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The classic novel of finding the Lost Atlantis.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/833.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/833.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/833.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/833.png?t=20090916103056" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/833.png?size=smaller&amp;t=20090916103056" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/833.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Brethren</title>
+<id>http://www.feedbooks.com/book/968</id>
+<author>
+  <name>Henry Rider Haggard</name>
+  <uri>http://www.feedbooks.com/author/32</uri>
+</author>
+<updated>2009-09-16T10:32:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1904</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/968.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/968.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/968.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/968.png?t=20090916103252" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/968.png?size=smaller&amp;t=20090916103252" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/968.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

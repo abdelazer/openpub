@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:app="http://www.w3.org/2007/app" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=16&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=16&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=16&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 16 | Feedbooks</title>
+  <updated>2010-04-07T18:23:16Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>301</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=15&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=17&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Nightwing #26</title>
+<id>http://www.feedbooks.com/userbook/5869</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2010-03-10T12:35:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Nightwing: Boy Hostage.
+
+Nightwing is in deep when a confrontation with an old foe goes awry, and he ends up more than six feet under inside a metal casket in New York harbor!
+
+</summary>
+<category term="Batman"/>
+<category term="Starfire"/>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Lock Up"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5869.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5869.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5869.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5869.png?t=20100310123530" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5869.png?size=smaller&amp;t=20100310123530" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5869.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Celtic Song Lyrics</title>
+<id>http://www.feedbooks.com/userbook/1973</id>
+<author>
+  <name>Various</name>
+  <uri>http://www.feedbooks.com/user/18605/profile#Various</uri>
+</author>
+<updated>2009-08-18T01:19:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Collection of lyrics to traditional (and some more recent) celtic songs.</summary>
+<category term="irish"/>
+<category term="celtic"/>
+<category term="Song"/>
+<category term="Lyrics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/1973.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/1973.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/1973.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1973.png?t=20090818011943" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1973.png?size=smaller&amp;t=20090818011943" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/1973.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>ABRAHAM: El padre de tres religiones</title>
+<id>http://www.feedbooks.com/userbook/9087</id>
+<author>
+  <name>Paulo Roberto Candido dos Santos</name>
+  <uri>http://www.feedbooks.com/user/62908/profile#Paulo%20Roberto%20Candido%20dos%20Santos</uri>
+</author>
+<updated>2009-12-27T14:21:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>En este libro el autor intenta mostrar la dif&#237;cil situaci&#243;n del patriarca Abraham, desde cuando sali&#243; de Caldea, Mesopotamia, para ir a Cana&#225;n, obedeciendo a los mandatos divinos y c&#243;mo se crearon las condiciones para un mayor desarrollo de las tres grandes religiones monote&#237;stas, el juda&#237;smo, el cristianismo y el islam, adem&#225;s de Escritura, el autor consigui&#243; su informaci&#243;n en el &quot;Libro de los Jubileos&quot;, un ap&#243;crifo tambi&#233;n llamado &quot;Peque&#241;o G&#233;nesis&quot; y el Cor&#225;n.</summary>
+<category term="Monoteismo;"/>
+<category term="Mesopotamia;"/>
+<category term="Isaac;"/>
+<category term="Ishmael;"/>
+<category term="Abraham;"/>
+<category term="Librol de los Jubileos"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9087.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9087.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9087.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9087.png?t=20091227142130" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9087.png?size=smaller&amp;t=20091227142130" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9087.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Biblical Finances</title>
+<id>http://www.feedbooks.com/userbook/3260</id>
+<author>
+  <name>Bethany K. Scanlon</name>
+  <uri>http://www.feedbooks.com/user/16830/profile#Bethany%20K.%20Scanlon</uri>
+</author>
+<updated>2009-11-07T22:22:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Going through a financial battle? I know your pain! I did everything I was taught to do, I sowed, tithed, etc. Yet, no matter how faithful I was, I kept failing financially!
+
+This is a shorter version of  the bible study Where's my Money? This teaching is sure to be an eye opening experience! 
+
+All of Bethany's books are available on Amazon, Kindle, and bethanykscanlon.com </summary>
+<category term="religion"/>
+<category term="money"/>
+<category term="finance"/>
+<category term="business"/>
+<category term="meaning"/>
+<category term="Spirituality"/>
+<category term="Christian"/>
+<category term="Christianity"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3260.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3260.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3260.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3260.png?t=20091107222250" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3260.png?size=smaller&amp;t=20091107222250" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3260.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #17</title>
+<id>http://www.feedbooks.com/userbook/5367</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-08-17T16:33:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: The Linear Man Is Our Only Hope.</summary>
+<category term="Superman"/>
+<category term="Lightray"/>
+<category term="Caesar"/>
+<category term="Doomsday"/>
+<category term="Steel"/>
+<category term="Guardian"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Kru-El"/>
+<category term="Lois Lane"/>
+<category term="Lex Luthor"/>
+<category term="Rip Hunter"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5367.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5367.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5367.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5367.png?t=20090817163313" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5367.png?size=smaller&amp;t=20090817163313" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5367.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #43</title>
+<id>http://www.feedbooks.com/userbook/8714</id>
+<author>
+  <name>Pat Owen</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Pat%20Owen</uri>
+</author>
+<updated>2009-12-05T20:36:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Action Comics: Ring of Fire, Part 2 (of 4)
+
+Superman and Det. Maggie Sawyer try to track down Pete Ross but the situation has become even worse now that Pete's wife and Clark's childhood love, Lana Lang, has also been kidnapped! Meanwhile, Lex Luthor confronts Morgan Edge who has quite a startling secret! </summary>
+<category term="Lois Lane"/>
+<category term="Lana Lang"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Freaks"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8714.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8714.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8714.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8714.png?t=20091205203659" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8714.png?size=smaller&amp;t=20091205203659" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8714.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Bikes of New York</title>
+<id>http://www.feedbooks.com/userbook/10277</id>
+<author>
+  <name>Cheeseburger Brown</name>
+  <uri>http://www.feedbooks.com/user/74538/profile#Cheeseburger%20Brown</uri>
+</author>
+<updated>2010-02-15T15:06:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>This is the story of Luc Drapeau, immigrant and father, living in the midst of a global energy crisis. He feels the throb of civilization through the soles of his shoes, and it isn't his imagination: in Manhattan every sidewalk bounces to harness every footfall for the public energy pool, every recoil channeled to the island&#8217;s banks of giant flywheels turning underground to keep the lights lit. The poor ride generator bicycles to power the cities, working for coins with their sweat. They dare not let the pace slacken. To lose momentum is to let joules fall down the well, and to go home hungry. It&#8217;s a hard life. But Luc Drapeau is about to change the bikes forever.</summary>
+<category term="fiction"/>
+<category term="dystopian"/>
+<category term="near-future"/>
+<category term="SciFi"/>
+<category term="energy crisis"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10277.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10277.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10277.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10277.png?t=20100215150641" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10277.png?size=smaller&amp;t=20100215150641" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10277.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>All-Star Comics #1</title>
+<id>http://www.feedbooks.com/userbook/6214</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T19:12:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>All-Star Comics: Captain Marvel, Part 1 (of 2)</summary>
+<category term="Captain Marvel"/>
+<category term="Captain Nazi"/>
+<category term="Arson Fiend"/>
+<category term="Mister Mind"/>
+<category term="King Kull"/>
+<category term="Mister Atom"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Shazam"/>
+<category term="Ibac"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6214.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6214.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6214.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6214.png?t=20090817191225" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6214.png?size=smaller&amp;t=20090817191225" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6214.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lively Custard</title>
+<id>http://www.feedbooks.com/userbook/3299</id>
+<author>
+  <name>Michael Graeme</name>
+  <uri>http://www.feedbooks.com/user/21538/profile#Michael%20Graeme</uri>
+</author>
+<updated>2009-08-17T21:39:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2004</dcterms:issued>
+<summary>Short Story - a 25 minute read: Rogue trees are popping up all over the little town of Frinton-cum-Hardy  and the residents have begun speaking in metaphors so mixed and mangled, poor Armitage, connoisseur of all things bookish, finds he no longer understands his mother tongue. And if all that isn't enough his young protege, Jenny, from the Books Galore Emporeum is having &quot;uncle trouble&quot;!</summary>
+<category term="romantic"/>
+<category term="humorous"/>
+<category term="Satire"/>
+<category term="speculative"/>
+<category term="fantasy"/>
+<category term="fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3299.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3299.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3299.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3299.png?t=20090817213928" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3299.png?size=smaller&amp;t=20090817213928" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3299.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>House of Mystery #1</title>
+<id>http://www.feedbooks.com/userbook/4008</id>
+<author>
+  <name>various</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#various</uri>
+</author>
+<updated>2009-08-17T22:22:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Happy Halloween! DC2 Universe presents a collection of ten tales featuring your favorite horror and supernatural characters such as Doctor Occult, The Phantom Stranger and many more!</summary>
+<category term="Halloween"/>
+<category term="vampire"/>
+<category term="frankenstein"/>
+<category term="horror"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Doctor Occult"/>
+<category term="Night Force"/>
+<category term="Scare Tactics"/>
+<category term="Sebastian Faust"/>
+<category term="Constantine"/>
+<category term="Manitou Raven"/>
+<category term="Phantom Stranger"/>
+<category term="Doctor 13"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4008.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4008.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4008.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4008.png?t=20090817222249" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4008.png?size=smaller&amp;t=20090817222249" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4008.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>World's Finest #1: Superman</title>
+<id>http://www.feedbooks.com/userbook/3999</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T22:47:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Join us on Earth-X for the  re-imagined Superman and his new adventures.</summary>
+<category term="Superman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3999.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3999.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3999.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3999.png?t=20090817224715" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3999.png?size=smaller&amp;t=20090817224715" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3999.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Cyclopedia of Philosophy</title>
+<id>http://www.feedbooks.com/userbook/9413</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T13:55:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Cyclopedia of issues in modern philosophy: The philosophy of science and religion, the cognitive sciences, cultural studies, aesthetics, art and literature, the philosophy of economics, the philosophy of psychology, and ethics.</summary>
+<category term="cognitive"/>
+<category term="psychology"/>
+<category term="physics"/>
+<category term="science"/>
+<category term="culture"/>
+<category term="power"/>
+<category term="technology"/>
+<category term="virtual"/>
+<category term="ontology"/>
+<category term="Quantum"/>
+<category term="mechanics"/>
+<category term="Epistemology"/>
+<category term="ai"/>
+<category term="artificial"/>
+<category term="intelligence"/>
+<category term="narcissism"/>
+<category term="dream"/>
+<category term="Consciousness"/>
+<category term="machine"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9413.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9413.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9413.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9413.png?t=20100106135549" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9413.png?size=smaller&amp;t=20100106135549" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9413.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Question Quarterly #2</title>
+<id>http://www.feedbooks.com/userbook/10661</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2010-02-28T22:10:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>The Question Quarterly: The Death of Vic Sage, Part 2.</summary>
+<category term="The Question"/>
+<category term="Steel Hand"/>
+<category term="Travis Clevenger"/>
+<category term="Bill Nodell"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Question"/>
+<category term="KGBeast"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10661.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10661.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10661.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10661.png?t=20100228221027" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10661.png?size=smaller&amp;t=20100228221027" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10661.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #9</title>
+<id>http://www.feedbooks.com/userbook/8099</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-10-31T16:32:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Detective Comics: Escapism</summary>
+<category term="Mister Miracle"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Devilance"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8099.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8099.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8099.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8099.png?t=20091031163223" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8099.png?size=smaller&amp;t=20091031163223" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8099.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #41</title>
+<id>http://www.feedbooks.com/userbook/8207</id>
+<author>
+  <name>Pat Owen</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Pat%20Owen</uri>
+</author>
+<updated>2009-11-06T16:54:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Action Comics: Times Are Changing
+
+With the arrival of Superboy, Superman's had his hands full. But things become even more complicated when a new reporter shows up at the Daily Planet, Lex continues one of his old plans, and did we mention Parasite attacks?
+
+A new era for both the Man and the Teen of Steel begins!</summary>
+<category term="Lois Lane"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Superboy"/>
+<category term="Parasite"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8207.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8207.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8207.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8207.png?t=20091106165426" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8207.png?size=smaller&amp;t=20091106165426" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8207.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #10</title>
+<id>http://www.feedbooks.com/userbook/4949</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T16:36:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Action Comics: Return to Smallville, Part 2 (of 4)</summary>
+<category term="Smallville"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Lana Lang"/>
+<category term="Lois Lane"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4949.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4949.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4949.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4949.png?t=20090817163644" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4949.png?size=smaller&amp;t=20090817163644" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4949.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Gotham: City of the Dead #1</title>
+<id>http://www.feedbooks.com/userbook/9469</id>
+<author>
+  <name>Chris Paugh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Chris%20Paugh</uri>
+</author>
+<updated>2010-01-08T20:02:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Gotham: City of the Dead, Part 1 (of 4).</summary>
+<category term="Blue Beetle"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Scarecrow"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9469.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9469.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9469.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9469.png?t=20100108200233" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9469.png?size=smaller&amp;t=20100108200233" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9469.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Gotham: City of the Dead #4</title>
+<id>http://www.feedbooks.com/userbook/9874</id>
+<author>
+  <name>Chris Paugh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Chris%20Paugh</uri>
+</author>
+<updated>2010-01-23T02:12:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Gotham: City of the Dead, Part 4 (of 4).</summary>
+<category term="The Question"/>
+<category term="Blue Beetle"/>
+<category term="Green Arrow"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="batgirl"/>
+<category term="Nightwing"/>
+<category term="Question"/>
+<category term="Scarecrow"/>
+<category term="Superman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9874.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9874.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9874.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9874.png?t=20100123021253" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9874.png?size=smaller&amp;t=20100123021253" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9874.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Brothers Of Abraham</title>
+<id>http://www.feedbooks.com/userbook/9961</id>
+<author>
+  <name>Pete Clark</name>
+  <uri>http://www.feedbooks.com/user/70774/profile#Pete%20Clark</uri>
+</author>
+<updated>2010-01-30T16:50:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A story of competition, love and death within a brotherhood.  When does sacrifice become necessity for the survival of a species?  There can be only one...</summary>
+<category term="silver"/>
+<category term="wolf"/>
+<category term="horror"/>
+<category term="werewolf"/>
+<category term="moon"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9961.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9961.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9961.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9961.png?t=20100130165007" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9961.png?size=smaller&amp;t=20100130165007" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9961.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Star Maker's Apprentice:  A Novel Exploration into Higher Dimensions &amp; the Nature of the Gods</title>
+<id>http://www.feedbooks.com/userbook/2988</id>
+<author>
+  <name>Francis Louis Szot</name>
+  <uri>http://www.feedbooks.com/user/23161/profile#Francis%20Louis%20Szot</uri>
+</author>
+<updated>2010-02-02T14:36:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Staking his life and his sanity upon a relentless compulsion that only a half-mad man would entertain as possible, a social interloper sets for himself the task of searching for the abode of Divinity, and unexpectedly succeeds. Imagine a combination of W. Olaf Stapledon&#8217;s &quot;Star Maker&quot;, Hunter Thompson&#8217;s &quot;Fear and Loathing in Las Vegas&quot;, a Terence McKenna lecture, a Noam Chomsky political pamphlet, throw in a touch of Dante's &quot;Divine Comedy&quot;, and you might have a good idea about the ambiance and message of the unique &quot;Star Maker&#8217;s Apprentice&quot;. 
+</summary>
+<category term="politics"/>
+<category term="science"/>
+<category term="religion"/>
+<category term="Autobiography"/>
+<category term="drugs"/>
+<category term="mythology"/>
+<category term="Creation"/>
+<category term="psychology"/>
+<category term="Divinity"/>
+<category term="heaven"/>
+<category term="Goddess"/>
+<category term="God"/>
+<category term="Consciousness"/>
+<category term="psychedelic"/>
+<category term="Spirituality"/>
+<category term="Shaman"/>
+<category term="Psychonaut"/>
+<category term="philosophy"/>
+<category term="Higher dimensions"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/2988.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/2988.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/2988.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2988.png?t=20100202143648" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2988.png?size=smaller&amp;t=20100202143648" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/2988.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

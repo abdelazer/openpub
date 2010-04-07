@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=20</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=20" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=20" rel="self"/>
+  <title>Original Books / New Releases / Page 20 | Feedbooks</title>
+  <updated>2010-04-07T18:24:03Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>381</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=19" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=21" rel="next" title="Next Page"/>
+<entry>
+<title>Batman #12</title>
+<id>http://www.feedbooks.com/userbook/8849</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-12-12T01:33:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Batman: From the Pit, Finale.
+
+</summary>
+<category term="Victor Zsasz"/>
+<category term="The Question"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Question"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8849.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8849.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8849.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8849.png?t=20091212013324" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8849.png?size=smaller&amp;t=20091212013324" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8849.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Power To Visualize</title>
+<id>http://www.feedbooks.com/userbook/8846</id>
+<author>
+  <name>Visualize</name>
+  <uri>http://www.feedbooks.com/user/62246/profile#Visualize</uri>
+</author>
+<updated>2009-12-11T15:41:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>We all possess more power and greater possibilities than we realize, and visualizing is one of the greatest of these powers.
+This book provides you with the information you need about visualizing and incorporating it into your life.  Magic in it's truest form, visualizing will transform your life and center your thoughts.</summary>
+<category term="Law"/>
+<category term="of"/>
+<category term="attraction"/>
+<category term="visualization"/>
+<category term="visualize"/>
+<category term="the"/>
+<category term="secret"/>
+<category term="John"/>
+<category term="assaraf"/>
+<category term="Law"/>
+<category term="of"/>
+<category term="abundance"/>
+<category term="wealth"/>
+<category term="abundance"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8846.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8846.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8846.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8846.png?t=20091211154114" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8846.png?size=smaller&amp;t=20091211154114" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8846.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ripple</title>
+<id>http://www.feedbooks.com/userbook/8845</id>
+<author>
+  <name>Jenue brosinski</name>
+  <uri>http://www.feedbooks.com/user/33355/profile#Jenue%20brosinski</uri>
+</author>
+<updated>2009-12-11T12:14:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Kaler&#8217;s life is unraveling before his eyes.  He accidentally discovers the source of his misery and his solution is blunt, harsh, and final.</summary>
+<category term="short story"/>
+<category term="science fiction"/>
+<category term="fiction"/>
+<category term="literature"/>
+<category term="fantasy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8845.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8845.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8845.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8845.png?t=20091211121431" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8845.png?size=smaller&amp;t=20091211121431" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8845.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Julius Kingsley</title>
+<id>http://www.feedbooks.com/userbook/8844</id>
+<author>
+  <name>Jenue brosinski</name>
+  <uri>http://www.feedbooks.com/user/33355/profile#Jenue%20brosinski</uri>
+</author>
+<updated>2009-12-11T12:11:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Julius Kingsley was hoping that his last days of high school would be a breeze.  Instead, he was confronted by a smart bully, threatened by a crooked teacher and made hostage by a vengeful student.  Through all the chaos, he discovers the shocking truth about himself and others like him.</summary>
+<category term="short story"/>
+<category term="science fiction"/>
+<category term="fiction"/>
+<category term="literature"/>
+<category term="fantasy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8844.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8844.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8844.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8844.png?t=20091211121107" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8844.png?size=smaller&amp;t=20091211121107" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8844.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Lucky Card</title>
+<id>http://www.feedbooks.com/userbook/8843</id>
+<author>
+  <name>Jenue brosinski</name>
+  <uri>http://www.feedbooks.com/user/33355/profile#Jenue%20brosinski</uri>
+</author>
+<updated>2009-12-11T12:07:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Jake received a card for his birthday, by an anonymous giver, which said that it would bring him good luck.   Although he was skeptical of its magical powers he couldn&#8217;t resist testing it.  He soon finds that having good luck had a bitter price.</summary>
+<category term="short story"/>
+<category term="science fiction"/>
+<category term="fiction"/>
+<category term="literature"/>
+<category term="fantasy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8843.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8843.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8843.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8843.png?t=20091211120739" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8843.png?size=smaller&amp;t=20091211120739" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8843.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Steet</title>
+<id>http://www.feedbooks.com/userbook/8842</id>
+<author>
+  <name>Jenue brosinski</name>
+  <uri>http://www.feedbooks.com/user/33355/profile#Jenue%20brosinski</uri>
+</author>
+<updated>2009-12-11T12:04:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>This a short story about growing up in a really bad neighborhood. It has a pretty dramatic ending.</summary>
+<category term="short story"/>
+<category term="science fiction"/>
+<category term="fiction"/>
+<category term="literature"/>
+<category term="fantasy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8842.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8842.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8842.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8842.png?t=20091211120435" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8842.png?size=smaller&amp;t=20091211120435" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8842.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Quantum Nothing</title>
+<id>http://www.feedbooks.com/userbook/8841</id>
+<author>
+  <name>Jenue brosinski</name>
+  <uri>http://www.feedbooks.com/user/33355/profile#Jenue%20brosinski</uri>
+</author>
+<updated>2009-12-11T12:01:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A ghost reflects on his life.</summary>
+<category term="fantasy"/>
+<category term="literature"/>
+<category term="fiction"/>
+<category term="science fiction"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8841.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8841.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8841.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8841.png?t=20091211120131" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8841.png?size=smaller&amp;t=20091211120131" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8841.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Surrogate</title>
+<id>http://www.feedbooks.com/userbook/8840</id>
+<author>
+  <name>Jenue brosinski</name>
+  <uri>http://www.feedbooks.com/user/33355/profile#Jenue%20brosinski</uri>
+</author>
+<updated>2009-12-11T11:54:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>An anti-social geneticist, driven by her biological clock, explores her baby making options.</summary>
+<category term="fantasy"/>
+<category term="literature"/>
+<category term="fiction"/>
+<category term="science fiction"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8840.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8840.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8840.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8840.png?t=20091211115449" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8840.png?size=smaller&amp;t=20091211115449" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8840.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Bank Job</title>
+<id>http://www.feedbooks.com/userbook/8837</id>
+<author>
+  <name>Vanity Fair</name>
+  <uri>http://www.feedbooks.com/user/32675/profile#Vanity%20Fair</uri>
+</author>
+<updated>2009-12-11T07:55:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>One of the biggest disconnects on Wall Street today is between the way Goldman Sachs sees itself (they&#8217;re the smartest) and the way everyone else sees Goldman (they&#8217;re the smartest, greediest, and most dangerous). Questioning C.E.O. Lloyd Blankfein, C.O.O. Gary Cohn, and C.F.O. David Viniar, among others, the author explores how their firm navigated the collapse of September 2008, why it has already set aside $16.7 billion for compensation this year, and which lines it&#8217;s accused of crossing.</summary>
+<category term="Goldman Sachs"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8837.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8837.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8837.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8837.png?t=20091211075509" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8837.png?size=smaller&amp;t=20091211075509" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8837.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ribeyre Ghosts</title>
+<id>http://www.feedbooks.com/userbook/8806</id>
+<author>
+  <name>Jeff Barnes</name>
+  <uri>http://www.feedbooks.com/user/61493/profile#Jeff%20Barnes</uri>
+</author>
+<updated>2009-12-17T11:17:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>In 1925, the small little town of Griffin, Indiana found itself on the collision path of the world&#8217;s worst tornado in history. The Ribeyre gymnasium in nearby New Harmony was called into duty to serve as a makeshift morgue and hospital amidst this tragedy. Now the gymnasium is the crime scene of a strange and unexplained death. The police have no answers and now the influential of the town turn to a small paranormal investigation team for answers. History shows that the once quiet town of New Harmony is being plagued by a ruthless spirit bent on revenge.</summary>
+<category term="disaster"/>
+<category term="haunting"/>
+<category term="mystery"/>
+<category term="spirits"/>
+<category term="Indiana"/>
+<category term="paranormal"/>
+<category term="ghosts"/>
+<category term="fiction"/>
+<category term="paranormal research"/>
+<category term="ghost hunting"/>
+<category term="new harmony"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8806.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8806.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8806.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8806.png?t=20091217111702" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8806.png?size=smaller&amp;t=20091217111702" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8806.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Deriva</title>
+<id>http://www.feedbooks.com/userbook/8799</id>
+<author>
+  <name>M&#225;ximo S&#225;ez</name>
+  <uri>http://www.feedbooks.com/user/785/profile#M%C3%A1ximo%20S%C3%A1ez</uri>
+</author>
+<updated>2009-12-09T06:53:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A short story about a couple who meet each other while playing an online videogame.</summary>
+<category term="short story"/>
+<category term="love story"/>
+<category term="online gaming"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8799.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8799.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8799.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8799.png?t=20091209065341" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8799.png?size=smaller&amp;t=20091209065341" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8799.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Getting Started With Student Ministry</title>
+<id>http://www.feedbooks.com/userbook/8792</id>
+<author>
+  <name>Innovative Student Ministry</name>
+  <uri>http://www.feedbooks.com/user/61940/profile#Innovative%20Student%20Ministry</uri>
+</author>
+<updated>2009-12-08T21:57:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Getting Started with Youth Ministry can be overwhelming. How to stay a float and be a success without sinking and failing in the eyes of the Youth and your own!!</summary>
+<category term="lessons"/>
+<category term="help"/>
+<category term="Youth"/>
+<category term="Student Ministry"/>
+<category term="Youth Ministry"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8792.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8792.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8792.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8792.png?t=20091208215750" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8792.png?size=smaller&amp;t=20091208215750" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8792.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jimmy</title>
+<id>http://www.feedbooks.com/userbook/8785</id>
+<author>
+  <name>Bryan L. Lee</name>
+  <uri>http://www.feedbooks.com/user/56437/profile#Bryan%20L.%20Lee</uri>
+</author>
+<updated>2009-12-09T00:57:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Jimmy likes to try new things, but they don't always turn out the way he planned.  Brief (800 words) &amp; fun.</summary>
+<category term="fiction"/>
+<category term="classroom"/>
+<category term="teacher"/>
+<category term="children"/>
+<category term="Magic"/>
+<category term="supernatural"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8785.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8785.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8785.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8785.png?t=20091209005752" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8785.png?size=smaller&amp;t=20091209005752" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8785.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dawn of the Agents</title>
+<id>http://www.feedbooks.com/userbook/8786</id>
+<author>
+  <name>Annica</name>
+  <uri>http://www.feedbooks.com/user/61913/profile#Annica</uri>
+</author>
+<updated>2009-12-08T15:50:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A story of adventure</summary>
+<category term="childrens"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8786.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8786.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8786.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8786.png?t=20091208155054" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8786.png?size=smaller&amp;t=20091208155054" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8786.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Carnival</title>
+<id>http://www.feedbooks.com/userbook/8778</id>
+<author>
+  <name>Jeremy W. Kerr</name>
+  <uri>http://www.feedbooks.com/user/61753/profile#Jeremy%20W.%20Kerr</uri>
+</author>
+<updated>2010-01-06T06:19:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>A prequel to &quot;Into the Black.&quot;  Tells the story of how a teenage Isambard Tims befriended the cyclops, Outis.</summary>
+<category term="third person"/>
+<category term="sci fi"/>
+<category term="short story"/>
+<category term="fantasy"/>
+<category term="carnival"/>
+<category term="SciFi"/>
+<category term="fiction"/>
+<category term="religion"/>
+<category term="death"/>
+<category term="slavery"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8778.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8778.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8778.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8778.png?t=20100106061938" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8778.png?size=smaller&amp;t=20100106061938" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8778.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Night Before The Christmas Before I Was Married &amp; other festive tales</title>
+<id>http://www.feedbooks.com/userbook/8489</id>
+<author>
+  <name>Adam Maxwell</name>
+  <uri>http://www.feedbooks.com/user/59820/profile#Adam%20Maxwell</uri>
+</author>
+<updated>2010-02-19T12:53:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Charles Dickens has dominated the Christmas short story market for too long and he's so bloody depressing... wouldn't you rather read something that was funny, had comedy misunderstandings, people accidentally getting engaged and generally was a lot more entertaining and less depressing? Then you're in luck...
+
+Let's be honest, Christmas can be a pain in the arse (or a pain in the 'ass' if you're from the other side of the pond) and this collection features some stories that I think we can all relate to...
+
+Whether it's becoming accidentally engaged to your ex when your fiancee is coming home for Christmas... 
+
+Or perhaps you're spending Christmas with the in-laws, your wife is stupifyingly drunk and you destroy the presents...
+
+No?
+
+In that case you'll want to see what happens when two master hypnotists clash over an argument concerning a Christmas tree...
+
+All these things and literally two others are dealt with in this collection of Adam Maxwell's Christmas stories.
+
+He has asked me to tell you that he hopes these things don't happen to you this Christmas. And he also hopes they don't happen to him.</summary>
+<category term="strange"/>
+<category term="absurd"/>
+<category term="surreal"/>
+<category term="comedy"/>
+<category term="weird"/>
+<category term="dark"/>
+<category term="stories"/>
+<category term="comic"/>
+<category term="fiction"/>
+<category term="funny"/>
+<category term="xmas"/>
+<category term="Christmas"/>
+<category term="flash fiction"/>
+<category term="short stories"/>
+<category term="christmas short stories"/>
+<category term="christmas stories"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8489.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8489.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8489.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8489.png?t=20100219125318" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8489.png?size=smaller&amp;t=20100219125318" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8489.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>TRAVELLER WEDDING</title>
+<id>http://www.feedbooks.com/userbook/8717</id>
+<author>
+  <name>Graham Jones</name>
+  <uri>http://www.feedbooks.com/user/61185/profile#Graham%20Jones</uri>
+</author>
+<updated>2009-12-08T11:35:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>TRAVELLER WEDDING is the debut novel from award-winning Irish film director Graham Jones.
+
+The story is narrated by a nomadic woman called Christine who is furious at the release of a violent videogame about a traveller wedding for the Christmas market.
+
+&quot;Have a fight with your cousin and get 500 points,&quot; says Jones of the fictitious game. &quot;Smash a window in the pub, get 1000 points. It's the old clich&#233; about travellers in the form of a violent videogame but it's good because it provokes Christine into telling the story of her people more authentically...&quot;
+
+In the past, Jones was criticised for falsely translating Japanese interviewees in FUDGE 44 and encouraging Irish school students to steal exam papers in HOW TO CHEAT IN THE LEAVING CERTIFICATE.</summary>
+<category term="female"/>
+<category term="woman"/>
+<category term="Nomad"/>
+<category term="ireland"/>
+<category term="irish"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8717.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8717.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8717.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8717.png?t=20091208113520" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8717.png?size=smaller&amp;t=20091208113520" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8717.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Into the Black</title>
+<id>http://www.feedbooks.com/userbook/8752</id>
+<author>
+  <name>Jeremy W. Kerr</name>
+  <uri>http://www.feedbooks.com/user/61753/profile#Jeremy%20W.%20Kerr</uri>
+</author>
+<updated>2009-12-10T07:34:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Isambard Tims captains &quot;The Matador,&quot; a spaceship with an interesting crew: a cyclops, a humanoid lizard, and the clone of a Chinese female pirate.  However, a stowaway is about to take the ship and its crew hostage.  Besides wanting to kill them, this stranger has a dangerous secret.  One that will change Isambard's life forever...if he escapes, that is.</summary>
+<category term="fiction"/>
+<category term="science"/>
+<category term="ship"/>
+<category term="travel"/>
+<category term="space"/>
+<category term="first person"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8752.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8752.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8752.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8752.png?t=20091210073401" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8752.png?size=smaller&amp;t=20091210073401" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8752.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Fake</title>
+<id>http://www.feedbooks.com/userbook/8750</id>
+<author>
+  <name>Moxie Mezcal</name>
+  <uri>http://www.feedbooks.com/user/51003/profile#Moxie%20Mezcal</uri>
+</author>
+<updated>2009-12-06T22:39:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A desperate journalist tries to make his girlfriend understand why he is guilty of orchestrating an elaborate hoax... and how, when he met a mysterious musician with an amazing gift, it seemed that his lies might be coming true.</summary>
+<category term="wild child"/>
+<category term="feral children"/>
+<category term="magical realism"/>
+<category term="music"/>
+<category term="journalism"/>
+<category term="Newspaper"/>
+<category term="reporter"/>
+<category term="hoax"/>
+<category term="lies"/>
+<category term="kidnapping"/>
+<category term="confession"/>
+<category term="surreal"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8750.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8750.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8750.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8750.png?t=20091206223902" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8750.png?size=smaller&amp;t=20091206223902" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8750.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Home Movie</title>
+<id>http://www.feedbooks.com/userbook/8749</id>
+<author>
+  <name>Moxie Mezcal</name>
+  <uri>http://www.feedbooks.com/user/51003/profile#Moxie%20Mezcal</uri>
+</author>
+<updated>2009-12-06T22:29:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>When a customer returns his own home movie inside a rented DVD case, an obsessive porn store clerk soon finds herself plunged into an old-fashioned whodunnit.</summary>
+<category term="murder"/>
+<category term="mystery"/>
+<category term="detective"/>
+<category term="whodunnit"/>
+<category term="whodunit"/>
+<category term="movie"/>
+<category term="video"/>
+<category term="dvd"/>
+<category term="camera"/>
+<category term="porn"/>
+<category term="porno"/>
+<category term="Sex"/>
+<category term="obsession"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8749.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8749.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8749.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8749.png?t=20091206222957" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8749.png?size=smaller&amp;t=20091206222957" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8749.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

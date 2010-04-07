@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=123&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=123&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=123&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 123 | Feedbooks</title>
+  <updated>2010-04-07T18:25:49Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2441</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=122&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=124&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Pupil</title>
+<id>http://www.feedbooks.com/book/487</id>
+<author>
+  <name>Henry James</name>
+  <uri>http://www.feedbooks.com/author/113</uri>
+</author>
+<updated>2009-09-16T10:23:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/487.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/487.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/487.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/487.png?t=20090916102324" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/487.png?size=smaller&amp;t=20090916102324" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/487.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Luck</title>
+<id>http://www.feedbooks.com/book/653</id>
+<author>
+  <name>James Patrick Kelly</name>
+  <uri>http://www.feedbooks.com/author/139</uri>
+</author>
+<updated>2009-09-16T10:27:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2002</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.jimkelly.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/653.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/653.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/653.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/653.png?t=20090916102750" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/653.png?size=smaller&amp;t=20090916102750" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/653.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Short Trip Home</title>
+<id>http://www.feedbooks.com/book/1110</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-09-16T10:42:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1927</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1110.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1110.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1110.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1110.png?t=20090916104219" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1110.png?size=smaller&amp;t=20090916104219" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1110.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Shining Pyramid</title>
+<id>http://www.feedbooks.com/book/1177</id>
+<author>
+  <name>Arthur Machen</name>
+  <uri>http://www.feedbooks.com/author/130</uri>
+</author>
+<updated>2009-09-16T10:43:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1895</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1177.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1177.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1177.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1177.png?t=20090916104320" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1177.png?size=smaller&amp;t=20090916104320" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1177.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rain in the Doorway</title>
+<id>http://www.feedbooks.com/book/1532</id>
+<author>
+  <name>Thorne Smith</name>
+  <uri>http://www.feedbooks.com/author/230</uri>
+</author>
+<updated>2009-09-16T11:03:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1933</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1532.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1532.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1532.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1532.png?t=20090916110311" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1532.png?size=smaller&amp;t=20090916110311" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1532.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Thorns</title>
+<id>http://www.feedbooks.com/book/1953</id>
+<author>
+  <name>Martha Wells</name>
+  <uri>http://www.feedbooks.com/author/266</uri>
+</author>
+<updated>2009-09-16T11:25:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1995</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.marthawells.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1953.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1953.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1953.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1953.png?t=20090916112540" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1953.png?size=smaller&amp;t=20090916112540" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1953.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Prime Minister</title>
+<id>http://www.feedbooks.com/book/2085</id>
+<author>
+  <name>Anthony Trollope</name>
+  <uri>http://www.feedbooks.com/author/281</uri>
+</author>
+<updated>2009-09-16T11:41:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1876</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2085.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2085.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2085.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2085.png?t=20090916114145" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2085.png?size=smaller&amp;t=20090916114145" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2085.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Turmoil</title>
+<id>http://www.feedbooks.com/book/2092</id>
+<author>
+  <name>Newton Booth Tarkington</name>
+  <uri>http://www.feedbooks.com/author/295</uri>
+</author>
+<updated>2009-09-16T11:43:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2092.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2092.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2092.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2092.png?t=20090916114316" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2092.png?size=smaller&amp;t=20090916114316" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2092.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Through the Air to the North Pole</title>
+<id>http://www.feedbooks.com/book/2463</id>
+<author>
+  <name>Roy Rockwood</name>
+  <uri>http://www.feedbooks.com/author/395</uri>
+</author>
+<updated>2009-09-16T11:51:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1906</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Orphans Mark and Jack are fostered by Professor Henderson, with help from the professor's assistant Washington White and his friend Andy Sudds, the big game hunter. In their first adventures the Professor builds a unique boat/dirigible called the Monarch, which they use to visit the North Pole.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2463.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2463.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2463.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2463.png?t=20090916115104" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2463.png?size=smaller&amp;t=20090916115104" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2463.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In Case of Fire</title>
+<id>http://www.feedbooks.com/book/2278</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-09-16T11:57:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There are times when a broken tool is better than a sound one, or a twisted personality more useful than a whole one. For instance, a whole beer bottle isn't half the weapon that half a beer bottle is ...</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2278.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2278.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2278.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2278.png?t=20090916115731" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2278.png?size=smaller&amp;t=20090916115731" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2278.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Trouble on Titan</title>
+<id>http://www.feedbooks.com/book/2483</id>
+<author>
+  <name>Arthur K. Barnes</name>
+  <uri>http://www.feedbooks.com/author/405</uri>
+</author>
+<updated>2009-09-16T11:59:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1941</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>When the Queen of the Spaceways meets the King of the Interplanetary Wilds, there's a checkmate in the stalking of Saturn's most dangerous game!</summary>
+<dcterms:source>http://manybooks.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2483.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2483.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2483.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2483.png?t=20090916115923" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2483.png?size=smaller&amp;t=20090916115923" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2483.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Cosmic Express</title>
+<id>http://www.feedbooks.com/book/2678</id>
+<author>
+  <name>Jack Williamson</name>
+  <uri>http://www.feedbooks.com/author/495</uri>
+</author>
+<updated>2009-09-16T12:21:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1930</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2678.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2678.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2678.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2678.png?t=20090916122136" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2678.png?size=smaller&amp;t=20090916122136" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2678.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Wanted - 7 Fearless Engineers!</title>
+<id>http://www.feedbooks.com/book/3237</id>
+<author>
+  <name>F. Orlin Tremaine</name>
+  <uri>http://www.feedbooks.com/author/740</uri>
+</author>
+<updated>2009-08-18T01:18:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A great civilization's fate lay in Dick Barrow's hands as he led his courageous fellow engineers into a strange and unknown land. None of them knew what lay ahead--what dangers awaited them--or what rewards. But they did not hesitate because the first question asked them had been: &quot;Are you a brave man?&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3237.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3237.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3237.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3237.png?t=20090818011801" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3237.png?size=smaller&amp;t=20090818011801" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3237.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Raid on the Termites</title>
+<id>http://www.feedbooks.com/book/3351</id>
+<author>
+  <name>Paul Frederick Ernst</name>
+  <uri>http://www.feedbooks.com/author/359</uri>
+</author>
+<updated>2009-08-18T01:18:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Armed with splinters of steel, two ant-sized men dare the formidable mysteries of a termitary.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3351.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3351.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3351.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3351.png?t=20090818011804" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3351.png?size=smaller&amp;t=20090818011804" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3351.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lease to Doomsday</title>
+<id>http://www.feedbooks.com/book/3481</id>
+<author>
+  <name>Lee Archer</name>
+  <uri>http://www.feedbooks.com/author/841</uri>
+</author>
+<updated>2009-08-18T01:18:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The twins were a rare team indeed. They wanted to build a printing plant on a garbage dump. When Muldoon asked them why, their answer was entirely logical: ''Because we live here.''</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3481.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3481.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3481.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3481.png?t=20090818011807" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3481.png?size=smaller&amp;t=20090818011807" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3481.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Fine Fix</title>
+<id>http://www.feedbooks.com/book/3571</id>
+<author>
+  <name>R.C. Noll</name>
+  <uri>http://www.feedbooks.com/author/901</uri>
+</author>
+<updated>2009-08-18T01:18:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Generally speaking, human beings are fine buck-passers&#8212;but there's one circumstance under which they refuse to pass on responsibility. If the other fellow says &quot;Your method won't solve the problem!&quot;&#8212;then they get mad!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3571.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3571.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3571.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3571.png?t=20090818011810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3571.png?size=smaller&amp;t=20090818011810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3571.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tragedy Trail</title>
+<id>http://www.feedbooks.com/book/3950</id>
+<author>
+  <name>Johnston McCulley</name>
+  <uri>http://www.feedbooks.com/author/1037</uri>
+</author>
+<updated>2009-08-18T01:18:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>A Terry Trimble Murder Mystery</summary>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3950.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3950.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3950.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3950.png?t=20090818011811" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3950.png?size=smaller&amp;t=20090818011811" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3950.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Compatible</title>
+<id>http://www.feedbooks.com/book/3935</id>
+<author>
+  <name>Richard R. Smith</name>
+  <uri>http://www.feedbooks.com/author/1073</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Richard R. Smith has been writing SF since 1949, &quot;except for the year that I spent climbing up and down hills in Korea.&quot; Former office manager for a construction company, and a chess enthusiast, he now writes full time and adds, &quot;My main ambition in life is to write SF for the next forty years!&quot;
+
+There are many ways&#8212;murder included&#8212;in which husbands can settle certain problems. This was even more drastic!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/28922</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3935.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3935.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3935.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3935.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3935.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3935.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>John Whopper, The Newsboy</title>
+<id>http://www.feedbooks.com/book/4398</id>
+<author>
+  <name>Thomas M. Clark</name>
+  <uri>http://www.feedbooks.com/author/1259</uri>
+</author>
+<updated>2009-11-13T17:58:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1870</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30463</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4398.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4398.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4398.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4398.png?t=20091113175812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4398.png?size=smaller&amp;t=20091113175812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4398.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Betty Gordon at Boarding School</title>
+<id>http://www.feedbooks.com/book/4404</id>
+<author>
+  <name>Alice B. Emerson</name>
+  <uri>http://www.feedbooks.com/author/1262</uri>
+</author>
+<updated>2009-11-16T14:59:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>Seeking the treasure of Indian Chasm makes an exceedingly interesting incident.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/10317</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4404.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4404.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4404.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4404.png?t=20091116145940" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4404.png?size=smaller&amp;t=20091116145940" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4404.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

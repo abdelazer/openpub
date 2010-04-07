@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=55&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=55&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=55&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 55 | Feedbooks</title>
+  <updated>2010-04-07T18:25:05Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1081</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=54&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=56&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Abbot's Ghost, or Maurice Treherne's Temptation</title>
+<id>http://www.feedbooks.com/book/3520</id>
+<author>
+  <name>Louisa May Alcott</name>
+  <uri>http://www.feedbooks.com/author/50</uri>
+</author>
+<updated>2009-08-18T01:18:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1867</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Romance" label="Romance"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>A christmas story from the writer of Little Women.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3520.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3520.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3520.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3520.png?t=20090818011809" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3520.png?size=smaller&amp;t=20090818011809" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3520.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Royal Prisoner</title>
+<id>http://www.feedbooks.com/book/3716</id>
+<author>
+  <name>Marcel Allain</name>
+  <uri>http://www.feedbooks.com/author/974</uri>
+</author>
+<author>
+  <name>Pierre Souvestre</name>
+  <uri>http://www.feedbooks.com/author/975</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Thriller" label="Thriller"/>
+<summary>The daring exploits of Fant&#244;mas in his attempts to get possession of the King of Hesse-Weimar's famous diamond.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3716.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3716.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3716.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3716.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3716.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3716.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Metropolis</title>
+<id>http://www.feedbooks.com/book/4325</id>
+<author>
+  <name>Upton Sinclair</name>
+  <uri>http://www.feedbooks.com/author/806</uri>
+</author>
+<updated>2009-10-17T18:56:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1908</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Deals with New York as unsparingly as &quot;The Jungle&quot; dealt with Chicago.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/5421</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4325.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4325.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4325.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4325.png?t=20091017185618" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4325.png?size=smaller&amp;t=20091017185618" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4325.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Bandit Love</title>
+<id>http://www.feedbooks.com/book/4444</id>
+<author>
+  <name>Juanita Savage</name>
+  <uri>http://www.feedbooks.com/author/1275</uri>
+</author>
+<updated>2009-11-26T09:58:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>In &quot;Bandit Love&quot; there is the same sultry throb and barbaric drive that characterize all her work. Here is the love story of a beautiful Irish girl who rode horses like an Arizona cowboy, whose hair was red as flame, and whose lover was an English gentleman. But then, there was the Spaniard, too! Hot-headed, he was, passionate and lawless as a Tartar. Needless to say the story takes some startling turns. The end is surprising. And the satisfying conclusion it all comes to is this, that the eternal feminine still responds to courage in the male.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/27856</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4444.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4444.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4444.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4444.png?t=20091126095845" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4444.png?size=smaller&amp;t=20091126095845" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4444.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Uller Uprising</title>
+<id>http://www.feedbooks.com/book/307</id>
+<author>
+  <name>Henry Beam Piper</name>
+  <uri>http://www.feedbooks.com/author/114</uri>
+</author>
+<updated>2009-09-16T10:16:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The story of a confrontation between a human overlord and alien servants, with an ironic twist at the end. Like most of Piper's best work, Uller Uprising is modeled after an actual event in human history; in this case the Sepoy Mutiny -- though not a mere retelling of the Indian Mutiny, but rather an analysis of an historical event applied to a similar situation in the far future.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/307.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/307.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/307.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/307.png?t=20090916101605" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/307.png?size=smaller&amp;t=20090916101605" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/307.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Enchanted Island of Yew</title>
+<id>http://www.feedbooks.com/book/360</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2009-09-16T10:18:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1903</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Sesely, daughter of Baron Merd of Heg, and two companions are enjoying a picnic in the Forest of Lurla when they are accosted by a fairy. The fairy, bored with centuries of insipid fairy life, amazes the girls by pleading to be changed into a mortal. Though the girls are surprised that they might have the power to do such a thing, the fairy explains how it can be done. The girls agree to transform the fairy into a human boy for the space of one year. The newly-minted male is dubbed Prince Marvel, and, furnished with fairy arms and armor and an enchanted horse (a deer transformed), sets out to have adventures.</summary>
+<dcterms:source>http://en.wikisource.org/wiki/</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/360.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/360.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/360.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/360.png?t=20090916101839" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/360.png?size=smaller&amp;t=20090916101839" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/360.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Years</title>
+<id>http://www.feedbooks.com/book/1233</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:39:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1937</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1233.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1233.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1233.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1233.png?t=20090916103937" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1233.png?size=smaller&amp;t=20090916103937" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1233.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>R. Holmes &amp; Co.</title>
+<id>http://www.feedbooks.com/book/3735</id>
+<author>
+  <name>John Kendrick Bangs</name>
+  <uri>http://www.feedbooks.com/author/574</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1906</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>A collection of 10 short stories about the son of Sherlock Holmes and grandson of Raffles.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3735.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3735.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3735.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3735.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3735.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3735.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Story of the Treasure Seekers</title>
+<id>http://www.feedbooks.com/book/4174</id>
+<author>
+  <name>Edith Nesbit</name>
+  <uri>http://www.feedbooks.com/author/210</uri>
+</author>
+<updated>2009-09-11T15:03:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1899</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Adventure" label="Adventure"/>
+<summary>When their mother dies and their father's business partner runs off with most of their money, the six intrepid Bastable children are determined to restore their family's fallen fortunes.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/770</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4174.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4174.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4174.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4174.png?t=20090911150311" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4174.png?size=smaller&amp;t=20090911150311" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4174.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Basil</title>
+<id>http://www.feedbooks.com/book/4471</id>
+<author>
+  <name>Wilkie Collins</name>
+  <uri>http://www.feedbooks.com/author/38</uri>
+</author>
+<updated>2009-12-08T18:41:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1852</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Thriller" label="Thriller"/>
+<summary>A tale of criminality, almost revolting from its domestic horrors.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/4605</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4471.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4471.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4471.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4471.png?t=20091208184130" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4471.png?size=smaller&amp;t=20091208184130" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4471.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Draw</title>
+<id>http://www.feedbooks.com/book/4670</id>
+<author>
+  <name>Jerome Bixby</name>
+  <uri>http://www.feedbooks.com/author/1171</uri>
+</author>
+<updated>2010-03-30T13:40:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Stories of the old West were filled with bad men who lived by the speed of their gun hand. Well, meet Buck Tarrant, who could outdraw them all. His secret: he didn't even have to reach for his weapon....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31778</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4670.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4670.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4670.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4670.png?t=20100330134042" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4670.png?size=smaller&amp;t=20100330134042" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4670.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Lady in the Looking-Glass</title>
+<id>http://www.feedbooks.com/book/1397</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:49:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1929</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1397.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1397.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1397.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1397.png?t=20090916104905" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1397.png?size=smaller&amp;t=20090916104905" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1397.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Warden</title>
+<id>http://www.feedbooks.com/book/2020</id>
+<author>
+  <name>Anthony Trollope</name>
+  <uri>http://www.feedbooks.com/author/281</uri>
+</author>
+<updated>2009-09-16T11:30:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1855</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Religion" label="Religion"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/619</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2020.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2020.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2020.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2020.png?t=20090916113039" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2020.png?size=smaller&amp;t=20090916113039" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2020.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Longest Journey</title>
+<id>http://www.feedbooks.com/book/2072</id>
+<author>
+  <name>E. M. Forster</name>
+  <uri>http://www.feedbooks.com/author/290</uri>
+</author>
+<updated>2009-09-16T11:39:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Rickie Elliot, a sensitive and congenitally lame young man, orphaned at the age of 15, escapes from the misery of suburban life and the bullying of public school to Cambridge, where, like Forster himself, he finds sympathetic friends, chief amongst them Ansell, a grocer's son. He has literary aspirations (his short stories, Arcadian pastoral fantasies, are remarkably like Forster's own), but is also attracted by Agnes Pembroke, the conventional but beautiful sister of a schoolmaster friend and protector, and by her handsome, athletic, ex-bully fianc&#233; Gerald.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2072.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2072.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2072.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2072.png?t=20090916113939" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2072.png?size=smaller&amp;t=20090916113939" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2072.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Echoes In Evening Wear</title>
+<id>http://www.feedbooks.com/book/2815</id>
+<author>
+  <name>Will McIntosh</name>
+  <uri>http://www.feedbooks.com/author/541</uri>
+</author>
+<updated>2009-09-16T12:27:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A provocative story about sex, commitment and the power of fantasy to take on a life of its own. If you&#8217;re likely to swoon at the mention of naughty bits, read no further.</summary>
+<dcterms:source>http://futurismic.com/category/fiction/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2815.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2815.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2815.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2815.png?t=20090916122724" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2815.png?size=smaller&amp;t=20090916122724" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2815.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Alcatraz</title>
+<id>http://www.feedbooks.com/book/3260</id>
+<author>
+  <name>Max Brand</name>
+  <uri>http://www.feedbooks.com/author/753</uri>
+</author>
+<updated>2009-08-18T01:18:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>A classic western from one of the masters of the genre.</summary>
+<dcterms:source>http://wwww.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3260.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3260.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3260.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3260.png?t=20090818011802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3260.png?size=smaller&amp;t=20090818011802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3260.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Grace and Glory</title>
+<id>http://www.feedbooks.com/book/4235</id>
+<author>
+  <name>Geerhardus Vos</name>
+  <uri>http://www.feedbooks.com/author/1213</uri>
+</author>
+<updated>2009-09-22T15:21:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1903</dcterms:issued>
+<category term="Collections" label="Collections"/>
+<category term="Religion" label="Religion"/>
+<summary>15 sermons preached at Princeton Seminary in the early 1900's by the great scholar of Biblical Theology. Also includes his address on &quot;The Nature and Aims of Biblical Theology.&quot;</summary>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4235.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4235.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4235.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4235.png?t=20090922152139" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4235.png?size=smaller&amp;t=20090922152139" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4235.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Allan's Wife</title>
+<id>http://www.feedbooks.com/book/546</id>
+<author>
+  <name>Henry Rider Haggard</name>
+  <uri>http://www.feedbooks.com/author/32</uri>
+</author>
+<updated>2009-09-16T10:25:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1889</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/546.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/546.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/546.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/546.png?t=20090916102557" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/546.png?size=smaller&amp;t=20090916102557" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/546.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mantooth</title>
+<id>http://www.feedbooks.com/book/893</id>
+<author>
+  <name>Christopher Leadem</name>
+  <uri>http://www.feedbooks.com/author/179</uri>
+</author>
+<updated>2009-09-16T10:33:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2000</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Ten thousand years after nuclear holocaust, Earth has reverted to the savage garden, and Man to his Neanderthal roots. Yet a man-child is born, fully human, and a young woman wakes to find the world she knew is gone.</summary>
+<dcterms:source>http://www.aragornbooks.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/893.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/893.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/893.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/893.png?t=20090916103340" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/893.png?size=smaller&amp;t=20090916103340" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/893.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Day of the Boomer Dukes</title>
+<id>http://www.feedbooks.com/book/2557</id>
+<author>
+  <name>Frederik Pohl</name>
+  <uri>http://www.feedbooks.com/author/436</uri>
+</author>
+<updated>2009-09-16T12:10:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Just as medicine is not a science, but rather an art--a device, practised in a scientific manner, in its best manifestations--time-travel stories are not science fiction. Time-travel, however, has become acceptable to science fiction readers as a traditional device in stories than are otherwise admissible in the genre. Here, Frederik Pohl employs it to portray the amusingly catastrophic meeting of three societies.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2557.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2557.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2557.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2557.png?t=20090916121027" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2557.png?size=smaller&amp;t=20090916121027" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2557.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

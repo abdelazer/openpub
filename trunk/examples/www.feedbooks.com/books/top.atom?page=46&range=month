@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=46&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=46&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=46&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 46 | Feedbooks</title>
+  <updated>2010-04-07T18:25:00Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>901</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=45&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=47&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Nigger of the 'Narcissus'</title>
+<id>http://www.feedbooks.com/book/718</id>
+<author>
+  <name>Joseph Conrad</name>
+  <uri>http://www.feedbooks.com/author/10</uri>
+</author>
+<updated>2009-09-16T10:29:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/718.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/718.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/718.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/718.png?t=20090916102926" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/718.png?size=smaller&amp;t=20090916102926" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/718.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Sword of Welleran and Other Stories</title>
+<id>http://www.feedbooks.com/book/3309</id>
+<author>
+  <name>Lord Dunsany</name>
+  <uri>http://www.feedbooks.com/author/757</uri>
+</author>
+<updated>2009-08-18T01:18:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1908</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Collections" label="Collections"/>
+<summary>The Sword of Welleran and Other Stories is the third book by Irish fantasy writer Lord Dunsany, considered a major influence on the work of J. R. R. Tolkien, H. P. Lovecraft, Ursula LeGuin and others. It was first published in hardcover by George Allen &amp; Sons in October, 1908, and has been reprinted a number of times since. Issued by the Modern Library in a combined edition with A Dreamer's Tales as A Dreamer's Tales and Other Stories in 1917.
+The book is a series of short stories, some of them linked by Dunsany's invented pantheon of deities who dwell in Peg&#257;na, which were the focus of his earlier collections The Gods of Peg&#257;na and Time and the Gods. One of the stories, &quot;The Fortress Unvanquishable, Save for Sacnoth,&quot; was afterwards (1910) published by itself as a separate book, a now very-rare &quot;Art-and-Craft&quot; style limited edition.
+Source: Wikipedia</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3309.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3309.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3309.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3309.png?t=20090818011803" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3309.png?size=smaller&amp;t=20090818011803" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3309.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Border Legion</title>
+<id>http://www.feedbooks.com/book/1814</id>
+<author>
+  <name>Zane Grey</name>
+  <uri>http://www.feedbooks.com/author/255</uri>
+</author>
+<updated>2009-09-16T11:14:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Western" label="Western"/>
+<summary>Jack Kells was a remorseless killer, head of a gang that ravaged the southern border. He didn't think twice before he kidnapped pretty Joan Randle on a lonesome Idaho trail. His cold eyes filled her with fear, but her goodness made something happen deep within him. Bad as he was, he knew he had to keep Joan safe from desperados far worse than he. Kells had a price on his head and on his heels. Now loving this woman could cost him his life...or it could make him a hero in this wild, dangerous land.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1814.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1814.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1814.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1814.png?t=20090916111450" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1814.png?size=smaller&amp;t=20090916111450" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1814.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sapphira and the Slave Girl</title>
+<id>http://www.feedbooks.com/book/2119</id>
+<author>
+  <name>Willa Cather</name>
+  <uri>http://www.feedbooks.com/author/296</uri>
+</author>
+<updated>2009-09-16T11:45:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1940</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2119.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2119.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2119.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2119.png?t=20090916114504" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2119.png?size=smaller&amp;t=20090916114504" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2119.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Tenant of Wildfell Hall</title>
+<id>http://www.feedbooks.com/book/3454</id>
+<author>
+  <name>Anne Bront&#235;</name>
+  <uri>http://www.feedbooks.com/author/827</uri>
+</author>
+<updated>2009-08-18T01:18:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1848</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>The story of a woman who leaves her abusive, dissolute husband, and who must then support herself and her young son. By challenging the prevailing morals of the time the novel caused a critic to pronounce it ''utterly unfit to be put into the hands of girls''. It is considered to be one of the first feminist novels.</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3454.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3454.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3454.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3454.png?t=20090818011805" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3454.png?size=smaller&amp;t=20090818011805" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3454.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>I Will Repay</title>
+<id>http://www.feedbooks.com/book/3574</id>
+<author>
+  <name>Baroness Emma Orczy</name>
+  <uri>http://www.feedbooks.com/author/900</uri>
+</author>
+<updated>2009-08-18T01:18:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1906</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<category term="Adventure" label="Adventure"/>
+<summary>I Will Repay was written by Baroness Emmuska Orzcy and originally published in 1906, this is a sequel novel to the Scarlet Pimpernel. The second Pimpernel book written by Orzcy, it comes (chronologically) third in the series and should be read after Sir Percy Leads the Band and before The Elusive Pimpernel.
+The story starts before the French revolution. It's 1783 and wealthy Paul D&#233;roul&#232;de has offended the young Vicomte de Marny by speaking disrepctfully of his latest infatuation, Ad&#232;le de Monterch&#233;ri. D&#233;roul&#232;de had not intended to get into the quarrel but has a tendency to blunder into things -- &quot;no doubt a part of the inheritance bequeathed to him by his bourgeois ancestry.&quot;
+Incensed at the slur on Ad&#232;le, who he sees as a paragon of virtue, the Vicomte challenges D&#233;roul&#232;de to a duel, a fight which D&#233;roul&#232;de does not want -- for he knows and respects the boy's father, the Duc de Marny.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3574.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3574.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3574.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3574.png?t=20090818011810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3574.png?size=smaller&amp;t=20090818011810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3574.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Collectivum</title>
+<id>http://www.feedbooks.com/book/4613</id>
+<author>
+  <name>Mike Lewis</name>
+  <uri>http://www.feedbooks.com/author/1347</uri>
+</author>
+<updated>2010-02-09T23:51:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The Oren were one and their strength was legion. They had it all figured out, in their own parasitical, cold-blooded way. But they'd neglected one she-cat of a girl....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31208</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4613.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4613.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4613.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4613.png?t=20100209235119" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4613.png?size=smaller&amp;t=20100209235119" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4613.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Life and Adventures of Santa Claus</title>
+<id>http://www.feedbooks.com/book/321</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2010-01-02T15:27:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1902</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org/wiki/</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/321.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/321.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/321.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/321.png?t=20100102152703" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/321.png?size=smaller&amp;t=20100102152703" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/321.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Between the Acts</title>
+<id>http://www.feedbooks.com/book/1235</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:42:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1941</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>In Woolf&#8217;s last novel, the action takes place on one summer&#8217;s day at a country house in the heart of England, where the villagers are presenting their annual pageant. A lyrical, moving valedictory.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1235.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1235.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1235.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1235.png?t=20090916104250" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1235.png?size=smaller&amp;t=20090916104250" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1235.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Haunted Man and the Ghost's Bargain</title>
+<id>http://www.feedbooks.com/book/3368</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-08-18T01:18:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1848</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>Redlaw is a teacher of chemistry who often broods over wrongs done him and grief from his past.
+He is haunted by a spirit, who is not so much a ghost as Redlaw's phantom twin and is &quot;an awful likeness of himself...with his features, and his bright eyes, and his grizzled hair, and dressed in the gloomy shadow of his dress...&quot; This specter appears and proposes to Redlaw that he can allow him to &quot;forget the sorrow, wrong, and trouble you have known...to cancel their remembrance...&quot; Redlaw is hesitant at first, but finally agrees. However, before the spirit vanishes it imposes an additional consequence: &quot;The gift that I have given you, you shall give again, go where you will.&quot;</summary>
+<dcterms:source>Gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3368.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3368.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3368.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3368.png?t=20090818011804" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3368.png?size=smaller&amp;t=20090818011804" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3368.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Island Mystery</title>
+<id>http://www.feedbooks.com/book/4138</id>
+<author>
+  <name>George A. Birmingham</name>
+  <uri>http://www.feedbooks.com/author/1176</uri>
+</author>
+<updated>2009-08-31T14:17:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>In 1914 there were not twenty men in England who had ever heard of the island of Salissa. Even now&#8212;I am writing in the spring of 1917&#8212;the public is very badly informed about the events which gave the island a certain importance in the history of the war.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29644</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4138.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4138.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4138.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4138.png?t=20090831141741" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4138.png?size=smaller&amp;t=20090831141741" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4138.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Princess Zara</title>
+<id>http://www.feedbooks.com/book/4597</id>
+<author>
+  <name>Ross Beeckman</name>
+  <uri>http://www.feedbooks.com/author/1342</uri>
+</author>
+<updated>2010-01-26T15:09:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1909</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Two shall be born the whole wide world apart; 
+And speak in different tongues, and have no thought 
+Each of the other's being, and no heed; 
+And these o'er unknown seas to unknown lands 
+Shall cross, escaping wreck, defying death, 
+And all unconsciously shape every act 
+And lend each wandering step to this one end,-- 
+That, one day, out of darkness, they shall meet 
+And read life's meaning in each other's eyes.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/24427</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4597.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4597.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4597.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4597.png?t=20100126150912" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4597.png?size=smaller&amp;t=20100126150912" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4597.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mysterious Rider</title>
+<id>http://www.feedbooks.com/book/1833</id>
+<author>
+  <name>Zane Grey</name>
+  <uri>http://www.feedbooks.com/author/255</uri>
+</author>
+<updated>2009-09-16T11:18:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>He came to the Belilounds ranch, no one knew from where; a man of middle age, gentle, kindly, but so terrible a gunfighter that they called him &quot;Hell Bent&quot; Wade. He played the part of fate in all their lives, and only when the inevitable tragedy came and teh Mysterious Rider made the great sacrifice did they know - and out of that tragedy came the light of love.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1833.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1833.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1833.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1833.png?t=20090916111820" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1833.png?size=smaller&amp;t=20090916111820" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1833.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Elusive Pimpernel</title>
+<id>http://www.feedbooks.com/book/3575</id>
+<author>
+  <name>Baroness Emma Orczy</name>
+  <uri>http://www.feedbooks.com/author/900</uri>
+</author>
+<updated>2009-08-18T01:18:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1908</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<category term="Adventure" label="Adventure"/>
+<summary>First published in 1908, The Elusive Pimpernel by Baroness Orczy is the 4th book in the classic adventure series about the Scarlet Pimpernel.
+It is September 1793 and French Agent and chief spy-catcher Chauvelin is determined to get his revenge for the previous humiliations dished out to him at the hands of the Scarlet Pimpernel.
+Chauvelin travels to England as an official representative of the French government tasked with looking after the interests of French citizens, but this is only a cover and his real purpose is to trick Sir Percy Blakeney into returning to France, where he can be captured and put to the guillotine.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3575.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3575.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3575.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3575.png?t=20090818011810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3575.png?size=smaller&amp;t=20090818011810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3575.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>B-12's Moon Glow</title>
+<id>http://www.feedbooks.com/book/4628</id>
+<author>
+  <name>Charles A. Stearns</name>
+  <uri>http://www.feedbooks.com/author/1356</uri>
+</author>
+<updated>2010-03-02T18:47:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Among the metal-persons of Phobos, robot B-12 held a special niche. He might not have been stronger, larger, faster than some &#8230; but he could be devious &#8230; and more important, he was that junkyard planetoid&#8217;s only moonshiner.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31364</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4628.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4628.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4628.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4628.png?t=20100302184729" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4628.png?size=smaller&amp;t=20100302184729" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4628.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Disinterment</title>
+<id>http://www.feedbooks.com/book/245</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1935</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/245.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/245.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/245.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/245.png?t=20090916101527" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/245.png?size=smaller&amp;t=20090916101527" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/245.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Genesis</title>
+<id>http://www.feedbooks.com/book/372</id>
+<author>
+  <name>Henry Beam Piper</name>
+  <uri>http://www.feedbooks.com/author/114</uri>
+</author>
+<updated>2009-09-16T10:19:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1951</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Was this ill-fated expedition the end of a proud, old race--or the beginning of a new one? There are strange gaps in our records of the past. We find traces of man-like things--but, suddenly, man appears, far too much developed to be the &quot;next step&quot; in a well-linked chain of evolutionary evidence. Perhaps something like the events of this story furnishes the answer to the riddle.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/372.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/372.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/372.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/372.png?t=20090916101925" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/372.png?size=smaller&amp;t=20090916101925" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/372.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Felo de Se</title>
+<id>http://www.feedbooks.com/book/2139</id>
+<author>
+  <name>R. Austin Freeman</name>
+  <uri>http://www.feedbooks.com/author/288</uri>
+</author>
+<updated>2009-09-16T11:47:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1937</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>John Gillam was a gambler. John Gillam faced financial ruin and was the victim of a sinister blackmail attempt. John Gillam is now dead. In this exceptional mystery, Dr Thorndyke is brought in to untangle the secrecy surrounding the death of John Gillam, a man not known for insanity and thoughts of suicide.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2139.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2139.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2139.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2139.png?t=20090916114737" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2139.png?size=smaller&amp;t=20090916114737" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2139.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Voodoo Planet</title>
+<id>http://www.feedbooks.com/book/866</id>
+<author>
+  <name>Andre Alice Norton</name>
+  <uri>http://www.feedbooks.com/author/159</uri>
+</author>
+<updated>2009-09-16T10:32:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>''From between the two shuffling dancers padded something on four feet. The canine-feline creature was more than just a head; it was a loose-limbed, graceful body fully eight feet in length, and the red eyes in the prick-eared head were those of a killer.... Words issued from between those curved fangs, words which Dane might not understand....
+
+''Dane slid his blade out surreptitiously, setting its point against the palm of his hand and jabbing painfully; but the terrible creature continued to advance.... There was no blurring of its lines....''
+
+Dane Thorson of the space-ship Solar Queen knew there was only one way to win out over this hideous thing&#8212;a battle to the end between his rational mind and the hypnotic witchcraft of Lumbrilo, the mental wizard of the planet Khatka.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/866.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/866.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/866.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/866.png?t=20090916103207" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/866.png?size=smaller&amp;t=20090916103207" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/866.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Planet with No Nightmare</title>
+<id>http://www.feedbooks.com/book/4607</id>
+<author>
+  <name>Jim Harmon</name>
+  <uri>http://www.feedbooks.com/author/391</uri>
+</author>
+<updated>2010-02-06T12:31:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The creatures on the little planet were real bafflers. The first puzzler about them was that they died so easily. The second was that they didn't die at all.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31174</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4607.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4607.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4607.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4607.png?t=20100206123144" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4607.png?size=smaller&amp;t=20100206123144" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4607.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

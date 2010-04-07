@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=49&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=49&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=49&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 49 | Feedbooks</title>
+  <updated>2010-04-07T18:23:40Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>961</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=48&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=50&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>A Question of Theories</title>
+<id>http://www.feedbooks.com/userbook/547</id>
+<author>
+  <name>geehall1</name>
+  <uri>http://www.feedbooks.com/user/5128/profile#geehall1</uri>
+</author>
+<updated>2009-08-17T16:05:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>  An amazing cult/intelligence thriller with the weirdest romantic triangle ever. Gary Halliday is the unwitting and unknowing victim of a strange intelligence operation, while at the same time being the object of affection of two girls, one of whom is poison to him. Can he extricate from the mess and figure out the right woman for him?</summary>
+<category term="intelligence"/>
+<category term="cults"/>
+<category term="covert operations"/>
+<category term="romantic triangle"/>
+<category term="ebooks"/>
+<category term="Novel"/>
+<category term="American"/>
+<category term="Australian"/>
+<category term="suspense"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/547.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/547.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/547.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/547.png?t=20090817160522" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/547.png?size=smaller&amp;t=20090817160522" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/547.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Plain Text - Day 19</title>
+<id>http://www.feedbooks.com/userbook/3627</id>
+<author>
+  <name>Wiley Davis</name>
+  <uri>http://www.feedbooks.com/user/18753/profile#Wiley%20Davis</uri>
+</author>
+<updated>2009-08-17T21:49:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Uploads of my daily work on a new novel. Approx. 500 words/day.
+
+See all at: http://thungy.com
+
+In a world of free food and networked living, something interesting is happening down in
+Baja. A fifteen year old girl named Zoe, her biologist father, and a coastline of drugged-out fishermen help us reconcile the conflict between physical reality and virtual freedom.</summary>
+<category term="plain text"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3627.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3627.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3627.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3627.png?t=20090817214930" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3627.png?size=smaller&amp;t=20090817214930" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3627.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Weird Western Quarterly #14</title>
+<id>http://www.feedbooks.com/userbook/5300</id>
+<author>
+  <name>Susan Hillwig &amp; Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig%20%26%20Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:33:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Weird Western Quarterly: &quot;Till Death Do Us Part&quot; &amp; &quot;Steel Blood Brothers Will&quot;
+
+It's a two-for-one special this issue, with more on the budding romance between Jonah Hex and Mei Ling, plus a second action-packed adventure featuring Johnny Thunder! There's always more bang for your buck in WWQ! </summary>
+<category term="Johnny Thunder"/>
+<category term="Jonah Hex"/>
+<category term="DC2"/>
+<category term="Comcs"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5300.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5300.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5300.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5300.png?t=20090817163343" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5300.png?size=smaller&amp;t=20090817163343" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5300.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A growing opposition to the doctrine of Hell in the church of Christ</title>
+<id>http://www.feedbooks.com/userbook/5621</id>
+<author>
+  <name>Unknown</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#Unknown</uri>
+</author>
+<updated>2009-08-17T16:39:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>The opposition to hell is fast growing in the church of Christ and the Christan Church</summary>
+<category term="hell"/>
+<category term="Edward Fudge"/>
+<category term="Homer Hailey"/>
+<category term="Christain Church"/>
+<category term="Church of Christ"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5621.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5621.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5621.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5621.png?t=20090817163925" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5621.png?size=smaller&amp;t=20090817163925" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5621.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Radio Kill Report</title>
+<id>http://www.feedbooks.com/userbook/8604</id>
+<author>
+  <name>MorganB</name>
+  <uri>http://www.feedbooks.com/user/60964/profile#MorganB</uri>
+</author>
+<updated>2009-12-12T12:42:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>&quot;Where would I be in ten years, when a larger version of the map updated the red blotch beyond the royal purple zone, combining the colors into a dark, dried nosebleed red, which was a guesstimate of the outlet zone&#8217;s expansion rate as apartment buildings moved into the zones outside the old cities?  Soon, marred blouses will cross state lines, looking for plentiful parking.  I don&#8217;t own more than sixty hours of music and I am a joke at my job.&quot;</summary>
+<category term="apocalypse"/>
+<category term="radio"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8604.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8604.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8604.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8604.png?t=20091212124242" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8604.png?size=smaller&amp;t=20091212124242" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8604.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Devil to Pay: Chapter 2</title>
+<id>http://www.feedbooks.com/userbook/9093</id>
+<author>
+  <name>pussreboots</name>
+  <uri>http://www.feedbooks.com/user/63232/profile#pussreboots</uri>
+</author>
+<updated>2009-12-27T05:59:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Second installment. </summary>
+<category term="space opera"/>
+<category term="SciFi"/>
+<category term="lgbt"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9093.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9093.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9093.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9093.png?t=20091227055932" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9093.png?size=smaller&amp;t=20091227055932" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9093.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>About Ardyss International and Body Magic</title>
+<id>http://www.feedbooks.com/userbook/9904</id>
+<author>
+  <name>Nyoko Weatherspoon</name>
+  <uri>http://www.feedbooks.com/user/71632/profile#Nyoko%20Weatherspoon</uri>
+</author>
+<updated>2010-01-24T05:10:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Ardyss International - Reshape Your Figure and Reshape Your Finances.  Do you want to do one or both?</summary>
+<category term="Magic"/>
+<category term="&quot;body"/>
+<category term="body magic garment"/>
+<category term="body magic ardyss"/>
+<category term="body magic"/>
+<category term="ardyss scam"/>
+<category term="ardyss reviews"/>
+<category term="ardyss international inc"/>
+<category term="ardyss international"/>
+<category term="ardyss fajas"/>
+<category term="ardyss body shaper"/>
+<category term="ardyss body magic"/>
+<category term="ardyss"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9904.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9904.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9904.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9904.png?t=20100124051036" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9904.png?size=smaller&amp;t=20100124051036" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9904.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Another Metamorphosis</title>
+<id>http://www.feedbooks.com/userbook/1145</id>
+<author>
+  <name>K. A. Laity</name>
+  <uri>http://www.feedbooks.com/user/14246/profile#K.%20A.%20Laity</uri>
+</author>
+<updated>2009-08-17T16:09:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1996</dcterms:issued>
+<summary>Billy sure loved dinosaurs, but he never imagined becoming one...</summary>
+<category term="Humor"/>
+<category term="fantasy"/>
+<category term="Kafka"/>
+<category term="dinosaurs"/>
+<category term="speculative fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/1145.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/1145.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/1145.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1145.png?t=20090817160947" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1145.png?size=smaller&amp;t=20090817160947" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/1145.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Hole the Romance: an automatic biography</title>
+<id>http://www.feedbooks.com/userbook/4420</id>
+<author>
+  <name>J. L. Dale</name>
+  <uri>http://www.feedbooks.com/user/32948/profile#J.%20L.%20Dale</uri>
+</author>
+<updated>2009-08-17T19:20:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>There is a hole in the city where all forgotten things are suspended from time. Now, that perfect devil you've always searched for is going to throw you in, but you take her along for kicks ...</summary>
+<category term="experimental"/>
+<category term="poetry"/>
+<category term="fiction"/>
+<category term="past"/>
+<category term="weird"/>
+<category term="Memory"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4420.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4420.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4420.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4420.png?t=20090817192008" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4420.png?size=smaller&amp;t=20090817192008" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4420.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>ascende, maima, perma and mary the lifeship</title>
+<id>http://www.feedbooks.com/userbook/4835</id>
+<author>
+  <name>mayloveheal</name>
+  <uri>http://www.feedbooks.com/user/35536/profile#mayloveheal</uri>
+</author>
+<updated>2009-08-17T16:35:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Mary was an advanced, closed ecosystem, equipped with seven bio-reactors for growing several kinds of micro-algae, three fungi growing dark chambers, and a 3D printer.
+The urine and faeces of Ascende and his occasional guests, got recycled to nurture the micro-algae. The part of the micro-algae harvest not used for fertilizing the plants in the aeroponic growing system, were used to create an epoxy like material which allowed, in combination with computer assisted designs and the 3D printer, the manufacture of small to large bioplastic items, either for onboard use, gifts to guests, or for trading with some other originally made items.
+</summary>
+<category term="android"/>
+<category term="lightbeing"/>
+<category term="fantasy"/>
+<category term="SciFi"/>
+<category term="vision"/>
+<category term="future"/>
+<category term="propulsion"/>
+<category term="anti-gravity"/>
+<category term="zeropointenergy"/>
+<category term="overunity"/>
+<category term="bioreactors"/>
+<category term="algae"/>
+<category term="aeroponics"/>
+<category term="mary"/>
+<category term="perma"/>
+<category term="maima"/>
+<category term="ascende"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4835.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4835.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4835.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4835.png?t=20090817163558" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4835.png?size=smaller&amp;t=20090817163558" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4835.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Soul Or Spirit</title>
+<id>http://www.feedbooks.com/userbook/6215</id>
+<author>
+  <name>robertwr</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#robertwr</uri>
+</author>
+<updated>2009-08-17T16:43:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>SOUL
+OR
+SPIRIT?
+
+WHICH ONE IS IMMORTAL?
+
+WHICH ONE WILL BE IN HEAVEN?
+</summary>
+<category term="soul"/>
+<category term="Spirit"/>
+<category term="immortal"/>
+<category term="immortality"/>
+<category term="hell"/>
+<category term="life"/>
+<category term="death"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6215.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6215.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6215.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6215.png?t=20090817164338" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6215.png?size=smaller&amp;t=20090817164338" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6215.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Do Butterflies Bleed?</title>
+<id>http://www.feedbooks.com/userbook/6853</id>
+<author>
+  <name>Meryl McQueen</name>
+  <uri>http://www.feedbooks.com/user/41857/profile#Meryl%20McQueen</uri>
+</author>
+<updated>2009-09-28T01:39:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>A short short about grandfathers, grandsons, and the beauty of a dignified death. Written in the form of a one-scene play.</summary>
+<category term="hospital"/>
+<category term="peaceful"/>
+<category term="joy"/>
+<category term="play"/>
+<category term="death"/>
+<category term="grandson"/>
+<category term="grandfather"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6853.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6853.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6853.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6853.png?t=20090928013921" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6853.png?size=smaller&amp;t=20090928013921" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6853.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tessie Pulls Her Last String</title>
+<id>http://www.feedbooks.com/userbook/7380</id>
+<author>
+  <name>Lucy Addison</name>
+  <uri>http://www.feedbooks.com/user/50925/profile#Lucy%20Addison</uri>
+</author>
+<updated>2009-09-03T14:08:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Telling tale of a kitten ready to give up the string of her youth for the more adult world of cats. A loving and moving parable for children of our current society.</summary>
+<category term="cats"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7380.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7380.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7380.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7380.png?t=20090903140847" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7380.png?size=smaller&amp;t=20090903140847" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7380.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Weird Western Quarterly #15</title>
+<id>http://www.feedbooks.com/userbook/7668</id>
+<author>
+  <name>Susan Hillwig &amp; Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig%20%26%20Don%20Walsh</uri>
+</author>
+<updated>2009-09-27T14:00:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Weird Western Quarterly: Mind Steel Razor Trap.
+
+Johnny Thunder is on the road and seeking justice against the man who ruined two brothers and brought misery to his home of Mesa City. But is he ready to face an unknown foe in the back alleys of rapidly-growing Phoenix, especially when it looks like the woman he loves, Madame .44, is courting the enemy?
+
+&quot;The Prodigal Father&quot;
+Written by: Susan Hillwig
+
+Jonah and Mei Ling are settling into married life quite nicely, but their relationship is about to be tested as Woodson Hex arrives in town. How will Jonah deal with having his lost-long father around for the first time in twenty years? If your answer is &quot;Not very well&quot;, you win a cheroot.
+</summary>
+<category term="Western"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Mei LIng"/>
+<category term="Madame .44"/>
+<category term="Johnny Thunder"/>
+<category term="Jonah Hex"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7668.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7668.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7668.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7668.png?t=20090927140016" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7668.png?size=smaller&amp;t=20090927140016" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7668.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Unorthodox in orthodox churches</title>
+<id>http://www.feedbooks.com/userbook/9331</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2010-01-04T13:14:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Unorthodox in orthodox churches. It may come as a surprise to many that those who say they are orthodox Protestant but do not believe in Hell as a place of eternal torment that there are more who say that are orthodox Protestants who do believe Hell to be eternal torment than there are orthodox Protestants who do believe Hell to be a place of eternal torment. When US New says 53 percent of Americans believes Hell to be only mental anguish, most of that 53 percent are orthodox Protestant and this 53 percent is in addition to the many Protestant Premillennialists who do not believe Hell to be a place of eternal torment.</summary>
+<category term="Edwards&#8221;"/>
+<category term="&#8220;JONATHAN"/>
+<category term="fire&#8221;"/>
+<category term="&#8220;Unquenchable"/>
+<category term="heaven"/>
+<category term="&#8220;Edward"/>
+<category term="Calvin"/>
+<category term="tribes&#8221;"/>
+<category term="Witnesses&#8221;"/>
+<category term="&#8220;twelve"/>
+<category term="&#8220;Jehovah&#8217;s"/>
+<category term="judgment"/>
+<category term="Mormons"/>
+<category term="Gehenna"/>
+<category term="GOD&#8221;"/>
+<category term="of"/>
+<category term="&#8220;church"/>
+<category term="Christadelphians"/>
+<category term="Fudge&#8221;"/>
+<category term="&#8220;Edward"/>
+<category term="Calvin"/>
+<category term="tribes&#8221;"/>
+<category term="&#8220;twelve"/>
+<category term="judgment"/>
+<category term="Gehenna"/>
+<category term="torment&#8221;"/>
+<category term="&#8220;eternal"/>
+<category term="judgment"/>
+<category term="hell"/>
+<category term="Christadelphians"/>
+<category term="Fudge&#8221;"/>
+<category term="&#8220;church"/>
+<category term="of"/>
+<category term="GOD&#8221;"/>
+<category term="Mormons"/>
+<category term="&#8220;Jehovah&#8217;s"/>
+<category term="Witnesses&#8221;"/>
+<category term="Tart"/>
+<category term="Tart"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9331.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9331.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9331.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9331.png?t=20100104131459" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9331.png?size=smaller&amp;t=20100104131459" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9331.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Weird Western Quarterly #16</title>
+<id>http://www.feedbooks.com/userbook/8103</id>
+<author>
+  <name>Susan Hillwig</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig</uri>
+</author>
+<updated>2009-10-31T16:31:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Weird Western Quarterly: The Better Part of Valor.
+
+</summary>
+<category term="Western"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Jonah Hex"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8103.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8103.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8103.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8103.png?t=20091031163124" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8103.png?size=smaller&amp;t=20091031163124" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8103.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>This Child Will</title>
+<id>http://www.feedbooks.com/userbook/10089</id>
+<author>
+  <name>John Watson</name>
+  <uri>http://www.feedbooks.com/user/73128/profile#John%20Watson</uri>
+</author>
+<updated>2010-02-01T02:50:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>This Child Will highlights the odyssey of a Clairvoyant driven by his spirit guide.  The driving force of this story is the spirit's humanitarian aims acquired during it's life as a Slave. In her spiritual form she acts as a crusader for humanity's spiritual evolution using her clairvoyant host to recruit her soldiers. 
+</summary>
+<category term="nat"/>
+<category term="Antebellum South"/>
+<category term="Turner"/>
+<category term="Clairvoyance"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10089.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10089.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10089.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10089.png?t=20100201025029" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10089.png?size=smaller&amp;t=20100201025029" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10089.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Passable Gravity of Marriage</title>
+<id>http://www.feedbooks.com/userbook/9849</id>
+<author>
+  <name>Holden Wilde</name>
+  <uri>http://www.feedbooks.com/user/52795/profile#Holden%20Wilde</uri>
+</author>
+<updated>2010-01-21T22:12:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>1,000 words of fiction on current state of marriage from a reasonable gent</summary>
+<category term="cheating"/>
+<category term="marriage"/>
+<category term="love"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9849.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9849.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9849.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9849.png?t=20100121221229" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9849.png?size=smaller&amp;t=20100121221229" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9849.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>S4/c</title>
+<id>http://www.feedbooks.com/userbook/10216</id>
+<author>
+  <name>shawntee</name>
+  <uri>http://www.feedbooks.com/user/74272/profile#shawntee</uri>
+</author>
+<updated>2010-02-07T08:18:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>The history of S4/c, the history of British television industry, a glimpse into it.</summary>
+<category term="S4/c"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10216.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10216.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10216.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10216.png?t=20100207081826" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10216.png?size=smaller&amp;t=20100207081826" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10216.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Eons In A Moment - Shaun J. Apple (2009) -- 2nd Edition</title>
+<id>http://www.feedbooks.com/userbook/892</id>
+<author>
+  <name>Shaun J. Apple</name>
+  <uri>http://www.feedbooks.com/user/9920/profile#Shaun%20J.%20Apple</uri>
+</author>
+<updated>2009-08-17T16:07:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>2nd Edition of the award winning poetry book Eons In A Moment. A book of poetry that likes to explore like a curious child. Eons In A Moment (EIAM) was pieced together with &#8220;moments&#8221; or poems conceived over the last ten years. Experimental poems written with great diversity between 1996 and 2006. Read this book of poetic avant-garde &#8220;emotional-scapes&#8221; to gain your own interpretation for each poem or the compilation as a whole. http://www.loveacrossborders.com/</summary>
+<category term="love"/>
+<category term="poem"/>
+<category term="travel"/>
+<category term="Inspiration"/>
+<category term="travel"/>
+<category term="poetry"/>
+<category term="poems"/>
+<category term="Poet"/>
+<category term="romance"/>
+<category term="ebook"/>
+<category term="child"/>
+<category term="Borders"/>
+<category term="creative"/>
+<category term="creativity"/>
+<category term="experimental"/>
+<category term="Shaun"/>
+<category term="apple"/>
+<category term="Emotion"/>
+<category term="Emotional"/>
+<category term="Eons"/>
+<category term="Moment"/>
+<category term="Across"/>
+<category term="new"/>
+<category term="Avant-Garde"/>
+<category term="photos"/>
+<category term="Photography"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/892.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/892.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/892.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/892.png?t=20090817160738" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/892.png?size=smaller&amp;t=20090817160738" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/892.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

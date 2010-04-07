@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=80&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=80&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=80&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 80 | Feedbooks</title>
+  <updated>2010-04-07T18:25:22Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1581</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=79&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=81&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Moon Rock</title>
+<id>http://www.feedbooks.com/book/3750</id>
+<author>
+  <name>Arthur John Rees</name>
+  <uri>http://www.feedbooks.com/author/987</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt:
+The voice of the clergyman intoned the last sad hope of humanity, the final prayer was said, and the mourners turned away, leaving Mrs. Turold to take her rest in a bleak Cornish churchyard among strangers, far from the place of her birth and kindred.
+The fact would not have troubled her if she had known. In life she had been a nonentity; in death she was not less. At least she could now mix with her betters without reproach, free (in the all-enveloping silence) from the fear of betraying her humble origin. Debrett&#8217;s Peerage was unimportant in the grave; breaches of social etiquette passed unnoticed there; the wagging of malicious tongues was stopped by dust.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3750.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3750.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3750.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3750.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3750.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3750.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Flaming Forest</title>
+<id>http://www.feedbooks.com/book/4500</id>
+<author>
+  <name>James Oliver Curwood</name>
+  <uri>http://www.feedbooks.com/author/1285</uri>
+</author>
+<updated>2009-12-16T21:13:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Western" label="Western"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/4702</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4500.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4500.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4500.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4500.png?t=20091216211306" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4500.png?size=smaller&amp;t=20091216211306" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4500.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Rise of Silas Lapham</title>
+<id>http://www.feedbooks.com/book/4568</id>
+<author>
+  <name>William Dean Howells</name>
+  <uri>http://www.feedbooks.com/author/1334</uri>
+</author>
+<updated>2010-01-12T16:38:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1885</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Silas Lapham goes from rags to riches, and his ensuing moral susceptibility is the center of this tale. Silas earns a fortune in the paint business, but lacks social standards, a failure which he attempts to remedy through his daughter's marriage to the scion of the aristocratic Corey family.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/154</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4568.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4568.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4568.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4568.png?t=20100112163839" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4568.png?size=smaller&amp;t=20100112163839" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4568.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Caleb Williams</title>
+<id>http://www.feedbooks.com/book/347</id>
+<author>
+  <name>William Godwin</name>
+  <uri>http://www.feedbooks.com/author/122</uri>
+</author>
+<updated>2009-09-16T10:17:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1794</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Politics" label="Politics"/>
+<summary>Things as They Are; or The Adventures of Caleb Williams (often abbreviated to Caleb Williams) (1794) by William Godwin is a three-volume novel written as a call to end the abuse of power by what Godwin saw as a tyrannical government. Intended as a popularization of the ideas presented in his 1793 treatise Political Justice Godwin uses Caleb Williams to show how legal and other institutions can and do destroy individuals, even when the people the justice system touches are innocent of any crime. This reality, in Godwin's mind was therefore a description of &quot;things as they are.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/347.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/347.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/347.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/347.png?t=20090916101754" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/347.png?size=smaller&amp;t=20090916101754" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/347.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Long Voyage</title>
+<id>http://www.feedbooks.com/book/707</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:29:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1853</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/707.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/707.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/707.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/707.png?t=20090916102912" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/707.png?size=smaller&amp;t=20090916102912" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/707.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Pearl-Maiden</title>
+<id>http://www.feedbooks.com/book/1012</id>
+<author>
+  <name>Henry Rider Haggard</name>
+  <uri>http://www.feedbooks.com/author/32</uri>
+</author>
+<updated>2009-09-16T10:38:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1901</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Religion" label="Religion"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1012.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1012.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1012.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1012.png?t=20090916103811" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1012.png?size=smaller&amp;t=20090916103811" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1012.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Professor's House</title>
+<id>http://www.feedbooks.com/book/2133</id>
+<author>
+  <name>Willa Cather</name>
+  <uri>http://www.feedbooks.com/author/296</uri>
+</author>
+<updated>2009-09-16T11:32:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1925</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2133.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2133.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2133.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2133.png?t=20090916113252" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2133.png?size=smaller&amp;t=20090916113252" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2133.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tom Swift and His Photo Telephone</title>
+<id>http://www.feedbooks.com/book/2343</id>
+<author>
+  <name>Victor Appleton</name>
+  <uri>http://www.feedbooks.com/author/341</uri>
+</author>
+<updated>2009-09-16T12:02:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2343.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2343.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2343.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2343.png?t=20090916120244" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2343.png?size=smaller&amp;t=20090916120244" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2343.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Space Pioneers</title>
+<id>http://www.feedbooks.com/book/2374</id>
+<author>
+  <name>Carey Rockwell</name>
+  <uri>http://www.feedbooks.com/author/350</uri>
+</author>
+<updated>2009-09-16T12:06:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>When Tom Corbett and his Polaris unit mates, Roger and Astro, were assigned to the great expedition of one thousand space ships carrying pioneer colonists billions of miles to the satellite Roald, they did not dream that they were facing the most thrilling adventures of their careers.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2374.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2374.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2374.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2374.png?t=20090916120604" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2374.png?size=smaller&amp;t=20090916120604" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2374.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Forgotten Dragons</title>
+<id>http://www.feedbooks.com/book/2816</id>
+<author>
+  <name>David McGillveray</name>
+  <uri>http://www.feedbooks.com/author/546</uri>
+</author>
+<updated>2009-09-16T12:27:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>An action-packed tale of the secretive front lines of Sino-American rivalry.</summary>
+<dcterms:source>http://futurismic.com/category/fiction/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2816.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2816.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2816.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2816.png?t=20090916122725" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2816.png?size=smaller&amp;t=20090916122725" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2816.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Sins of S&#233;verac Bablon</title>
+<id>http://www.feedbooks.com/book/3782</id>
+<author>
+  <name>Sax Rohmer</name>
+  <uri>http://www.feedbooks.com/author/778</uri>
+</author>
+<updated>2009-08-18T01:18:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt:
+&quot;There's half a score of your ancestral halls,&quot; said Julius Rohscheimer, &quot;that I could sell up to-morrow morning!
+Of the quartet that heard his words no two members seemed quite similarly impressed.
+The pale face of Adeler, the great financier's confidential secretary, expressed no emotion whatever. Sir Richard Haredale flashed contempt from his grey eyes&#8212;only to veil his scorn of the man's vulgarity beneath a cloud of tobacco smoke. Tom Sheard, of the Gleaner, drew down a corner of his mouth and felt ashamed of the acquaintance. Denby, the music-hall comedian, softly whistled those bars of a popular ballad set to the words, &quot;I stood in old Jerusalem.&quot;
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3782.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3782.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3782.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3782.png?t=20090818011814" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3782.png?size=smaller&amp;t=20090818011814" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3782.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Fat and the Thin</title>
+<id>http://www.feedbooks.com/book/3954</id>
+<author>
+  <name>Emile Zola</name>
+  <uri>http://www.feedbooks.com/author/8</uri>
+</author>
+<updated>2009-08-18T01:18:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1873</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>English translation of &quot;Le Ventre de Paris&quot;</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3954.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3954.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3954.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3954.png?t=20090818011817" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3954.png?size=smaller&amp;t=20090818011817" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3954.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Death of a Spaceman</title>
+<id>http://www.feedbooks.com/book/4092</id>
+<author>
+  <name>Walter M. Miller</name>
+  <uri>http://www.feedbooks.com/author/1150</uri>
+</author>
+<updated>2009-08-18T01:18:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The manner in which a man has lived is often the key to the way he will die. Take old man Donegal, for example. Most of his adult life was spent in digging a hole through space to learn what was on the other side. Would he go out the same way?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29643</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4092.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4092.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4092.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4092.png?t=20090818011819" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4092.png?size=smaller&amp;t=20090818011819" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4092.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sjambak</title>
+<id>http://www.feedbooks.com/book/4216</id>
+<author>
+  <name>Jack Vance</name>
+  <uri>http://www.feedbooks.com/author/1201</uri>
+</author>
+<updated>2009-09-18T15:42:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Wilbur Murphy sought romance, excitement, and an impossible Horseman of Space. With polite smiles, the planet frustrated him at every turn&#8212;until he found them all the hard way!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30002</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4216.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4216.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4216.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4216.png?t=20090918154245" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4216.png?size=smaller&amp;t=20090918154245" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4216.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Truth About Pyecraft</title>
+<id>http://www.feedbooks.com/book/611</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:27:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1903</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/611.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/611.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/611.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/611.png?t=20090916102713" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/611.png?size=smaller&amp;t=20090916102713" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/611.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The People of the Mist</title>
+<id>http://www.feedbooks.com/book/1013</id>
+<author>
+  <name>Henry Rider Haggard</name>
+  <uri>http://www.feedbooks.com/author/32</uri>
+</author>
+<updated>2009-09-16T10:39:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1894</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>A penniless British adventurer seeks untold wealth in the wilds of the &quot;Dark Continent&quot; after losing his family lands and estates in this thrilling novel of romance, adventure, and lost peoples.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1013.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1013.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1013.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1013.png?t=20090916103925" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1013.png?size=smaller&amp;t=20090916103925" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1013.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Blood of the Gods</title>
+<id>http://www.feedbooks.com/book/1647</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T11:08:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1935</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1647.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1647.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1647.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1647.png?t=20090916110830" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1647.png?size=smaller&amp;t=20090916110830" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1647.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Kennel Murder Case</title>
+<id>http://www.feedbooks.com/book/1760</id>
+<author>
+  <name>S. S. Van Dine</name>
+  <uri>http://www.feedbooks.com/author/250</uri>
+</author>
+<updated>2009-09-16T11:12:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1933</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1760.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1760.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1760.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1760.png?t=20090916111258" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1760.png?size=smaller&amp;t=20090916111258" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1760.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Second-Floor Girls</title>
+<id>http://www.feedbooks.com/book/2545</id>
+<author>
+  <name>Richard Kadrey</name>
+  <uri>http://www.feedbooks.com/author/109</uri>
+</author>
+<updated>2009-09-16T11:27:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2002</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.infinitematrix.net/stories/shortshorts/kadrey47.html</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2545.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2545.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2545.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2545.png?t=20090916112735" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2545.png?size=smaller&amp;t=20090916112735" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2545.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Legacy</title>
+<id>http://www.feedbooks.com/book/2008</id>
+<author>
+  <name>James Henry Schmitz</name>
+  <uri>http://www.feedbooks.com/author/278</uri>
+</author>
+<updated>2009-09-16T11:29:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Trigger Argee has been sent by her boss to the University Planet to oversee a plasmoid project. So why aren't Professor Mantelish or Trigger's boss anywhere to be found -- and why is Trigger being kept in the dark? And why is Pilch of the Psychology Service so keen to dig through Trigger's mind?</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2008.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2008.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2008.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2008.png?t=20090916112918" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2008.png?size=smaller&amp;t=20090916112918" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2008.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

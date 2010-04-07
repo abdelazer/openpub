@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=97</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=97" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=97" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 97 | Feedbooks</title>
+  <updated>2010-04-07T18:27:17Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1921</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=96" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=98" rel="next" title="Next Page"/>
+<entry>
+<title>The Mysterious Lodger</title>
+<id>http://www.feedbooks.com/book/1583</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:02:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1850</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1583.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1583.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1583.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1583.png?t=20090916110230" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1583.png?size=smaller&amp;t=20090916110230" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1583.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Ghost and the Bone-setter</title>
+<id>http://www.feedbooks.com/book/1582</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T10:58:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1838</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1582.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1582.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1582.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1582.png?t=20090916105819" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1582.png?size=smaller&amp;t=20090916105819" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1582.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Drunkard's Dream</title>
+<id>http://www.feedbooks.com/book/1580</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T10:58:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1838</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1580.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1580.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1580.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1580.png?t=20090916105802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1580.png?size=smaller&amp;t=20090916105802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1580.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ghost Stories of Chapelizod</title>
+<id>http://www.feedbooks.com/book/1579</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:03:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1851</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1579.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1579.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1579.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1579.png?t=20090916110322" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1579.png?size=smaller&amp;t=20090916110322" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1579.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dickon the Devil</title>
+<id>http://www.feedbooks.com/book/1578</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T10:59:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1872</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1578.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1578.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1578.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1578.png?t=20090916105945" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1578.png?size=smaller&amp;t=20090916105945" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1578.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Vision Of Tom Chuff</title>
+<id>http://www.feedbooks.com/book/1577</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:05:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1870</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1577.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1577.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1577.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1577.png?t=20090916110546" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1577.png?size=smaller&amp;t=20090916110546" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1577.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Stories Of Lough Guir</title>
+<id>http://www.feedbooks.com/book/1576</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:00:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1870</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1576.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1576.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1576.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1576.png?t=20090916110014" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1576.png?size=smaller&amp;t=20090916110014" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1576.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Child That Went With The Fairies</title>
+<id>http://www.feedbooks.com/book/1575</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:02:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1870</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1575.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1575.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1575.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1575.png?t=20090916110235" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1575.png?size=smaller&amp;t=20090916110235" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1575.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Wicked Captain Walshawe, Of Wauling</title>
+<id>http://www.feedbooks.com/book/1574</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T10:58:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1869</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1574.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1574.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1574.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1574.png?t=20090916105818" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1574.png?size=smaller&amp;t=20090916105818" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1574.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Laura Silver Bell</title>
+<id>http://www.feedbooks.com/book/1573</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:01:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1872</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1573.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1573.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1573.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1573.png?t=20090916110116" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1573.png?size=smaller&amp;t=20090916110116" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1573.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Haunted Baronet</title>
+<id>http://www.feedbooks.com/book/1572</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T10:58:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1871</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1572.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1572.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1572.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1572.png?t=20090916105808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1572.png?size=smaller&amp;t=20090916105808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1572.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultor De Lacy: A Legend of Cappercullen</title>
+<id>http://www.feedbooks.com/book/1571</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:04:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1861</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1571.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1571.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1571.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1571.png?t=20090916110412" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1571.png?size=smaller&amp;t=20090916110412" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1571.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>An Authentic Narrative of a Haunted House</title>
+<id>http://www.feedbooks.com/book/1570</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:01:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1862</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1570.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1570.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1570.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1570.png?t=20090916110116" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1570.png?size=smaller&amp;t=20090916110116" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1570.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>An Account of Some Strange Disturbances in Aungier Street</title>
+<id>http://www.feedbooks.com/book/1569</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:02:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1853</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1569.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1569.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1569.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1569.png?t=20090916110230" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1569.png?size=smaller&amp;t=20090916110230" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1569.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Schalken the Painter</title>
+<id>http://www.feedbooks.com/book/1568</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:05:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1851</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1568.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1568.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1568.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1568.png?t=20090916110547" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1568.png?size=smaller&amp;t=20090916110547" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1568.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Buds and Bird Voices</title>
+<id>http://www.feedbooks.com/book/1566</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:03:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1843</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1566.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1566.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1566.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1566.png?t=20090916110317" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1566.png?size=smaller&amp;t=20090916110317" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1566.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Browne's Folly</title>
+<id>http://www.feedbooks.com/book/1565</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:00:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1860</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1565.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1565.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1565.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1565.png?t=20090916110006" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1565.png?size=smaller&amp;t=20090916110006" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1565.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Book of Autographs</title>
+<id>http://www.feedbooks.com/book/1564</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:05:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1844</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1564.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1564.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1564.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1564.png?t=20090916110543" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1564.png?size=smaller&amp;t=20090916110543" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1564.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Bell's Biography</title>
+<id>http://www.feedbooks.com/book/1563</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:03:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1563.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1563.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1563.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1563.png?t=20090916110351" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1563.png?size=smaller&amp;t=20090916110351" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1563.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Ancestral Footstep</title>
+<id>http://www.feedbooks.com/book/1562</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:03:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1882</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1562.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1562.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1562.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1562.png?t=20090916110357" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1562.png?size=smaller&amp;t=20090916110357" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1562.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

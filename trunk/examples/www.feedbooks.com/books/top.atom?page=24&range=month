@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:app="http://www.w3.org/2007/app" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=24&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=24&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=24&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 24 | Feedbooks</title>
+  <updated>2010-04-07T18:24:47Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>461</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=23&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=25&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Cymbeline</title>
+<id>http://www.feedbooks.com/book/2983</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:38:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1611</dcterms:issued>
+<category term="Romance" label="Romance"/>
+<category term="Plays" label="Plays"/>
+<summary>Cymbeline is a play by William Shakespeare, based on an early Celtic British King. Although listed as a tragedy in the First Folio, modern critics often classify it as a romance. Like Othello, Measure for Measure, and The Winter's Tale, it deals with the themes of innocence and jealousy. While its date of composition is unknown, the play is known to have been produced as early as 1611. (From Wikipedia)</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2983.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2983.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2983.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2983.png?t=20090916123837" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2983.png?size=smaller&amp;t=20090916123837" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2983.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rashoumon</title>
+<id>http://www.feedbooks.com/book/4254</id>
+<author>
+  <name>Ry&#363;nosuke Akutagawa</name>
+  <uri>http://www.feedbooks.com/author/1068</uri>
+</author>
+<updated>2009-09-28T08:58:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<category term="Psychology" label="Psychology"/>
+<summary>&quot;Rash&#333;mon&quot; (Japanese: &#32645;&#29983;&#38272;) is a short story by Akutagawa Ry&#363;nosuke based on tales from the Konjaku Monogatarish&#363;. A man considering whether or not to become a thief meets a woman stealing hair from corpses. Their conversation explores the morality of theft.
+
+The story was first published in 1915 in Teikoku Bungaku. Despite its name, it provided no direct plot material for the Akira Kurosawa movie Rash&#333;mon, which was based on Akutagawa's 1921 short story, In a Grove.
+(source: Wikipedia)
+
+Note: The original Japanese version of Rashoumon is available on Feedbooks at http://feedbooks.com/book/3923</summary>
+<dcterms:source>http://sites.google.com/site/renemalenfant/rashomon</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4254.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4254.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4254.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4254.png?t=20090928085851" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4254.png?size=smaller&amp;t=20090928085851" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4254.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Hunger Artist</title>
+<id>http://www.feedbooks.com/book/193</id>
+<author>
+  <name>Franz Kafka</name>
+  <uri>http://www.feedbooks.com/author/6</uri>
+</author>
+<updated>2009-09-16T10:13:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/193.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/193.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/193.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/193.png?t=20090916101314" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/193.png?size=smaller&amp;t=20090916101314" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/193.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Measure for Measure</title>
+<id>http://www.feedbooks.com/book/2987</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:39:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1604</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<summary>Measure for Measure is a play by William Shakespeare, believed to have been written in 1603 or 1604. It was originally classified as a comedy, but is now also classified as one of Shakespeare's problem plays.
+The play deals with the issues of mercy, justice, truth and their relationship to pride and humility: &quot;Some rise by sin, and some by virtue fall&quot;
+</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2987.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2987.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2987.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2987.png?t=20090916123906" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2987.png?size=smaller&amp;t=20090916123906" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2987.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Henry VI, Part 2</title>
+<id>http://www.feedbooks.com/book/3034</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:47:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1591</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Plays" label="Plays"/>
+<summary>The Second Part of King Henry the Sixth, or Henry VI, Part 2, is a history play by William Shakespeare believed written in approximately 1590-91. It is the second part of the trilogy on Henry VI, and often grouped together with Richard III as a tetralogy on The Wars of the Roses&#8212;the success of which established Shakespeare's reputation as a playwright.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3034.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3034.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3034.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3034.png?t=20090916124725" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3034.png?size=smaller&amp;t=20090916124725" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3034.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Five Children and It</title>
+<id>http://www.feedbooks.com/book/1600</id>
+<author>
+  <name>Edith Nesbit</name>
+  <uri>http://www.feedbooks.com/author/210</uri>
+</author>
+<updated>2009-09-16T11:07:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1902</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>To Cyril, Anthea, Robert, Jane, and their baby brother, the house in the country promises a summer of freedom and play. But when they accidently uncover an accident Psammead--or Sand-fairy--who has the power to make wishes come true, they find themselves having the holiday of a lifetime, sharing one thrilling adventure after another.
+
+Asleep since dinosaurs roamed the earth, the ill-tempered, odd--looking Psammead --with his spider-shaped body, bat's ears, and snail's eyes --grudgingly agrees to grant the children one wish per day. Soon, though the children discover that their wishes have a tendancy to turn out quite differnetly than expected. Whatever they wish whether it's to fly like a bird, live in a mighty castle, or have an immense fortune --something goes terribly wrong, hilariously wrong.
+
+Then an accidental wish has horrible consequences, and the children are faced with a difficult choice: to let an innoncent manbe charged with a crime or to lose for all time their gift of magical wishes. Five Children and It is one of E. Nesbit's most beloved tales of enchantment.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1600.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1600.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1600.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1600.png?t=20090916110748" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1600.png?size=smaller&amp;t=20090916110748" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1600.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Star Maker</title>
+<id>http://www.feedbooks.com/book/2029</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:31:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1937</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Widely regarded as one of the true classics of science fiction, Star Maker is a poetic and deeply philosophical work. The story details the mental journey of an unnamed narrator who is transported not only to other worlds but also other galaxies and parallel universes, until he eventually becomes part of the &quot;cosmic mind.&quot; First published in 1937, Olaf Stapledon's descriptions of alien life are a political commentary on human life in the turbulent inter-war years. The book challenges preconceived notions of intelligence and awareness, and ultimately argues for a broadened perspective that would free us from culturally ingrained thought and our inevitable anthropomorphism. This is the first scholarly edition of a book that influenced such writers as C.S. Lewis and Arthur C. Clarke and which Jorge Luis Borges called &quot;a prodigious novel.&quot;</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2029.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2029.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2029.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2029.png?t=20090916113154" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2029.png?size=smaller&amp;t=20090916113154" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2029.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Helpfully Yours</title>
+<id>http://www.feedbooks.com/book/4660</id>
+<author>
+  <name>Evelyn E. Smith</name>
+  <uri>http://www.feedbooks.com/author/463</uri>
+</author>
+<updated>2010-03-20T17:50:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>&quot;Come down to Earth&#8212;and stay there!&quot; is a humiliating order for somebody with wings!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31644</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4660.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4660.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4660.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4660.png?t=20100320175027" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4660.png?size=smaller&amp;t=20100320175027" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4660.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Glimpses of Unfamiliar Japan, Vol 1</title>
+<id>http://www.feedbooks.com/book/2056</id>
+<author>
+  <name>Lafcadio Hearn</name>
+  <uri>http://www.feedbooks.com/author/286</uri>
+</author>
+<updated>2010-01-13T18:53:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1871</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="History" label="History"/>
+<category term="Essay" label="Essay"/>
+<category term="Travel" label="Travel"/>
+<summary>A Japanese magic-lantern show is essentially dramatic. It is a play of which the dialogue is uttered by invisible personages, the actors and the scenery being only luminous shadows. Wherefore it is peculiarly well suited to goblinries and weirdnessess of all kinds; and plays in which ghosts figure are the favourite subject. -from &quot;Of Ghosts and Goblins&quot;
+In 1889, Westerner Lafcadio Hearn arrived in Japan on a journalistic assignment, and he fell so in love with the nation and its people that he never left. In 1894, just as Japan was truly opening to the West and global interest in Japanese culture was burgeoning, Hearn published this delightful series of essays glorifying what he called the &quot;rare charm of Japanese life.&quot;
+
+Beautifully written and a joy to read, Hearn's love letters to the land of the rising sun enchant with their sweetly lyrical descriptions of winter street fairs, puppet theaters, religious statuaries, even the Japanese smile and its particular allure.
+
+A wonderful journal of immersion on a foreign land, this will bewitch Japanophiles and travelers to the East.</summary>
+<dcterms:source>http://www.gutenberg.org/dirs/etext05/8glm110.txt</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2056.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2056.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2056.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2056.png?t=20100113185315" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2056.png?size=smaller&amp;t=20100113185315" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2056.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Men of Iron</title>
+<id>http://www.feedbooks.com/book/4140</id>
+<author>
+  <name>Howard Pyle</name>
+  <uri>http://www.feedbooks.com/author/1178</uri>
+</author>
+<updated>2009-08-31T19:16:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1891</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="History" label="History"/>
+<category term="Adventure" label="Adventure"/>
+<category term="War" label="War"/>
+<summary>Men of Iron is an 1891 novel by the American author Howard Pyle, who also illustrated it. It is juvenile coming of age work in which the author has the reader experience the medieval entry into knighthood through the eyes of a young squire, Myles Falworth. In Chapter 24 the knighthood ceremony is presented and described as it would be in a non-fiction work on knighthood and chivalry. Descriptions of training equipment are also given throughout. It comprises 68,334 words and is divided into 33 unnamed chapters, an introduction, and a conclusion. It was made into a film in 1954, The Black Shield of Falworth.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/1557</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4140.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4140.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4140.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4140.png?t=20090831191629" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4140.png?size=smaller&amp;t=20090831191629" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4140.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Exile from Space</title>
+<id>http://www.feedbooks.com/book/4658</id>
+<author>
+  <name>Judith Merril</name>
+  <uri>http://www.feedbooks.com/author/1365</uri>
+</author>
+<updated>2010-03-20T17:36:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Who was this strange girl who had been born in this place&#8212;and still it wasn't her home?... &quot;They&quot; worried about the impression she'd make. Who could imagine that she'd fall in love, passionately, the way others of her blood must have done?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31661</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4658.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4658.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4658.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4658.png?t=20100320173640" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4658.png?size=smaller&amp;t=20100320173640" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4658.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Misplaced Battleship</title>
+<id>http://www.feedbooks.com/book/2394</id>
+<author>
+  <name>Harry Harrison</name>
+  <uri>http://www.feedbooks.com/author/219</uri>
+</author>
+<updated>2009-09-16T12:05:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It might seem a little careless to lose track of something as big as a battleship... but interstellar space is on a different scale of magnitude. But a misplaced battleship--in the wrong hands!--can be most dangerous.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2394.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2394.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2394.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2394.png?t=20090916120532" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2394.png?size=smaller&amp;t=20090916120532" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2394.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Public Domain: Enclosing the Commons of the Mind</title>
+<id>http://www.feedbooks.com/book/3471</id>
+<author>
+  <name>James Boyle</name>
+  <uri>http://www.feedbooks.com/author/838</uri>
+</author>
+<updated>2009-08-18T01:18:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Essay" label="Essay"/>
+<summary>In this enlightening book James Boyle describes what he calls the range wars of the information age&#8212;today&#8217;s heated battles over intellectual property. Boyle argues that just as every informed citizen needs to know at least something about the environment or civil rights, every citizen should also understand intellectual property law. Why? Because intellectual property rights mark out the ground rules of the information society, and today&#8217;s policies are unbalanced, unsupported by evidence, and often detrimental to cultural access, free speech, digital creativity, and scientific innovation.
+Boyle identifies as a major problem the widespread failure to understand the importance of the public domain&#8212;the realm of material that everyone is free to use and share without permission or fee. The public domain is as vital to innovation and culture as the realm of material protected by intellectual property rights, he asserts, and he calls for a movement akin to the environmental movement to preserve it. With a clear analysis of issues ranging from Jefferson&#8217;s philosophy of innovation to musical sampling, synthetic biology and Internet file sharing, this timely book brings a positive new perspective to important cultural and legal debates. If we continue to enclose the &#8220;commons of the mind,&#8221; Boyle argues, we will all be the poorer.</summary>
+<dcterms:source>http://yupnet.org/boyle/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3471.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3471.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3471.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3471.png?t=20090818011807" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3471.png?size=smaller&amp;t=20090818011807" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3471.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Dream of a Ridiculous Man</title>
+<id>http://www.feedbooks.com/book/2138</id>
+<author>
+  <name>Fyodor Mikhailovich Dostoyevsky</name>
+  <uri>http://www.feedbooks.com/author/2</uri>
+</author>
+<updated>2009-09-16T11:38:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1877</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Psychology" label="Psychology"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2138.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2138.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2138.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2138.png?t=20090916113841" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2138.png?size=smaller&amp;t=20090916113841" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2138.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Doctor Who: Nightshade</title>
+<id>http://www.feedbooks.com/book/2937</id>
+<author>
+  <name>Mark Gatiss</name>
+  <uri>http://www.feedbooks.com/author/612</uri>
+</author>
+<updated>2009-09-16T12:34:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1992</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Monsters of the mind kill all in their path.</summary>
+<dcterms:source>http://www.bbc.co.uk/doctorwho/classic/ebooks</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2937.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2937.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2937.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2937.png?t=20090916123451" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2937.png?size=smaller&amp;t=20090916123451" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2937.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>'Mid Pleasures and Palaces</title>
+<id>http://www.feedbooks.com/book/4664</id>
+<author>
+  <name>James McKimmey</name>
+  <uri>http://www.feedbooks.com/author/1145</uri>
+</author>
+<updated>2010-03-22T17:15:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It was, Kirk thought, like standing in a gully, watching a boulder teeter precariously above you. It might fall at any minute, crushing your life out instantly beneath its weight. Your only possible defenses are your brain and voice&#8212;but how do you argue with a boulder which neither sees nor hears?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31703</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4664.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4664.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4664.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4664.png?t=20100322171503" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4664.png?size=smaller&amp;t=20100322171503" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4664.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Return of Tarzan</title>
+<id>http://www.feedbooks.com/book/142</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2010-01-06T20:17:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/142.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/142.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/142.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/142.png?t=20100106201748" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/142.png?size=smaller&amp;t=20100106201748" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/142.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Prussian Officer</title>
+<id>http://www.feedbooks.com/book/86</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2009-09-16T10:09:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="War" label="War"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/86.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/86.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/86.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/86.png?t=20090916100914" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/86.png?size=smaller&amp;t=20090916100914" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/86.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Notes From The Underground</title>
+<id>http://www.feedbooks.com/book/361</id>
+<author>
+  <name>Fyodor Mikhailovich Dostoyevsky</name>
+  <uri>http://www.feedbooks.com/author/2</uri>
+</author>
+<updated>2009-09-16T10:18:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1864</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Notes from Underground (Russian: &#1047;&#1072;&#1087;&#1080;&#1089;&#1082;&#1080; &#1080;&#1079; &#1087;&#1086;&#1076;&#1087;&#1086;&#1083;&#1100;&#1103;, Zap&#237;ski iz podp&#243;l'ja, also translated in English as Notes from the Underground or Letters from the Underworld while Notes from Underground is the most literal translation) (1864) is a short novel by Fyodor Dostoevsky. It is considered by many to be the world's first existentialist novel. It presents itself as an excerpt from the rambling memoirs of a bitter, isolated, unnamed narrator (generally referred to by critics as the Underground Man) who is a retired civil servant living in St. Petersburg.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/361.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/361.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/361.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/361.png?t=20090916101842" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/361.png?size=smaller&amp;t=20090916101842" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/361.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Synthetic Men of Mars</title>
+<id>http://www.feedbooks.com/book/1216</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:44:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1939</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1216.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1216.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1216.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1216.png?t=20090916104449" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1216.png?size=smaller&amp;t=20090916104449" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1216.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

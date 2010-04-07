@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=88</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=88" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=88" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 88 | Feedbooks</title>
+  <updated>2010-04-07T18:27:10Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1741</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=87" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=89" rel="next" title="Next Page"/>
+<entry>
+<title>Twenty Rules For Writing Detective Stories</title>
+<id>http://www.feedbooks.com/book/1769</id>
+<author>
+  <name>S. S. Van Dine</name>
+  <uri>http://www.feedbooks.com/author/250</uri>
+</author>
+<updated>2009-09-16T11:13:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1939</dcterms:issued>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Essay" label="Essay"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1769.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1769.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1769.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1769.png?t=20090916111348" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1769.png?size=smaller&amp;t=20090916111348" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1769.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Winter Murder Case</title>
+<id>http://www.feedbooks.com/book/1768</id>
+<author>
+  <name>S. S. Van Dine</name>
+  <uri>http://www.feedbooks.com/author/250</uri>
+</author>
+<updated>2009-09-16T11:13:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1939</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1768.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1768.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1768.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1768.png?t=20090916111346" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1768.png?size=smaller&amp;t=20090916111346" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1768.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Gracie Allen Murder Case</title>
+<id>http://www.feedbooks.com/book/1767</id>
+<author>
+  <name>S. S. Van Dine</name>
+  <uri>http://www.feedbooks.com/author/250</uri>
+</author>
+<updated>2009-09-16T11:13:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1938</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1767.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1767.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1767.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1767.png?t=20090916111344" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1767.png?size=smaller&amp;t=20090916111344" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1767.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Kidnap Murder Case</title>
+<id>http://www.feedbooks.com/book/1766</id>
+<author>
+  <name>S. S. Van Dine</name>
+  <uri>http://www.feedbooks.com/author/250</uri>
+</author>
+<updated>2009-09-16T11:13:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1936</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1766.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1766.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1766.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1766.png?t=20090916111338" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1766.png?size=smaller&amp;t=20090916111338" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1766.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Sentimental Journey</title>
+<id>http://www.feedbooks.com/book/1764</id>
+<author>
+  <name>Laurence Sterne</name>
+  <uri>http://www.feedbooks.com/author/251</uri>
+</author>
+<updated>2009-09-16T11:13:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1768</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>A Sentimental Journey Through France and Italy is a novel by the Irish-born English author Laurence Sterne, written and first published in 1768, as Sterne was facing death. In 1765 Laurence Sterne travelled through France and Italy as far south as Naples, and after returning determined to describe his travels from a sentimental point of view. The novel can be seen as an epilogue to the possibly unfinished work The Life and Opinions of Tristram Shandy, Gentleman, and also as an answer to Tobias Smollett's decidedly unsentimental Travels through France and Italy. (Sterne met Smollett during his travels in Europe, and strongly objected to his spleen, acerbity and quarrelsomeness. He modeled the character of Smelfungus on him.)
+The novel was extremely popular and influential and helped establish travel writing as the dominant genre of the second half of the 18th century. Unlike prior travel accounts which stressed classical learning and objective non-personal points of view, A Sentimental Journey emphasized the subjective discussions of personal taste and sentiments, of manners and morals over classical learning. Throughout the 1770s women travel writers began publishing significant numbers of sentimental travel accounts. Sentiment also became a favorite style among those expressing non-mainstream views including political radicalism.
+The narrator is the Reverend Mr. Yorick, who is slyly represented to guileless readers as Sterne's barely disguised alter ego. The book recounts his various adventures, usually of the amorous type, in a series of self-contained episodes. The book is less eccentric and more elegant in style than Tristram Shandy and was better received by contemporary critics. It was published on February 27, and on March 18 Sterne died.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1764.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1764.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1764.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1764.png?t=20090916111333" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1764.png?size=smaller&amp;t=20090916111333" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1764.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Garden Murder Case</title>
+<id>http://www.feedbooks.com/book/1763</id>
+<author>
+  <name>S. S. Van Dine</name>
+  <uri>http://www.feedbooks.com/author/250</uri>
+</author>
+<updated>2009-09-16T11:13:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1935</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1763.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1763.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1763.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1763.png?t=20090916111313" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1763.png?size=smaller&amp;t=20090916111313" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1763.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Casino Murder Case</title>
+<id>http://www.feedbooks.com/book/1762</id>
+<author>
+  <name>S. S. Van Dine</name>
+  <uri>http://www.feedbooks.com/author/250</uri>
+</author>
+<updated>2009-09-16T11:13:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1934</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1762.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1762.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1762.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1762.png?t=20090916111309" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1762.png?size=smaller&amp;t=20090916111309" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1762.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Dragon Murder Case</title>
+<id>http://www.feedbooks.com/book/1761</id>
+<author>
+  <name>S. S. Van Dine</name>
+  <uri>http://www.feedbooks.com/author/250</uri>
+</author>
+<updated>2009-09-16T11:13:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1933</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1761.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1761.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1761.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1761.png?t=20090916111303" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1761.png?size=smaller&amp;t=20090916111303" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1761.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Kennel Murder Case</title>
+<id>http://www.feedbooks.com/book/1760</id>
+<author>
+  <name>S. S. Van Dine</name>
+  <uri>http://www.feedbooks.com/author/250</uri>
+</author>
+<updated>2009-09-16T11:12:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1933</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1760.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1760.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1760.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1760.png?t=20090916111258" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1760.png?size=smaller&amp;t=20090916111258" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1760.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Scarab Murder Case</title>
+<id>http://www.feedbooks.com/book/1759</id>
+<author>
+  <name>S. S. Van Dine</name>
+  <uri>http://www.feedbooks.com/author/250</uri>
+</author>
+<updated>2009-09-16T11:12:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1930</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1759.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1759.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1759.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1759.png?t=20090916111251" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1759.png?size=smaller&amp;t=20090916111251" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1759.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Bishop Murder Case</title>
+<id>http://www.feedbooks.com/book/1758</id>
+<author>
+  <name>S. S. Van Dine</name>
+  <uri>http://www.feedbooks.com/author/250</uri>
+</author>
+<updated>2009-09-16T11:12:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1928</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1758.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1758.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1758.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1758.png?t=20090916111245" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1758.png?size=smaller&amp;t=20090916111245" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1758.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>An Old Acquaintance</title>
+<id>http://www.feedbooks.com/book/1757</id>
+<author>
+  <name>Lev Nikolayevich Tolstoy</name>
+  <uri>http://www.feedbooks.com/author/28</uri>
+</author>
+<updated>2009-09-16T11:12:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1887</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1757.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1757.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1757.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1757.png?t=20090916111239" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1757.png?size=smaller&amp;t=20090916111239" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1757.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Endicott and the Red Cross</title>
+<id>http://www.feedbooks.com/book/1756</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:12:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1756.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1756.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1756.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1756.png?t=20090916111239" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1756.png?size=smaller&amp;t=20090916111239" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1756.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Shaker Bridal</title>
+<id>http://www.feedbooks.com/book/1755</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:12:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1755.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1755.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1755.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1755.png?t=20090916111238" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1755.png?size=smaller&amp;t=20090916111238" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1755.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Peter Goldthwaite's Treasure</title>
+<id>http://www.feedbooks.com/book/1754</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:12:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1754.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1754.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1754.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1754.png?t=20090916111238" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1754.png?size=smaller&amp;t=20090916111238" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1754.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Legends of the Province House</title>
+<id>http://www.feedbooks.com/book/1753</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:12:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1753.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1753.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1753.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1753.png?t=20090916111237" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1753.png?size=smaller&amp;t=20090916111237" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1753.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dr. Heidegger's Experiment</title>
+<id>http://www.feedbooks.com/book/1752</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:12:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1752.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1752.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1752.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1752.png?t=20090916111217" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1752.png?size=smaller&amp;t=20090916111217" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1752.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Hollow of the Three Hills</title>
+<id>http://www.feedbooks.com/book/1751</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:12:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1751.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1751.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1751.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1751.png?t=20090916111217" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1751.png?size=smaller&amp;t=20090916111217" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1751.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>David Swan</title>
+<id>http://www.feedbooks.com/book/1750</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:12:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1750.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1750.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1750.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1750.png?t=20090916111217" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1750.png?size=smaller&amp;t=20090916111217" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1750.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mr. Higginbotham's Catastrophe</title>
+<id>http://www.feedbooks.com/book/1749</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:12:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1749.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1749.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1749.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1749.png?t=20090916111217" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1749.png?size=smaller&amp;t=20090916111217" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1749.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

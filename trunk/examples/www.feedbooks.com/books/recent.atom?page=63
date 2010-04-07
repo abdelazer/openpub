@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:app="http://www.w3.org/2007/app" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=63</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=63" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=63" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 63 | Feedbooks</title>
+  <updated>2010-04-07T18:26:56Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1241</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=62" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=64" rel="next" title="Next Page"/>
+<entry>
+<title>Bread Overhead</title>
+<id>http://www.feedbooks.com/book/2436</id>
+<author>
+  <name>Fritz Reuter Leiber Jr.</name>
+  <uri>http://www.feedbooks.com/author/380</uri>
+</author>
+<updated>2009-09-16T12:05:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The Staff of Life suddenly and disconcertingly sprouted wings--and mankind had to eat crow!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2436.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2436.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2436.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2436.png?t=20090916120505" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2436.png?size=smaller&amp;t=20090916120505" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2436.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Space Platform</title>
+<id>http://www.feedbooks.com/book/2431</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2009-09-16T12:07:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Space Platform tells of man&#8217;s first step into outer space ... of the difficulties and dangers of reaching for the stars. It is also an exciting adventure. When young Joe Kenmore came to Bootstrap to install pilot gyros in the Platform he hadn&#8217;t bargained for sabotage or murder or love. But Joe learned that ruthless agents were determined to wreck the project. He found that the beautiful girl he loved, and men like The Chief, a rugged Indian steelworker, and Mike, a midget who made up for his size by brains, would have to fight with their bare hands to make man&#8217;s age old dream of space travel come true!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2431.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2431.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2431.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2431.png?t=20090916120717" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2431.png?size=smaller&amp;t=20090916120717" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2431.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Ghost Pirates</title>
+<id>http://www.feedbooks.com/book/2427</id>
+<author>
+  <name>William Hope Hodgson</name>
+  <uri>http://www.feedbooks.com/author/374</uri>
+</author>
+<updated>2009-09-16T11:53:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1909</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2427.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2427.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2427.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2427.png?t=20090916115319" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2427.png?size=smaller&amp;t=20090916115319" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2427.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Carnacki, The Ghost Finder</title>
+<id>http://www.feedbooks.com/book/2426</id>
+<author>
+  <name>William Hope Hodgson</name>
+  <uri>http://www.feedbooks.com/author/374</uri>
+</author>
+<updated>2009-09-16T11:50:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>Detective stories in which the great Thomas Carnacki investigates the supernatural using scientific tools, such as photography, and tools that are augmented by theories of the supernatural, such as the electric pentacle, which uses vacuum tubes to repel supernatural forces.</summary>
+<dcterms:source>http://www.forgottenfutures.com/game/ff4/carnacki.htm</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2426.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2426.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2426.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2426.png?t=20090916115049" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2426.png?size=smaller&amp;t=20090916115049" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2426.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Boats of the 'Glen-Carrig'</title>
+<id>http://www.feedbooks.com/book/2425</id>
+<author>
+  <name>William Hope Hodgson</name>
+  <uri>http://www.feedbooks.com/author/374</uri>
+</author>
+<updated>2009-09-16T11:03:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2425.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2425.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2425.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2425.png?t=20090916110300" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2425.png?size=smaller&amp;t=20090916110300" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2425.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The House on the Borderland</title>
+<id>http://www.feedbooks.com/book/2418</id>
+<author>
+  <name>William Hope Hodgson</name>
+  <uri>http://www.feedbooks.com/author/374</uri>
+</author>
+<updated>2009-09-16T11:39:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>Hodgson wrote a trilogy consisting of Date 1965 Modern Warfare, The House on the Borderland, and The Ghost Pirates. The setting for The House on the Borderland is an ancient house in a lonely part of Ireland, where an old man lives alone with his sister and his pets. His diary is found and it tells the story of a huge cavern below the house filled with white pig like monsters. The old man has had to flight these creatures. He then sees his house in an alternate space-time plain that is isolated from the rest of his world. This haunting tale conveys intense isolations and loneliness.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2418.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2418.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2418.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2418.png?t=20090916113916" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2418.png?size=smaller&amp;t=20090916113916" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2418.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Night Land</title>
+<id>http://www.feedbooks.com/book/2417</id>
+<author>
+  <name>William Hope Hodgson</name>
+  <uri>http://www.feedbooks.com/author/374</uri>
+</author>
+<updated>2009-09-16T11:54:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>The Sun has gone out: the Earth is lit only by the glow of residual vulcanism. The last few millions of the human race are gathered together in a gigantic metal pyramid, the Last Redoubt, under siege from unknown forces and Powers outside in the dark. These are held back by a Circle of energy, known as the &quot;air clog,&quot; powered from the Earth's internal energy. For millennia, vast living shapes - the Watchers - have waited in the darkness near the pyramid: it is thought they are waiting for the inevitable time when the Circle's power finally weakens and dies. Other living things have been seen in the darkness beyond, some of unknown origins, and others that may once have been human.
+To leave the protection of the Circle means almost certain death, or worse, but as the story commences, the narrator establishes mind contact with an inhabitant of another, forgotten, Redoubt, and sets off into the darkness to find her.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2417.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2417.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2417.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2417.png?t=20090916115421" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2417.png?size=smaller&amp;t=20090916115421" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2417.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>News from Nowhere</title>
+<id>http://www.feedbooks.com/book/2415</id>
+<author>
+  <name>William Morris</name>
+  <uri>http://www.feedbooks.com/author/372</uri>
+</author>
+<updated>2009-09-16T11:55:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1890</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>News from Nowhere (1890) is a classic work combining utopian socialism and soft science fiction written by the artist, designer and socialist pioneer William Morris. In the book, the narrator, William Guest, falls asleep after returning from a meeting of the Socialist League and awakes to find himself in a future society based on common ownership and democratic control of the means of production. In this society there is no private property, no big cities, no authority, no monetary system, no divorce, no courts, no prisons, and no class systems. This agrarian society functions simply because the people find pleasure in nature, and therefore they find pleasure in their work.
+The book explores a number of aspects of this society, including its organisation and the relationships which it engenders between people.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2415.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2415.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2415.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2415.png?t=20090916115548" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2415.png?size=smaller&amp;t=20090916115548" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2415.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Perfectionists</title>
+<id>http://www.feedbooks.com/book/2414</id>
+<author>
+  <name>Adam Castle</name>
+  <uri>http://www.feedbooks.com/author/371</uri>
+</author>
+<updated>2009-09-16T11:24:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Is there something wrong with you? Do you fail to fit in with your group? Nervous, anxious, ill-at-ease? Happy about it? Lucky you!</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2414.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2414.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2414.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2414.png?t=20090916112414" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2414.png?size=smaller&amp;t=20090916112414" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2414.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Professional Approach</title>
+<id>http://www.feedbooks.com/book/2413</id>
+<author>
+  <name>Charles Leonard Harness</name>
+  <uri>http://www.feedbooks.com/author/370</uri>
+</author>
+<updated>2009-09-16T12:07:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The trials of a patent lawyer are usually highly technical tribulations--and among the greatest is the fact that Inventors are only slightly less predictable than their Inventions!</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2413.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2413.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2413.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2413.png?t=20090916120711" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2413.png?size=smaller&amp;t=20090916120711" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2413.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Premiere</title>
+<id>http://www.feedbooks.com/book/2411</id>
+<author>
+  <name>Richard Sabia</name>
+  <uri>http://www.feedbooks.com/author/367</uri>
+</author>
+<updated>2009-09-16T12:07:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The young actor was great.... They didn't realize just how great until the night of THE PREMIERE.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2411.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2411.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2411.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2411.png?t=20090916120710" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2411.png?size=smaller&amp;t=20090916120710" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2411.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>I Was a Teen-Age Secret Weapon</title>
+<id>http://www.feedbooks.com/book/2409</id>
+<author>
+  <name>Richard Sabia</name>
+  <uri>http://www.feedbooks.com/author/367</uri>
+</author>
+<updated>2009-09-16T12:07:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>He could truthfully say that he never hurt anybody. You know--like the eye of a hurricane? It never hurts anybody....</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2409.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2409.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2409.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2409.png?t=20090916120707" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2409.png?size=smaller&amp;t=20090916120707" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2409.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Players</title>
+<id>http://www.feedbooks.com/book/2405</id>
+<author>
+  <name>Everett B. Cole</name>
+  <uri>http://www.feedbooks.com/author/365</uri>
+</author>
+<updated>2009-09-16T11:48:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A Playboy is someone with power, too much time on his hands, and too little sense of a goal worth achieving. And if the Playboy happens to belong to a highly advanced culture....</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2405.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2405.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2405.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2405.png?t=20090916114830" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2405.png?size=smaller&amp;t=20090916114830" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2405.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Millennium</title>
+<id>http://www.feedbooks.com/book/2404</id>
+<author>
+  <name>Everett B. Cole</name>
+  <uri>http://www.feedbooks.com/author/365</uri>
+</author>
+<updated>2009-09-16T11:34:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There are devices a high-level culture could produce that simply don't belong in the hands of incompetents of lower cultural evolution. The finest, and most civilized of tools can be made a menace ...</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2404.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2404.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2404.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2404.png?t=20090916113453" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2404.png?size=smaller&amp;t=20090916113453" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2404.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Indirection</title>
+<id>http://www.feedbooks.com/book/2403</id>
+<author>
+  <name>Everett B. Cole</name>
+  <uri>http://www.feedbooks.com/author/365</uri>
+</author>
+<updated>2009-09-16T11:51:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The best way to keep a secret is to publish it in a quite unbelievable form--and insist that it is the truth.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2403.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2403.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2403.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2403.png?t=20090916115104" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2403.png?size=smaller&amp;t=20090916115104" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2403.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Final Weapon</title>
+<id>http://www.feedbooks.com/book/2402</id>
+<author>
+  <name>Everett B. Cole</name>
+  <uri>http://www.feedbooks.com/author/365</uri>
+</author>
+<updated>2009-09-16T11:35:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The societal picture painted by Cole is mainly gray: for second and third class citizens, life is literally lived underground, at subsistence or lower, and closely monitored in all aspects. The few ruling elite, the first class citizens, enjoy personal freedoms and luxuries and exercise control over the rest, forming the basis for Cole criticism of socialist societies.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2402.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2402.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2402.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2402.png?t=20090916113506" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2402.png?size=smaller&amp;t=20090916113506" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2402.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Best Made Plans</title>
+<id>http://www.feedbooks.com/book/2401</id>
+<author>
+  <name>Everett B. Cole</name>
+  <uri>http://www.feedbooks.com/author/365</uri>
+</author>
+<updated>2009-09-16T11:02:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There are some people that it is extremely unwise to cross... and the fireworks start when two such people cross each other!</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2401.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2401.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2401.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2401.png?t=20090916110204" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2401.png?size=smaller&amp;t=20090916110204" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2401.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Alarm Clock</title>
+<id>http://www.feedbooks.com/book/2400</id>
+<author>
+  <name>Everett B. Cole</name>
+  <uri>http://www.feedbooks.com/author/365</uri>
+</author>
+<updated>2009-09-16T11:03:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Most useful high explosives, like ammonium nitrate, are enormously violent ... once they're triggered. But they will remain seemingly inert when beaten, burned, variously punished--until the particular shock required comes along....</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2400.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2400.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2400.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2400.png?t=20090916110345" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2400.png?size=smaller&amp;t=20090916110345" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2400.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Planet Mars &amp; Its Inhabitants</title>
+<id>http://www.feedbooks.com/book/2399</id>
+<author>
+  <name>J.L. Kennon</name>
+  <uri>http://www.feedbooks.com/author/364</uri>
+</author>
+<updated>2009-09-16T12:05:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Religion" label="Religion"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2399.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2399.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2399.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2399.png?t=20090916120516" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2399.png?size=smaller&amp;t=20090916120516" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2399.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Philip Dru: Administrator</title>
+<id>http://www.feedbooks.com/book/2398</id>
+<author>
+  <name>Edward Mandell House</name>
+  <uri>http://www.feedbooks.com/author/363</uri>
+</author>
+<updated>2009-09-16T12:05:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Politics" label="Politics"/>
+<summary>A Utopian vision in which the title character leads the democratic western U.S. in a civil war against the plutocratic East, and becomes dictator of America.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2398.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2398.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2398.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2398.png?t=20090916120532" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2398.png?size=smaller&amp;t=20090916120532" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2398.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

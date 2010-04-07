@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:app="http://www.w3.org/2007/app" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=107</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=107" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=107" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 107 | Feedbooks</title>
+  <updated>2010-04-07T18:27:23Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2121</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=106" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=108" rel="next" title="Next Page"/>
+<entry>
+<title>The Cenci</title>
+<id>http://www.feedbooks.com/book/1252</id>
+<author>
+  <name>Alexandre Dumas</name>
+  <uri>http://www.feedbooks.com/author/25</uri>
+</author>
+<updated>2009-09-16T10:45:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1840</dcterms:issued>
+<category term="History" label="History"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1252.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1252.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1252.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1252.png?t=20090916104552" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1252.png?size=smaller&amp;t=20090916104552" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1252.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Borgias</title>
+<id>http://www.feedbooks.com/book/1248</id>
+<author>
+  <name>Alexandre Dumas</name>
+  <uri>http://www.feedbooks.com/author/25</uri>
+</author>
+<updated>2009-09-16T10:45:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1840</dcterms:issued>
+<category term="History" label="History"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1248.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1248.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1248.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1248.png?t=20090916104539" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1248.png?size=smaller&amp;t=20090916104539" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1248.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ali Pacha</title>
+<id>http://www.feedbooks.com/book/1247</id>
+<author>
+  <name>Alexandre Dumas</name>
+  <uri>http://www.feedbooks.com/author/25</uri>
+</author>
+<updated>2009-09-16T10:45:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1840</dcterms:issued>
+<category term="History" label="History"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1247.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1247.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1247.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1247.png?t=20090916104537" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1247.png?size=smaller&amp;t=20090916104537" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1247.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Camille</title>
+<id>http://www.feedbooks.com/book/1246</id>
+<author>
+  <name>Alexandre Dumas (fils)</name>
+  <uri>http://www.feedbooks.com/author/112</uri>
+</author>
+<updated>2009-09-16T10:45:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1844</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1246.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1246.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1246.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1246.png?t=20090916104535" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1246.png?size=smaller&amp;t=20090916104535" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1246.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Damned (L&#224;-bas)</title>
+<id>http://www.feedbooks.com/book/1242</id>
+<author>
+  <name>Joris-Karl Huysmans</name>
+  <uri>http://www.feedbooks.com/author/43</uri>
+</author>
+<updated>2009-09-16T10:45:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1891</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1242.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1242.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1242.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1242.png?t=20090916104523" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1242.png?size=smaller&amp;t=20090916104523" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1242.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Cathedral</title>
+<id>http://www.feedbooks.com/book/1241</id>
+<author>
+  <name>Joris-Karl Huysmans</name>
+  <uri>http://www.feedbooks.com/author/43</uri>
+</author>
+<updated>2009-09-16T10:45:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1898</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1241.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1241.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1241.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1241.png?t=20090916104520" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1241.png?size=smaller&amp;t=20090916104520" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1241.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Against the Grain</title>
+<id>http://www.feedbooks.com/book/1240</id>
+<author>
+  <name>Joris-Karl Huysmans</name>
+  <uri>http://www.feedbooks.com/author/43</uri>
+</author>
+<updated>2009-09-16T10:45:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1884</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Because of his extreme sensitivity to the absurd and grotesque in human affairs, the protagonist of this masterpiece of decadence has estranged himself from society and savors the most bizarre aspects of human existence in his quest for novelty. This landmark novel is filled with weird images and biting wit.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1240.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1240.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1240.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1240.png?t=20090916104518" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1240.png?size=smaller&amp;t=20090916104518" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1240.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Between the Acts</title>
+<id>http://www.feedbooks.com/book/1235</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:42:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1941</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>In Woolf&#8217;s last novel, the action takes place on one summer&#8217;s day at a country house in the heart of England, where the villagers are presenting their annual pageant. A lyrical, moving valedictory.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1235.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1235.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1235.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1235.png?t=20090916104250" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1235.png?size=smaller&amp;t=20090916104250" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1235.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>To the Lighthouse</title>
+<id>http://www.feedbooks.com/book/1234</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:44:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1927</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>To the Lighthouse (5 May 1927) is a novel by Virginia Woolf. A landmark novel of high modernism, the text, centering on the Ramsay family and their visits to the Isle of Skye in Scotland between 1910 and 1920, skillfully manipulates temporality and psychological exploration.
+To the Lighthouse follows and extends the tradition of modernist novelists like Marcel Proust and James Joyce, where the plot is secondary to philosophical introspection, and the prose can be winding and hard to follow. The novel includes little dialogue and almost no action; most of it is written as thoughts and observations. The novel recalls the power of childhood emotions and highlights the impermanence of adult relationships. One of the book's several themes is the ubiquity of transience.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1234.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1234.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1234.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1234.png?t=20090916104441" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1234.png?size=smaller&amp;t=20090916104441" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1234.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Years</title>
+<id>http://www.feedbooks.com/book/1233</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:39:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1937</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1233.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1233.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1233.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1233.png?t=20090916103937" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1233.png?size=smaller&amp;t=20090916103937" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1233.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ulysses</title>
+<id>http://www.feedbooks.com/book/1232</id>
+<author>
+  <name>James Joyce</name>
+  <uri>http://www.feedbooks.com/author/4</uri>
+</author>
+<updated>2009-11-26T17:39:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Sexuality" label="Sexuality"/>
+<summary>Ulysses is a novel by James Joyce, first serialized in parts in the American journal The Little Review from March 1918 to December 1920, then published in its entirety by Sylvia Beach on February 2, 1922, in Paris. It is considered one of the most important works of Modernist literature.
+Ulysses chronicles the passage through Dublin by its main character, Leopold Bloom, during an ordinary day, June 16, 1904. The title alludes to the hero of Homer's Odyssey (Latinised into Ulysses), and there are many parallels, both implicit and explicit, between the two works (e.g., the correspondences between Leopold Bloom and Odysseus, Molly Bloom and Penelope, and Stephen Dedalus and Telemachus).</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1232.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1232.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1232.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1232.png?t=20091126173958" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1232.png?size=smaller&amp;t=20091126173958" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1232.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mrs. Dalloway</title>
+<id>http://www.feedbooks.com/book/1231</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:43:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1925</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Mrs Dalloway (published on 14 May 1925) is a novel by Virginia Woolf that details a day in the life of Clarissa Dalloway in post-World War I England. Mrs Dalloway continues to be one of Woolf's best-known novels.
+Created from two short stories, &quot;Mrs Dalloway in Bond Street&quot; and the unfinished &quot;The Prime Minister&quot;, the novel's story is of Clarissa's preparations for a party of which she is to be hostess. With the interior perspective of the novel, the story travels forwards and back in time, and in and out of the characters' minds, to construct a complete image of Clarissa's life and of the inter-war social structure.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1231.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1231.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1231.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1231.png?t=20090916104311" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1231.png?size=smaller&amp;t=20090916104311" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1231.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Waves</title>
+<id>http://www.feedbooks.com/book/1230</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:37:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>One of Woolf&#8217;s most experimental novels, The Waves presents six characters in monologue - from morning until night, from childhood into old age - against a background of the sea. The result is a glorious chorus of voices that exists not to remark on the passing of events but to celebrate the connection between its various individual parts.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1230.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1230.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1230.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1230.png?t=20090916103728" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1230.png?size=smaller&amp;t=20090916103728" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1230.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Savage Pellucidar</title>
+<id>http://www.feedbooks.com/book/1229</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:43:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1944</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>When David Innes and Abner Perry set out to search for mineral deposits in Perry's newly invented Mechanical Prospectro, they never dreamed of discovering the beautiful, terrifying world of Pellucidar five hundred miles beneath their feet. Cast into a country of fierce fighting men, beautiful women, and vicious beasts, David and Abner take sharply diverging paths. David and his mate, Dian the Beautiful, set out to teach Pellucidar the ways of civilization and succeed in gathering a number of primitive kingdoms into the Empire of Pellucidar. Meanwhile, Abner turns his inventive genius to the science of aeronautics, with dire results for both David and Dian.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1229.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1229.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1229.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1229.png?t=20090916104340" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1229.png?size=smaller&amp;t=20090916104340" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1229.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Land of Terror</title>
+<id>http://www.feedbooks.com/book/1228</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:34:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1944</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Years ago David Innes and Abner Perry bored straight down through five hundred miles of the earth's crust and landed in Pellucidar, the savage, primeval world that lies at the center of the earth. This is the story of their continuing adventures in the timeless land of perpetual noon and their encounters with the hideous creatures and savage men who pursue them. Although they encounter enemies at every turn, David and Abner find a few loyal friends as they embark on exhilarating adventures.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1228.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1228.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1228.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1228.png?t=20090916103410" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1228.png?size=smaller&amp;t=20090916103410" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1228.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Back to the Stone Age</title>
+<id>http://www.feedbooks.com/book/1227</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:40:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1937</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The fifth installment of Edgar Rice Burroughs&#8217;s Pellucidar series, Back to the Stone Age recounts the strange adventures of Lieutenant von Horst, a member of the original crew that sailed to Pellucidar with Jason Gridley and Tarzan who is left behind in the inner world. Von Horst wanders friendless and alone from one danger to the next among the Stone Age peoples, mighty reptiles, and huge animals that have been extinct on the outer crust for thousands of years. But woven among the tales of savage cave men in the country of the Basti, the hideous Gorbuses in the caverns beneath the Forest of Death, and the terrible Gaz is the story of the love this cultured hero feels for a barbarian slave girl who has spurned and discouraged him, working instead toward her own mysterious goal.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1227.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1227.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1227.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1227.png?t=20090916104042" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1227.png?size=smaller&amp;t=20090916104042" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1227.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tanar of Pellucidar</title>
+<id>http://www.feedbooks.com/book/1226</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:45:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1929</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1226.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1226.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1226.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1226.png?t=20090916104503" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1226.png?size=smaller&amp;t=20090916104503" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1226.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Red Hawk</title>
+<id>http://www.feedbooks.com/book/1225</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:41:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1925</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1225.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1225.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1225.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1225.png?t=20090916104140" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1225.png?size=smaller&amp;t=20090916104140" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1225.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Moon Men</title>
+<id>http://www.feedbooks.com/book/1224</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:44:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1926</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1224.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1224.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1224.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1224.png?t=20090916104444" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1224.png?size=smaller&amp;t=20090916104444" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1224.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Moon Maid</title>
+<id>http://www.feedbooks.com/book/1223</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:32:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1923</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>In the late twentieth century, Admiral Julian 3rd can get no rest, for he knows his future. He will be reborn as his grandson in the next century to journey through space and make an ominous discovery inside the moon; he will live again in the dark years of the twenty-second century as Julian 9th, who refuses to bow down to the victorious Moon Men; and as Julian 20th, the fierce Red Hawk, he will lead humanity's final battle against the alien invaders in the twenty-fifth century.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1223.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1223.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1223.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1223.png?t=20090916103201" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1223.png?size=smaller&amp;t=20090916103201" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1223.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

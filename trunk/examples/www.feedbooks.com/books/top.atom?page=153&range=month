@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=153&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=153&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=153&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 153 | Feedbooks</title>
+  <updated>2010-04-07T18:26:10Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>3041</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=152&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=154&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Upstarts</title>
+<id>http://www.feedbooks.com/book/3503</id>
+<author>
+  <name>L.J. Stecher</name>
+  <uri>http://www.feedbooks.com/author/854</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Earth was being bet on to break her blockade... but what was the purse... and who was to collect?</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3503.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3503.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3503.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3503.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3503.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3503.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Christian Gellert's Last Christmas</title>
+<id>http://www.feedbooks.com/book/3505</id>
+<author>
+  <name>Berthold Auerbach</name>
+  <uri>http://www.feedbooks.com/author/856</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1869</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>A Christmas short-story extracted from &quot;German Tales&quot;.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3505.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3505.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3505.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3505.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3505.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3505.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Madonna of the Future</title>
+<id>http://www.feedbooks.com/book/401</id>
+<author>
+  <name>Henry James</name>
+  <uri>http://www.feedbooks.com/author/113</uri>
+</author>
+<updated>2009-09-16T10:20:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1873</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/401.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/401.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/401.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/401.png?t=20090916102013" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/401.png?size=smaller&amp;t=20090916102013" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/401.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sir Dominick Ferrand</title>
+<id>http://www.feedbooks.com/book/470</id>
+<author>
+  <name>Henry James</name>
+  <uri>http://www.feedbooks.com/author/113</uri>
+</author>
+<updated>2009-09-16T10:22:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1893</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/470.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/470.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/470.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/470.png?t=20090916102235" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/470.png?size=smaller&amp;t=20090916102235" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/470.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Sick Collier</title>
+<id>http://www.feedbooks.com/book/1102</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2009-09-16T10:42:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1102.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1102.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1102.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1102.png?t=20090916104212" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1102.png?size=smaller&amp;t=20090916104212" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1102.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Harlequin and Columbine</title>
+<id>http://www.feedbooks.com/book/2109</id>
+<author>
+  <name>Newton Booth Tarkington</name>
+  <uri>http://www.feedbooks.com/author/295</uri>
+</author>
+<updated>2009-09-16T11:43:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2109.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2109.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2109.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2109.png?t=20090916114347" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2109.png?size=smaller&amp;t=20090916114347" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2109.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Doctor Wortle's School</title>
+<id>http://www.feedbooks.com/book/2170</id>
+<author>
+  <name>Anthony Trollope</name>
+  <uri>http://www.feedbooks.com/author/281</uri>
+</author>
+<updated>2009-09-16T11:50:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1881</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2170.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2170.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2170.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2170.png?t=20090916115016" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2170.png?size=smaller&amp;t=20090916115016" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2170.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Stutterer</title>
+<id>http://www.feedbooks.com/book/2367</id>
+<author>
+  <name>R.R. Merliss</name>
+  <uri>http://www.feedbooks.com/author/346</uri>
+</author>
+<updated>2009-09-16T11:53:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A man can be killed by a toy gun--he can die of fright, for heart attacks can kill. What, then, is the deadly thing that must be sealed away, forever locked in buried concrete--a thing or an idea?</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2367.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2367.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2367.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2367.png?t=20090916115303" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2367.png?size=smaller&amp;t=20090916115303" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2367.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Amnesia: Mist Memoir</title>
+<id>http://www.feedbooks.com/book/2535</id>
+<author>
+  <name>Richard Kadrey</name>
+  <uri>http://www.feedbooks.com/author/109</uri>
+</author>
+<updated>2009-09-16T12:10:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2001</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.infinitematrix.net/stories/shortshorts/kadrey4.html</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2535.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2535.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2535.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2535.png?t=20090916121023" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2535.png?size=smaller&amp;t=20090916121023" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2535.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Burglar and the Blizzard</title>
+<id>http://www.feedbooks.com/book/3521</id>
+<author>
+  <name>Alice Duer Miller</name>
+  <uri>http://www.feedbooks.com/author/864</uri>
+</author>
+<updated>2009-08-18T01:18:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>A Christmas story.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3521.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3521.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3521.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3521.png?t=20090818011809" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3521.png?size=smaller&amp;t=20090818011809" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3521.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Her Turn</title>
+<id>http://www.feedbooks.com/book/1082</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2009-09-16T10:42:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1082.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1082.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1082.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1082.png?t=20090916104205" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1082.png?size=smaller&amp;t=20090916104205" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1082.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Witch A La Mode</title>
+<id>http://www.feedbooks.com/book/1093</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2009-09-16T10:42:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1934</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1093.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1093.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1093.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1093.png?t=20090916104207" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1093.png?size=smaller&amp;t=20090916104207" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1093.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Le Jardin des Os</title>
+<id>http://www.feedbooks.com/book/2543</id>
+<author>
+  <name>Richard Kadrey</name>
+  <uri>http://www.feedbooks.com/author/109</uri>
+</author>
+<updated>2009-09-16T11:23:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2001</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.infinitematrix.net/stories/shortshorts/kadrey8.html</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2543.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2543.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2543.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2543.png?t=20090916112322" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2543.png?size=smaller&amp;t=20090916112322" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2543.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Quantum Jump</title>
+<id>http://www.feedbooks.com/book/2389</id>
+<author>
+  <name>Robert Wicks</name>
+  <uri>http://www.feedbooks.com/author/356</uri>
+</author>
+<updated>2009-09-16T11:49:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Captain Brandon was a pioneer. He explored the far reaches of space and reported back on how things were out there. So it was pretty disquieting to find out that the &#8220;far reaches of space&#8221; knew more about what went on at home than he did.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2389.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2389.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2389.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2389.png?t=20090916114922" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2389.png?size=smaller&amp;t=20090916114922" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2389.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The House of Heine Brothers</title>
+<id>http://www.feedbooks.com/book/2186</id>
+<author>
+  <name>Anthony Trollope</name>
+  <uri>http://www.feedbooks.com/author/281</uri>
+</author>
+<updated>2009-09-16T11:52:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1864</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2186.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2186.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2186.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2186.png?t=20090916115220" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2186.png?size=smaller&amp;t=20090916115220" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2186.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Still Life with Apocalypse</title>
+<id>http://www.feedbooks.com/book/2548</id>
+<author>
+  <name>Richard Kadrey</name>
+  <uri>http://www.feedbooks.com/author/109</uri>
+</author>
+<updated>2009-09-16T12:10:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2002</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.infinitematrix.net/stories/shortshorts/kadrey22.html</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2548.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2548.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2548.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2548.png?t=20090916121023" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2548.png?size=smaller&amp;t=20090916121023" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2548.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Diseases of Purgatory, Pt. 6</title>
+<id>http://www.feedbooks.com/book/2665</id>
+<author>
+  <name>Richard Kadrey</name>
+  <uri>http://www.feedbooks.com/author/109</uri>
+</author>
+<updated>2009-09-16T12:19:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2002</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.infinitematrix.net/stories/shortshorts/kadrey39.html</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2665.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2665.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2665.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2665.png?t=20090916121952" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2665.png?size=smaller&amp;t=20090916121952" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2665.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Minor Detail</title>
+<id>http://www.feedbooks.com/book/3692</id>
+<author>
+  <name>John Michael Sharkey</name>
+  <uri>http://www.feedbooks.com/author/686</uri>
+</author>
+<updated>2009-08-18T01:18:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>General Webb had a simply magnificent idea for getting ground forces into the enemy's territory despite rockets and missiles and things like that. It was a grand scheme, except for one minor detail.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3692.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3692.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3692.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3692.png?t=20090818011811" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3692.png?size=smaller&amp;t=20090818011811" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3692.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>St. John's Eve</title>
+<id>http://www.feedbooks.com/book/540</id>
+<author>
+  <name>Nikolai Gogol</name>
+  <uri>http://www.feedbooks.com/author/9</uri>
+</author>
+<updated>2009-09-16T10:25:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1831</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.ebooksgratuits.com</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/540.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/540.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/540.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/540.png?t=20090916102537" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/540.png?size=smaller&amp;t=20090916102537" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/540.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Infra-Medians</title>
+<id>http://www.feedbooks.com/book/832</id>
+<author>
+  <name>Sewell Peaslee Wright</name>
+  <uri>http://www.feedbooks.com/author/151</uri>
+</author>
+<updated>2009-09-16T10:30:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Into a land of shadows and lost souls goes Pete Grahame in search of his hapless friends.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/832.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/832.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/832.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/832.png?t=20090916103053" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/832.png?size=smaller&amp;t=20090916103053" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/832.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

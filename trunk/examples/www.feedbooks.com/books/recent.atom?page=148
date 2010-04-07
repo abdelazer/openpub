@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=148</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=148" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=148" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 148 | Feedbooks</title>
+  <updated>2010-04-07T18:27:50Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2941</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=147" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=149" rel="next" title="Next Page"/>
+<entry>
+<title>Beyond the Wall of Sleep</title>
+<id>http://www.feedbooks.com/book/237</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/237.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/237.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/237.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/237.png?t=20090916101526" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/237.png?size=smaller&amp;t=20090916101526" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/237.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Beast in the Cave</title>
+<id>http://www.feedbooks.com/book/236</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/236.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/236.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/236.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/236.png?t=20090916101526" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/236.png?size=smaller&amp;t=20090916101526" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/236.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Alchemist</title>
+<id>http://www.feedbooks.com/book/235</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>&quot;The Alchemist&quot; is a short story by H. P. Lovecraft, written in 1908, when Lovecraft was 17 or 18, and first published in the November 1916 issue of the United Amateur.
+The story is recounted by the protagonist, Antoine C-, in the first person. Hundreds of years ago, Antoine's noble ancestor was responsible for the death of a dark wizard, Michel Mauvais. The wizard's son, Charles le Sorcier, swore revenge on not only him but all his descendants, cursing them to die on reaching the age of 32.
+The protagonist recounts how his ancestors all died in some mysterious way around the age of 32. The line has dwindled and the castle has been left to fall into disrepair, tower by tower. Finally, Antoine is the only one left, with one poor servant, Pierre, who raised him, and a tiny section of the castle with a single tower is still usable. Antoine has reached adulthood, and his 32nd year is approaching.
+</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/235.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/235.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/235.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/235.png?t=20090916101526" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/235.png?size=smaller&amp;t=20090916101526" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/235.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Supernatural Horror in Literature</title>
+<id>http://www.feedbooks.com/book/234</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1938</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Essay" label="Essay"/>
+<category term="Horror" label="Horror"/>
+<category term="Gothic" label="Gothic"/>
+<summary>Great modern American supernaturalist brilliantly surveys history of genre to 1930s, summarizing, evaluating scores of books, including works by Poe, Bierce, M.R. James, &quot;Monk&quot; Lewis, many others. Praised by critics as diverse as Edmund Wilson and Vincent Starrett. </summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/234.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/234.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/234.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/234.png?t=20090916101526" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/234.png?size=smaller&amp;t=20090916101526" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/234.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Allowable Rhyme</title>
+<id>http://www.feedbooks.com/book/233</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Poetry" label="Poetry"/>
+<category term="Essay" label="Essay"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/233.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/233.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/233.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/233.png?t=20090916101525" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/233.png?size=smaller&amp;t=20090916101525" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/233.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Emerald City of Oz</title>
+<id>http://www.feedbooks.com/book/231</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2009-09-16T10:15:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1910</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/231.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/231.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/231.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/231.png?t=20090916101525" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/231.png?size=smaller&amp;t=20090916101525" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/231.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Life And Adventures Of Nicholas Nickleby</title>
+<id>http://www.feedbooks.com/book/230</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:15:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1839</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Left penniless by the death of his improvident father, young Nicholas Nickleby assumes responsibility for his mother and sister and seeks help from his Scrooge-like Uncle Ralph. Instantly disliking Nicholas, Ralph sends him to teach in a school run by the stupidly sadistic Wackford Squeers. Nicholas decides to escape, taking with him the orphan Smike, one of Squeers&#8217;s most abused young charges, and the two embark on a series of adventurous encounters with an array of humanity&#8217;s worst and best&#8212;greedy fools, corrupt lechers, cheery innocents, and selfless benefactors.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/230.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/230.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/230.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/230.png?t=20090916101522" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/230.png?size=smaller&amp;t=20090916101522" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/230.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Portrait of the Artist as a Young Man</title>
+<id>http://www.feedbooks.com/book/222</id>
+<author>
+  <name>James Joyce</name>
+  <uri>http://www.feedbooks.com/author/4</uri>
+</author>
+<updated>2010-01-02T15:27:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>A Portrait of the Artist as a Young Man is a semi-autobiographical novel by James Joyce, first serialized in The Egoist from 1914 to 1915 and published in book form in 1916. It depicts the formative years in the life of Stephen Dedalus, a fictional alter ego of Joyce and a pointed allusion to the consummate craftsman of Greek mythology, Daedalus.
+A Portrait is a key example of the K&#252;nstlerroman (an artist's bildungsroman) in English literature. Joyce's novel traces the intellectual and religio-philosophical awakening of young Stephen Dedalus as he begins to question and rebel against the Catholic and Irish conventions he has been brought up in. He finally leaves for Paris to pursue his calling as an artist. The work pioneers some of Joyce's modernist techniques that would later come to fruition in Ulysses and Finnegans Wake. The Modern Library ranked Portrait as the third greatest English-language novel of the twentieth century.</summary>
+<dcterms:source>Gutenberg</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/222.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/222.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/222.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/222.png?t=20100102152702" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/222.png?size=smaller&amp;t=20100102152702" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/222.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Scratch Monkey</title>
+<id>http://www.feedbooks.com/book/229</id>
+<author>
+  <name>Charles Stross</name>
+  <uri>http://www.feedbooks.com/author/110</uri>
+</author>
+<updated>2010-01-02T15:27:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1993</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There are standard methods for lifting material out of brains. Everyone, everywhere in human space, is riddled with nanotech Dreamtime encoders. They're in the air, in the soil, in their cells and reproducing like bacteria. They constantly monitor cerebral activity, transmitting updates of their host personality to the encoders, that upload minds into the Dreamtime when their bodies cease to support them. It even makes a neat debriefing tool, if you have the equipment to interrogate the brain encoders directly. (Only Distant Intervention, that I know of, is allowed to play with this kind of kit.)</summary>
+<dcterms:source>http://www.antipope.org/charlie/fiction/monkey/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/229.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/229.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/229.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/229.png?t=20100102152702" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/229.png?size=smaller&amp;t=20100102152702" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/229.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Accelerando</title>
+<id>http://www.feedbooks.com/book/228</id>
+<author>
+  <name>Charles Stross</name>
+  <uri>http://www.feedbooks.com/author/110</uri>
+</author>
+<updated>2009-09-16T10:15:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The book is a collection of nine short stories telling the tale of three generations of a highly dysfunctional family before, during, and after a technological singularity. It was originally written as a series of novelettes and novellas, all published in Asimov's Science Fiction magazine in the period 2001 to 2004.
+The first three stories follow the character of &quot;venture altruist&quot; Manfred Macx starting in the early 21st Century, the second three stories follow his daughter Amber, and the final three focus largely on her son Sirhan in the completely transformed world at the end of the century.
+According to Stross, the initial inspiration for the stories was his experience working as a programmer for a high-growth company during the dot-com boom of the 1990s.</summary>
+<dcterms:source>http://www.accelerando.org/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/228.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/228.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/228.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/228.png?t=20090916101511" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/228.png?size=smaller&amp;t=20090916101511" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/228.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Butcher Bird</title>
+<id>http://www.feedbooks.com/book/227</id>
+<author>
+  <name>Richard Kadrey</name>
+  <uri>http://www.feedbooks.com/author/109</uri>
+</author>
+<updated>2009-09-16T10:15:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Spyder Lee is a happy man who lives in San Francisco and owns a tattoo shop. One night an angry demon tries to bite his head off before he's saved by a stranger. The demon infected Spyder with something awful - the truth. He can suddenly see the world as it really is: full of angels and demons and monsters and monster-hunters. A world full of black magic and mysteries. These are the Dominions, parallel worlds full of wonder, beauty and horror. The Black Clerks, infinitely old and infinitely powerful beings whose job it is to keep the Dominions in balance, seem to have new interests and a whole new agenda. Dropped into the middle of a conflict between the Black Clerks and other forces he doesn't fully understand, Spyder finds himself looking for a magic book with the blind swordswoman who saved him. Their journey will take them from deserts to lush palaces, to underground caverns, to the heart of Hell itself.</summary>
+<dcterms:source>http://www.infinitematrix.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/227.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/227.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/227.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/227.png?t=20090916101507" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/227.png?size=smaller&amp;t=20090916101507" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/227.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Pickwick Papers</title>
+<id>http://www.feedbooks.com/book/225</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:15:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1832</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/225.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/225.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/225.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/225.png?t=20090916101501" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/225.png?size=smaller&amp;t=20090916101501" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/225.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>On the Duty of Civil Disobedience</title>
+<id>http://www.feedbooks.com/book/219</id>
+<author>
+  <name>Henry David Thoreau</name>
+  <uri>http://www.feedbooks.com/author/106</uri>
+</author>
+<updated>2009-09-16T10:14:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1849</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Essay" label="Essay"/>
+<category term="Politics" label="Politics"/>
+<summary>Thoreau wrote his famous essay, On the Duty of Civil Disobedience, as a protest against an unjust but popular war and the immoral but popular institution of slave-owning. </summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/219.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/219.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/219.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/219.png?t=20090916101436" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/219.png?size=smaller&amp;t=20090916101436" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/219.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Road to Oz</title>
+<id>http://www.feedbooks.com/book/218</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2009-09-16T10:14:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1909</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/218.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/218.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/218.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/218.png?t=20090916101436" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/218.png?size=smaller&amp;t=20090916101436" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/218.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Eastern Standard Tribe</title>
+<id>http://www.feedbooks.com/book/217</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:14:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2004</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A comedy of loyalty, betrayal, sex, madness, and music-swapping
+Art is an up-and-coming interface designer, working on the management of data flow along the Massachusetts Turnpike. He's doing the best work of his career and can guarantee that the system will be, without a question, the most counterintuitive, user-hostile piece of software ever pushed forth onto the world.
+
+Why? Because Art is an industrial saboteur. He may live in London and work for an EU telecommunications megacorp, but Art's real home is the Eastern Standard Tribe.
+
+Instant wireless communication puts everyone in touch with everyone else, twenty-four hours a day. But one thing hasn't changed: the need for sleep. The world is slowly splintering into Tribes held together by a common time zone, less than family and more than nations. Art is working to humiliate the Greenwich Mean Tribe to the benefit of his own people. But in a world without boundaries, nothing can be taken for granted-not happiness, not money, and most certainly not love.
+
+Which might explain why Art finds himself stranded on the roof of an insane asylum outside Boston, debating whether to push a pencil into his brain....</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/217.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/217.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/217.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/217.png?t=20090916101434" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/217.png?size=smaller&amp;t=20090916101434" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/217.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tao Te Ching</title>
+<id>http://www.feedbooks.com/book/215</id>
+<author>
+  <name>Laozi</name>
+  <uri>http://www.feedbooks.com/author/105</uri>
+</author>
+<updated>2009-09-16T10:14:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-600</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<category term="Religion" label="Religion"/>
+<summary>The Tao Te Ching is fundamental to the Taoist school of Chinese philosophy and strongly influenced other schools, such as Legalism and Neo-Confucianism. This ancient book is also central in Chinese religion, not only for Taoism  but Chinese Buddhism, which when first introduced into China was largely interpreted through the use of Taoist words and concepts. Many Chinese artists, including poets, painters, calligraphers, and even gardeners have used the Tao Te Ching as a source of inspiration. Its influence has also spread widely outside East Asia, aided by hundreds of translations into Western languages.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/215.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/215.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/215.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/215.png?t=20090916101430" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/215.png?size=smaller&amp;t=20090916101430" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/215.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Rainbow</title>
+<id>http://www.feedbooks.com/book/214</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2010-01-11T15:57:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Sexuality" label="Sexuality"/>
+<summary>The Rainbow is a 1915 novel by British author D. H. Lawrence. It follows three generations of the Brangwen family, particularly focusing on the sexual dynamics of, and relations between, the characters.
+Lawrence's frank treatment of sexual desire and the power plays within relationships as a natural and even spiritual force of life, though perhaps tame by modern standards, caused The Rainbow to be prosecuted in an obscenity trial in late 1915, as a result of which all copies were seized and burnt. After this ban it was unavailable in Britain for 11 years, although editions were available in the USA.
+The Rainbow was followed by a sequel in 1920, Women in Love. Although Lawrence conceived of the two novels as one, considering the titles The Sisters and The Wedding Ring for the work, they were published as two separate novels at the urging of his publisher. However, after the negative public reception of The Rainbow, Lawrence's publisher opted out of publishing the sequel. This is the cause of the delay in the publishing of the sequel.</summary>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/214.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/214.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/214.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/214.png?t=20100111155746" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/214.png?size=smaller&amp;t=20100111155746" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/214.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sons and Lovers</title>
+<id>http://www.feedbooks.com/book/213</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2009-11-27T15:45:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Psychology" label="Psychology"/>
+<summary>The third published novel of D. H. Lawrence, taken by many to be his earliest masterpiece, tells the story of Paul Morel, a young man and budding artist. Richard Aldington explains the semi-autobiographical nature of his masterpiece:
+When you have experienced Sons and Lovers you have lived through the agonies of the young Lawrence striving to win free from his old life'. Generally, it is not only considered as an evocative portrayal of working-class life in a mining community, but also an intense study of family, class and early sexual relationships.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/213.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/213.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/213.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/213.png?t=20091127154534" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/213.png?size=smaller&amp;t=20091127154534" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/213.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The White Stocking</title>
+<id>http://www.feedbooks.com/book/212</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2009-09-16T10:14:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/212.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/212.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/212.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/212.png?t=20090916101415" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/212.png?size=smaller&amp;t=20090916101415" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/212.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The New Arabian Nights</title>
+<id>http://www.feedbooks.com/book/211</id>
+<author>
+  <name>Robert Louis Stevenson</name>
+  <uri>http://www.feedbooks.com/author/37</uri>
+</author>
+<updated>2009-09-16T10:14:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1882</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>New Arabian Nights by Robert Louis Stevenson, first published in 1882, is a collection of short stories previously published in magazines between 1877 and 1880. The collection contains Stevenson's first published fiction, and a few of the stories are considered by some critics to be his best work, as well as pioneering works in the English short story tradition.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/211.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/211.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/211.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/211.png?t=20090916101415" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/211.png?size=smaller&amp;t=20090916101415" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/211.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

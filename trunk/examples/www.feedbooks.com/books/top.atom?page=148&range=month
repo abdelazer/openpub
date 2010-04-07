@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:app="http://www.w3.org/2007/app" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=148&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=148&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=148&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 148 | Feedbooks</title>
+  <updated>2010-04-07T18:26:06Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2941</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=147&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=149&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Iron Wit</title>
+<id>http://www.feedbooks.com/book/2612</id>
+<author>
+  <name>Richard Kadrey</name>
+  <uri>http://www.feedbooks.com/author/109</uri>
+</author>
+<updated>2009-09-16T12:09:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2001</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.infinitematrix.net/stories/shortshorts/kadrey1.html</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2612.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2612.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2612.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2612.png?t=20090916120933" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2612.png?size=smaller&amp;t=20090916120933" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2612.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dog Boys</title>
+<id>http://www.feedbooks.com/book/2515</id>
+<author>
+  <name>Richard Kadrey</name>
+  <uri>http://www.feedbooks.com/author/109</uri>
+</author>
+<updated>2009-09-16T12:09:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2002</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.infinitematrix.net/stories/shortshorts/kadrey21.html</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2515.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2515.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2515.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2515.png?t=20090916120950" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2515.png?size=smaller&amp;t=20090916120950" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2515.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Herzog's Benediction</title>
+<id>http://www.feedbooks.com/book/2624</id>
+<author>
+  <name>Richard Kadrey</name>
+  <uri>http://www.feedbooks.com/author/109</uri>
+</author>
+<updated>2009-09-16T12:12:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2002</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.infinitematrix.net/stories/shortshorts/kadrey19.html</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2624.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2624.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2624.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2624.png?t=20090916121201" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2624.png?size=smaller&amp;t=20090916121201" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2624.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Hard Guy</title>
+<id>http://www.feedbooks.com/book/3120</id>
+<author>
+  <name>Howard Browne</name>
+  <uri>http://www.feedbooks.com/author/690</uri>
+</author>
+<updated>2009-09-16T12:56:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There will be fine, glittering, streamlined automobiles in 2000 A.D. Possibly they will run themselves while the driver sits back with an old-fashioned in his hands. Perhaps they will carry folks down the highways at ninety miles an hour in perfect safety. But picking up a hitch-hiker will still be as dangerous as it is today.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3120.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3120.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3120.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3120.png?t=20090916125633" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3120.png?size=smaller&amp;t=20090916125633" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3120.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mr. Menzies' Baby Elephant</title>
+<id>http://www.feedbooks.com/book/3544</id>
+<author>
+  <name>William Murray Graydon</name>
+  <uri>http://www.feedbooks.com/author/882</uri>
+</author>
+<updated>2009-08-18T01:18:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1893</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>A traveler who goes around the world necessarily sees a great deal. This ruby ring which I wear on my finger was purchased at Colombo, the capital of Ceylon, and it always reminds me of a very amusing thing that occurred during my brief stay on that island.
+
+As I was strolling alone one day, whom should I meet but an old friend, Mr. Menzies, whose acquaintance I had made in Calcutta. He was there on business at the time, and had since returned to Ceylon.</summary>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3544.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3544.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3544.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3544.png?t=20090818011809" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3544.png?size=smaller&amp;t=20090818011809" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3544.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tulan</title>
+<id>http://www.feedbooks.com/book/3641</id>
+<author>
+  <name>Carroll M. Capps</name>
+  <uri>http://www.feedbooks.com/author/280</uri>
+</author>
+<updated>2009-08-18T01:18:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>To disobey the orders of the Council of Four was unthinkable to a Space Admiral of the old school. But the trouble was, the school system had changed. A man, a fighter, an Admiral had to think for himself now, if his people were to live.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3641.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3641.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3641.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3641.png?t=20090818011811" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3641.png?size=smaller&amp;t=20090818011811" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3641.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Shepherd of the Planets</title>
+<id>http://www.feedbooks.com/book/3666</id>
+<author>
+  <name>Alan Mattox</name>
+  <uri>http://www.feedbooks.com/author/947</uri>
+</author>
+<updated>2009-08-18T01:18:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Renner had a purpose in life. And the Purpose in Life had Renner.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3666.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3666.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3666.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3666.png?t=20090818011811" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3666.png?size=smaller&amp;t=20090818011811" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3666.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Satellite System</title>
+<id>http://www.feedbooks.com/book/4219</id>
+<author>
+  <name>Horace Brown Fyfe</name>
+  <uri>http://www.feedbooks.com/author/340</uri>
+</author>
+<updated>2009-09-18T15:52:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Fyfe's quite right ... there's nothing like a satellite system for a cold storage arrangement. Keeps things handy, but out of the way....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29990</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4219.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4219.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4219.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4219.png?t=20090918155244" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4219.png?size=smaller&amp;t=20090918155244" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4219.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Eugene Pickering</title>
+<id>http://www.feedbooks.com/book/402</id>
+<author>
+  <name>Henry James</name>
+  <uri>http://www.feedbooks.com/author/113</uri>
+</author>
+<updated>2009-09-16T10:20:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1874</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/402.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/402.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/402.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/402.png?t=20090916102013" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/402.png?size=smaller&amp;t=20090916102013" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/402.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Marriages</title>
+<id>http://www.feedbooks.com/book/432</id>
+<author>
+  <name>Henry James</name>
+  <uri>http://www.feedbooks.com/author/113</uri>
+</author>
+<updated>2009-09-16T10:21:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1891</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/432.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/432.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/432.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/432.png?t=20090916102115" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/432.png?size=smaller&amp;t=20090916102115" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/432.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Beldonald Holbein</title>
+<id>http://www.feedbooks.com/book/475</id>
+<author>
+  <name>Henry James</name>
+  <uri>http://www.feedbooks.com/author/113</uri>
+</author>
+<updated>2009-09-16T10:22:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1901</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/475.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/475.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/475.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/475.png?t=20090916102241" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/475.png?size=smaller&amp;t=20090916102241" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/475.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Author of Beltraffio</title>
+<id>http://www.feedbooks.com/book/489</id>
+<author>
+  <name>Henry James</name>
+  <uri>http://www.feedbooks.com/author/113</uri>
+</author>
+<updated>2009-09-16T10:23:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/489.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/489.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/489.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/489.png?t=20090916102328" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/489.png?size=smaller&amp;t=20090916102328" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/489.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>To Whom This May Come</title>
+<id>http://www.feedbooks.com/book/1464</id>
+<author>
+  <name>Edward Bellamy</name>
+  <uri>http://www.feedbooks.com/author/149</uri>
+</author>
+<updated>2009-09-16T10:49:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1889</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1464.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1464.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1464.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1464.png?t=20090916104915" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1464.png?size=smaller&amp;t=20090916104915" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1464.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Amateur Poacher</title>
+<id>http://www.feedbooks.com/book/1987</id>
+<author>
+  <name>John Richard Jefferies</name>
+  <uri>http://www.feedbooks.com/author/274</uri>
+</author>
+<updated>2009-09-16T10:59:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1879</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1987.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1987.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1987.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1987.png?t=20090916105949" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1987.png?size=smaller&amp;t=20090916105949" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1987.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The 4-D Doodler</title>
+<id>http://www.feedbooks.com/book/1980</id>
+<author>
+  <name>Graph Waldeyer</name>
+  <uri>http://www.feedbooks.com/author/271</uri>
+</author>
+<updated>2009-09-16T11:03:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1941</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Do you believe, Professor Gault, that this four dimensional plane contains life--intelligent life?</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1980.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1980.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1980.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1980.png?t=20090916110344" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1980.png?size=smaller&amp;t=20090916110344" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1980.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Shaker Bridal</title>
+<id>http://www.feedbooks.com/book/1755</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:12:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1755.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1755.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1755.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1755.png?t=20090916111238" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1755.png?size=smaller&amp;t=20090916111238" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1755.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>What Goes Around</title>
+<id>http://www.feedbooks.com/book/2615</id>
+<author>
+  <name>Richard Kadrey</name>
+  <uri>http://www.feedbooks.com/author/109</uri>
+</author>
+<updated>2009-09-16T11:18:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2002</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.infinitematrix.net/stories/shortshorts/kadrey10.html</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2615.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2615.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2615.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2615.png?t=20090916111804" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2615.png?size=smaller&amp;t=20090916111804" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2615.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Big Bounce</title>
+<id>http://www.feedbooks.com/book/2027</id>
+<author>
+  <name>Walter Tevis</name>
+  <uri>http://www.feedbooks.com/author/283</uri>
+</author>
+<updated>2009-09-16T11:31:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Seeing it in action, anybody would quaver in alarm: What hath Farnsworth overwrought?</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2027.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2027.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2027.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2027.png?t=20090916113124" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2027.png?size=smaller&amp;t=20090916113124" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2027.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Seventeen</title>
+<id>http://www.feedbooks.com/book/2115</id>
+<author>
+  <name>Newton Booth Tarkington</name>
+  <uri>http://www.feedbooks.com/author/295</uri>
+</author>
+<updated>2009-09-16T11:44:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2115.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2115.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2115.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2115.png?t=20090916114424" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2115.png?size=smaller&amp;t=20090916114424" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2115.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Two Vanrevels</title>
+<id>http://www.feedbooks.com/book/2116</id>
+<author>
+  <name>Newton Booth Tarkington</name>
+  <uri>http://www.feedbooks.com/author/295</uri>
+</author>
+<updated>2009-09-16T11:44:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1902</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2116.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2116.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2116.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2116.png?t=20090916114429" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2116.png?size=smaller&amp;t=20090916114429" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2116.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

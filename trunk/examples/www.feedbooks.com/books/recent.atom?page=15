@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:app="http://www.w3.org/2007/app" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=15</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=15" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=15" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 15 | Feedbooks</title>
+  <updated>2010-04-07T18:26:21Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>281</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=14" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=16" rel="next" title="Next Page"/>
+<entry>
+<title>Facing the Flag</title>
+<id>http://www.feedbooks.com/book/4311</id>
+<author>
+  <name>Jules Verne</name>
+  <uri>http://www.feedbooks.com/author/19</uri>
+</author>
+<updated>2009-10-08T14:21:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Facing the Flag or For the Flag is a patriotic novel by Jules Verne. Like The Begum's Millions which Verne published in 1879 , it has the theme of France and the entire world threatened by a super-weapon (what would now be called a weapon of mass destruction) with the threat finally overcome through the force of French patriotism. It can be considered one of the first books dealing with problems which was to become paramount half a century after its publication: brilliant scientists discovering new weapons of great destructive power, whose full utilisation might literally destroy the world; the competition between various powers to obtain control of such weapons; and also the efforts of ruthless non-state groups to have it. </summary>
+<dcterms:source>http://www.gutenberg.org/etext/11556</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4311.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4311.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4311.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4311.png?t=20091008142145" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4311.png?size=smaller&amp;t=20091008142145" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4311.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Lost Prince</title>
+<id>http://www.feedbooks.com/book/4310</id>
+<author>
+  <name>Frances Hodgson Burnett</name>
+  <uri>http://www.feedbooks.com/author/1185</uri>
+</author>
+<updated>2009-10-08T14:03:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>A tale with the glamor of medieval romance, which centers about the mystery that five hundred years before Marco's day, the young prince of the kingdom of Samavia had walked away over the mountains, singing, and had never been heard from. And Marco, a lad of twelve, pledged to the future service of Samavia, lives an unpretentious, wandering life, trained in all worthy things by his father, til his journey as Bearer of the Sign is ended, and his appointed time has come.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/384</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4310.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4310.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4310.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4310.png?t=20091008140325" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4310.png?size=smaller&amp;t=20091008140325" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4310.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Show Business</title>
+<id>http://www.feedbooks.com/book/4309</id>
+<author>
+  <name>Lyle G. Boyd</name>
+  <uri>http://www.feedbooks.com/author/1235</uri>
+</author>
+<updated>2009-10-07T16:14:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Here's the behind-the-scenes lowdown on Luna City life and a promoter of Martian dancing girls, vaudeville, and&#8212;other things. But remember: stop us if you've heard this one!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30189</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4309.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4309.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4309.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4309.png?t=20091007161449" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4309.png?size=smaller&amp;t=20091007161449" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4309.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Juvenilia &#8211; Volume III</title>
+<id>http://www.feedbooks.com/book/4207</id>
+<author>
+  <name>Jane Austen</name>
+  <uri>http://www.feedbooks.com/author/18</uri>
+</author>
+<updated>2009-10-07T11:14:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1790</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Romance" label="Romance"/>
+<category term="Essay" label="Essay"/>
+<category term="Collections" label="Collections"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Perhaps as early as 1787, Austen began to write poems, stories, and plays for her own and her family's amusement. Austen later compiled &quot;fair copies&quot; of these early works into three bound notebooks, now referred to as the &quot;Juvenilia,&quot; containing pieces originally written between 1787 and 1793. (from Wikipedia)
+.
+The 3rd volume of juvenilia includes:
+    * Evelyn
+    * Catharine
+.
+Cover image:
+Back View of Jane Austen, Watercolor
+by Cassandra Austen
+from http://en.wikipedia.org/wiki/File:CassandraAusten-JaneAustenBackView%281804%29.jpg</summary>
+<dcterms:source>teh internets</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4207.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4207.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4207.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4207.png?t=20091007111404" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4207.png?size=smaller&amp;t=20091007111404" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4207.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Juvenilia &#8211; Volume II</title>
+<id>http://www.feedbooks.com/book/4136</id>
+<author>
+  <name>Jane Austen</name>
+  <uri>http://www.feedbooks.com/author/18</uri>
+</author>
+<updated>2009-11-06T14:06:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1790</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Romance" label="Romance"/>
+<category term="Essay" label="Essay"/>
+<category term="Collections" label="Collections"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Perhaps as early as 1787, Austen began to write poems, stories, and plays for her own and her family's amusement. Austen later compiled &quot;fair copies&quot; these early works into three bound notebooks, now referred to as the &quot;Juvenilia,&quot; containing pieces originally written between 1787 and 1793. (from Wikipedia)
+.
+The 2nd volume of juvenilia includes:
+* Love and Freindship
+* Lesley Castle
+* The History of England
+* A Collection of Letters
+* Scraps (The Female Philosopher, The First Act of a Comedy, A Letter from a Young Lady, A Tour through Wales, A Tale)
+.
+Cover image:
+Back View of Jane Austen, Watercolor
+by Cassandra Austen
+from http://en.wikipedia.org/wiki/File:CassandraAusten-JaneAustenBackView%281804%29.jpg
+</summary>
+<dcterms:source>http://www.gutenberg.org/etext/1212</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4136.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4136.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4136.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4136.png?t=20091106140648" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4136.png?size=smaller&amp;t=20091106140648" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4136.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Juvenilia &#8211; Volume I</title>
+<id>http://www.feedbooks.com/book/4206</id>
+<author>
+  <name>Jane Austen</name>
+  <uri>http://www.feedbooks.com/author/18</uri>
+</author>
+<updated>2009-10-07T11:11:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1790</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Romance" label="Romance"/>
+<category term="Essay" label="Essay"/>
+<category term="Collections" label="Collections"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Perhaps as early as 1787, Austen began to write poems, stories, and plays for her own and her family's amusement. Austen later compiled &quot;fair copies&quot; of these early works into three bound notebooks, now referred to as the &quot;Juvenilia,&quot; containing pieces originally written between 1787 and 1793. (from Wikipedia)
+.
+The 1st volume of juvenilia includes:
+    * Frederic &amp; Elfrida
+    * Jack &amp; Alice
+    * Edgar &amp; Emma
+    * Henry and Eliza
+    * The Adventures of Mr. Harley
+    * Sir William Mountague
+    * Memoirs of Mr. Clifford
+    * The Beautifull Cassandra
+    * Amelia Webster
+    * The Visit
+    * The Mystery
+    * The Three Sisters
+    * Detached Pieces (A Fragment, A beautiful description, The generous Curate, Ode to Pity)
+.
+Cover image:
+Back View of Jane Austen, Watercolor
+by Cassandra Austen
+from http://en.wikipedia.org/wiki/File:CassandraAusten-JaneAustenBackView%281804%29.jpg</summary>
+<dcterms:source>the internets</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4206.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4206.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4206.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4206.png?t=20091007111157" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4206.png?size=smaller&amp;t=20091007111157" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4206.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Merry Adventures of Robin Hood</title>
+<id>http://www.feedbooks.com/book/4301</id>
+<author>
+  <name>Howard Pyle</name>
+  <uri>http://www.feedbooks.com/author/1178</uri>
+</author>
+<updated>2009-10-06T22:58:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1883</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Howard Pyle relates the story of the English outlaw Robin Hood and his band of Merry Men, compiling the traditional material into a coherent narrative in a colorful, invented &quot;old English&quot; idiom that preserves the flavor of the ballads, and adapts it for children. </summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4301.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4301.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4301.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4301.png?t=20091006225844" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4301.png?size=smaller&amp;t=20091006225844" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4301.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Free As In Freedom</title>
+<id>http://www.feedbooks.com/book/4299</id>
+<author>
+  <name>Sam Williams</name>
+  <uri>http://www.feedbooks.com/author/1231</uri>
+</author>
+<updated>2009-10-06T22:59:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2002</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Biography" label="Biography"/>
+<summary>&quot;Free as in Freedom: Richard Stallman's Crusade for Free Software&quot; is a free book licensed under the GNU Free Documentation License. It is a biography of Richard Stallman, an American software freedom activist and computer programmer. In 1983 he launched the GNU Project to create a free Unix-like operating system, and in Ocober 1985 he created the Free Software Foundation. (Source: Wikipedia)</summary>
+<dcterms:source>http://www.faifzilla.org/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4299.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4299.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4299.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4299.png?t=20091006225902" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4299.png?size=smaller&amp;t=20091006225902" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4299.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Diane of the Green Van</title>
+<id>http://www.feedbooks.com/book/4300</id>
+<author>
+  <name>Leona Dalrymple</name>
+  <uri>http://www.feedbooks.com/author/1232</uri>
+</author>
+<updated>2009-10-05T15:15:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Diane of the Green Van is a romance novel that was awarded the $10,000.00 prize in a novel contest in which over five hundred manuscripts were submitted.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/16101</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4300.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4300.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4300.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4300.png?t=20091005151524" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4300.png?size=smaller&amp;t=20091005151524" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4300.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ann Veronica</title>
+<id>http://www.feedbooks.com/book/4298</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-10-05T12:08:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1909</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Dealing with political issues of the time the novel was written and concentrating specifically on feminist issues, through the course this novel the heroine matures from an innocent and na&#239;ve girl to a representative of the New Woman.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/524</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4298.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4298.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4298.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4298.png?t=20091005120851" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4298.png?size=smaller&amp;t=20091005120851" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4298.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lonesome Hearts</title>
+<id>http://www.feedbooks.com/book/4297</id>
+<author>
+  <name>Russel R. Winterbotham</name>
+  <uri>http://www.feedbooks.com/author/331</uri>
+</author>
+<updated>2009-10-05T09:37:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Mjly is Yljm's love life. She is her sisters, her mothers, herselves and her ancestors. But poor old Yljm can never be a mother or a sister&#8212;just himself!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30170</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4297.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4297.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4297.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4297.png?t=20091005093727" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4297.png?size=smaller&amp;t=20091005093727" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4297.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Voice in the Wilderness</title>
+<id>http://www.feedbooks.com/book/4289</id>
+<author>
+  <name>Grace Livingston Hill</name>
+  <uri>http://www.feedbooks.com/author/1227</uri>
+</author>
+<updated>2009-10-02T21:54:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Western" label="Western"/>
+<summary>Margaret Earle, an Eastern girl, thinking she has reached her destination in Arizona, where she is going to teach school, steps off the train at a lonely, desert water tank, and the train moves on, leaving her in the darkness and in a strange, forlorn land. But she steps off into a series of adventures and thrilling events which make entertaining reading indeed. After an unpleasant encounter with one man, she is rescued by another, young Lance Gardley, like herself an Easterner, and out of this meeting grows the romance of the story. Margaret's school and the strange religious life of the community make a splendid setting for this fresh, crisp, western tale.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/21219</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4289.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4289.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4289.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4289.png?t=20091002215430" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4289.png?size=smaller&amp;t=20091002215430" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4289.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Cathedral and the Bazaar</title>
+<id>http://www.feedbooks.com/book/4285</id>
+<author>
+  <name>Eric S. Raymond</name>
+  <uri>http://www.feedbooks.com/author/1226</uri>
+</author>
+<updated>2009-10-02T15:40:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2000</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Essay" label="Essay"/>
+<summary>The Cathedral and the Bazaar is an essay by Eric S. Raymond on software engineering methods, based on his observations of the Linux kernel development process and his experiences managing an open source project, fetchmail. It was first presented by the author at the Linux Kongress on May 27, 1997 in W&#252;rzburg and was published as part of a book of the same name in 1999.
+Copyright &#169; 2000 Eric S. Raymond. Permission is granted to copy, distribute and/or modify this document under the terms of the Open Publication License, version 2.0.</summary>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4285.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4285.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4285.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4285.png?t=20091002154020" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4285.png?size=smaller&amp;t=20091002154020" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4285.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Gone Fishing</title>
+<id>http://www.feedbooks.com/book/4283</id>
+<author>
+  <name>James Henry Schmitz</name>
+  <uri>http://www.feedbooks.com/author/278</uri>
+</author>
+<updated>2009-10-01T21:15:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There is no predictable correlation between intelligence and ethics, nor is ruthlessness necessarily an evil thing. And there is nothing like enforced, uninterrupted contemplation to learn to distinguish one from another....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30140</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4283.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4283.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4283.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4283.png?t=20091001211512" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4283.png?size=smaller&amp;t=20091001211512" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4283.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Golden Sayings of Epictetus</title>
+<id>http://www.feedbooks.com/book/4282</id>
+<author>
+  <name>Epictetus</name>
+  <uri>http://www.feedbooks.com/author/1225</uri>
+</author>
+<updated>2009-10-01T20:57:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1903</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>Selections from the writings of the Greek Stoic philosopher Epictetus, compiled and translated by Hastings Crossley.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4282.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4282.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4282.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4282.png?t=20091001205745" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4282.png?size=smaller&amp;t=20091001205745" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4282.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Proposed Roads to Freedom</title>
+<id>http://www.feedbooks.com/book/4280</id>
+<author>
+  <name>Bertrand Russell</name>
+  <uri>http://www.feedbooks.com/author/1168</uri>
+</author>
+<updated>2009-10-01T17:00:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<category term="Essay" label="Essay"/>
+<category term="Politics" label="Politics"/>
+<summary>In this book Russell weighs the respective advantages and disadvantages of Socialism, Marxism and Syndicalism.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4280.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4280.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4280.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4280.png?t=20091001170001" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4280.png?size=smaller&amp;t=20091001170001" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4280.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Filigree Ball</title>
+<id>http://www.feedbooks.com/book/4268</id>
+<author>
+  <name>Anna Katharine Green</name>
+  <uri>http://www.feedbooks.com/author/658</uri>
+</author>
+<updated>2009-09-30T11:52:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1903</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Being a full and true account of the solution of the mystery concerning the Jeffrey-Moore affair.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/2371</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4268.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4268.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4268.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4268.png?t=20090930115234" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4268.png?size=smaller&amp;t=20090930115234" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4268.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Film of Fear</title>
+<id>http://www.feedbooks.com/book/4258</id>
+<author>
+  <name>Frederic Arnold Kummer</name>
+  <uri>http://www.feedbooks.com/author/1221</uri>
+</author>
+<updated>2009-09-28T11:04:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Thriller" label="Thriller"/>
+<summary>The earliest known novel with a motion-picture theme.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29498</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4258.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4258.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4258.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4258.png?t=20090928110421" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4258.png?size=smaller&amp;t=20090928110421" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4258.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Ivory Snuff Box</title>
+<id>http://www.feedbooks.com/book/4257</id>
+<author>
+  <name>Frederic Arnold Kummer</name>
+  <uri>http://www.feedbooks.com/author/1221</uri>
+</author>
+<updated>2009-09-28T11:06:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29852</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4257.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4257.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4257.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4257.png?t=20090928110635" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4257.png?size=smaller&amp;t=20090928110635" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4257.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Double Take</title>
+<id>http://www.feedbooks.com/book/4256</id>
+<author>
+  <name>Richard Wilson</name>
+  <uri>http://www.feedbooks.com/author/1220</uri>
+</author>
+<updated>2009-09-28T10:46:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The barn turned out to be a spaceship in disguise, and that was only the beginning. Before his strange adventure ended, young Paul Asher found himself going around in circles&#8212;very peculiar circles indeed!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30063</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4256.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4256.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4256.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4256.png?t=20090928104609" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4256.png?size=smaller&amp;t=20090928104609" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4256.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

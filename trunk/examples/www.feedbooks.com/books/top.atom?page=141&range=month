@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=141&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=141&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=141&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 141 | Feedbooks</title>
+  <updated>2010-04-07T18:26:00Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2801</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=140&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=142&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Antique Ring</title>
+<id>http://www.feedbooks.com/book/1722</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T10:57:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1863</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1722.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1722.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1722.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1722.png?t=20090916105730" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1722.png?size=smaller&amp;t=20090916105730" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1722.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dr Buillivant</title>
+<id>http://www.feedbooks.com/book/1592</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:07:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1863</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1592.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1592.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1592.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1592.png?t=20090916110719" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1592.png?size=smaller&amp;t=20090916110719" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1592.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mr. Higginbotham's Catastrophe</title>
+<id>http://www.feedbooks.com/book/1749</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:12:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1749.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1749.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1749.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1749.png?t=20090916111217" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1749.png?size=smaller&amp;t=20090916111217" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1749.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sights from a Steeple</title>
+<id>http://www.feedbooks.com/book/1845</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:18:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1845.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1845.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1845.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1845.png?t=20090916111840" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1845.png?size=smaller&amp;t=20090916111840" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1845.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Footprints on the Seashore</title>
+<id>http://www.feedbooks.com/book/1857</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:18:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1857.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1857.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1857.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1857.png?t=20090916111850" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1857.png?size=smaller&amp;t=20090916111850" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1857.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Millennium</title>
+<id>http://www.feedbooks.com/book/2404</id>
+<author>
+  <name>Everett B. Cole</name>
+  <uri>http://www.feedbooks.com/author/365</uri>
+</author>
+<updated>2009-09-16T11:34:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There are devices a high-level culture could produce that simply don't belong in the hands of incompetents of lower cultural evolution. The finest, and most civilized of tools can be made a menace ...</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2404.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2404.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2404.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2404.png?t=20090916113453" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2404.png?size=smaller&amp;t=20090916113453" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2404.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>We Didn't Do Anything Wrong, Hardly</title>
+<id>http://www.feedbooks.com/book/2296</id>
+<author>
+  <name>Roger Kuykendall</name>
+  <uri>http://www.feedbooks.com/author/333</uri>
+</author>
+<updated>2009-09-16T11:38:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>After all--they only borrowed it a little while, just to fix it--</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2296.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2296.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2296.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2296.png?t=20090916113851" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2296.png?size=smaller&amp;t=20090916113851" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2296.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Players</title>
+<id>http://www.feedbooks.com/book/2405</id>
+<author>
+  <name>Everett B. Cole</name>
+  <uri>http://www.feedbooks.com/author/365</uri>
+</author>
+<updated>2009-09-16T11:48:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A Playboy is someone with power, too much time on his hands, and too little sense of a goal worth achieving. And if the Playboy happens to belong to a highly advanced culture....</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2405.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2405.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2405.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2405.png?t=20090916114830" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2405.png?size=smaller&amp;t=20090916114830" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2405.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Cousin Henry</title>
+<id>http://www.feedbooks.com/book/2169</id>
+<author>
+  <name>Anthony Trollope</name>
+  <uri>http://www.feedbooks.com/author/281</uri>
+</author>
+<updated>2009-09-16T11:50:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1879</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2169.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2169.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2169.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2169.png?t=20090916115009" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2169.png?size=smaller&amp;t=20090916115009" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2169.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>History Repeats</title>
+<id>http://www.feedbooks.com/book/2361</id>
+<author>
+  <name>George Oliver Smith</name>
+  <uri>http://www.feedbooks.com/author/152</uri>
+</author>
+<updated>2009-09-16T12:04:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There are--and very probably will always be--some Terrestrials who can't, and for that matter don't want, to call their souls their own....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2361.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2361.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2361.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2361.png?t=20090916120446" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2361.png?size=smaller&amp;t=20090916120446" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2361.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Seed of the Toc-Toc Birds</title>
+<id>http://www.feedbooks.com/book/2386</id>
+<author>
+  <name>Francis Flagg</name>
+  <uri>http://www.feedbooks.com/author/353</uri>
+</author>
+<updated>2009-09-16T12:07:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Little did Prof. Reubens suspect what his atom-tampering would set loose upon the world.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2386.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2386.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2386.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2386.png?t=20090916120706" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2386.png?size=smaller&amp;t=20090916120706" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2386.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Professional Approach</title>
+<id>http://www.feedbooks.com/book/2413</id>
+<author>
+  <name>Charles Leonard Harness</name>
+  <uri>http://www.feedbooks.com/author/370</uri>
+</author>
+<updated>2009-09-16T12:07:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The trials of a patent lawyer are usually highly technical tribulations--and among the greatest is the fact that Inventors are only slightly less predictable than their Inventions!</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2413.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2413.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2413.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2413.png?t=20090916120711" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2413.png?size=smaller&amp;t=20090916120711" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2413.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jubilation, U.S.A.</title>
+<id>http://www.feedbooks.com/book/2449</id>
+<author>
+  <name>G.L. Vandenburg</name>
+  <uri>http://www.feedbooks.com/author/387</uri>
+</author>
+<updated>2009-09-16T12:07:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>You've heard, I'm sure, about the two Martians who went into a bar, saw a jukebox flashing and glittering, and said to it, &quot;What's a nice girl like you doing in a joint like this?&quot; Well, here's one about two Capellans and a slot-machine....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2449.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2449.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2449.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2449.png?t=20090916120726" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2449.png?size=smaller&amp;t=20090916120726" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2449.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Fourth Invasion</title>
+<id>http://www.feedbooks.com/book/2505</id>
+<author>
+  <name>Henry Josephs</name>
+  <uri>http://www.feedbooks.com/author/421</uri>
+</author>
+<updated>2009-09-16T12:09:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Psychopathology has offered possible answers to why, from time to time, people in large quantities &quot;see&quot; strange things in the sky which manage to evade trained scientific observers, or conform to what is known about the behavior of falling or flying bodies. And mass hysteria is by no means a product of the present century. But--what if these human foibles were deliberately being exploited?</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2505.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2505.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2505.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2505.png?t=20090916120931" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2505.png?size=smaller&amp;t=20090916120931" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2505.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Creatures of Vibration</title>
+<id>http://www.feedbooks.com/book/2575</id>
+<author>
+  <name>Harl Vincent</name>
+  <uri>http://www.feedbooks.com/author/449</uri>
+</author>
+<updated>2009-09-16T12:10:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The Vagabonds of Space are cast into the hands of the vibration-maddened natives of Titan, satellite of Saturn.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2575.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2575.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2575.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2575.png?t=20090916121025" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2575.png?size=smaller&amp;t=20090916121025" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2575.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Egocentric Orbit</title>
+<id>http://www.feedbooks.com/book/2553</id>
+<author>
+  <name>John Cory</name>
+  <uri>http://www.feedbooks.com/author/432</uri>
+</author>
+<updated>2009-09-16T12:10:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It took a long time for human beings to accept that our little piece of meteoric rubble wasn't the exact and absolute center of the Universe. It does appear that way, doesn't it? It may not take so long for a spaceman to learn ...</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2553.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2553.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2553.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2553.png?t=20090916121025" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2553.png?size=smaller&amp;t=20090916121025" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2553.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Vandals of the Void</title>
+<id>http://www.feedbooks.com/book/2680</id>
+<author>
+  <name>James Morgan Walsh</name>
+  <uri>http://www.feedbooks.com/author/497</uri>
+</author>
+<updated>2009-09-16T12:21:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Where the crested invaders came from no man could say--but they threatened to bring destruction to the three civilized planets!
+
+Seeking a vacation, Interplanetary Guard Jack Sanders runs into romance and a space war!</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2680.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2680.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2680.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2680.png?t=20090916122146" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2680.png?size=smaller&amp;t=20090916122146" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2680.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Coming of the Ice</title>
+<id>http://www.feedbooks.com/book/3234</id>
+<author>
+  <name>Green Peyton Wertenbaker</name>
+  <uri>http://www.feedbooks.com/author/458</uri>
+</author>
+<updated>2009-08-18T01:18:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Strange men these creatures of the hundredth century...</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3234.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3234.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3234.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3234.png?t=20090818011801" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3234.png?size=smaller&amp;t=20090818011801" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3234.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Eternal Wall</title>
+<id>http://www.feedbooks.com/book/3303</id>
+<author>
+  <name>Raymond Z. Gallun</name>
+  <uri>http://www.feedbooks.com/author/777</uri>
+</author>
+<updated>2009-08-18T01:18:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A scream of brakes, the splash into icy waters, a long descent into alkaline depths ... it was death. But Ned Vince lived again--a million years later!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3303.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3303.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3303.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3303.png?t=20090818011803" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3303.png?size=smaller&amp;t=20090818011803" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3303.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Junior Achievement</title>
+<id>http://www.feedbooks.com/book/3572</id>
+<author>
+  <name>William M. Lee</name>
+  <uri>http://www.feedbooks.com/author/902</uri>
+</author>
+<updated>2009-08-18T01:18:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Fallout is, of course, always disastrous&#8212; one way or another.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3572.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3572.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3572.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3572.png?t=20090818011810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3572.png?size=smaller&amp;t=20090818011810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3572.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

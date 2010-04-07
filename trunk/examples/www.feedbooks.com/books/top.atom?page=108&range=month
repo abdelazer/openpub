@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:app="http://www.w3.org/2007/app" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=108&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=108&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=108&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 108 | Feedbooks</title>
+  <updated>2010-04-07T18:25:40Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2141</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=107&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=109&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>What Need of Man?</title>
+<id>http://www.feedbooks.com/book/4555</id>
+<author>
+  <name>Harold Calin</name>
+  <uri>http://www.feedbooks.com/author/1329</uri>
+</author>
+<updated>2010-01-08T17:12:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Bannister was a rocket scientist. He started with the premise of testing man's reaction to space probes under actual conditions; but now he was just testing space probes&#8212;and man was a necessary evil to contend with.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30867</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4555.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4555.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4555.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4555.png?t=20100108171236" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4555.png?size=smaller&amp;t=20100108171236" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4555.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Tale</title>
+<id>http://www.feedbooks.com/book/734</id>
+<author>
+  <name>Joseph Conrad</name>
+  <uri>http://www.feedbooks.com/author/10</uri>
+</author>
+<updated>2009-09-16T10:29:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="War" label="War"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/734.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/734.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/734.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/734.png?t=20090916102956" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/734.png?size=smaller&amp;t=20090916102956" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/734.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>How to Write a Blackwood Article</title>
+<id>http://www.feedbooks.com/book/776</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1838</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/776.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/776.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/776.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/776.png?t=20090916103016" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/776.png?size=smaller&amp;t=20090916103016" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/776.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Man That Was Used Up</title>
+<id>http://www.feedbooks.com/book/788</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1839</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/788.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/788.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/788.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/788.png?t=20090916103019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/788.png?size=smaller&amp;t=20090916103019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/788.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Warlord of Kor</title>
+<id>http://www.feedbooks.com/book/846</id>
+<author>
+  <name>Terry Gene Carr</name>
+  <uri>http://www.feedbooks.com/author/156</uri>
+</author>
+<updated>2009-09-16T10:31:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Backward world -- or secret outpost of another galaxy? ...Now they would attempt further to discover the forbidden directives of Kor. Horng remembered, somewhere far back in the fossil layers of his thoughts, a warning. They must be stopped! If he had to, he would stamp out these creatures who were called 'humans.'</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/846.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/846.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/846.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/846.png?t=20090916103111" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/846.png?size=smaller&amp;t=20090916103111" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/846.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Doctor Therne</title>
+<id>http://www.feedbooks.com/book/981</id>
+<author>
+  <name>Henry Rider Haggard</name>
+  <uri>http://www.feedbooks.com/author/32</uri>
+</author>
+<updated>2009-09-16T10:34:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1898</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/981.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/981.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/981.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/981.png?t=20090916103444" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/981.png?size=smaller&amp;t=20090916103444" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/981.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Eric Brighteyes</title>
+<id>http://www.feedbooks.com/book/982</id>
+<author>
+  <name>Henry Rider Haggard</name>
+  <uri>http://www.feedbooks.com/author/32</uri>
+</author>
+<updated>2009-09-16T10:38:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1889</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/982.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/982.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/982.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/982.png?t=20090916103807" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/982.png?size=smaller&amp;t=20090916103807" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/982.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>You Touched Me</title>
+<id>http://www.feedbooks.com/book/1037</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2009-09-16T10:40:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1037.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1037.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1037.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1037.png?t=20090916104022" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1037.png?size=smaller&amp;t=20090916104022" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1037.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Falkner</title>
+<id>http://www.feedbooks.com/book/1351</id>
+<author>
+  <name>Mary Shelley</name>
+  <uri>http://www.feedbooks.com/author/33</uri>
+</author>
+<updated>2009-09-16T10:47:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1351.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1351.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1351.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1351.png?t=20090916104732" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1351.png?size=smaller&amp;t=20090916104732" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1351.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Woman's College from the Outside</title>
+<id>http://www.feedbooks.com/book/1394</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:49:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1926</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1394.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1394.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1394.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1394.png?t=20090916104905" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1394.png?size=smaller&amp;t=20090916104905" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1394.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Drunkard's Dream</title>
+<id>http://www.feedbooks.com/book/1580</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T10:58:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1838</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1580.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1580.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1580.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1580.png?t=20090916105802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1580.png?size=smaller&amp;t=20090916105802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1580.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Gent From Bear Creek (Short Story)</title>
+<id>http://www.feedbooks.com/book/1698</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T11:11:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1934</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Western" label="Western"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1698.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1698.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1698.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1698.png?t=20090916111101" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1698.png?size=smaller&amp;t=20090916111101" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1698.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>David Swan</title>
+<id>http://www.feedbooks.com/book/1750</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:12:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1750.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1750.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1750.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1750.png?t=20090916111217" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1750.png?size=smaller&amp;t=20090916111217" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1750.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Yillian Way</title>
+<id>http://www.feedbooks.com/book/1926</id>
+<author>
+  <name>John Keith Laumer</name>
+  <uri>http://www.feedbooks.com/author/258</uri>
+</author>
+<updated>2009-09-16T11:18:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The ceremonious protocol of the Yills was impressive, colorful--and, in the long run, deadly!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1926.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1926.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1926.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1926.png?t=20090916111852" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1926.png?size=smaller&amp;t=20090916111852" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1926.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Angel of Revolution: A Tale of the Coming Terror</title>
+<id>http://www.feedbooks.com/book/2267</id>
+<author>
+  <name>George Griffith</name>
+  <uri>http://www.feedbooks.com/author/174</uri>
+</author>
+<updated>2009-09-16T11:54:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1893</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="War" label="War"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2267.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2267.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2267.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2267.png?t=20090916115434" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2267.png?size=smaller&amp;t=20090916115434" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2267.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Prize for Edie</title>
+<id>http://www.feedbooks.com/book/2810</id>
+<author>
+  <name>Jesse Franklin Bone</name>
+  <uri>http://www.feedbooks.com/author/167</uri>
+</author>
+<updated>2009-09-16T12:27:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The Committee had, unquestionably, made a mistake. There was no doubt that Edie had achieved the long-sought cancer cure ... but awarding the Nobel Prize was, nonetheless, a mistake ...</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2810.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2810.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2810.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2810.png?t=20090916122722" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2810.png?size=smaller&amp;t=20090916122722" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2810.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jack&#8217;s Gift</title>
+<id>http://www.feedbooks.com/book/2818</id>
+<author>
+  <name>Jason Stoddard</name>
+  <uri>http://www.feedbooks.com/author/548</uri>
+</author>
+<updated>2009-09-16T12:27:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Metropolis meets Miracle On 34th Street; grit with a lot of heart.</summary>
+<dcterms:source>http://futurismic.com/category/fiction/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2818.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2818.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2818.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2818.png?t=20090916122726" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2818.png?size=smaller&amp;t=20090916122726" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2818.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Veritas Nos Liberabit</title>
+<id>http://www.feedbooks.com/book/2847</id>
+<author>
+  <name>Kristin Janz</name>
+  <uri>http://www.feedbooks.com/author/578</uri>
+</author>
+<updated>2009-09-16T12:28:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>&#8220;Veritas Nos Liberabit&#8221; is a story told in emails about how emails can tell stories.</summary>
+<dcterms:source>http://futurismic.com/category/fiction/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2847.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2847.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2847.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2847.png?t=20090916122823" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2847.png?size=smaller&amp;t=20090916122823" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2847.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Day Time Stopped Moving</title>
+<id>http://www.feedbooks.com/book/3265</id>
+<author>
+  <name>Bradner Buckner</name>
+  <uri>http://www.feedbooks.com/author/756</uri>
+</author>
+<updated>2009-08-18T01:18:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>All Dave Miller wanted to do was commit suicide in peace. He tried, but the things that happened after he'd pulled the trigger were all wrong. Like everyone standing around like statues. No St. Peter, no pearly gate, no pitchforks or halos. He might just as well have saved the bullet!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3265.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3265.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3265.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3265.png?t=20090818011802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3265.png?size=smaller&amp;t=20090818011802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3265.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Circular Study</title>
+<id>http://www.feedbooks.com/book/3733</id>
+<author>
+  <name>Anna Katharine Green</name>
+  <uri>http://www.feedbooks.com/author/658</uri>
+</author>
+<updated>2009-08-18T01:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1900</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt:
+&quot;Mr. Gryce was melancholy. He had attained that period in life when the spirits flag and enthusiasm needs a constant spur, and of late there had been a lack of special excitement, and he felt dull and superannuated. He was even contemplating resigning his position on the force and retiring to the little farm he had bought for himself in Westchester; and this in itself did not tend to cheerfulness, for he was one to whom action was a necessity and the exercise of his mental faculties more inspiring than any possible advantage which might accrue to him from their use.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3733.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3733.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3733.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3733.png?t=20090818011812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3733.png?size=smaller&amp;t=20090818011812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3733.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

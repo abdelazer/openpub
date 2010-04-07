@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=3</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=3" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=3" rel="self"/>
+  <title>Original Books / New Releases / Page 3 | Feedbooks</title>
+  <updated>2010-04-07T18:23:47Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>41</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=2" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=4" rel="next" title="Next Page"/>
+<entry>
+<title>After the Software Wars</title>
+<id>http://www.feedbooks.com/userbook/11178</id>
+<author>
+  <name>Keith Curtis</name>
+  <uri>http://www.feedbooks.com/user/81899/profile#Keith%20Curtis</uri>
+</author>
+<updated>2010-03-29T16:00:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Given the technology that&#8217;s already available, we should have cars that drive us around, in absolute safety, while we lounge in the back and sip champagne. This book explains how we can build better software and all get our own high-tech chauffeur.
+
+Learning how to use feedbooks. For now, better epub and PDF available at 
+http://keithcu.com/SoftwareWars</summary>
+<category term="windows"/>
+<category term="ai"/>
+<category term="linux"/>
+<category term="open source"/>
+<category term="free software"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11178.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11178.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11178.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11178.png?t=20100329160047" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11178.png?size=smaller&amp;t=20100329160047" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11178.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Camilla: Warrior of Narnia</title>
+<id>http://www.feedbooks.com/userbook/11176</id>
+<author>
+  <name>Bruce T. Forbes</name>
+  <uri>http://www.feedbooks.com/user/78864/profile#Bruce%20T.%20Forbes</uri>
+</author>
+<updated>2010-04-04T03:20:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>A Chronicles of Narnia 'fan fiction' novel - Book 1 of my 'Glasswater' series. Taking place in the time of Princess SwanWhite, a 10-year-old girl facing surgery for major burns is taken to Narnia to learn real heroism. She and Princess SwanWhite both learn why, as Father Christmas stated to Queens Susan and Lucy, war is so very terrible when women must fight. Please post a comment if you enjoyed reading this.</summary>
+<category term="Narnia"/>
+<category term="Novel"/>
+<category term="book"/>
+<category term="fan fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11176.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11176.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11176.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11176.png?t=20100404032029" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11176.png?size=smaller&amp;t=20100404032029" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11176.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Cold</title>
+<id>http://www.feedbooks.com/userbook/11174</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-04-07T10:35:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Jim Tarrent is an ex-army sergeant turned private investigator following his untimely departure from the army.  On solving his first case he gains a partner and together they look like they will make a go of his business.  However, Jim has a traumatic past that he cannot seem to leave behind and his partner is probably no better off.  Then two cases hit them that could change their lives, and their detective agency, for ever.</summary>
+<category term="cold"/>
+<category term="detective"/>
+<category term="Private Detective"/>
+<category term="Post Traumatic Stress Syndrome"/>
+<category term="thriller"/>
+<category term="Novel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11174.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11174.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11174.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11174.png?t=20100407103546" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11174.png?size=smaller&amp;t=20100407103546" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11174.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>One Proud Cat</title>
+<id>http://www.feedbooks.com/userbook/11172</id>
+<author>
+  <name>Sevasti Chasiotis</name>
+  <uri>http://www.feedbooks.com/user/81800/profile#Sevasti%20Chasiotis</uri>
+</author>
+<updated>2010-03-27T15:28:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>this book is about a cat who lives happily until his owner has a baby and he has to be sent to a monastery</summary>
+<category term="lessons"/>
+<category term="life"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11172.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11172.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11172.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11172.png?t=20100327152841" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11172.png?size=smaller&amp;t=20100327152841" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11172.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Pyramid</title>
+<id>http://www.feedbooks.com/userbook/11170</id>
+<author>
+  <name>Johnny Smith</name>
+  <uri>http://www.feedbooks.com/user/80719/profile#Johnny%20Smith</uri>
+</author>
+<updated>2010-03-27T12:49:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>The third story in the collection Timekeeping on Mars. Twenty-four years after the events in The Bicycle Messenger, a small, middle-American town has devised a novel way of saving their city from the stagnation and decay that has engulfed the world. They are building a pyramid.</summary>
+<category term="timekeeping on mars"/>
+<category term="speculative fiction"/>
+<category term="flash fiction"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11170.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11170.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11170.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11170.png?t=20100327124953" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11170.png?size=smaller&amp;t=20100327124953" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11170.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Transition</title>
+<id>http://www.feedbooks.com/userbook/11169</id>
+<author>
+  <name>Denise Kim Wy</name>
+  <uri>http://www.feedbooks.com/user/51109/profile#Denise%20Kim%20Wy</uri>
+</author>
+<updated>2010-03-27T09:43:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Evey girls look forward for their 18th birthday so does Sydney. Everyhing went too perfect... or did it?</summary>
+<category term="Teen"/>
+<category term="adult&quot;"/>
+<category term="Young"/>
+<category term="irony"/>
+<category term="life"/>
+<category term="death"/>
+<category term="life experiences dying"/>
+<category term="short story"/>
+<category term="tragic love"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11169.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11169.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11169.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11169.png?t=20100327094302" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11169.png?size=smaller&amp;t=20100327094302" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11169.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mind and heart</title>
+<id>http://www.feedbooks.com/userbook/11164</id>
+<author>
+  <name>Przemys&#322;aw Guzik</name>
+  <uri>http://www.feedbooks.com/user/47296/profile#Przemys%C5%82aw%20Guzik</uri>
+</author>
+<updated>2010-03-26T17:47:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Short essay on the operation / communication with the heart in mind. It contains great quotes in history:)</summary>
+<category term="telepathy"/>
+<category term="mind"/>
+<category term="heart"/>
+<category term="love"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11164.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11164.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11164.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11164.png?t=20100326174735" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11164.png?size=smaller&amp;t=20100326174735" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11164.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>One Six Billionth</title>
+<id>http://www.feedbooks.com/userbook/11151</id>
+<author>
+  <name>Kaitlyn Jane Mauro</name>
+  <uri>http://www.feedbooks.com/user/81550/profile#Kaitlyn%20Jane%20Mauro</uri>
+</author>
+<updated>2010-03-28T03:00:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>I live in snapshots and polaroid pictures. Everything will be exposed in time - hues, textures, and motivations like ghosts of the present tense. These memories are embroidered and tinted, complete with awkward pauses and distracted glances but my words are genuine. It's time to let it go.
+
+In the end, none of it really matters. It's the way people still try in the face of this fact that makes them so beautiful.
+
+We scream our lungs out to feel alive but let's try to speak in whispers, just this once.
+
+(www.kaitlynjane.wordpress.com)</summary>
+<category term="wonderlust"/>
+<category term="travel"/>
+<category term="adventure"/>
+<category term="life"/>
+<category term="memories"/>
+<category term="Young"/>
+<category term="teenage"/>
+<category term="original"/>
+<category term="interesting"/>
+<category term="unique"/>
+<category term="creative"/>
+<category term="Memoirs"/>
+<category term="stories"/>
+<category term="love"/>
+<category term="Teen"/>
+<category term="One Six Billionth"/>
+<category term="Kaitlyn Jane Mauro"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11151.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11151.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11151.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11151.png?t=20100328030049" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11151.png?size=smaller&amp;t=20100328030049" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11151.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>No Vampire - a series of disturbing interviews</title>
+<id>http://www.feedbooks.com/userbook/11148</id>
+<author>
+  <name>Graham Parke</name>
+  <uri>http://www.feedbooks.com/user/48793/profile#Graham%20Parke</uri>
+</author>
+<updated>2010-03-25T13:50:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>As you probably know, an extraordinary event shook the literary world very recently. This micro novella explorers the event in-depth, and attempts to explain how it happened.</summary>
+<category term="fiction"/>
+<category term="comedy"/>
+<category term="Interview"/>
+<category term="Humor"/>
+<category term="short"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11148.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11148.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11148.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11148.png?t=20100325135055" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11148.png?size=smaller&amp;t=20100325135055" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11148.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>From Boy to Man and Back Again</title>
+<id>http://www.feedbooks.com/userbook/11045</id>
+<author>
+  <name>Bruce T. Forbes</name>
+  <uri>http://www.feedbooks.com/user/78864/profile#Bruce%20T.%20Forbes</uri>
+</author>
+<updated>2010-04-01T02:38:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>A Chronicles of Narnia &quot;fan fiction&quot; novel - Book 1 of my 'Hundred-Year Winter' Series and takes place in the months leading up to the beginning of the Hundred-Year Winter. It tells how and why the Tree of Protection died and how the witch Jadis came to power. It also lets you know something else that was made from the wood of that tree from which the Wardrobe had been built. Please post a comment if you've enjoyed this book.</summary>
+<category term="fantasy"/>
+<category term="Narnia"/>
+<category term="Novel"/>
+<category term="book"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11045.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11045.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11045.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11045.png?t=20100401023851" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11045.png?size=smaller&amp;t=20100401023851" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11045.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Brechalon</title>
+<id>http://www.feedbooks.com/userbook/11139</id>
+<author>
+  <name>Wesley Allison</name>
+  <uri>http://www.feedbooks.com/user/5943/profile#Wesley%20Allison</uri>
+</author>
+<updated>2010-03-31T07:45:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Brechalon is the novella-length prequel to &quot;Senta and the Steel Dragon&quot;, a series of books which follow a group of settlers who set off in an expedition to found a new colony in a lost continent.  Set in a world of steam power and rifles, where magic has not yet been forgotten, Senta and the Steel Dragon is a story of adventure and magic, religion and prejudice, steam engines and dinosaurs, angels and lizardmen, machine guns and wizards, sorceresses, bustles and corsets, steam-powered computers, hot air balloons, and dragons. 
+
+Visit http://amathar.blogspot.com
+</summary>
+<category term="Wizard"/>
+<category term="sorceress"/>
+<category term="Magic"/>
+<category term="rifles"/>
+<category term="dinosaurs"/>
+<category term="Dragon"/>
+<category term="fantasy"/>
+<category term="adventure"/>
+<category term="steampunk"/>
+<category term="Minotaur"/>
+<category term="Dragon"/>
+<category term="Steel"/>
+<category term="Senta"/>
+<category term="Brechalon"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11139.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11139.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11139.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11139.png?t=20100331074509" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11139.png?size=smaller&amp;t=20100331074509" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11139.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Butterfly Killer</title>
+<id>http://www.feedbooks.com/userbook/11137</id>
+<author>
+  <name>Claire Farrell</name>
+  <uri>http://www.feedbooks.com/user/80314/profile#Claire%20Farrell</uri>
+</author>
+<updated>2010-03-25T02:08:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Flash Fiction - A patient and doctor have conflicting ideas on what being cured really means.</summary>
+<category term="flash fiction"/>
+<category term="Bipolar"/>
+<category term="electroshock"/>
+<category term="butterflies"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11137.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11137.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11137.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11137.png?t=20100325020834" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11137.png?size=smaller&amp;t=20100325020834" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11137.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Echoes of the Nameless Soldier</title>
+<id>http://www.feedbooks.com/userbook/11133</id>
+<author>
+  <name>Bryan Allen</name>
+  <uri>http://www.feedbooks.com/user/81410/profile#Bryan%20Allen</uri>
+</author>
+<updated>2010-03-24T19:24:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>A fictional story about a group of soldiers in World War II bent on survival. </summary>
+<category term="fiction"/>
+<category term="war"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11133.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11133.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11133.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11133.png?t=20100324192447" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11133.png?size=smaller&amp;t=20100324192447" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11133.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Last Assignment</title>
+<id>http://www.feedbooks.com/userbook/11131</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-03-24T16:56:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>They are highly trained operatives.  They have been specially prepared for any mission.  They are kept under tight reign.  But there is this special assignment, could it be their last?</summary>
+<category term="short story"/>
+<category term="thriller"/>
+<category term="quirky"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11131.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11131.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11131.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11131.png?t=20100324165648" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11131.png?size=smaller&amp;t=20100324165648" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11131.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Arboreal Love</title>
+<id>http://www.feedbooks.com/userbook/11129</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-03-30T09:40:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Can trees feel for human beings as human beings feel for trees?  Not everybody thinks so, but one old lady holds a secret: a secret of a love and passion for a tree that knew no bounds.  But could this love be infectious?</summary>
+<category term="Arboreal"/>
+<category term="trees"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11129.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11129.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11129.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11129.png?t=20100330094026" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11129.png?size=smaller&amp;t=20100330094026" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11129.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sarah has a problem</title>
+<id>http://www.feedbooks.com/userbook/11127</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-03-24T14:44:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Sarah the skunk has a couple of problems; one being her temper.  She just can't keep it and when she gets angry those around her get squirted with her special smell liquid.  It's not a recipe for keeping friends, so she hasn't any.  Then one day...</summary>
+<category term="Bedtime Story"/>
+<category term="Childrens Story"/>
+<category term="Barnabus"/>
+<category term="Sunday School"/>
+<category term="Skunk"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11127.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11127.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11127.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11127.png?t=20100324144433" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11127.png?size=smaller&amp;t=20100324144433" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11127.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Barnabus and Risk Management</title>
+<id>http://www.feedbooks.com/userbook/11126</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-03-30T09:56:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Barnabus, the church mouse, has to entertain his friend's Aunt.  She is a bit of a snob and loves to find fault with the state of Barnabus' church.  She discovers a box of soft toys in the wrong place and has a good moan, but Barnabus has an unusual answer; one involving sky-diving!</summary>
+<category term="School&quot;"/>
+<category term="StoryBarnabusSunday"/>
+<category term="StoryBedtime"/>
+<category term="childrens"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11126.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11126.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11126.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11126.png?t=20100330095601" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11126.png?size=smaller&amp;t=20100330095601" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11126.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Batman #22</title>
+<id>http://www.feedbooks.com/userbook/11113</id>
+<author>
+  <name>Grant LaFleche</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Grant%20LaFleche</uri>
+</author>
+<updated>2010-03-24T01:05:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Batman: Trauma, Part 2.
+
+Batman frantically tries to hunt down the Wrath, who has kidnapped Vicki Vale! Meanwhile, when another Gotham villain turns up dead, Batman is forced to come face to face with his greatest failure as a crime fighter.
+</summary>
+<category term="Vicki Vale"/>
+<category term="Red X"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Wrath"/>
+<category term="robin"/>
+<category term="Nightwing"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11113.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11113.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11113.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11113.png?t=20100324010547" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11113.png?size=smaller&amp;t=20100324010547" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11113.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #22</title>
+<id>http://www.feedbooks.com/userbook/11108</id>
+<author>
+  <name>Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brian%20Burchette</uri>
+</author>
+<updated>2010-03-24T21:46:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Detective Comics: Opening Salvo.
+
+As three of Gotham's most powerful underground figures begin their rise to the top, Batman faces three seemingly unrelated mysteries; but are they as random as they appear to be?</summary>
+<category term="robin"/>
+<category term="Penguin"/>
+<category term="Batman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Black Mask"/>
+<category term="Two-Face"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11108.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11108.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11108.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11108.png?t=20100324214649" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11108.png?size=smaller&amp;t=20100324214649" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11108.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Wonder Woman #0</title>
+<id>http://www.feedbooks.com/userbook/11107</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2010-03-31T21:19:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Wonder Woman: A Game of Gods and Men, Prelude.</summary>
+<category term="Cheetah"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Steve Trevor"/>
+<category term="Wonder Woman"/>
+<category term="Circe"/>
+<category term="Arsinoe"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11107.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11107.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11107.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11107.png?t=20100331211937" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11107.png?size=smaller&amp;t=20100331211937" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11107.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

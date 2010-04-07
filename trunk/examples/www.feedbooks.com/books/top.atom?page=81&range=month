@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:app="http://www.w3.org/2007/app" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=81&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=81&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=81&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 81 | Feedbooks</title>
+  <updated>2010-04-07T18:25:23Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1601</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=80&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=82&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Troll Garden and Selected Stories</title>
+<id>http://www.feedbooks.com/book/2124</id>
+<author>
+  <name>Willa Cather</name>
+  <uri>http://www.feedbooks.com/author/296</uri>
+</author>
+<updated>2009-09-16T11:45:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1905</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2124.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2124.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2124.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2124.png?t=20090916114552" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2124.png?size=smaller&amp;t=20090916114552" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2124.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tom Swift in the City of Gold</title>
+<id>http://www.feedbooks.com/book/2337</id>
+<author>
+  <name>Victor Appleton</name>
+  <uri>http://www.feedbooks.com/author/341</uri>
+</author>
+<updated>2009-09-16T12:01:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The story opens with Tom receiving a letter from Africa, containing a crude map. The rest of the story can be summed up in a mere three words: Acute Gold Fever, or AGF. Jacob Illingway, the Protestant missionary Tom rescued from the Red Pygmies of central Africa, has sent word that an underground city exists in central Mexico. This city, built by ancients, (possibly Aztec Indians) contains riches untold for anyone who can find it, and get past the guardians, a tribe of head hunters.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2337.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2337.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2337.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2337.png?t=20090916120157" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2337.png?size=smaller&amp;t=20090916120157" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2337.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mystery of the Hasty Arrow</title>
+<id>http://www.feedbooks.com/book/3109</id>
+<author>
+  <name>Anna Katharine Green</name>
+  <uri>http://www.feedbooks.com/author/658</uri>
+</author>
+<updated>2009-09-16T12:55:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>A woman's body is found in a museum gallery with an arrow through her chest, so all of the other visitors are locked inside while the crime is investigated.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3109.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3109.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3109.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3109.png?t=20090916125504" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3109.png?size=smaller&amp;t=20090916125504" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3109.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lost Face</title>
+<id>http://www.feedbooks.com/book/3148</id>
+<author>
+  <name>Jack London</name>
+  <uri>http://www.feedbooks.com/author/34</uri>
+</author>
+<updated>2009-09-16T13:00:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1910</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Collections" label="Collections"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3148.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3148.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3148.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3148.png?t=20090916130007" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3148.png?size=smaller&amp;t=20090916130007" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3148.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Harrigan</title>
+<id>http://www.feedbooks.com/book/3429</id>
+<author>
+  <name>Max Brand</name>
+  <uri>http://www.feedbooks.com/author/753</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>With gusts of wind fanning it roughly, the flame rose fast. Harrigan made other journeys to the rotten stump and wrenched away great chunks of bark and wood. He came back and piled them on the fire. It towered high, the upper tongues twisting among the branches of the tree. They laid Kate Malone between the windbreak and the fire. In a short time her trembling ceased; she turned her face to the blaze and slept.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3429.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3429.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3429.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3429.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3429.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3429.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Riders of the Silences</title>
+<id>http://www.feedbooks.com/book/3475</id>
+<author>
+  <name>Max Brand</name>
+  <uri>http://www.feedbooks.com/author/753</uri>
+</author>
+<updated>2009-08-18T01:18:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>The Great West prior to the century's turn abounded in legend. Stories were told of fabled gunmen whose bullets always magically found their mark of mighty stallions whose tireless gallop rivaled the speed of the wind of glorious women whose beauty stunned mind and heart. But nowhere in the vast spread of the mountain-desert country was there a greater legend told than the story of Red Pierre and the phantom gunfighter McGurk.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3475.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3475.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3475.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3475.png?t=20090818011807" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3475.png?size=smaller&amp;t=20090818011807" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3475.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Man Who Was Afraid</title>
+<id>http://www.feedbooks.com/book/3915</id>
+<author>
+  <name>Maxim Gorky</name>
+  <uri>http://www.feedbooks.com/author/1063</uri>
+</author>
+<updated>2009-08-18T01:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1901</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>OUT of the darkest depths of life, where vice and crime and misery abound, comes the Byron of the twentieth century, the poet of the vagabond and the proletariat, Maxim Gorky. Not like the beggar, humbly imploring for a crust in the name of the Lord, nor like the jeweller displaying his precious stones to dazzle and tempt the eye, he comes to the world,&#8212;nay, in accents of Tyrtaeus this commoner of Nizhni Novgorod spurs on his troops of freedom-loving heroes to conquer, as it were, the placid, self-satisfied literatures of to-day, and bring new life to pale, bloodless frames.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/2709</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3915.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3915.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3915.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3915.png?t=20090818011816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3915.png?size=smaller&amp;t=20090818011816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3915.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>What's He Doing in There?</title>
+<id>http://www.feedbooks.com/book/4078</id>
+<author>
+  <name>Fritz Reuter Leiber Jr.</name>
+  <uri>http://www.feedbooks.com/author/380</uri>
+</author>
+<updated>2009-08-18T01:18:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1957</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>He went where no Martian ever went before&#8212;but would he come out&#8212;or had he gone for good?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29504</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4078.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4078.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4078.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4078.png?t=20090818011819" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4078.png?size=smaller&amp;t=20090818011819" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4078.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Bottle of Old Wine</title>
+<id>http://www.feedbooks.com/book/4217</id>
+<author>
+  <name>Richard O. Lewis</name>
+  <uri>http://www.feedbooks.com/author/1202</uri>
+</author>
+<updated>2009-09-18T15:46:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A grim tale of a future in which everyone is desperate to escape reality, and a hero who wants to have his wine and drink it, too.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30004</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4217.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4217.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4217.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4217.png?t=20090918154607" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4217.png?size=smaller&amp;t=20090918154607" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4217.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Brother Jacob</title>
+<id>http://www.feedbooks.com/book/4370</id>
+<author>
+  <name>George Eliot</name>
+  <uri>http://www.feedbooks.com/author/132</uri>
+</author>
+<updated>2009-11-03T20:56:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1860</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Brother Jacob is Eliot's literary homage to Thackeray, a satirical modern fable that draws telling parallels between eating and reading. Revealing Eliot's deep engagement with the question of whether there are 'necessary truths' independent of our perception of them and the boundaries of art and the self.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/2171</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4370.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4370.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4370.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4370.png?t=20091103205603" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4370.png?size=smaller&amp;t=20091103205603" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4370.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Fifth-Dimension Tube</title>
+<id>http://www.feedbooks.com/book/4385</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2009-11-08T01:51:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1933</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>By way of Professor Denham&#8217;s Tube, Tommy and Evelyn invade the inimical Fifth-Dimensional world of golden cities and tree-fern jungles and Ragged Men.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30408</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4385.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4385.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4385.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4385.png?t=20091108015139" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4385.png?size=smaller&amp;t=20091108015139" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4385.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>More Tish</title>
+<id>http://www.feedbooks.com/book/4435</id>
+<author>
+  <name>Mary Roberts Rinehart</name>
+  <uri>http://www.feedbooks.com/author/977</uri>
+</author>
+<updated>2009-11-23T18:23:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<summary>The further adventures of those indomitable spinsters, Tish, Aggie and Lizze.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/19851</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4435.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4435.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4435.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4435.png?t=20091123182321" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4435.png?size=smaller&amp;t=20091123182321" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4435.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Hunted Woman</title>
+<id>http://www.feedbooks.com/book/4496</id>
+<author>
+  <name>James Oliver Curwood</name>
+  <uri>http://www.feedbooks.com/author/1285</uri>
+</author>
+<updated>2009-12-14T15:39:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Western" label="Western"/>
+<summary>A tale of a great fight in the &quot;valley of gold&quot; for a woman.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/11328</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4496.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4496.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4496.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4496.png?t=20091214153926" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4496.png?size=smaller&amp;t=20091214153926" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4496.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Samuel Johnson</title>
+<id>http://www.feedbooks.com/book/433</id>
+<author>
+  <name>Leslie Stephens</name>
+  <uri>http://www.feedbooks.com/author/128</uri>
+</author>
+<updated>2009-09-16T10:21:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1878</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Biography" label="Biography"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/433.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/433.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/433.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/433.png?t=20090916102116" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/433.png?size=smaller&amp;t=20090916102116" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/433.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jimmy Goggles the God</title>
+<id>http://www.feedbooks.com/book/621</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:27:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1894</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/621.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/621.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/621.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/621.png?t=20090916102714" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/621.png?size=smaller&amp;t=20090916102714" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/621.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Domain of Arnheim</title>
+<id>http://www.feedbooks.com/book/768</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1846</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/768.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/768.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/768.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/768.png?t=20090916103015" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/768.png?size=smaller&amp;t=20090916103015" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/768.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Girl from Farris's</title>
+<id>http://www.feedbooks.com/book/1473</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:48:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1473.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1473.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1473.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1473.png?t=20090916104828" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1473.png?size=smaller&amp;t=20090916104828" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1473.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Fearsome Touch of Death</title>
+<id>http://www.feedbooks.com/book/1726</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T11:07:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1930</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1726.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1726.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1726.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1726.png?t=20090916110756" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1726.png?size=smaller&amp;t=20090916110756" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1726.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Horror From The Mound</title>
+<id>http://www.feedbooks.com/book/1794</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T11:16:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1794.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1794.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1794.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1794.png?t=20090916111651" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1794.png?size=smaller&amp;t=20090916111651" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1794.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sand Doom</title>
+<id>http://www.feedbooks.com/book/2018</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2009-09-16T11:30:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The problem was as neat a circle as one could ask for; without repair parts, they couldn&#8217;t bring in the ship that carried the repair parts!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2018.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2018.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2018.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2018.png?t=20090916113017" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2018.png?size=smaller&amp;t=20090916113017" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2018.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

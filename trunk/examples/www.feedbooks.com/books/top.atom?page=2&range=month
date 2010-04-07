@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=2&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=2&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=2&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 2 | Feedbooks</title>
+  <updated>2010-04-07T18:24:33Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>21</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=1&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=3&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Wuthering Heights</title>
+<id>http://www.feedbooks.com/book/135</id>
+<author>
+  <name>Emily Bront&#235;</name>
+  <uri>http://www.feedbooks.com/author/49</uri>
+</author>
+<updated>2009-09-25T12:29:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1847</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Gothic" label="Gothic"/>
+<summary>Wuthering Heights is Emily Bront&#235;'s only novel. It was first published in 1847 under the pseudonym Ellis Bell, and a posthumous second edition was edited by her sister Charlotte. The name of the novel comes from the Yorkshire manor on the moors on which the story centres (as an adjective, wuthering is a Yorkshire word referring to turbulent weather). The narrative tells the tale of the all-encompassing and passionate, yet thwarted, love between Heathcliff and Catherine Earnshaw, and how this unresolved passion eventually destroys them and many around them.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/135.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/135.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/135.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/135.png?t=20090925122928" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/135.png?size=smaller&amp;t=20090925122928" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/135.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Frankenstein</title>
+<id>http://www.feedbooks.com/book/91</id>
+<author>
+  <name>Mary Shelley</name>
+  <uri>http://www.feedbooks.com/author/33</uri>
+</author>
+<updated>2009-09-16T10:09:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1818</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Gothic" label="Gothic"/>
+<summary>Frankenstein; or, The Modern Prometheus, generally known as Frankenstein, is a novel written by the British author Mary Shelley. The title of the novel refers to a scientist, Victor Frankenstein, who learns how to create life and creates a being in the likeness of man, but larger than average and more powerful. In popular culture, people have tended to refer to the Creature as &quot;Frankenstein&quot;, despite this being the name of the scientist. Frankenstein is a novel infused with some elements of the Gothic novel and the Romantic movement. It was also a warning against the &quot;over-reaching&quot; of modern man and the Industrial Revolution, alluded to in the novel's subtitle, The Modern Prometheus. The story has had an influence across literature and popular culture and spawned a complete genre of horror stories and films. It is arguably considered the first fully realized science fiction novel.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/91.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/91.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/91.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/91.png?t=20090916100925" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/91.png?size=smaller&amp;t=20090916100925" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/91.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Peter Pan (Peter and Wendy)</title>
+<id>http://www.feedbooks.com/book/3413</id>
+<author>
+  <name>J.M. Barrie</name>
+  <uri>http://www.feedbooks.com/author/816</uri>
+</author>
+<updated>2009-08-18T01:18:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1911</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Peter Pan, or The Boy Who Wouldn't Grow Up and Peter and Wendy are the stage play and novel (respectively) which tell the story of Peter Pan, a mischievous little boy who can fly, and his adventures on the island of Neverland with Wendy Darling and her brothers, the fairy Tinker Bell, the Lost Boys, the Indian princess Tiger Lily, and the pirate Captain Hook. The story was written by Scottish playwright and novelist J. M. Barrie, inspired by his friendship with the Llewelyn-Davies family.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3413.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3413.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3413.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3413.png?t=20090818011805" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3413.png?size=smaller&amp;t=20090818011805" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3413.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Adventures of Huckleberry Finn</title>
+<id>http://www.feedbooks.com/book/71</id>
+<author>
+  <name>Mark Twain</name>
+  <uri>http://www.feedbooks.com/author/24</uri>
+</author>
+<updated>2009-10-11T14:31:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1885</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Adventures of Huckleberry Finn (often shortened to Huck Finn) is a novel written by American humorist Mark Twain. It is commonly used and accounted as one of the first Great American Novels. It is also one of the first major American novels written using Local Color Regionalism, or vernacular, told in the first person by the eponymous Huckleberry &quot;Huck&quot; Finn, best friend of Tom Sawyer and hero of three other Mark Twain books.
+The book is noted for its colorful description of people and places along the Mississippi River. By satirizing Southern antebellum society that was already a quarter-century in the past by the time of publication, the book is an often scathing look at entrenched attitudes, particularly racism. The drifting journey of Huck and his friend Jim, a runaway slave, down the Mississippi River on their raft may be one of the most enduring images of escape and freedom in all of American literature.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/71.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/71.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/71.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/71.png?t=20091011143119" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/71.png?size=smaller&amp;t=20091011143119" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/71.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Time Machine</title>
+<id>http://www.feedbooks.com/book/32</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:06:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1895</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The book's protagonist is an amateur inventor or scientist living in London who is never named; he is identified simply as The Time Traveller. Having demonstrated to friends using a miniature model that time is a fourth dimension, and that a suitable apparatus can move back and forth in this fourth dimension, he builds a full-scale model capable of carrying himself. He sets off on a journey into the future.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/32.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/32.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/32.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/32.png?t=20090916100655" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/32.png?size=smaller&amp;t=20090916100655" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/32.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Three Musketeers</title>
+<id>http://www.feedbooks.com/book/398</id>
+<author>
+  <name>Alexandre Dumas</name>
+  <uri>http://www.feedbooks.com/author/25</uri>
+</author>
+<updated>2009-09-16T10:20:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1844</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<category term="Romance" label="Romance"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The Three Musketeers (Les Trois Mousquetaires) is a novel by Alexandre Dumas, p&#232;re. It recounts the adventures of a young man named d'Artagnan after he leaves home to become a musketeer. D'Artagnan is not one of the musketeers of the title; those are his friends Athos, Porthos, and Aramis&#8212;inseparable friends who live by the motto, &quot;One for all, and all for one&quot;.
+The story of d'Artagnan is continued in Twenty Years After and The Vicomte de Bragelonne. Those three novels by Dumas are together known as the D'Artagnan Romances.
+The Three Musketeers was first published in serial form in the magazine Le Si&#232;cle between March and July 1844.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/398.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/398.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/398.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/398.png?t=20090916102008" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/398.png?size=smaller&amp;t=20090916102008" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/398.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Strange Case of Dr Jekyll and Mr Hyde</title>
+<id>http://www.feedbooks.com/book/95</id>
+<author>
+  <name>Robert Louis Stevenson</name>
+  <uri>http://www.feedbooks.com/author/37</uri>
+</author>
+<updated>2009-09-16T10:09:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1886</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<summary>Strange Case of Dr Jekyll and Mr Hyde is a novella written by the Scottish author Robert Louis Stevenson and first published in 1886. It is about a London lawyer who investigates strange occurrences between his old friend, Dr Henry Jekyll, and the misanthropic Edward Hyde. The work is known for its vivid portrayal of a split personality, split in the sense that within the same person there is both an apparently good and an evil personality each being quite distinct from each other; in mainstream culture the very phrase &quot;Jekyll and Hyde&quot; has come to mean a person who is vastly different in moral character from one situation to the next. This is different from multiple personality disorder where the different personalities do not necessarily differ in any moral sense. Strange Case of Dr Jekyll and Mr Hyde was an immediate success and one of Stevenson's best-selling works. Stage adaptations began in Boston and London within a year of its publication and it has gone on to inspire scores of major film and stage performances.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/95.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/95.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/95.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/95.png?t=20090916100932" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/95.png?size=smaller&amp;t=20090916100932" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/95.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>I, Robot</title>
+<id>http://www.feedbooks.com/book/337</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:17:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>&quot;I, Robot&quot; is a science-fiction short story by Cory Doctorow published in 2005.
+The story is set in the type of police state needed to ensure that only one company is allowed to make robots, and only one type of robot is allowed.
+The story follows single Father detective Arturo Icaza de Arana-Goldberg while he tries to track down his missing teenage daughter. The detective is a bit of an outcast because his wife defected to Eurasia, a rival Superpower.
+</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/337.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/337.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/337.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/337.png?t=20090916101723" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/337.png?size=smaller&amp;t=20090916101723" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/337.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Iliad of Homer</title>
+<id>http://www.feedbooks.com/book/2962</id>
+<author>
+  <name>Homer</name>
+  <uri>http://www.feedbooks.com/author/616</uri>
+</author>
+<updated>2009-09-16T12:37:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-900</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<category term="War" label="War"/>
+<summary>Translated into English Blank Verse by William Cowper.
+The Iliad is, together with the Odyssey, one of two ancient Greek epic poems traditionally attributed to Homer. The poem is commonly dated to the late 9th or to the 8th century BC, and many scholars believe it is the oldest extant work of literature in the ancient Greek language, making it one of the first works of ancient Greek literature. The existence of a single author for the poems is disputed as the poems themselves show evidence of a long oral tradition and hence, possible multiple authors .</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2962.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2962.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2962.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2962.png?t=20090916123707" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2962.png?size=smaller&amp;t=20090916123707" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2962.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Phantom of the Opera</title>
+<id>http://www.feedbooks.com/book/3403</id>
+<author>
+  <name>Gaston Leroux</name>
+  <uri>http://www.feedbooks.com/author/135</uri>
+</author>
+<updated>2009-08-18T01:18:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1910</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>The story of a man named Erik, an eccentric, physically deformed genius who terrorizes the Opera Garnier in Paris. He builds his home beneath it and takes the love of his life, a beautiful soprano, under his wing.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3403.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3403.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3403.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3403.png?t=20090818011805" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3403.png?size=smaller&amp;t=20090818011805" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3403.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sense and Sensibility</title>
+<id>http://www.feedbooks.com/book/53</id>
+<author>
+  <name>Jane Austen</name>
+  <uri>http://www.feedbooks.com/author/18</uri>
+</author>
+<updated>2009-09-24T16:21:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1811</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Elinor and Marianne are two daughters of Mr. Dashwood by his second wife. They have a younger sister, Margaret, and an older half-brother named John. When their father dies, the family estate passes to John and the Dashwood women are left in reduced circumstances. Fortunately, a distant relative offers to rent the women a cottage on his property.
+The novel follows the Dashwood sisters to their new home, where they experience both romance and heartbreak.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/53.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/53.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/53.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/53.png?t=20090924162137" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/53.png?size=smaller&amp;t=20090924162137" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/53.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Romeo and Juliet</title>
+<id>http://www.feedbooks.com/book/2936</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:34:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1597</dcterms:issued>
+<category term="Romance" label="Romance"/>
+<category term="Plays" label="Plays"/>
+<summary>Romeo and Juliet is a tragic play written early in the career of William Shakespeare about two teenage &quot;star-cross'd lovers&quot; whose untimely deaths ultimately unite their feuding households. It was among Shakespeare's most popular plays during his lifetime and, along with Hamlet, is one of his most frequently performed plays. Today, the title characters are regarded as archetypal &quot;young lovers&quot;. (From Wikipedia)</summary>
+<dcterms:source>http://shakespeare.mit.edu</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2936.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2936.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2936.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2936.png?t=20090916123445" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2936.png?size=smaller&amp;t=20090916123445" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2936.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Around the World in Eighty Days</title>
+<id>http://www.feedbooks.com/book/199</id>
+<author>
+  <name>Jules Verne</name>
+  <uri>http://www.feedbooks.com/author/19</uri>
+</author>
+<updated>2009-09-16T10:13:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1872</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Travel" label="Travel"/>
+<summary>Shocking his stodgy colleagues at the exclusive Reform Club, enigmatic Englishman Phileas Fogg wagers his fortune, undertaking an extraordinary and daring enterprise: to circumnavigate the globe in eighty days. With his French valet Passepartout in tow, Verne&#8217;s hero traverses the far reaches of the earth, all the while tracked by the intrepid Detective Fix, a bounty hunter certain he is on the trail of a notorious bank robber.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/199.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/199.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/199.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/199.png?t=20090916101324" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/199.png?size=smaller&amp;t=20090916101324" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/199.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Heart of Darkness</title>
+<id>http://www.feedbooks.com/book/15</id>
+<author>
+  <name>Joseph Conrad</name>
+  <uri>http://www.feedbooks.com/author/10</uri>
+</author>
+<updated>2009-09-16T10:06:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1902</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Heart of Darkness is a novella written by Polish-born writer Joseph Conrad (born J&#243;zef Teodor Konrad Korzeniowski). Before its 1902 publication, it appeared as a three-part series (1899) in Blackwood's Magazine. It is widely regarded as a significant work of English literature and part of the Western canon.
+This highly symbolic story is actually a story within a story, or frame narrative. It follows Marlow as he recounts, from dusk through to late night, his adventure into the Congo to a group of men aboard a ship anchored in the Thames Estuary.
+The story details an incident when Marlow, an Englishman, took a foreign assignment as a ferry-boat captain, employed by a Belgian trading company. Although the river is never specifically named, readers may assume it is the Congo River, in the Congo Free State, a private colony of King Leopold II. Marlow is employed to transport ivory downriver; however, his more pressing assignment is to return Kurtz, another ivory trader, to civilization in a cover up. Kurtz has a reputation throughout the region.</summary>
+<dcterms:source>University of Virginia</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/15.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/15.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/15.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/15.png?t=20090916100639" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/15.png?size=smaller&amp;t=20090916100639" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/15.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Call of the Wild</title>
+<id>http://www.feedbooks.com/book/92</id>
+<author>
+  <name>Jack London</name>
+  <uri>http://www.feedbooks.com/author/34</uri>
+</author>
+<updated>2010-01-02T15:27:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1903</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The Call of the Wild is a novel by American writer Jack London. The plot concerns a previously domesticated and even somewhat pampered dog named Buck, whose primordial instincts return after a series of events finds him serving as a sled dog in the treacherous, frigid Yukon during the days of the 19th century Klondike Gold Rushes.
+Published in 1903, The Call of the Wild is one of London's most-read books, and it is generally considered one of his best. Because the protagonist is a dog, it is sometimes classified as a juvenile novel, suitable for children, but it is dark in tone and contains numerous scenes of cruelty and violence.
+London followed the book in 1906 with White Fang, a companion novel with many similar plot elements and themes as The Call of the Wild, although following a mirror image plot in which a wild wolf becomes civilized by a mining expert from San Francisco named Weedon Scott.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/92.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/92.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/92.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/92.png?t=20100102152701" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/92.png?size=smaller&amp;t=20100102152701" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/92.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Call of Cthulhu</title>
+<id>http://www.feedbooks.com/book/18</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:06:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1926</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>&quot;The Call of Cthulhu&quot; is one of H. P. Lovecraft's best-known short stories. Written in the summer of 1926, it was first published in Weird Tales, February 1928. It is the only story written by Lovecraft in which the extraterrestrial entity Cthulhu himself makes a major appearance.
+It is written in a documentary style, with three independent narratives linked together by the device of a narrator discovering notes left by a deceased relative. The narrator pieces together the whole truth and disturbing significance of the information he possesses, illustrating the story's first line: &quot;The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity; and it was not meant that we should voyage far.&quot;</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/18.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/18.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/18.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/18.png?t=20090916100643" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/18.png?size=smaller&amp;t=20090916100643" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/18.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Beyond Good and Evil</title>
+<id>http://www.feedbooks.com/book/676</id>
+<author>
+  <name>Friedrich Wilhelm Nietzsche</name>
+  <uri>http://www.feedbooks.com/author/81</uri>
+</author>
+<updated>2009-12-03T16:35:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1886</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<summary>Beyond Good and Evil (German: Jenseits von Gut und B&#246;se), subtitled &quot;Prelude to a Philosophy of the Future&quot; (Vorspiel einer Philosophie der Zukunft), is a book by the German philosopher Friedrich Nietzsche, first published in 1886.
+It takes up and expands on the ideas of his previous work, Thus Spoke Zarathustra, but approached from a more critical, polemical direction.
+In Beyond Good and Evil, Nietzsche attacks past philosophers for their alleged lack of critical sense and their blind acceptance of Christian premises in their consideration of morality. The work moves into the realm &quot;beyond good and evil&quot; in the sense of leaving behind the traditional morality which Nietzsche subjects to a destructive critique in favour of what he regards as an affirmative approach that fearlessly confronts the perspectival nature of knowledge and the perilous condition of the modern individual.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/676.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/676.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/676.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/676.png?t=20091203163517" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/676.png?size=smaller&amp;t=20091203163517" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/676.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Don Quixote</title>
+<id>http://www.feedbooks.com/book/183</id>
+<author>
+  <name>Miguel Cervantes</name>
+  <uri>http://www.feedbooks.com/author/87</uri>
+</author>
+<updated>2010-01-14T16:35:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1615</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Don Quixote, errant knight and sane madman, with the company of his faithful squire and wise fool, Sancho Panza, together roam the world and haunt readers' imaginations as they have for nearly four hundred years. </summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/183.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/183.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/183.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/183.png?t=20100114163554" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/183.png?size=smaller&amp;t=20100114163554" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/183.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jane Eyre</title>
+<id>http://www.feedbooks.com/book/144</id>
+<author>
+  <name>Charlotte Bront&#235;</name>
+  <uri>http://www.feedbooks.com/author/52</uri>
+</author>
+<updated>2009-12-04T15:55:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1847</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Jane Eyre, the story of a young girl and her passage into adulthood, was an immediate commercial success at the time of its original publication in 1847. Its representation of the underside of domestic life and the hypocrisy behind religious enthusiasm drew both praise and bitter criticism, while Charlotte Bront&#235;'s striking expose of poor living conditions for children in charity schools as well as her poignant portrayal of the limitations faced by women who worked as governesses sparked great controversy and social debate. Jane Eyre, Bront&#235;'s best-known novel, remains an extraordinary coming-of-age narrative, and one of the great classics of literature.</summary>
+<dcterms:source>Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/144.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/144.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/144.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/144.png?t=20091204155537" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/144.png?size=smaller&amp;t=20091204155537" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/144.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Casebook of Sherlock Holmes</title>
+<id>http://www.feedbooks.com/book/66</id>
+<author>
+  <name>Arthur Conan Doyle</name>
+  <uri>http://www.feedbooks.com/author/1</uri>
+</author>
+<updated>2009-12-03T17:31:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1923</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<summary>The last twelve stories written about Holmes and Watson, these tales reflect the disillusioned world of the 1920s in which they were written. Some of the sharpest turns of wit in English literature are contrasted by dark images of psychological tragedy, suicide, and incest in a collection of tales that have haunted generations of readers.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/66.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/66.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/66.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/66.png?t=20091203173128" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/66.png?size=smaller&amp;t=20091203173128" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/66.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

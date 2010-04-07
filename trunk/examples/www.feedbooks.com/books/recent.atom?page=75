@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=75</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=75" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=75" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 75 | Feedbooks</title>
+  <updated>2010-04-07T18:27:03Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1481</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=74" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=76" rel="next" title="Next Page"/>
+<entry>
+<title>The Professor's House</title>
+<id>http://www.feedbooks.com/book/2133</id>
+<author>
+  <name>Willa Cather</name>
+  <uri>http://www.feedbooks.com/author/296</uri>
+</author>
+<updated>2009-09-16T11:32:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1925</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2133.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2133.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2133.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2133.png?t=20090916113252" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2133.png?size=smaller&amp;t=20090916113252" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2133.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Shadows on the Rock</title>
+<id>http://www.feedbooks.com/book/2132</id>
+<author>
+  <name>Willa Cather</name>
+  <uri>http://www.feedbooks.com/author/296</uri>
+</author>
+<updated>2009-09-16T11:47:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2132.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2132.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2132.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2132.png?t=20090916114701" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2132.png?size=smaller&amp;t=20090916114701" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2132.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>South Moon Under</title>
+<id>http://www.feedbooks.com/book/2129</id>
+<author>
+  <name>Marjorie Kinnan Rawlings</name>
+  <uri>http://www.feedbooks.com/author/300</uri>
+</author>
+<updated>2009-09-16T11:46:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1933</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2129.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2129.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2129.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2129.png?t=20090916114641" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2129.png?size=smaller&amp;t=20090916114641" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2129.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Sojourner</title>
+<id>http://www.feedbooks.com/book/2128</id>
+<author>
+  <name>Marjorie Kinnan Rawlings</name>
+  <uri>http://www.feedbooks.com/author/300</uri>
+</author>
+<updated>2009-09-16T11:46:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2128.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2128.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2128.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2128.png?t=20090916114632" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2128.png?size=smaller&amp;t=20090916114632" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2128.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Cross Creek</title>
+<id>http://www.feedbooks.com/book/2127</id>
+<author>
+  <name>Marjorie Kinnan Rawlings</name>
+  <uri>http://www.feedbooks.com/author/300</uri>
+</author>
+<updated>2009-09-16T11:46:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1942</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Biography" label="Biography"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2127.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2127.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2127.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2127.png?t=20090916114620" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2127.png?size=smaller&amp;t=20090916114620" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2127.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Yearling</title>
+<id>http://www.feedbooks.com/book/2125</id>
+<author>
+  <name>Marjorie Kinnan Rawlings</name>
+  <uri>http://www.feedbooks.com/author/300</uri>
+</author>
+<updated>2009-09-16T11:46:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1938</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2125.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2125.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2125.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2125.png?t=20090916114602" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2125.png?size=smaller&amp;t=20090916114602" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2125.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Troll Garden and Selected Stories</title>
+<id>http://www.feedbooks.com/book/2124</id>
+<author>
+  <name>Willa Cather</name>
+  <uri>http://www.feedbooks.com/author/296</uri>
+</author>
+<updated>2009-09-16T11:45:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1905</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2124.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2124.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2124.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2124.png?t=20090916114552" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2124.png?size=smaller&amp;t=20090916114552" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2124.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Youth and the Bright Medusa</title>
+<id>http://www.feedbooks.com/book/2123</id>
+<author>
+  <name>Willa Cather</name>
+  <uri>http://www.feedbooks.com/author/296</uri>
+</author>
+<updated>2009-09-16T11:45:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2123.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2123.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2123.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2123.png?t=20090916114547" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2123.png?size=smaller&amp;t=20090916114547" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2123.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Black Beauty</title>
+<id>http://www.feedbooks.com/book/2122</id>
+<author>
+  <name>Anna Sewell</name>
+  <uri>http://www.feedbooks.com/author/299</uri>
+</author>
+<updated>2009-09-16T11:45:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1877</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>Black Beauty is Anna Sewell's only novel, composed in the last years of her life between 1871 and 1877 while confined to her house as an invalid.
+The story is told in the first person as an autobiographical memoir told by a horse named Black Beauty&#8212;beginning with his carefree days as a colt on an English farm, to his difficult life pulling cabs in London, to his happy retirement in the country. Along the way, he meets with many hardships and recounts many tales of cruelty and kindness. Each short chapter recounts an incident in Black Beauty's life containing a lesson or moral typically related to the kindness, sympathy, and understanding treatment of horses, with Sewell's detailed observations and extensive descriptions of horse behaviour lending the novel a good deal of verisimilitude.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2122.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2122.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2122.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2122.png?t=20090916114542" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2122.png?size=smaller&amp;t=20090916114542" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2122.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lucy Gayheart</title>
+<id>http://www.feedbooks.com/book/2121</id>
+<author>
+  <name>Willa Cather</name>
+  <uri>http://www.feedbooks.com/author/296</uri>
+</author>
+<updated>2009-09-16T11:45:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1935</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2121.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2121.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2121.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2121.png?t=20090916114526" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2121.png?size=smaller&amp;t=20090916114526" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2121.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Lost Lady</title>
+<id>http://www.feedbooks.com/book/2120</id>
+<author>
+  <name>Willa Cather</name>
+  <uri>http://www.feedbooks.com/author/296</uri>
+</author>
+<updated>2009-09-16T11:45:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1923</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2120.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2120.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2120.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2120.png?t=20090916114516" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2120.png?size=smaller&amp;t=20090916114516" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2120.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sapphira and the Slave Girl</title>
+<id>http://www.feedbooks.com/book/2119</id>
+<author>
+  <name>Willa Cather</name>
+  <uri>http://www.feedbooks.com/author/296</uri>
+</author>
+<updated>2009-09-16T11:45:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1940</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2119.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2119.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2119.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2119.png?t=20090916114504" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2119.png?size=smaller&amp;t=20090916114504" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2119.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Death Comes for the Archbishop</title>
+<id>http://www.feedbooks.com/book/2118</id>
+<author>
+  <name>Willa Cather</name>
+  <uri>http://www.feedbooks.com/author/296</uri>
+</author>
+<updated>2009-09-16T11:44:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1927</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Religion" label="Religion"/>
+<summary>A narrative that recounts a life lived simply in the silence of the southwestern desert.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2118.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2118.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2118.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2118.png?t=20090916114455" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2118.png?size=smaller&amp;t=20090916114455" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2118.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>My &#193;ntonia</title>
+<id>http://www.feedbooks.com/book/2117</id>
+<author>
+  <name>Willa Cather</name>
+  <uri>http://www.feedbooks.com/author/296</uri>
+</author>
+<updated>2009-12-03T16:38:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>My &#193;ntonia (first published 1918) is considered the greatest novel by American writer Willa Cather. My &#193;ntonia &#8212; pronounced with the accent on the first syllable of &quot;&#193;ntonia&quot; &#8212; is the final book of the &quot;prairie trilogy&quot; of novels by Cather, a list that also includes O Pioneers! and The Song of the Lark.My &#193;ntonia tells the stories of several immigrant families who move out to rural Nebraska to start new lives in America, with a particular focus on a Bohemian family, the Shimerdas, whose eldest daughter is named &#193;ntonia.
+</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2117.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2117.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2117.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2117.png?t=20091203163800" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2117.png?size=smaller&amp;t=20091203163800" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2117.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Two Vanrevels</title>
+<id>http://www.feedbooks.com/book/2116</id>
+<author>
+  <name>Newton Booth Tarkington</name>
+  <uri>http://www.feedbooks.com/author/295</uri>
+</author>
+<updated>2009-09-16T11:44:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1902</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2116.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2116.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2116.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2116.png?t=20090916114429" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2116.png?size=smaller&amp;t=20090916114429" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2116.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Seventeen</title>
+<id>http://www.feedbooks.com/book/2115</id>
+<author>
+  <name>Newton Booth Tarkington</name>
+  <uri>http://www.feedbooks.com/author/295</uri>
+</author>
+<updated>2009-09-16T11:44:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2115.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2115.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2115.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2115.png?t=20090916114424" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2115.png?size=smaller&amp;t=20090916114424" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2115.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ramsey Milholland</title>
+<id>http://www.feedbooks.com/book/2114</id>
+<author>
+  <name>Newton Booth Tarkington</name>
+  <uri>http://www.feedbooks.com/author/295</uri>
+</author>
+<updated>2009-09-16T11:44:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2114.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2114.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2114.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2114.png?t=20090916114414" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2114.png?size=smaller&amp;t=20090916114414" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2114.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Penrod and Sam</title>
+<id>http://www.feedbooks.com/book/2113</id>
+<author>
+  <name>Newton Booth Tarkington</name>
+  <uri>http://www.feedbooks.com/author/295</uri>
+</author>
+<updated>2009-09-16T11:44:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2113.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2113.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2113.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2113.png?t=20090916114408" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2113.png?size=smaller&amp;t=20090916114408" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2113.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Penrod</title>
+<id>http://www.feedbooks.com/book/2112</id>
+<author>
+  <name>Newton Booth Tarkington</name>
+  <uri>http://www.feedbooks.com/author/295</uri>
+</author>
+<updated>2009-09-16T11:44:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2112.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2112.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2112.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2112.png?t=20090916114401" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2112.png?size=smaller&amp;t=20090916114401" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2112.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In the Arena</title>
+<id>http://www.feedbooks.com/book/2111</id>
+<author>
+  <name>Newton Booth Tarkington</name>
+  <uri>http://www.feedbooks.com/author/295</uri>
+</author>
+<updated>2009-09-16T11:43:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1905</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<category term="Politics" label="Politics"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2111.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2111.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2111.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2111.png?t=20090916114352" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2111.png?size=smaller&amp;t=20090916114352" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2111.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

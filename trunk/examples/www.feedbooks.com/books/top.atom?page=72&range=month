@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:app="http://www.w3.org/2007/app" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=72&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=72&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=72&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 72 | Feedbooks</title>
+  <updated>2010-04-07T18:25:16Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1421</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=71&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=73&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Bobbsey Twins in the Country</title>
+<id>http://www.feedbooks.com/book/4587</id>
+<author>
+  <name>Laura Lee Hope</name>
+  <uri>http://www.feedbooks.com/author/653</uri>
+</author>
+<updated>2010-01-19T15:25:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/714</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4587.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4587.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4587.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4587.png?t=20100119152548" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4587.png?size=smaller&amp;t=20100119152548" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4587.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Prester John</title>
+<id>http://www.feedbooks.com/book/953</id>
+<author>
+  <name>John Buchan</name>
+  <uri>http://www.feedbooks.com/author/17</uri>
+</author>
+<updated>2009-09-16T10:36:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1899</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/953.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/953.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/953.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/953.png?t=20090916103635" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/953.png?size=smaller&amp;t=20090916103635" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/953.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Murat</title>
+<id>http://www.feedbooks.com/book/1288</id>
+<author>
+  <name>Alexandre Dumas</name>
+  <uri>http://www.feedbooks.com/author/25</uri>
+</author>
+<updated>2009-09-16T10:46:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1840</dcterms:issued>
+<category term="History" label="History"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1288.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1288.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1288.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1288.png?t=20090916104611" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1288.png?size=smaller&amp;t=20090916104611" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1288.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Legacy</title>
+<id>http://www.feedbooks.com/book/1403</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:49:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1944</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1403.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1403.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1403.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1403.png?t=20090916104906" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1403.png?size=smaller&amp;t=20090916104906" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1403.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ghost Stories of Chapelizod</title>
+<id>http://www.feedbooks.com/book/1579</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T11:03:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1851</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1579.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1579.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1579.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1579.png?t=20090916110322" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1579.png?size=smaller&amp;t=20090916110322" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1579.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Clue of the New Pin</title>
+<id>http://www.feedbooks.com/book/1976</id>
+<author>
+  <name>Edgar Wallace</name>
+  <uri>http://www.feedbooks.com/author/253</uri>
+</author>
+<updated>2009-09-16T11:28:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1923</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1976.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1976.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1976.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1976.png?t=20090916112817" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1976.png?size=smaller&amp;t=20090916112817" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1976.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Invisible Girl</title>
+<id>http://www.feedbooks.com/book/90</id>
+<author>
+  <name>Mary Shelley</name>
+  <uri>http://www.feedbooks.com/author/33</uri>
+</author>
+<updated>2009-09-16T10:09:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1820</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/90.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/90.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/90.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/90.png?t=20090916100923" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/90.png?size=smaller&amp;t=20090916100923" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/90.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Judge's House</title>
+<id>http://www.feedbooks.com/book/463</id>
+<author>
+  <name>Bram Stoker</name>
+  <uri>http://www.feedbooks.com/author/31</uri>
+</author>
+<updated>2009-09-16T10:22:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/463.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/463.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/463.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/463.png?t=20090916102229" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/463.png?size=smaller&amp;t=20090916102229" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/463.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Crystal Egg</title>
+<id>http://www.feedbooks.com/book/595</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:27:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/595.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/595.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/595.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/595.png?t=20090916102708" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/595.png?size=smaller&amp;t=20090916102708" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/595.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Berenice</title>
+<id>http://www.feedbooks.com/book/758</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1835</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/758.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/758.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/758.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/758.png?t=20090916103014" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/758.png?size=smaller&amp;t=20090916103014" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/758.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Night Life of the Gods</title>
+<id>http://www.feedbooks.com/book/1498</id>
+<author>
+  <name>Thorne Smith</name>
+  <uri>http://www.feedbooks.com/author/230</uri>
+</author>
+<updated>2009-09-16T10:55:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1498.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1498.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1498.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1498.png?t=20090916105551" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1498.png?size=smaller&amp;t=20090916105551" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1498.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Sign of the Snake</title>
+<id>http://www.feedbooks.com/book/1654</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T10:59:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1654.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1654.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1654.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1654.png?t=20090916105944" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1654.png?size=smaller&amp;t=20090916105944" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1654.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mr Polton Explains</title>
+<id>http://www.feedbooks.com/book/2141</id>
+<author>
+  <name>R. Austin Freeman</name>
+  <uri>http://www.feedbooks.com/author/288</uri>
+</author>
+<updated>2009-09-16T11:47:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1940</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Told through the eyes of a watchmaker, Dr Thorndyke is once again faced with a nettly mystery involving a mysterious fire in a Soho house filled with supposedly inflammable objects. What transpires is an entertaining and amazing twist thanks to the eagle eyes of the Doctor and his friend the watchmaker, Mr Polton.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2141.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2141.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2141.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2141.png?t=20090916114758" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2141.png?size=smaller&amp;t=20090916114758" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2141.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Street of Seven Stars</title>
+<id>http://www.feedbooks.com/book/3723</id>
+<author>
+  <name>Mary Roberts Rinehart</name>
+  <uri>http://www.feedbooks.com/author/977</uri>
+</author>
+<updated>2009-08-18T01:18:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Romance" label="Romance"/>
+<summary>Harmony Wells, studying in Vienna to be a great violinist, suddenly realizes that her money is almost gone. She meets a young ambitious doctor who offers her chivalry and sympathy, and together with world-worn Dr. Anna and Jimmie, the waif, they share their love and slender means.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3723.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3723.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3723.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3723.png?t=20090818011807" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3723.png?size=smaller&amp;t=20090818011807" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3723.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Quest of the Sacred Slipper</title>
+<id>http://www.feedbooks.com/book/3776</id>
+<author>
+  <name>Sax Rohmer</name>
+  <uri>http://www.feedbooks.com/author/778</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>A novel from the creator of Fu Manchu about a mysterious muslim organization in pursuit.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3776.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3776.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3776.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3776.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3776.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3776.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Hand of Ethelberta</title>
+<id>http://www.feedbooks.com/book/4074</id>
+<author>
+  <name>Thomas Hardy</name>
+  <uri>http://www.feedbooks.com/author/48</uri>
+</author>
+<updated>2009-08-18T01:18:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1876</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>At the beginning of the book, we are told that Ethelberta was raised in humble circumstances but, through her work as a governess, married well at the age of eighteen. Her husband died two weeks after the wedding and, now twenty-one, Ethelberta lives with her mother-in-law, Lady Petherwin. In the three years that have elapsed since the deaths of both her husband and father-in-law, Ethelberta has been treated to foreign travel and further privilege by her benefactress, but restricted from seeing her poor family.
+The events of the story concern Ethelberta's career as a famous poetess and storyteller as she struggles to support her family and conceal her secret -- that her father is a butler. Beautiful, clever, and rational, she easily attracts four very persistent suitors (Mr Julian, Mr Neigh, Mr Ladywell, and Lord Mountclere), but is reluctant to give her much-coveted hand.</summary>
+<dcterms:source>Gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4074.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4074.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4074.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4074.png?t=20090818011819" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4074.png?size=smaller&amp;t=20090818011819" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4074.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Soldiers of Fortune</title>
+<id>http://www.feedbooks.com/book/4541</id>
+<author>
+  <name>Richard Harding Davis</name>
+  <uri>http://www.feedbooks.com/author/1319</uri>
+</author>
+<updated>2010-01-04T15:44:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Politics" label="Politics"/>
+<summary>A romance of America's nascent imperial power recounting the adventures of Robert Clay, a mining engineer and sometime mercenary, and Hope Langham, the daughter of a wealthy American industrialist, as they become caught up in a coup in Olancho, a fictional Latin American republic. When the coup, organized by corrupt politicians and generals, threatens the American-owned Valencia Mining Company, Clay organizes his workers and the handful of Americans visiting the mine into a counter-coup force. Written on the eve of the Spanish-American War, Soldiers of Fortune casts the young American as the dashing, hypermasculine hero of the new military and economic imperium.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/403</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4541.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4541.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4541.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4541.png?t=20100104154411" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4541.png?size=smaller&amp;t=20100104154411" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4541.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In Memoriam W. M. Thackeray</title>
+<id>http://www.feedbooks.com/book/259</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:15:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1850</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Essay" label="Essay"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/259.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/259.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/259.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/259.png?t=20090916101530" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/259.png?size=smaller&amp;t=20090916101530" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/259.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Business Man</title>
+<id>http://www.feedbooks.com/book/761</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1840</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/761.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/761.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/761.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/761.png?t=20090916103014" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/761.png?size=smaller&amp;t=20090916103014" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/761.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Star Surgeon</title>
+<id>http://www.feedbooks.com/book/869</id>
+<author>
+  <name>Alan Nourse</name>
+  <uri>http://www.feedbooks.com/author/162</uri>
+</author>
+<updated>2009-09-16T10:32:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Born on a planet of a distant star, Dal Timgar is the first alien to attempt to become a qualified physician of Hospital Earth.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/869.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/869.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/869.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/869.png?t=20090916103214" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/869.png?size=smaller&amp;t=20090916103214" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/869.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

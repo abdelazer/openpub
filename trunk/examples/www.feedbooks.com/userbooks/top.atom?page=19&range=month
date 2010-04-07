@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=19&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=19&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=19&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 19 | Feedbooks</title>
+  <updated>2010-04-07T18:23:18Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>361</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=18&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=20&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Wonder Woman #0</title>
+<id>http://www.feedbooks.com/userbook/11107</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2010-03-31T21:19:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Wonder Woman: A Game of Gods and Men, Prelude.</summary>
+<category term="Cheetah"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Steve Trevor"/>
+<category term="Wonder Woman"/>
+<category term="Circe"/>
+<category term="Arsinoe"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/11107.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/11107.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/11107.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11107.png?t=20100331211937" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/11107.png?size=smaller&amp;t=20100331211937" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/11107.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sans Fin</title>
+<id>http://www.feedbooks.com/userbook/10642</id>
+<author>
+  <name>John Moncure Wetterau</name>
+  <uri>http://www.feedbooks.com/user/1707/profile#John%20Moncure%20Wetterau</uri>
+</author>
+<updated>2010-03-24T14:38:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Alberto Giacometti has been a life-long inspiration. These poems are written in the spirit of &quot;Paris Sans Fin,&quot; his collection of lithographs. I work in a similar manner, from the outside in, finding in description, celebration, an opening without end.
+Most of the poems are set in Maine and Panama.</summary>
+<category term="maine"/>
+<category term="Art"/>
+<category term="landscape"/>
+<category term="Panama"/>
+<category term="love"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10642.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10642.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10642.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10642.png?t=20100324143827" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10642.png?size=smaller&amp;t=20100324143827" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10642.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Barnabus Prepares for Bonfire Night</title>
+<id>http://www.feedbooks.com/userbook/10904</id>
+<author>
+  <name>Ivan B</name>
+  <uri>http://www.feedbooks.com/user/78789/profile#Ivan%20B</uri>
+</author>
+<updated>2010-03-30T09:45:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Fireworks can be pretty and bonfires can be warming, but to hedgehogs they can be deadly.  Barnabus works out a plan to keep the hedgehogs safe, but it is not that simple.</summary>
+<category term="Sunday School"/>
+<category term="Barnabus"/>
+<category term="Bedtime Story"/>
+<category term="Childrens Story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10904.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10904.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10904.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10904.png?t=20100330094500" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10904.png?size=smaller&amp;t=20100330094500" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10904.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Gotham: City of the Dead #3</title>
+<id>http://www.feedbooks.com/userbook/9698</id>
+<author>
+  <name>Chris Paugh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Chris%20Paugh</uri>
+</author>
+<updated>2010-01-17T21:37:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Gotham: City of the Dead, Part 3 (of 4).</summary>
+<category term="The Question"/>
+<category term="Blue Beetle"/>
+<category term="justice league"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Scarecrow"/>
+<category term="batgirl"/>
+<category term="Question"/>
+<category term="Nightwing"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9698.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9698.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9698.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9698.png?t=20100117213700" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9698.png?size=smaller&amp;t=20100117213700" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9698.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rogues Gallery #14</title>
+<id>http://www.feedbooks.com/userbook/10943</id>
+<author>
+  <name>Jayson Morriseau-Lussier</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Jayson%20Morriseau-Lussier</uri>
+</author>
+<updated>2010-03-14T22:35:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Rogues Gallery: Morgaine Le Fey.
+
+Hundreds of years ago, at the dawn of civilization, evil took on a frightful face. Step back with us as we explore one of history's most misunderstood but villainous enchantresses: Morgaine Le Fey!
+
+Special Guest Appearances by Jason Blood &amp; Arion the Immortal!</summary>
+<category term="Jason Blood"/>
+<category term="Morgaine Le Fey"/>
+<category term="The Demon"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Arion"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10943.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10943.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10943.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10943.png?t=20100314223557" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10943.png?size=smaller&amp;t=20100314223557" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10943.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>stories in between: narratives and mediums @ play</title>
+<id>http://www.feedbooks.com/userbook/2302</id>
+<author>
+  <name>Drew Davidson</name>
+  <uri>http://www.feedbooks.com/user/1/profile#Drew%20Davidson</uri>
+</author>
+<updated>2009-08-18T00:47:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>stories in between: narratives and mediums @ play is a unique text exploring the interplay between stories and media. The discussion focuses around the Myst narrative as it moves across media from games to books to comics to games. Along the way, the text also discusses the Sandman comics, and the hypermedia of Ultima Online and MitterNachtSpiel. This text was created hypertextually to exist online as a website with an inter-related book. Also, it has been released under a under a Creative Commons license: Attribution-NonCommercial-ShareAlike2.0 http://creativecommons.org/licenses/by-nc-sa/2.0/. Readers are encouraged to share and create work based on this text. The website can be viewed at: http://www.etc.cmu.edu/etcpress/</summary>
+<category term="narratives"/>
+<category term="media"/>
+<category term="stories"/>
+<category term="games"/>
+<category term="cross-media"/>
+<category term="transmedia"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/2302.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/2302.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/2302.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2302.png?t=20090818004737" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2302.png?size=smaller&amp;t=20090818004737" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/2302.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #4</title>
+<id>http://www.feedbooks.com/userbook/3939</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T20:06:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>The Joker Rules April Fools!
+
+It's April Fools Day in Gotham and that can only mean one thing! The Clown Prince of Crime is giving the city a hearty greeting, and Batgirl must struggle, not only with a diabolical mastermind that gives even Batman pause, but whether or not to accept help from a shocking source! </summary>
+<category term="batgirl"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="harley quinn"/>
+<category term="poison ivy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3939.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3939.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3939.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3939.png?t=20090817200605" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3939.png?size=smaller&amp;t=20090817200605" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3939.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #16</title>
+<id>http://www.feedbooks.com/userbook/5310</id>
+<author>
+  <name>Parker Tarun &amp; Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Parker%20Tarun%20%26%20Charles%20Wilkins</uri>
+</author>
+<updated>2009-08-17T16:33:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: History Lessons</summary>
+<category term="Batman"/>
+<category term="Steel"/>
+<category term="Lightray"/>
+<category term="Caesar"/>
+<category term="Guardian"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Lex Luthor"/>
+<category term="Wonder Woman"/>
+<category term="Lois Lane"/>
+<category term="Silver Banshee"/>
+<category term="Martian Manhunter"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5310.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5310.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5310.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5310.png?t=20090817163347" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5310.png?size=smaller&amp;t=20090817163347" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5310.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #31</title>
+<id>http://www.feedbooks.com/userbook/6601</id>
+<author>
+  <name>Roy Flinchum</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Roy%20Flinchum</uri>
+</author>
+<updated>2009-08-17T21:31:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Action Comics: Paradise Lost.
+
+Superman and Supergirl return to her home to find that all is not well in paradise.</summary>
+<category term="Supergirl"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Lois Lane"/>
+<category term="Kara Zor-El"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6601.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6601.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6601.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6601.png?t=20090817213147" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6601.png?size=smaller&amp;t=20090817213147" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6601.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #3</title>
+<id>http://www.feedbooks.com/userbook/7191</id>
+<author>
+  <name>Nicholas Moreau</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Nicholas%20Moreau</uri>
+</author>
+<updated>2009-08-21T16:01:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Detective Comics: Old Foes, Part 1: New Toys.</summary>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Lucius Fox"/>
+<category term="Mad Hatter"/>
+<category term="Batman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7191.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7191.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7191.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7191.png?t=20090821160106" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7191.png?size=smaller&amp;t=20090821160106" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7191.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Quaid's Millions</title>
+<id>http://www.feedbooks.com/userbook/9979</id>
+<author>
+  <name>Pete Clark</name>
+  <uri>http://www.feedbooks.com/user/70774/profile#Pete%20Clark</uri>
+</author>
+<updated>2010-01-30T19:08:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>How much money is enough to lose your morals?  George Sutherland is posed that question, and to his horror, he finds that even he has his price.</summary>
+<category term="supernatural"/>
+<category term="horror"/>
+<category term="murder"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9979.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9979.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9979.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9979.png?t=20100130190834" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9979.png?size=smaller&amp;t=20100130190834" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9979.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #12</title>
+<id>http://www.feedbooks.com/userbook/5103</id>
+<author>
+  <name>Charles Wilkins and DrDread</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins%20and%20DrDread</uri>
+</author>
+<updated>2009-08-18T00:47:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: Return to Smallville, Part 4 (of 4)</summary>
+<category term="Lex Luthor"/>
+<category term="Lois Lane"/>
+<category term="Lana Lang"/>
+<category term="Martian Manhunter"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Smallville"/>
+<category term="Brainiac"/>
+<category term="Atom"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5103.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5103.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5103.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5103.png?t=20090818004727" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5103.png?size=smaller&amp;t=20090818004727" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5103.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #27</title>
+<id>http://www.feedbooks.com/userbook/6034</id>
+<author>
+  <name>Roy Flinchum &amp; Ken White</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Roy%20Flinchum%20%26%20Ken%20White</uri>
+</author>
+<updated>2009-08-17T16:43:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Action Comics: Castaway.
+
+Superman leaves earth to discover the fate of the mysterious &#8220;other&#8221; rocket that escaped Krypton's demise. Will it hold a new friend, or a new enemy?</summary>
+<category term="Supergirl"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Lex Luthor"/>
+<category term="Jor-El"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6034.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6034.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6034.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6034.png?t=20090817164308" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6034.png?size=smaller&amp;t=20090817164308" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6034.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Making Dylan Maxwell</title>
+<id>http://www.feedbooks.com/userbook/7656</id>
+<author>
+  <name>Moxie Mezcal</name>
+  <uri>http://www.feedbooks.com/user/51003/profile#Moxie%20Mezcal</uri>
+</author>
+<updated>2009-09-26T17:27:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Meet Dylan Maxwell, billionaire dot-com CEO and world class deviant.  Tired of the same old thrills, he dreams up a new game for the rich &amp; powerful, convincing them to put everything on the line &#8211; their fortunes, their reputations, even their lives.</summary>
+<category term="reporter"/>
+<category term="journalism"/>
+<category term="ceo"/>
+<category term="executive"/>
+<category term="technology"/>
+<category term="com"/>
+<category term="Dot"/>
+<category term="Valley"/>
+<category term="silicon"/>
+<category term="warfare"/>
+<category term="class"/>
+<category term="rich"/>
+<category term="revenge"/>
+<category term="punk"/>
+<category term="guerrilla"/>
+<category term="noir"/>
+<category term="novella"/>
+<category term="dark"/>
+<category term="pulp"/>
+<category term="independent"/>
+<category term="short"/>
+<category term="mystery"/>
+<category term="fiction"/>
+<category term="crime"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7656.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7656.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7656.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7656.png?t=20090926172705" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7656.png?size=smaller&amp;t=20090926172705" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7656.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #26</title>
+<id>http://www.feedbooks.com/userbook/5928</id>
+<author>
+  <name>Roy Flinchum</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Roy%20Flinchum</uri>
+</author>
+<updated>2009-08-17T16:42:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Action Comics: Kryptonite Man</summary>
+<category term="Comics"/>
+<category term="Lex Luthor"/>
+<category term="Lois Lane"/>
+<category term="Kryptonite Man"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5928.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5928.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5928.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5928.png?t=20090817164204" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5928.png?size=smaller&amp;t=20090817164204" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5928.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #33</title>
+<id>http://www.feedbooks.com/userbook/7047</id>
+<author>
+  <name>Roy Flinchum and Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Roy%20Flinchum%20and%20Brian%20Burchette</uri>
+</author>
+<updated>2009-08-18T00:41:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Action Comics: Straight as an Arrow.
+
+Jimmy Olsen holds the key to the Fero Corporation's secrets, but will they let him live long enough to reveal it. Who is Fero? The answers start here!</summary>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Connor Hawke"/>
+<category term="Royal Flush Gang"/>
+<category term="Supergirl"/>
+<category term="Superman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7047.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7047.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7047.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7047.png?t=20090818004159" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7047.png?size=smaller&amp;t=20090818004159" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7047.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Thirteenth Tribe Of Israel</title>
+<id>http://www.feedbooks.com/userbook/9428</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2010-01-06T14:39:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Many whom the world believes to be Jews that are now in Israel may not be Jews. </summary>
+<category term="dispensational"/>
+<category term="dispensationalists"/>
+<category term="postmillennial"/>
+<category term="annihilation"/>
+<category term="premillennialists"/>
+<category term="premillennialism"/>
+<category term="millennium"/>
+<category term="Premillennial"/>
+<category term="millennial"/>
+<category term="Israel"/>
+<category term="resurrection"/>
+<category term="Salvation"/>
+<category term="study"/>
+<category term="Faith"/>
+<category term="rapture"/>
+<category term="dispensation"/>
+<category term="annihilation"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9428.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9428.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9428.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9428.png?t=20100106143918" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9428.png?size=smaller&amp;t=20100106143918" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9428.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #24</title>
+<id>http://www.feedbooks.com/userbook/5924</id>
+<author>
+  <name>Roy Flinchum</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Roy%20Flinchum</uri>
+</author>
+<updated>2009-08-17T16:41:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Action Comics: Pappa's Got a Brand New Bag.</summary>
+<category term="Lois Lane"/>
+<category term="Batman"/>
+<category term="Steel"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Lex Luthor"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5924.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5924.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5924.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5924.png?t=20090817164156" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5924.png?size=smaller&amp;t=20090817164156" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5924.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Beyond Fun</title>
+<id>http://www.feedbooks.com/userbook/7063</id>
+<author>
+  <name>Drew Davidson</name>
+  <uri>http://www.feedbooks.com/user/1/profile#Drew%20Davidson</uri>
+</author>
+<updated>2009-08-17T23:17:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>This book focuses on strategies for applying games, simulations and interactive experiences in learning contexts. The contributors orchestrated this collection together, reading and writing as a whole so that concepts resonate across articles. Throughout, the promises and problems of implementing games and media in learning experiences are explored. The articles have been authored by Clark Aldrich, Ian Bogost, Mia Consalvo, William Crosbie, Drew Davidson, Simon Egenfeldt-Nielsen, Melinda Jackson, Donna Leishman, Michael Mateas, Marc Prensky, Scott Rettberg, Kurt Squire, David Thomas, Siobhan Thomas, Jill Walker Rettberg, and Jenny Weight.</summary>
+<category term="learning"/>
+<category term="media"/>
+<category term="serious games"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7063.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7063.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7063.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7063.png?t=20090817231754" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7063.png?size=smaller&amp;t=20090817231754" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7063.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Water Essay</title>
+<id>http://www.feedbooks.com/userbook/10894</id>
+<author>
+  <name>Esra Froese</name>
+  <uri>http://www.feedbooks.com/user/79231/profile#Esra%20Froese</uri>
+</author>
+<updated>2010-03-13T01:17:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Developing nations need clean water to grow. Developed nations are taking that clean water from the developing nations for their own purposes. We have a water crisis, the fate of the world in our water consumption habits. Climate change, increasing populations and technology developments, as well as reliance on technology, has all factored into creating this problem. All of this creates a state of concern for our future.</summary>
+<category term="global crisis"/>
+<category term="water"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10894.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10894.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10894.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10894.png?t=20100313011734" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10894.png?size=smaller&amp;t=20100313011734" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10894.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

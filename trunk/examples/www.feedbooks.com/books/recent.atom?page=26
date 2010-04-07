@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=26</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=26" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=26" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 26 | Feedbooks</title>
+  <updated>2010-04-07T18:26:29Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>501</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=25" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=27" rel="next" title="Next Page"/>
+<entry>
+<title>The Double Four</title>
+<id>http://www.feedbooks.com/book/3876</id>
+<author>
+  <name>Edward Phillips Oppenheim</name>
+  <uri>http://www.feedbooks.com/author/842</uri>
+</author>
+<updated>2009-08-18T01:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1911</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Thriller" label="Thriller"/>
+<summary>A novel about secret societies in New York.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3876.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3876.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3876.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3876.png?t=20090818011816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3876.png?size=smaller&amp;t=20090818011816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3876.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Way of the Bow</title>
+<id>http://www.feedbooks.com/book/3873</id>
+<author>
+  <name>Paulo Coelho</name>
+  <uri>http://www.feedbooks.com/author/1055</uri>
+</author>
+<updated>2009-08-18T01:18:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>&#8220;The Way of the Bow&#8221; relates the story of Tetsuya, the best archer of the country, who conveys his teachings to a boy in his village. Using the metaphor of archery the author leads us through several essential thoughts : our daily efforts and work, how to overcome difficulties, steadfastness, and courage to take risky decisions. </summary>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3873.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3873.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3873.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3873.png?t=20090818011816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3873.png?size=smaller&amp;t=20090818011816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3873.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Riddle of the Sands</title>
+<id>http://www.feedbooks.com/book/3871</id>
+<author>
+  <name>Erskine Childers</name>
+  <uri>http://www.feedbooks.com/author/1053</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1903</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<category term="War" label="War"/>
+<category term="Thriller" label="Thriller"/>
+<summary>The Riddle of the Sands: A Record of Secret Service is a patriotic British 1903 novel by Erskine Childers.
+It is a novel that &quot;owes a lot to the wonderful adventure novels of writers like Rider Haggard, that were a staple of Victorian Britain&quot;; perhaps more significantly, it was a spy novel that &quot;established a formula that included a mass of verifiable detail, which gave authenticity to the story &#8211; the same ploy that would be used so well by John Buchan, Ian Fleming, John le Carr&#233; and many others.&quot; Ken Follett called it &quot;the first modern thriller.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3871.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3871.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3871.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3871.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3871.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3871.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Zeppelin's Passenger</title>
+<id>http://www.feedbooks.com/book/3870</id>
+<author>
+  <name>Edward Phillips Oppenheim</name>
+  <uri>http://www.feedbooks.com/author/842</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="War" label="War"/>
+<summary>Excerpt:
+&quot;Never heard a sound,&quot; the younger of the afternoon callers admitted, getting rid of his empty cup and leaning forward in his low chair. &quot;No more tea, thank you, Miss Fairclough. Done splendidly, thanks. No, I went to bed last night soon after eleven&#8212;the Colonel had been route marching us all off our legs&#8212;and I never awoke until reveille this morning. Sleep of the just, and all that sort of thing, but a jolly sell, all the same! You hear anything of it, sir?&quot; he asked, turning to his companion, who was seated a few feet away.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3870.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3870.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3870.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3870.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3870.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3870.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Inside John Barth</title>
+<id>http://www.feedbooks.com/book/3868</id>
+<author>
+  <name>William W. Stuart</name>
+  <uri>http://www.feedbooks.com/author/1052</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Every man wants to see a Garden of Eden. John Barth agreed with his whole heart&#8212;he knew that he'd rather see than be one!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3868.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3868.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3868.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3868.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3868.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3868.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Solar Stiff</title>
+<id>http://www.feedbooks.com/book/3867</id>
+<author>
+  <name>Chas. A. Stopher</name>
+  <uri>http://www.feedbooks.com/author/1051</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Totem poles are a dime a dozen north of 63&#176; ... but only Ketch, the lying Eskimo, vowed they dropped out of frigid northern skies.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3867.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3867.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3867.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3867.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3867.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3867.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lost in the Future</title>
+<id>http://www.feedbooks.com/book/3866</id>
+<author>
+  <name>John Victor Peterson</name>
+  <uri>http://www.feedbooks.com/author/1050</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Did you ever wonder what might happen if mankind ever exceeded the speed of light? Here is a profound story based on that thought&#8212;a story which may well forecast one of the problems to be encountered in space travel.
+
+They had discovered a new planet&#8212;but its people did not see them until after they had traveled on.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3866.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3866.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3866.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3866.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3866.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3866.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Texas Week</title>
+<id>http://www.feedbooks.com/book/3865</id>
+<author>
+  <name>Albert Hernhuter</name>
+  <uri>http://www.feedbooks.com/author/1049</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>One of the chief purposes of psychiatry is to separate fantasy from reality. It is reasonable to expect that future psychiatrists will know more about this borderline than the most learned doctors of today. Yet now and again even the best of them may encounter situations that defy all logic.
+
+Meeting the little man who isn't there is rated an horrendous experience. But discovery that the man is there may be even worse.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3865.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3865.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3865.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3865.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3865.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3865.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Year of the Big Thaw</title>
+<id>http://www.feedbooks.com/book/3864</id>
+<author>
+  <name>Marion Zimmer Bradley</name>
+  <uri>http://www.feedbooks.com/author/154</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>In this warm and fanciful story of a Connecticut farmer, Marion Zimmer Bradley has caught some of the glory that is man's love for man&#8212;no matter who he is nor whence he's from. By heck, you'll like little Matt.
+
+Mr. Emmett did his duty by the visitor from another world&#8212;never doubting the right of it.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3864.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3864.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3864.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3864.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3864.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3864.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Beyond the Door</title>
+<id>http://www.feedbooks.com/book/3863</id>
+<author>
+  <name>Philip K. Dick</name>
+  <uri>http://www.feedbooks.com/author/1023</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Did you ever wonder at the lonely life the bird in a cuckoo clock has to lead&#8212;that it might possibly love and hate just as easily as a real animal of flesh and blood? Philip Dick used that idea for this brief fantasy tale. We're sure that after reading it you'll give cuckoo clocks more respect.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3863.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3863.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3863.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3863.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3863.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3863.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Vanished Messenger</title>
+<id>http://www.feedbooks.com/book/3862</id>
+<author>
+  <name>Edward Phillips Oppenheim</name>
+  <uri>http://www.feedbooks.com/author/842</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt:
+There were very few people upon Platform Number Twenty-one of Liverpool Street Station at a quarter to nine on the evening of April 2&#8212;possibly because the platform in question is one of the most remote and least used in the great terminus. The station-master, however, was there himself, with an inspector in attendance. A dark, thick-set man, wearing a long travelling ulster and a Homburg hat, and carrying in his hand a brown leather dressing-case, across which was painted in black letters the name MR. JOHN P. DUNSTER, was standing a few yards away, smoking a long cigar, and, to all appearance absorbed in studying the advertisements which decorated the grimy wall on the other side of the single track.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3862.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3862.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3862.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3862.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3862.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3862.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Black Box</title>
+<id>http://www.feedbooks.com/book/3858</id>
+<author>
+  <name>Edward Phillips Oppenheim</name>
+  <uri>http://www.feedbooks.com/author/842</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt:
+&#8220;You&#8217;re in luck, Alfred,&#8221; he declared. &#8220;That&#8217;s the most interesting man in New York&#8212;one of the most interesting in the world. That&#8217;s Sanford Quest.&#8221;
+&#8220;Who&#8217;s he?&#8221;
+&#8220;You haven&#8217;t heard of Sanford Quest?&#8221;
+&#8220;Never in my life.&#8221;
+
+The young man whose privilege it was to have been born and lived all his days in New York, drank half a glassful of wine and leaned back in his chair. Words, for a few moments, were an impossibility.
+&#8220;Sanford Quest,&#8221; he pronounced at last, &#8220;is the greatest master in criminology the world has ever known. He is a magician, a scientist, the Pierpont Morgan of his profession.&#8221;
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3858.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3858.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3858.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3858.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3858.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3858.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Ghost</title>
+<id>http://www.feedbooks.com/book/3857</id>
+<author>
+  <name>Arnold Bennett</name>
+  <uri>http://www.feedbooks.com/author/1045</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>When Carl Foster, a young doctor, sees beautiful Rosetta Rosa at a London opera he is instantly captivated -- and almost as rapidly finds himself plagued by mysterious occurances. When another of Rosa's paramours un-expectedly dies, Carl begins to wonder if her glamour carries a deadly curse.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3857.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3857.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3857.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3857.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3857.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3857.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Devil Crystals of Arret</title>
+<id>http://www.feedbooks.com/book/3856</id>
+<author>
+  <name>Hal K. Wells</name>
+  <uri>http://www.feedbooks.com/author/718</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Facing a six-hour deadline of death, young Larry raids a hostile world of rat-men and tinkling Devil Crystals.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3856.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3856.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3856.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3856.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3856.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3856.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Dark Star</title>
+<id>http://www.feedbooks.com/book/3855</id>
+<author>
+  <name>Robert William Chambers</name>
+  <uri>http://www.feedbooks.com/author/218</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Adventure" label="Adventure"/>
+<summary>A pastor's daughter is inadvertently involved the heist of the famous Dark Star gem. Is there a prince who can save her from ruin and recover the stone?</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3855.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3855.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3855.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3855.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3855.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3855.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Calm Man</title>
+<id>http://www.feedbooks.com/book/3848</id>
+<author>
+  <name>Frank Belknap Long</name>
+  <uri>http://www.feedbooks.com/author/385</uri>
+</author>
+<updated>2009-09-16T12:32:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Sally watched the molten gold glow in the sky. Then knew she would not see her son and her husband ever again on Earth.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3848.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3848.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3848.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3848.png?t=20090916123248" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3848.png?size=smaller&amp;t=20090916123248" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3848.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rose O'Paradise</title>
+<id>http://www.feedbooks.com/book/3843</id>
+<author>
+  <name>Grace Miller White</name>
+  <uri>http://www.feedbooks.com/author/1038</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Thomas Singleton broke down when his wife died giving birth to their daughter. He eventually recovered, but his half-brother Morse kept him locked up at the asylum. After seventeen years, Singleton escapes and tracks down his daughter, Rose, who is due to inherit a fortune on her eighteenth birthday. Convinced that his half-brother will try to trick Rose out of her inheritance, Singleton sends her to live with his former gardener, where she meets wealthy Theodore King. Romance begins to blossom, until Morse tracks the couple down and hires a thug to kill King.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3843.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3843.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3843.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3843.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3843.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3843.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Secret of the Storm Country</title>
+<id>http://www.feedbooks.com/book/3842</id>
+<author>
+  <name>Grace Miller White</name>
+  <uri>http://www.feedbooks.com/author/1038</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>The sequel to Tess of the Storm Country.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3842.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3842.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3842.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3842.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3842.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3842.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tess of the Storm Country</title>
+<id>http://www.feedbooks.com/book/3841</id>
+<author>
+  <name>Grace Miller White</name>
+  <uri>http://www.feedbooks.com/author/1038</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1909</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>A girl from the dregs of society, loves a young Cornell University student, and it works startling changes in her life and the lives of those about her.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3841.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3841.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3841.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3841.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3841.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3841.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Curse of Capistrano (The Mark of Zorro)</title>
+<id>http://www.feedbooks.com/book/3840</id>
+<author>
+  <name>Johnston McCulley</name>
+  <uri>http://www.feedbooks.com/author/1037</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The Curse of Capistrano is a 1919 novella by Johnston McCulley and the first work to feature the fictional character Zorro (zorro is the Spanish word for fox). After the enormous success of the 1920 film adaptation, The Mark of Zorro, the story was republished under that name. Prior to being published in novella form, The Curse of Capistrano appeared as five serialized installments in the pulp magazine All-Story Weekly.
+
+[from Wikipedia]</summary>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3840.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3840.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3840.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3840.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3840.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3840.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

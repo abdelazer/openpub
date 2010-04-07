@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=85&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=85&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=85&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 85 | Feedbooks</title>
+  <updated>2010-04-07T18:25:26Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1681</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=84&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=86&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Garden Murder Case</title>
+<id>http://www.feedbooks.com/book/1763</id>
+<author>
+  <name>S. S. Van Dine</name>
+  <uri>http://www.feedbooks.com/author/250</uri>
+</author>
+<updated>2009-09-16T11:13:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1935</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1763.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1763.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1763.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1763.png?t=20090916111313" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1763.png?size=smaller&amp;t=20090916111313" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1763.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tom Swift and His Submarine Boat</title>
+<id>http://www.feedbooks.com/book/2330</id>
+<author>
+  <name>Victor Appleton</name>
+  <uri>http://www.feedbooks.com/author/341</uri>
+</author>
+<updated>2009-09-16T11:15:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1910</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2330.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2330.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2330.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2330.png?t=20090916111538" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2330.png?size=smaller&amp;t=20090916111538" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2330.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mr Justice Maxell</title>
+<id>http://www.feedbooks.com/book/1969</id>
+<author>
+  <name>Edgar Wallace</name>
+  <uri>http://www.feedbooks.com/author/253</uri>
+</author>
+<updated>2009-09-16T11:27:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1969.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1969.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1969.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1969.png?t=20090916112705" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1969.png?size=smaller&amp;t=20090916112705" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1969.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>But, I Don't Think</title>
+<id>http://www.feedbooks.com/book/2148</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-09-16T11:48:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>As every thinking man knows, every slave always yearns for the freedom his master denies him...</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2148.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2148.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2148.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2148.png?t=20090916114825" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2148.png?size=smaller&amp;t=20090916114825" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2148.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mistress Wilding</title>
+<id>http://www.feedbooks.com/book/2197</id>
+<author>
+  <name>Rafael Sabatini</name>
+  <uri>http://www.feedbooks.com/author/304</uri>
+</author>
+<updated>2009-09-16T11:53:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1910</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2197.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2197.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2197.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2197.png?t=20090916115333" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2197.png?size=smaller&amp;t=20090916115333" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2197.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Pirates of Ersatz</title>
+<id>http://www.feedbooks.com/book/2224</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2009-09-16T11:56:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Sometimes it seems nobody loves a benefactor ... particularly nobody on a well-heeled, self-satisfied planet. Grandpa always said Pirates were really benefactors, though....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2224.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2224.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2224.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2224.png?t=20090916115612" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2224.png?size=smaller&amp;t=20090916115612" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2224.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Raffles: Further Adventures of the Amateur Cracksman</title>
+<id>http://www.feedbooks.com/book/2567</id>
+<author>
+  <name>Ernest William Hornung</name>
+  <uri>http://www.feedbooks.com/author/444</uri>
+</author>
+<updated>2009-09-16T12:10:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1901</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<summary>The Black Mask (published in some countries as Raffles: Further Adventures of the Amateur Cracksman) is the second collection of stories written by Ernest William Hornung in the A.J. Raffles series concerning a Gentleman thief in late Victorian London.</summary>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2567.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2567.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2567.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2567.png?t=20090916121035" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2567.png?size=smaller&amp;t=20090916121035" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2567.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mr. Justice Raffles</title>
+<id>http://www.feedbooks.com/book/3022</id>
+<author>
+  <name>Ernest William Hornung</name>
+  <uri>http://www.feedbooks.com/author/444</uri>
+</author>
+<updated>2009-09-16T12:45:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1909</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>This engaging rascal is found helping a young cricket player out of the toils of a money shark. Novel in plot, thrilling and amusing.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3022.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3022.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3022.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3022.png?t=20090916124526" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3022.png?size=smaller&amp;t=20090916124526" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3022.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Advanced Chemistry</title>
+<id>http://www.feedbooks.com/book/3207</id>
+<author>
+  <name>Jack G. Huekels</name>
+  <uri>http://www.feedbooks.com/author/730</uri>
+</author>
+<updated>2009-08-18T01:18:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1927</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There is a lot of entertainment and also a great deal of truth in this story. We recommend it highly.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3207.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3207.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3207.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3207.png?t=20090818011801" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3207.png?size=smaller&amp;t=20090818011801" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3207.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Country Beyond</title>
+<id>http://www.feedbooks.com/book/4472</id>
+<author>
+  <name>James Oliver Curwood</name>
+  <uri>http://www.feedbooks.com/author/1285</uri>
+</author>
+<updated>2009-12-08T19:01:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Western" label="Western"/>
+<summary>A glass of wine once lost a kingdom, a nail turned the tide of a mighty battle, and a woman's smile once upon a time destroyed the homes of a million people. Thus have trivial things played their potent parts in the history of human lives; yet these things Peter did not know.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/4743</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4472.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4472.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4472.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4472.png?t=20091208190112" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4472.png?size=smaller&amp;t=20091208190112" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4472.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Thin Edge</title>
+<id>http://www.feedbooks.com/book/4554</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2010-01-08T17:07:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There are inventions of great value that one type of society can use&#8212;and that would, for another society, be most nastily deadly!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30869</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4554.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4554.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4554.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4554.png?t=20100108170711" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4554.png?size=smaller&amp;t=20100108170711" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4554.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The American</title>
+<id>http://www.feedbooks.com/book/403</id>
+<author>
+  <name>Henry James</name>
+  <uri>http://www.feedbooks.com/author/113</uri>
+</author>
+<updated>2009-09-16T10:20:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1877</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/403.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/403.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/403.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/403.png?t=20090916102017" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/403.png?size=smaller&amp;t=20090916102017" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/403.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Cone</title>
+<id>http://www.feedbooks.com/book/616</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:27:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1895</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/616.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/616.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/616.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/616.png?t=20090916102714" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/616.png?size=smaller&amp;t=20090916102714" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/616.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mr. Ledbetter's Vacation</title>
+<id>http://www.feedbooks.com/book/626</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:27:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1898</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/626.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/626.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/626.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/626.png?t=20090916102715" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/626.png?size=smaller&amp;t=20090916102715" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/626.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Remarkable Case of Davidson's Eyes</title>
+<id>http://www.feedbooks.com/book/631</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:27:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1895</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/631.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/631.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/631.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/631.png?t=20090916102716" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/631.png?size=smaller&amp;t=20090916102716" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/631.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Eleonora</title>
+<id>http://www.feedbooks.com/book/770</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1841</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/770.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/770.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/770.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/770.png?t=20090916103015" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/770.png?size=smaller&amp;t=20090916103015" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/770.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Cattle Brands</title>
+<id>http://www.feedbooks.com/book/908</id>
+<author>
+  <name>Andy Adams</name>
+  <uri>http://www.feedbooks.com/author/184</uri>
+</author>
+<updated>2009-09-16T10:34:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1906</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<category term="Western" label="Western"/>
+<summary>It was a wet, bad year on the Old Western Trail. From Red River north and all along was herd after herd waterbound by high water in the rivers. Our outfit lay over nearly a week on the South Canadian, but we were not alone, for there were five other herds waiting for the river to go down. This river had tumbled over her banks for several days, and the driftwood that was coming down would have made it dangerous swimming for cattle. We were expected to arrive in Dodge early in June, but when we reached the North Fork of the Canadian, we were two weeks behind time.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/908.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/908.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/908.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/908.png?t=20090916103424" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/908.png?size=smaller&amp;t=20090916103424" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/908.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Burn, Witch, Burn!</title>
+<id>http://www.feedbooks.com/book/1057</id>
+<author>
+  <name>Abraham Merritt</name>
+  <uri>http://www.feedbooks.com/author/182</uri>
+</author>
+<updated>2009-09-16T10:41:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1057.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1057.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1057.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1057.png?t=20090916104122" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1057.png?size=smaller&amp;t=20090916104122" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1057.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Between Friends</title>
+<id>http://www.feedbooks.com/book/1377</id>
+<author>
+  <name>Robert William Chambers</name>
+  <uri>http://www.feedbooks.com/author/218</uri>
+</author>
+<updated>2009-09-16T10:48:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Romance" label="Romance"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1377.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1377.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1377.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1377.png?t=20090916104848" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1377.png?size=smaller&amp;t=20090916104848" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1377.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Dream Snake</title>
+<id>http://www.feedbooks.com/book/1725</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T11:10:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1928</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1725.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1725.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1725.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1725.png?t=20090916111022" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1725.png?size=smaller&amp;t=20090916111022" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1725.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=154</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=154" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=154" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 154 | Feedbooks</title>
+  <updated>2010-04-07T18:27:54Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>3061</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=153" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=155" rel="next" title="Next Page"/>
+<entry>
+<title>The War of the Worlds</title>
+<id>http://www.feedbooks.com/book/35</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-27T22:10:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1898</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="War" label="War"/>
+<summary>The War of the Worlds (1898), by H. G. Wells, is an early science fiction novel which describes an invasion of England by aliens from Mars. It is one of the earliest and best-known depictions of an alien invasion of Earth, and has influenced many others, as well as spawning several films, radio dramas, comic book adaptations, and a television series based on the story. The 1938 radio broadcast caused public outcry against the episode, as many listeners believed that an actual Martian invasion was in progress, a notable example of mass hysteria.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/35.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/35.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/35.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/35.png?t=20090927221006" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/35.png?size=smaller&amp;t=20090927221006" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/35.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Invisible Man</title>
+<id>http://www.feedbooks.com/book/34</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-10-30T13:29:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The Invisible Man is an 1897 science fiction novella by H.G. Wells. Wells' novel was originally serialised in Pearson's Magazine in 1897, and published as a novel the same year. The Invisible Man of the title is Griffin, a scientist who theorises that if a person's refractive index is changed to exactly that of air and his body does not absorb or reflect light, then he will be invisible. He successfully carries out this procedure on himself, but cannot become visible again, becoming mentally unstable as a result.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/34.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/34.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/34.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/34.png?t=20091030132953" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/34.png?size=smaller&amp;t=20091030132953" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/34.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Island of Dr. Moreau</title>
+<id>http://www.feedbooks.com/book/33</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:06:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1896</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Edward Prendick is shipwrecked in the Pacific. Rescued by Doctor Moreau's assistant he is taken to the doctor's island home where he discovers the doctor has been experimenting on the animal inhabitants of the island, creating bizarre proto-humans...</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/33.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/33.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/33.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/33.png?t=20090916100656" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/33.png?size=smaller&amp;t=20090916100656" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/33.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Time Machine</title>
+<id>http://www.feedbooks.com/book/32</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:06:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1895</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The book's protagonist is an amateur inventor or scientist living in London who is never named; he is identified simply as The Time Traveller. Having demonstrated to friends using a miniature model that time is a fourth dimension, and that a suitable apparatus can move back and forth in this fourth dimension, he builds a full-scale model capable of carrying himself. He sets off on a journey into the future.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/32.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/32.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/32.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/32.png?t=20090916100655" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/32.png?size=smaller&amp;t=20090916100655" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/32.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nostromo: A Tale of the Seaboard</title>
+<id>http://www.feedbooks.com/book/31</id>
+<author>
+  <name>Joseph Conrad</name>
+  <uri>http://www.feedbooks.com/author/10</uri>
+</author>
+<updated>2009-09-16T10:06:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1904</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Set in the imaginary South American republic of Costaguana, this work is an illustration of the impact of foreign exploitation on a developing nation. As Sulaco, site of an English/American controlled silver mine establishes its independence, its ideals are inevitably compromised.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/31.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/31.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/31.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/31.png?t=20090916100654" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/31.png?size=smaller&amp;t=20090916100654" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/31.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Outsider</title>
+<id>http://www.feedbooks.com/book/30</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:06:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1926</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>&quot;The Outsider&quot; is a short story by American horror writer H. P. Lovecraft. Written between March and August 1921, it was first published in Weird Tales, April 1926. It is about a mysterious individual who awakens to find himself completely alone and what happens when he attempts to make contact with others.
+&quot;The Outsider&quot; combines fantasy and horror into an atmospheric, surrealistic, and nightmarish tale. It is one of Lovecraft's few tales that uses human emotion as an important part of the story.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/30.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/30.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/30.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/30.png?t=20090916100651" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/30.png?size=smaller&amp;t=20090916100651" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/30.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Shadow out of Time</title>
+<id>http://www.feedbooks.com/book/29</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:06:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1934</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>&quot;The Shadow Out of Time&quot; indirectly tells of the Great Race of Yith, an extraterrestrial species with the ability to travel through space and time. The Yithians accomplish this by switching bodies with hosts from the intended spatial or temporal destination. The story implies that the effect when seen from the outside is similar to spiritual possession.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/29.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/29.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/29.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/29.png?t=20090916100651" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/29.png?size=smaller&amp;t=20090916100651" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/29.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Shadow Over Innsmouth</title>
+<id>http://www.feedbooks.com/book/28</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:06:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>The story describes of a strange hybrid race, half-human and half an unknown creature that resembles a cross between a fish and frog, that dwells in the seaside village of Innsmouth (formerly a large town, but lately fallen into disrepair). The townspeople worship Cthulhu and Dagon, a Philistine deity incorporated into the Cthulhu Mythos.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/28.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/28.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/28.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/28.png?t=20090916100650" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/28.png?size=smaller&amp;t=20090916100650" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/28.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dreams in the Witch-House</title>
+<id>http://www.feedbooks.com/book/27</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:06:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>Walter Gilman, a student of mathematics and folklore at Miskatonic University, takes a room in the Witch House, a house in Arkham thought to be accursed. The first part of the story is an account of the history of the house, which has once harboured Keziah Mason, an accused witch who disappeared mysteriously from a Salem gaol in 1692. Gilman discovers that for the better part of two centuries many if not most of its occupants have died prematurely.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/27.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/27.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/27.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/27.png?t=20090916100649" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/27.png?size=smaller&amp;t=20090916100649" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/27.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>At the Mountains of Madness</title>
+<id>http://www.feedbooks.com/book/26</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:06:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<summary>At the Mountains of Madness is a novella by horror writer H. P. Lovecraft, written in February/March 1931 and originally serialized in the February, March and April 1936 issues of Astounding Stories. It has been reproduced in numerous collections since Lovecraft's death.
+Lovecraft scholar S. T. Joshi describes the novella as representing the decisive &quot;demythology&quot; of the Cthulhu Mythos by reinterpreting Lovecraft's earlier supernatural stories in a science fiction paradigm.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/26.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/26.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/26.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/26.png?t=20090916100649" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/26.png?size=smaller&amp;t=20090916100649" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/26.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Whisperer in Darkness</title>
+<id>http://www.feedbooks.com/book/25</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:06:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1930</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<summary>The story is told by Albert N. Wilmarth, an instructor of literature at Miskatonic University in Arkham. When local newspapers report strange things seen floating in rivers during a historic Vermont flood, Wilmarth becomes embroiled in a controversy about the reality and significance of the sightings, though he sides with the skeptics. Wilmarth uncovers old legends about monsters living in the uninhabited hills who abduct people who venture or settle too close to their territory.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/25.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/25.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/25.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/25.png?t=20090916100648" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/25.png?size=smaller&amp;t=20090916100648" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/25.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Case of Charles Dexter Ward</title>
+<id>http://www.feedbooks.com/book/24</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:06:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1927</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<summary>Incantations of black magic unearthed unspeakable horrors in a quiet town near Providence, Rhode Island. Evil spirits are being resurrected from beyond the grave, a supernatural force so twisted that it kills without offering the mercy of death!</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/24.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/24.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/24.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/24.png?t=20090916100648" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/24.png?size=smaller&amp;t=20090916100648" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/24.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Through the Looking Glass (And What Alice Found There)</title>
+<id>http://www.feedbooks.com/book/23</id>
+<author>
+  <name>Lewis Carroll</name>
+  <uri>http://www.feedbooks.com/author/13</uri>
+</author>
+<updated>2009-09-16T10:06:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1871</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Through the Looking-Glass, and What Alice Found There (1871) is a work of children's literature by Lewis Carroll (Charles Lutwidge Dodgson), generally categorized as literary nonsense. It is the sequel to Alice's Adventures in Wonderland (1865). Although it makes no reference to the events in the earlier book, the themes and settings of Through the Looking-Glass make it a kind of mirror image of Wonderland: the first book begins outdoors, in the warm month of May, on Alice's birthday (May 4), uses frequent changes in size as a plot device, and draws on the imagery of playing cards; the second opens indoors on a snowy, wintry night exactly six months later, on November 4 (the day before Guy Fawkes Night), uses frequent changes in time and spatial directions as a plot device, and draws on the imagery of chess. In it, there are many mirror themes, including opposites, time running backwards, and so on.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/23.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/23.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/23.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/23.png?t=20090916100646" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/23.png?size=smaller&amp;t=20090916100646" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/23.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Alice's Adventures in Wonderland</title>
+<id>http://www.feedbooks.com/book/22</id>
+<author>
+  <name>Lewis Carroll</name>
+  <uri>http://www.feedbooks.com/author/13</uri>
+</author>
+<updated>2009-09-16T10:06:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Alice's Adventures in Wonderland (1865) is a novel written by English author Charles Lutwidge Dodgson, better known under the pseudonym Lewis Carroll. It tells the story of a girl named Alice who falls down a rabbit-hole into a fantasy world populated by peculiar and anthropomorphic creatures.
+The tale is filled with allusions to Dodgson's friends (and enemies), and to the lessons that British schoolchildren were expected to memorize. The tale plays with logic in ways that have made the story of lasting popularity with adults as well as children. It is considered to be one of the most characteristic examples of the genre of literary nonsense, and its narrative course and structure has been enormously influential, mainly in the fantasy genre.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/22.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/22.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/22.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/22.png?t=20090916100645" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/22.png?size=smaller&amp;t=20090916100645" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/22.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Nightingale and the Rose</title>
+<id>http://www.feedbooks.com/book/21</id>
+<author>
+  <name>Oscar Wilde</name>
+  <uri>http://www.feedbooks.com/author/5</uri>
+</author>
+<updated>2009-09-16T10:06:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1888</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>A nightingale overhears a student complaining that his professor's daughter will not dance with him, as he is unable to give her a red rose. The nightingale visits all the rose-trees in the garden, and one of the white roses tell her that there's a way to produce a red rose, but only if the nightingale is prepared to sing the sweetest song for the rose all night, and sacrifice her life to do so. Seeing the student in tears, the nightingale carries out the ritual, and impales herself on the rose-tree's thorn so that her heart's blood can stain the rose. The student takes the rose to the professor's daughter, but she again rejects him because another man has sent her some real jewels, and &quot;everybody knows that jewels cost far more than flowers.&quot; The student angrily throws the rose into the gutter, returns to his study of metaphysics, and decides not to believe in true love anymore.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/21.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/21.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/21.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/21.png?t=20090916100644" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/21.png?size=smaller&amp;t=20090916100644" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/21.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Dunwich Horror</title>
+<id>http://www.feedbooks.com/book/20</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:06:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1928</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>In H.P. Lovecraft&#8217;s, &quot;The Dunwich Horror&quot;, we are told the story of Wilbur Whateley, the son of a deformed albino mother and an unknown father (alluded to in passing by the mad Old Whateley as &quot;Yog-Sothoth&quot;), and the strange events surrounding his birth and precocious development. Wilbur matures at an abnormal rate, reaching manhood within a decade. All the while, his sorcerer grandfather indoctrinates him into certain dark rituals and the study of witchcraft.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/20.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/20.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/20.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/20.png?t=20090916100644" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/20.png?size=smaller&amp;t=20090916100644" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/20.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Colour Out of Space</title>
+<id>http://www.feedbooks.com/book/19</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:06:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1927</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>&quot;The Colour Out of Space&quot; is a first-person narrative written from the perspective of an unnamed surveyor from Boston. In order to prepare for the construction of a new reservoir in Massachusetts, he surveys a rural area that is to be flooded near Lovecraft's fictional town of Arkham. He comes across a mysterious patch of land, an abandoned five-acre farmstead, which is completely devoid of all life.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/19.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/19.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/19.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/19.png?t=20090916100643" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/19.png?size=smaller&amp;t=20090916100643" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/19.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Call of Cthulhu</title>
+<id>http://www.feedbooks.com/book/18</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:06:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1926</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>&quot;The Call of Cthulhu&quot; is one of H. P. Lovecraft's best-known short stories. Written in the summer of 1926, it was first published in Weird Tales, February 1928. It is the only story written by Lovecraft in which the extraterrestrial entity Cthulhu himself makes a major appearance.
+It is written in a documentary style, with three independent narratives linked together by the device of a narrator discovering notes left by a deceased relative. The narrator pieces together the whole truth and disturbing significance of the information he possesses, illustrating the story's first line: &quot;The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity; and it was not meant that we should voyage far.&quot;</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/18.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/18.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/18.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/18.png?t=20090916100643" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/18.png?size=smaller&amp;t=20090916100643" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/18.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A May Evening</title>
+<id>http://www.feedbooks.com/book/17</id>
+<author>
+  <name>Nikolai Gogol</name>
+  <uri>http://www.feedbooks.com/author/9</uri>
+</author>
+<updated>2009-09-16T10:06:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1887</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>University of Virginia</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/17.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/17.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/17.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/17.png?t=20090916100642" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/17.png?size=smaller&amp;t=20090916100642" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/17.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Heart of Darkness</title>
+<id>http://www.feedbooks.com/book/15</id>
+<author>
+  <name>Joseph Conrad</name>
+  <uri>http://www.feedbooks.com/author/10</uri>
+</author>
+<updated>2009-09-16T10:06:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1902</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Heart of Darkness is a novella written by Polish-born writer Joseph Conrad (born J&#243;zef Teodor Konrad Korzeniowski). Before its 1902 publication, it appeared as a three-part series (1899) in Blackwood's Magazine. It is widely regarded as a significant work of English literature and part of the Western canon.
+This highly symbolic story is actually a story within a story, or frame narrative. It follows Marlow as he recounts, from dusk through to late night, his adventure into the Congo to a group of men aboard a ship anchored in the Thames Estuary.
+The story details an incident when Marlow, an Englishman, took a foreign assignment as a ferry-boat captain, employed by a Belgian trading company. Although the river is never specifically named, readers may assume it is the Congo River, in the Congo Free State, a private colony of King Leopold II. Marlow is employed to transport ivory downriver; however, his more pressing assignment is to return Kurtz, another ivory trader, to civilization in a cover up. Kurtz has a reputation throughout the region.</summary>
+<dcterms:source>University of Virginia</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/15.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/15.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/15.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/15.png?t=20090916100639" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/15.png?size=smaller&amp;t=20090916100639" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/15.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

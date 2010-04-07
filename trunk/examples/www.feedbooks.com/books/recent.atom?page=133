@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=133</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=133" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=133" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 133 | Feedbooks</title>
+  <updated>2010-04-07T18:27:40Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2641</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=132" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=134" rel="next" title="Next Page"/>
+<entry>
+<title>Ion</title>
+<id>http://www.feedbooks.com/book/684</id>
+<author>
+  <name>Plato</name>
+  <uri>http://www.feedbooks.com/author/144</uri>
+</author>
+<updated>2009-09-16T10:28:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-400</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/684.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/684.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/684.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/684.png?t=20090916102838" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/684.png?size=smaller&amp;t=20090916102838" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/684.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Euthyphro</title>
+<id>http://www.feedbooks.com/book/682</id>
+<author>
+  <name>Plato</name>
+  <uri>http://www.feedbooks.com/author/144</uri>
+</author>
+<updated>2009-09-16T10:28:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-400</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/682.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/682.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/682.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/682.png?t=20090916102838" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/682.png?size=smaller&amp;t=20090916102838" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/682.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Crito</title>
+<id>http://www.feedbooks.com/book/681</id>
+<author>
+  <name>Plato</name>
+  <uri>http://www.feedbooks.com/author/144</uri>
+</author>
+<updated>2009-09-16T10:28:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-400</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/681.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/681.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/681.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/681.png?t=20090916102838" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/681.png?size=smaller&amp;t=20090916102838" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/681.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Critias</title>
+<id>http://www.feedbooks.com/book/680</id>
+<author>
+  <name>Plato</name>
+  <uri>http://www.feedbooks.com/author/144</uri>
+</author>
+<updated>2009-09-16T10:28:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-400</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/680.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/680.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/680.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/680.png?t=20090916102838" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/680.png?size=smaller&amp;t=20090916102838" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/680.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Charmides</title>
+<id>http://www.feedbooks.com/book/679</id>
+<author>
+  <name>Plato</name>
+  <uri>http://www.feedbooks.com/author/144</uri>
+</author>
+<updated>2009-09-16T10:28:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-400</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/679.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/679.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/679.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/679.png?t=20090916102838" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/679.png?size=smaller&amp;t=20090916102838" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/679.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Apology</title>
+<id>http://www.feedbooks.com/book/678</id>
+<author>
+  <name>Plato</name>
+  <uri>http://www.feedbooks.com/author/144</uri>
+</author>
+<updated>2009-09-16T10:28:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-400</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>(The) Apology (of Socrates) is Plato's version of the speech given by Socrates as he defends himself against the charges of being a man &quot;who corrupted the young, did not believe in the gods, and created new deities&quot;. &quot;Apology&quot; here has its earlier meaning (now usually expressed by the word &quot;apologia&quot;) of speaking in defense of a cause or of one's beliefs or actions (from the Greek &#945;&#960;&#959;&#955;&#959;&#947;&#943;&#945;).</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/678.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/678.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/678.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/678.png?t=20090916102838" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/678.png?size=smaller&amp;t=20090916102838" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/678.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Discourse on the Method</title>
+<id>http://www.feedbooks.com/book/677</id>
+<author>
+  <name>Ren&#233; Descartes</name>
+  <uri>http://www.feedbooks.com/author/143</uri>
+</author>
+<updated>2009-09-16T10:28:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1637</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<summary>The Discourse on the Method is a philosophical and mathematical treatise published by Ren&#233; Descartes in 1637. Its full name is Discourse on the Method of Rightly Conducting the Reason, and Searching for Truth in the Sciences (French title: Discours de la m&#233;thode pour bien conduire sa raison, et chercher la verit&#233; dans les sciences). The Discourse on Method is best known as the source of the famous quotation &quot;Je pense, donc je suis&quot; (&quot;I think, therefore I am&quot;), which occurs in Part IV of the work. (The similar statement in Latin, Cogito ergo sum, is found in &#167;7 of Principles of Philosophy.) In addition, in one of its appendices, La G&#233;om&#233;trie, is contained Descartes' first introduction of the Cartesian coordinate system.
+The Discourse on the Method is one of the most influential works in the history of modern science. It is a method which gives a solid platform from which all modern natural sciences could evolve. In this work, Descartes tackles the problem of skepticism which had been revived from the ancients such as Sextus Empiricus by authors such as Al-Ghazali and Michel de Montaigne. Descartes modified it to account for a truth that he found to be incontrovertible. Descartes started his line of reasoning by doubting everything, so as to assess the world from a fresh perspective, clear of any preconceived notions.
+The book was originally published in Leiden in French, together with his works &quot;Dioptrique, M&#233;t&#233;ores et G&#233;om&#233;trie&quot;. Later, it was translated into Latin and published in 1656 in Amsterdam.
+Together with Meditations on First Philosophy (Meditationes de Prima Philosophia), Principles of Philosophy (Principia philosophiae) and Rules for the Direction of the Mind (Regulae ad directionem ingenii), it forms the base of the Epistemology known as Cartesianism.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/677.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/677.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/677.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/677.png?t=20090916102837" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/677.png?size=smaller&amp;t=20090916102837" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/677.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Beyond Good and Evil</title>
+<id>http://www.feedbooks.com/book/676</id>
+<author>
+  <name>Friedrich Wilhelm Nietzsche</name>
+  <uri>http://www.feedbooks.com/author/81</uri>
+</author>
+<updated>2009-12-03T16:35:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1886</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<summary>Beyond Good and Evil (German: Jenseits von Gut und B&#246;se), subtitled &quot;Prelude to a Philosophy of the Future&quot; (Vorspiel einer Philosophie der Zukunft), is a book by the German philosopher Friedrich Nietzsche, first published in 1886.
+It takes up and expands on the ideas of his previous work, Thus Spoke Zarathustra, but approached from a more critical, polemical direction.
+In Beyond Good and Evil, Nietzsche attacks past philosophers for their alleged lack of critical sense and their blind acceptance of Christian premises in their consideration of morality. The work moves into the realm &quot;beyond good and evil&quot; in the sense of leaving behind the traditional morality which Nietzsche subjects to a destructive critique in favour of what he regards as an affirmative approach that fearlessly confronts the perspectival nature of knowledge and the perilous condition of the modern individual.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/676.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/676.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/676.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/676.png?t=20091203163517" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/676.png?size=smaller&amp;t=20091203163517" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/676.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Thus Spake Zarathustra</title>
+<id>http://www.feedbooks.com/book/172</id>
+<author>
+  <name>Friedrich Wilhelm Nietzsche</name>
+  <uri>http://www.feedbooks.com/author/81</uri>
+</author>
+<updated>2009-09-16T10:11:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1885</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<summary>Thus Spoke Zarathustra (German: Also sprach Zarathustra, sometimes translated Thus Spake Zarathustra), subtitled A Book for All and None (Ein Buch f&#252;r Alle und Keinen), is a written work by German philosopher Friedrich Nietzsche, composed in four parts between 1883 and 1885. Much of the work deals with ideas such as the &quot;eternal recurrence of the same&quot;, the parable on the &quot;death of God&quot;, and the &quot;prophecy&quot; of the Overman, which were first introduced in The Gay Science.
+Described by Nietzsche himself as &quot;the deepest ever written&quot;, the book is a dense and esoteric treatise on philosophy and morality, featuring as protagonist a fictionalized Zarathustra. A central irony of the text is that the style of the Bible is used by Nietzsche to present ideas of his which fundamentally oppose Judaeo-Christian morality and tradition.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/172.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/172.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/172.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/172.png?t=20090916101159" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/172.png?size=smaller&amp;t=20090916101159" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/172.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Hard Times</title>
+<id>http://www.feedbooks.com/book/674</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:28:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1850</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/674.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/674.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/674.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/674.png?t=20090916102834" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/674.png?size=smaller&amp;t=20090916102834" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/674.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>David Copperfield</title>
+<id>http://www.feedbooks.com/book/673</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-11-24T18:42:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1850</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>David Copperfield is the novel that draws most closely from Charles Dickens's own life. Its eponymous hero, orphaned as a boy, grows up to discover love and happiness, heartbreak and sorrow amid a cast of eccentrics, innocents, and villains. Praising Dickens's power of invention, Somerset Maugham wrote: &quot;There were never such people as the Micawbers, Peggotty and Barkis, Traddles, Betsey Trotwood and Mr. Dick, Uriah Heep and his mother. They are fantastic inventions of Dickens's exultant imagination...you can never quite forget them.&quot;</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/673.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/673.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/673.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/673.png?t=20091124184222" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/673.png?size=smaller&amp;t=20091124184222" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/673.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dombey and Son</title>
+<id>http://www.feedbooks.com/book/672</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:28:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1848</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/672.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/672.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/672.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/672.png?t=20090916102820" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/672.png?size=smaller&amp;t=20090916102820" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/672.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Martin Chuzzlewit</title>
+<id>http://www.feedbooks.com/book/671</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:28:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1844</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/671.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/671.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/671.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/671.png?t=20090916102812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/671.png?size=smaller&amp;t=20090916102812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/671.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Everyone In Silico</title>
+<id>http://www.feedbooks.com/book/670</id>
+<author>
+  <name>Jim Munroe</name>
+  <uri>http://www.feedbooks.com/author/142</uri>
+</author>
+<updated>2009-09-16T10:28:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2002</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>In Vancouver in 2036, people are tired of the rain. They're willing to give up a lot for guaranteed sunshine, a life with no wasted hours. A life free of crime and disease. A life that ends when you want it to, not when some faceless entity decides it's your time. Those who don't buy in &#8212; the poor, the old, the paranoid &#8212; have to watch as their loved ones, their friends, and their jobs leave the city. They have to watch as the latest prestige technology, Self, changes everything &#8212; not just the world but humanity itself. On the bright side, the rents have dropped. And in several unexpected ways, resistance is growing. This fascinating work of fiction tells what can happen when the cyberworld becomes more important than the real world.</summary>
+<dcterms:source>http://nomediakings.org/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/670.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/670.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/670.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/670.png?t=20090916102803" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/670.png?size=smaller&amp;t=20090916102803" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/670.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Flyboy Action Figure Comes with Gasmask</title>
+<id>http://www.feedbooks.com/book/669</id>
+<author>
+  <name>Jim Munroe</name>
+  <uri>http://www.feedbooks.com/author/142</uri>
+</author>
+<updated>2009-09-16T10:28:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1999</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Ryan is a university student dealing with the normal problems of a 22-year-old guy -- shyness, virginity, weird roommates, and a massive crush on Cassandra, a waitress at his local greasy spoon. (Oh, and a freakish ability to change into a fly.) When he finally gets up the nerve to ask Cassandra for a date, he learns that the two have more in common than they first thought. (Turns out that Cassandra can make things disappear.)
+
+Sharing their secrets for the first time, Ryan and Cassandra realize they were made for each other...and to battle forces of evil! Inspired by Sailor Moon, they team up to fight the villians in their own backyard, taking on cigarette barons, right wing newspapers, and the overzealous local police. But can the Superheroes for Social Justice transform the world in time? Find out in...</summary>
+<dcterms:source>http://nomediakings.org/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/669.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/669.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/669.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/669.png?t=20090916102803" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/669.png?size=smaller&amp;t=20090916102803" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/669.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Further Adventures of Robinson Crusoe</title>
+<id>http://www.feedbooks.com/book/665</id>
+<author>
+  <name>Daniel Defoe</name>
+  <uri>http://www.feedbooks.com/author/40</uri>
+</author>
+<updated>2009-09-16T10:27:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1719</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.digbib.org/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/665.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/665.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/665.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/665.png?t=20090916102758" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/665.png?size=smaller&amp;t=20090916102758" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/665.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Super Man and the Bug Out</title>
+<id>http://www.feedbooks.com/book/664</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:27:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2001</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/664.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/664.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/664.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/664.png?t=20090916102756" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/664.png?size=smaller&amp;t=20090916102756" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/664.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Home Again, Home Again</title>
+<id>http://www.feedbooks.com/book/663</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:27:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1999</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/663.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/663.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/663.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/663.png?t=20090916102755" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/663.png?size=smaller&amp;t=20090916102755" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/663.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Shadow of the Mothaship</title>
+<id>http://www.feedbooks.com/book/662</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:27:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2000</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/662.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/662.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/662.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/662.png?t=20090916102754" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/662.png?size=smaller&amp;t=20090916102754" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/662.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Return to Pleasure Island</title>
+<id>http://www.feedbooks.com/book/661</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:27:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1999</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/661.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/661.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/661.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/661.png?t=20090916102754" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/661.png?size=smaller&amp;t=20090916102754" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/661.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

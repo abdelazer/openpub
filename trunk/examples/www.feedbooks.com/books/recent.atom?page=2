@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=2</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=2" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=2" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 2 | Feedbooks</title>
+  <updated>2010-04-07T18:26:12Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>21</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=1" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=3" rel="next" title="Next Page"/>
+<entry>
+<title>Helpfully Yours</title>
+<id>http://www.feedbooks.com/book/4660</id>
+<author>
+  <name>Evelyn E. Smith</name>
+  <uri>http://www.feedbooks.com/author/463</uri>
+</author>
+<updated>2010-03-20T17:50:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>&quot;Come down to Earth&#8212;and stay there!&quot; is a humiliating order for somebody with wings!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31644</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4660.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4660.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4660.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4660.png?t=20100320175027" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4660.png?size=smaller&amp;t=20100320175027" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4660.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>My Fair Planet</title>
+<id>http://www.feedbooks.com/book/4659</id>
+<author>
+  <name>Evelyn E. Smith</name>
+  <uri>http://www.feedbooks.com/author/463</uri>
+</author>
+<updated>2010-03-20T17:44:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>All the world's a stage, so there was room even for this bad actor ... only he intended to direct it!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31648</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4659.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4659.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4659.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4659.png?t=20100320174442" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4659.png?size=smaller&amp;t=20100320174442" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4659.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Exile from Space</title>
+<id>http://www.feedbooks.com/book/4658</id>
+<author>
+  <name>Judith Merril</name>
+  <uri>http://www.feedbooks.com/author/1365</uri>
+</author>
+<updated>2010-03-20T17:36:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Who was this strange girl who had been born in this place&#8212;and still it wasn't her home?... &quot;They&quot; worried about the impression she'd make. Who could imagine that she'd fall in love, passionately, the way others of her blood must have done?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31661</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4658.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4658.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4658.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4658.png?t=20100320173640" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4658.png?size=smaller&amp;t=20100320173640" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4658.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Six Fingers of Time</title>
+<id>http://www.feedbooks.com/book/4657</id>
+<author>
+  <name>Raphael Aloysius Lafferty</name>
+  <uri>http://www.feedbooks.com/author/349</uri>
+</author>
+<updated>2010-03-20T17:30:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Time is money. Time heals all wounds. Given time, anything is possible. And now he had all the time in the world!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31663</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4657.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4657.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4657.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4657.png?t=20100320173040" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4657.png?size=smaller&amp;t=20100320173040" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4657.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Skin Game</title>
+<id>http://www.feedbooks.com/book/4656</id>
+<author>
+  <name>Charles E. Fritch</name>
+  <uri>http://www.feedbooks.com/author/1007</uri>
+</author>
+<updated>2010-03-20T17:31:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Working on the theory that you can skin a sucker in space as well as on Earth, the con team of Harding and Sheckly operated furtively but profitably among natives of the outer planets. That is&#8212;until there was a question of turnabout being fair play in a world where natives took their skinning literally !</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31665</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4656.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4656.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4656.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4656.png?t=20100320173136" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4656.png?size=smaller&amp;t=20100320173136" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4656.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Once a Greech</title>
+<id>http://www.feedbooks.com/book/4655</id>
+<author>
+  <name>Evelyn E. Smith</name>
+  <uri>http://www.feedbooks.com/author/463</uri>
+</author>
+<updated>2010-03-20T17:18:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1957</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The mildest of men, Iversen was capable of murder ... to disprove Harkaway's hypothesis that in the midst of life, we are in life!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31664</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4655.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4655.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4655.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4655.png?t=20100320171803" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4655.png?size=smaller&amp;t=20100320171803" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4655.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Instant of Now</title>
+<id>http://www.feedbooks.com/book/4654</id>
+<author>
+  <name>Irving Cox</name>
+  <uri>http://www.feedbooks.com/author/413</uri>
+</author>
+<updated>2010-03-20T17:11:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Revolution is not necessarily a noble thing. Unless shrewdly directed, its best elements may fall victim to its basest impulses.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31651</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4654.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4654.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4654.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4654.png?t=20100320171148" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4654.png?size=smaller&amp;t=20100320171148" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4654.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Impact</title>
+<id>http://www.feedbooks.com/book/4653</id>
+<author>
+  <name>Irving Cox</name>
+  <uri>http://www.feedbooks.com/author/413</uri>
+</author>
+<updated>2010-03-20T17:06:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>They were languorous, anarchic, shameless in their pleasures ... were they lower than man ... or higher?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/25567</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4653.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4653.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4653.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4653.png?t=20100320170640" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4653.png?size=smaller&amp;t=20100320170640" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4653.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Cartels Jungle</title>
+<id>http://www.feedbooks.com/book/4652</id>
+<author>
+  <name>Irving Cox</name>
+  <uri>http://www.feedbooks.com/author/413</uri>
+</author>
+<updated>2010-03-20T17:01:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>In most ideally conceived Utopias the world as it exists is depicted as a mushrooming horror of maladjustment, cruelty and crime. In this startlingly original short novel that basic premise is granted, but only to pave the way for an approach to Utopia over a highway of the mind so daringly unusual we predict you'll forget completely that you're embarking on a fictional excursion into the future by one of the most gifted writers in the field. And that forgetfulness will be accompanied by the startling realization that Irving E. Cox has a great deal more than a storyteller's magic to impart.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31062</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4652.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4652.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4652.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4652.png?t=20100320170107" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4652.png?size=smaller&amp;t=20100320170107" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4652.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Generals Help Themselves</title>
+<id>http://www.feedbooks.com/book/4651</id>
+<author>
+  <name>M.C. Pease</name>
+  <uri>http://www.feedbooks.com/author/1364</uri>
+</author>
+<updated>2010-03-20T16:53:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>With no one to help him, it seemed the General was lost. But the enemy was soon to discover that&#8212; Generals Help Themselves.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31680</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4651.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4651.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4651.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4651.png?t=20100320165319" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4651.png?size=smaller&amp;t=20100320165319" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4651.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Very Secret Agent</title>
+<id>http://www.feedbooks.com/book/4650</id>
+<author>
+  <name>Mari Wolf</name>
+  <uri>http://www.feedbooks.com/author/1363</uri>
+</author>
+<updated>2010-03-20T16:42:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Poor Riuku!... Not being a member of the human race, how was he supposed to understand what goes on in a woman's mind when the male of the same species didn't even know?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31612</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4650.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4650.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4650.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4650.png?t=20100320164204" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4650.png?size=smaller&amp;t=20100320164204" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4650.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Robots of the World! Arise!</title>
+<id>http://www.feedbooks.com/book/4649</id>
+<author>
+  <name>Mari Wolf</name>
+  <uri>http://www.feedbooks.com/author/1363</uri>
+</author>
+<updated>2010-03-20T16:36:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>What would you do if your best robots&#8212;children of your own brain&#8212;walked up and said &quot;We want union scale&quot;?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31611</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4649.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4649.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4649.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4649.png?t=20100320163610" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4649.png?size=smaller&amp;t=20100320163610" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4649.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>An Empty Bottle</title>
+<id>http://www.feedbooks.com/book/4648</id>
+<author>
+  <name>Mari Wolf</name>
+  <uri>http://www.feedbooks.com/author/1363</uri>
+</author>
+<updated>2010-03-20T16:26:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>They wanted to go home&#8212;back to the planet they'd known. But even the stars had changed. Did the fate of all creation hinge upon an&#8212; AN EMPTY BOTTLE</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31601</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4648.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4648.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4648.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4648.png?t=20100320162643" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4648.png?size=smaller&amp;t=20100320162643" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4648.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Homo Inferior</title>
+<id>http://www.feedbooks.com/book/4647</id>
+<author>
+  <name>Mari Wolf</name>
+  <uri>http://www.feedbooks.com/author/1363</uri>
+</author>
+<updated>2010-03-20T16:21:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The world of the new race was peaceful, comfortable, lovely&#8212;and completely static. Only Eric knew the haunting loneliness that had carried the old race to the stars, and he couldn't communicate it, even if he had dared to!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31692</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4647.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4647.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4647.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4647.png?t=20100320162150" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4647.png?size=smaller&amp;t=20100320162150" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4647.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Membership Drive</title>
+<id>http://www.feedbooks.com/book/4646</id>
+<author>
+  <name>Murray F. Yaco</name>
+  <uri>http://www.feedbooks.com/author/337</uri>
+</author>
+<updated>2010-03-20T16:13:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Want to join our secret organization? Well, first you have to pass the tests.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31689</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4646.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4646.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4646.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4646.png?t=20100320161337" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4646.png?size=smaller&amp;t=20100320161337" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4646.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Collector's Item</title>
+<id>http://www.feedbooks.com/book/4645</id>
+<author>
+  <name>Evelyn E. Smith</name>
+  <uri>http://www.feedbooks.com/author/463</uri>
+</author>
+<updated>2010-03-20T16:08:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Being trapped in the steaming h&#8212;l of Venus is no excuse for forgetting one's manners&#8212;but anyone abducted, marooned, tricked, kept from tea might well crack under the strain!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31686</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4645.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4645.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4645.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4645.png?t=20100320160841" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4645.png?size=smaller&amp;t=20100320160841" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4645.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Apologia Pro Vita Sua</title>
+<id>http://www.feedbooks.com/book/4635</id>
+<author>
+  <name>John Henry Newman</name>
+  <uri>http://www.feedbooks.com/author/1360</uri>
+</author>
+<updated>2010-03-11T17:58:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1864</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Biography" label="Biography"/>
+<category term="Religion" label="Religion"/>
+<summary>Apologia Pro Vita Sua (Latin: A defence of one's life) is the classic defence of the religious opinions of John Henry Newman, published in 1864 in response to what he saw as an unwarranted attack on himself, the Catholic priesthood, and Roman Catholic doctrine by Charles Kingsley. The work quickly became a bestseller and has remained in print to this day. The work was tremendously influential in turning public opinion for Newman, and in establishing him as one of the foremost exponents of Catholicism in England.
+
+After a brief and unsatisfactory correspondence with Kingsley, Newman began work on the Apologia.
+
+A revised version, with many passages re-written and some parts omitted was published in 1865.
+
+(Wikipedia)
+
+This text is the unrevised version of the book.</summary>
+<dcterms:source>www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4635.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4635.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4635.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4635.png?t=20100311175831" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4635.png?size=smaller&amp;t=20100311175831" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4635.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mighty Dead</title>
+<id>http://www.feedbooks.com/book/4639</id>
+<author>
+  <name>William Campbell Gault</name>
+  <uri>http://www.feedbooks.com/author/1362</uri>
+</author>
+<updated>2010-03-10T19:51:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>What would it be like to live in a world which has conquered the near planets but abolished all literature? Bill Gault gives us a look at a world like this&#8212;in a not too distant future which finds all our pressure groups united to rule the roost.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31577</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4639.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4639.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4639.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4639.png?t=20100310195102" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4639.png?size=smaller&amp;t=20100310195102" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4639.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Venus Trap</title>
+<id>http://www.feedbooks.com/book/4638</id>
+<author>
+  <name>Evelyn E. Smith</name>
+  <uri>http://www.feedbooks.com/author/463</uri>
+</author>
+<updated>2010-03-10T19:36:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>One thing Man never counted on to take along into space with him was the Eternal Triangle&#8212;especially a true-blue triangle like this!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31583</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4638.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4638.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4638.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4638.png?t=20100310193627" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4638.png?size=smaller&amp;t=20100310193627" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4638.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Youth</title>
+<id>http://www.feedbooks.com/book/4637</id>
+<author>
+  <name>Isaac Asimov</name>
+  <uri>http://www.feedbooks.com/author/1361</uri>
+</author>
+<updated>2010-03-09T14:40:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Red and Slim found the two strange little animals the morning after they heard the thunder sounds. They knew that they could never show their new pets to their parents.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31547</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4637.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4637.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4637.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4637.png?t=20100309144035" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4637.png?size=smaller&amp;t=20100309144035" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4637.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

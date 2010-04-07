@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=5</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=5" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=5" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 5 | Feedbooks</title>
+  <updated>2010-04-07T18:26:15Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>81</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=4" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=6" rel="next" title="Next Page"/>
+<entry>
+<title>Jimbo</title>
+<id>http://www.feedbooks.com/book/4580</id>
+<author>
+  <name>Algernon Blackwood</name>
+  <uri>http://www.feedbooks.com/author/199</uri>
+</author>
+<updated>2010-01-18T13:36:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1909</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>&quot;Jimbo is a delicious book, and one that should be read by all who long at times to escape from this working-day world into the region of haunting and half-remembered things.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30974</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4580.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4580.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4580.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4580.png?t=20100118133619" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4580.png?size=smaller&amp;t=20100118133619" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4580.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ashton-Kirk, Investigator</title>
+<id>http://www.feedbooks.com/book/4579</id>
+<author>
+  <name>John T. McIntyre</name>
+  <uri>http://www.feedbooks.com/author/1337</uri>
+</author>
+<updated>2010-01-18T10:49:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1910</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Those who have found their way to Ashton-Kirk's door have been of many races and interests. Men of science have often been surprised to find him in touch with the latest discoveries, scholars searching among strange tongues and dialects, and others deep in tattered scrolls, ancient tablets and forgotten books have been his frequent visitors. But among them come many who seek his help in solving problems in crime.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/12314</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4579.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4579.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4579.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4579.png?t=20100118104936" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4579.png?size=smaller&amp;t=20100118104936" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4579.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ashton-Kirk, Criminologist</title>
+<id>http://www.feedbooks.com/book/4578</id>
+<author>
+  <name>John T. McIntyre</name>
+  <uri>http://www.feedbooks.com/author/1337</uri>
+</author>
+<updated>2010-01-18T10:39:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Who held the old-fashioned brass candlestick that struck down &quot;the Bounder&quot;--and set mystery a-throbbing in the quiet suburb of Stanwick? Bat Scanlon, athletic trainer and good sport, found a clue in the dark hotel office where the little Swiss sharpened his murderous knife. But it was Ashton-Kirk who discovered the pat a beautiful woman played in the drama.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30838</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4578.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4578.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4578.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4578.png?t=20100118103951" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4578.png?size=smaller&amp;t=20100118103951" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4578.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Venus and Adonis</title>
+<id>http://www.feedbooks.com/book/4577</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2010-01-18T10:19:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1593</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<summary>Venus and Adonis is a poem by William Shakespeare, written in 1592-93, with a plot based on passages from Ovid's Metamorphoses. It is a complex, kaleidoscopic work, using constantly shifting tone and perspective to present contrasting views of the nature of love.</summary>
+<dcterms:source>http://www.shakespeare-online.com/sonnets/venus.html</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4577.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4577.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4577.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4577.png?t=20100118101933" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4577.png?size=smaller&amp;t=20100118101933" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4577.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>To the Queen</title>
+<id>http://www.feedbooks.com/book/4576</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2010-01-18T10:18:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1599</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<summary>&quot;To the Queen&quot; (or &quot;To The Queen by the players&quot;) is a short poem attributed to William Shakespeare. It was included in 2007 by Jonathan Bate in his complete Shakespeare edition for the Royal Shakespeare Company.
+The poem, written on the back of an envelope, is thought to have been written as an epilogue for a performance of As You Like It given at court on Shrove Tuesday in February 1599. American scholars William Ringler and Steven May discovered the poem in 1972 in the notebook of a man called Henry Stanford, who is known to have worked in the household of the Lord Chamberlain.
+It consists of 18 lines.</summary>
+<dcterms:source>http://en.wikipedia.org/wiki/To_the_Queen</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4576.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4576.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4576.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4576.png?t=20100118101851" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4576.png?size=smaller&amp;t=20100118101851" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4576.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Pollyanna</title>
+<id>http://www.feedbooks.com/book/4519</id>
+<author>
+  <name>Eleanor Hodgman Porter</name>
+  <uri>http://www.feedbooks.com/author/1309</uri>
+</author>
+<updated>2010-01-18T10:17:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>The young orphan Pollyanna goes to live with her wealthy but stern Aunt Polly in Vermont.  She brings with her an infectious optimism and what she calls the &quot;just being glad&quot; game.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/1450</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4519.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4519.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4519.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4519.png?t=20100118101747" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4519.png?size=smaller&amp;t=20100118101747" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4519.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Tower of the Elephant</title>
+<id>http://www.feedbooks.com/book/4574</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2010-01-18T10:12:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1933</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>&quot;The Tower of the Elephant&quot; is one of the original short stories starring the fictional sword and sorcery hero Conan the Cimmerian, written by American author Robert E. Howard. It is set in the pseudo-historical Hyborian Age and concerns Conan infiltrating a perilous tower in order to steal a fabled gem from an evil sorcerer named Yara. Due to its unique insights into the Hyborian world and atypical science fiction elements, the story is considered a classic of Conan lore and is often cited by Howard scholars as one of his best tales. Source: Wikipedia</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4574.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4574.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4574.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4574.png?t=20100118101247" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4574.png?size=smaller&amp;t=20100118101247" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4574.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The People of the Crater</title>
+<id>http://www.feedbooks.com/book/4571</id>
+<author>
+  <name>Andre Alice Norton</name>
+  <uri>http://www.feedbooks.com/author/159</uri>
+</author>
+<updated>2010-01-14T16:53:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1947</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Adventure" label="Adventure"/>
+<summary>&quot;Send the Black Throne to dust; conquer the Black Ones, and bring the Daughter from the Caves of Darkness.&quot; These were the tasks Garin must perform to fulfill the prophecy of the Ancient Ones&#8212;and establish his own destiny in this hidden land!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30960</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4571.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4571.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4571.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4571.png?t=20100114165327" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4571.png?size=smaller&amp;t=20100114165327" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4571.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Japanese Fairy Tales</title>
+<id>http://www.feedbooks.com/book/4570</id>
+<author>
+  <name>Yei Theodora Ozaki</name>
+  <uri>http://www.feedbooks.com/author/1336</uri>
+</author>
+<updated>2010-01-19T09:07:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1908</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Collections" label="Collections"/>
+<summary>This collection of Japanese fairy tales is the outcome of a suggestion made to me indirectly through a friend by Mr. Andrew Lang. They have been translated from the modern version written by Sadanami Sanjin. These stories are not literal translations, and though the Japanese story and all quaint Japanese expressions have been faithfully preserved, they have been told more with the view to interest young readers of the West than the technical student of folk-lore.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/4018</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4570.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4570.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4570.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4570.png?t=20100119090735" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4570.png?size=smaller&amp;t=20100119090735" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4570.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Rise of Silas Lapham</title>
+<id>http://www.feedbooks.com/book/4568</id>
+<author>
+  <name>William Dean Howells</name>
+  <uri>http://www.feedbooks.com/author/1334</uri>
+</author>
+<updated>2010-01-12T16:38:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1885</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Silas Lapham goes from rags to riches, and his ensuing moral susceptibility is the center of this tale. Silas earns a fortune in the paint business, but lacks social standards, a failure which he attempts to remedy through his daughter's marriage to the scion of the aristocratic Corey family.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/154</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4568.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4568.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4568.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4568.png?t=20100112163839" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4568.png?size=smaller&amp;t=20100112163839" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4568.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jack of No Trades</title>
+<id>http://www.feedbooks.com/book/4567</id>
+<author>
+  <name>Charles Cottrell</name>
+  <uri>http://www.feedbooks.com/author/1333</uri>
+</author>
+<updated>2010-01-12T16:24:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>First we discovered the Willy Maloon category. Then we discovered Willy himself. Then we data-researched, and postulated a theory. Everything was easy, until it came to the question of proof.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30927</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4567.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4567.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4567.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4567.png?t=20100112162403" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4567.png?size=smaller&amp;t=20100112162403" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4567.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Before Egypt</title>
+<id>http://www.feedbooks.com/book/4566</id>
+<author>
+  <name>E.K. Jarvis</name>
+  <uri>http://www.feedbooks.com/author/677</uri>
+</author>
+<updated>2010-01-12T15:58:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1957</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It was Mallison's strangest assignment. The weird little professor wanted to go to Egypt. That meant a trip back to Earth so far as Mallison was concerned. But the professor pointed to a distant star and Mallison wondered: &quot;Who moved Egypt?&quot;</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30932</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4566.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4566.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4566.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4566.png?t=20100112155821" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4566.png?size=smaller&amp;t=20100112155821" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4566.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Back to God's Country and Other Stories</title>
+<id>http://www.feedbooks.com/book/4562</id>
+<author>
+  <name>James Oliver Curwood</name>
+  <uri>http://www.feedbooks.com/author/1285</uri>
+</author>
+<updated>2010-01-11T17:18:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Collections" label="Collections"/>
+<summary>After her father is killed by an outlaw, Dolores marries Peter. While at sea in the Arctic, Dolores meets the ship's captain -- the man who killed her father! The captain causes an 'accident' to happen to Peter, so Dolores is all alone and defenseless as they drop anchor in a remote harbor.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/4539</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4562.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4562.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4562.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4562.png?t=20100111171802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4562.png?size=smaller&amp;t=20100111171802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4562.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Baree, Son of Kazan</title>
+<id>http://www.feedbooks.com/book/4561</id>
+<author>
+  <name>James Oliver Curwood</name>
+  <uri>http://www.feedbooks.com/author/1285</uri>
+</author>
+<updated>2010-01-11T16:58:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Western" label="Western"/>
+<summary>The story of the son of the blind Grey Wolf and the gallant part he played in the lives of a man and a woman.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/4748</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4561.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4561.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4561.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4561.png?t=20100111165827" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4561.png?size=smaller&amp;t=20100111165827" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4561.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Expediter</title>
+<id>http://www.feedbooks.com/book/4560</id>
+<author>
+  <name>Mack Reynolds</name>
+  <uri>http://www.feedbooks.com/author/273</uri>
+</author>
+<updated>2010-01-11T14:53:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>His assignment was to get things done; he definitely did so. Not quite the things intended, perhaps, but definitely done.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30902</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4560.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4560.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4560.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4560.png?t=20100111145333" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4560.png?size=smaller&amp;t=20100111145333" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4560.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Fee of the Frontier</title>
+<id>http://www.feedbooks.com/book/4559</id>
+<author>
+  <name>Horace Brown Fyfe</name>
+  <uri>http://www.feedbooks.com/author/340</uri>
+</author>
+<updated>2010-01-11T14:50:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>They didn't think of themselves as pioneers. They simply had a job to do. And if they had to give up money, or power, or love&#8212;or life itself&#8212;that was the FEE OF THE FRONTIER</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30901</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4559.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4559.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4559.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4559.png?t=20100111145036" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4559.png?size=smaller&amp;t=20100111145036" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4559.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Pirate Woman</title>
+<id>http://www.feedbooks.com/book/4558</id>
+<author>
+  <name>Aylward Edward Dingle</name>
+  <uri>http://www.feedbooks.com/author/1331</uri>
+</author>
+<updated>2010-01-08T17:36:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>A Breathless Romance of the Caribbean</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30057</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4558.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4558.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4558.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4558.png?t=20100108173627" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4558.png?size=smaller&amp;t=20100108173627" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4558.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Step IV</title>
+<id>http://www.feedbooks.com/book/4557</id>
+<author>
+  <name>Rosel George Brown</name>
+  <uri>http://www.feedbooks.com/author/1330</uri>
+</author>
+<updated>2010-01-08T17:24:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Steps 1, 2 and 3 went according to plan. Then she moved on to.... Step IV</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30884</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4557.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4557.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4557.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4557.png?t=20100108172418" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4557.png?size=smaller&amp;t=20100108172418" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4557.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Heart</title>
+<id>http://www.feedbooks.com/book/4556</id>
+<author>
+  <name>Henry Slesar</name>
+  <uri>http://www.feedbooks.com/author/438</uri>
+</author>
+<updated>2010-01-08T17:19:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1957</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Monk had three questions he lived by: Where can I find it? How much will it cost? When can you deliver? But now they said that what he needed wasn't for sale.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30885</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4556.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4556.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4556.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4556.png?t=20100108171912" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4556.png?size=smaller&amp;t=20100108171912" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4556.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>What Need of Man?</title>
+<id>http://www.feedbooks.com/book/4555</id>
+<author>
+  <name>Harold Calin</name>
+  <uri>http://www.feedbooks.com/author/1329</uri>
+</author>
+<updated>2010-01-08T17:12:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Bannister was a rocket scientist. He started with the premise of testing man's reaction to space probes under actual conditions; but now he was just testing space probes&#8212;and man was a necessary evil to contend with.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30867</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4555.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4555.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4555.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4555.png?t=20100108171236" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4555.png?size=smaller&amp;t=20100108171236" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4555.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

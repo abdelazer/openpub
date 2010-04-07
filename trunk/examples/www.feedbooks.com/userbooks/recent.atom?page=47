@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=47</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=47" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=47" rel="self"/>
+  <title>Original Books / New Releases / Page 47 | Feedbooks</title>
+  <updated>2010-04-07T18:24:26Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>921</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=46" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=48" rel="next" title="Next Page"/>
+<entry>
+<title>Weird Western Quarterly #12</title>
+<id>http://www.feedbooks.com/userbook/4004</id>
+<author>
+  <name>Susan Hillwig</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig</uri>
+</author>
+<updated>2009-08-17T16:28:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>It's the first annual Christmas issue of Weird Western Quarterly featuring a holiday tale with the Old West speedster, Windrunner as well as a Jonah Hex vignette, &quot;Prelude to a Reckoning.&quot;</summary>
+<category term="windrunner"/>
+<category term="Christmas"/>
+<category term="Western"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Jonah Hex"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4004.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4004.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4004.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4004.png?t=20090817162822" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4004.png?size=smaller&amp;t=20090817162822" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4004.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>World's Finest #1: Wonder Woman</title>
+<id>http://www.feedbooks.com/userbook/4003</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T16:28:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Join us on Earth-X for the re-imagined Wonder Woman and her new adventures. </summary>
+<category term="Comics"/>
+<category term="Wonder Woman"/>
+<category term="DC3"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4003.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4003.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4003.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4003.png?t=20090817162838" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4003.png?size=smaller&amp;t=20090817162838" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4003.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>World's Finest #1: Batman</title>
+<id>http://www.feedbooks.com/userbook/4000</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-18T00:51:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Join us on Earth-X for the re-imagined Batman and his new adventures. </summary>
+<category term="Batman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4000.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4000.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4000.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4000.png?t=20090818005148" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4000.png?size=smaller&amp;t=20090818005148" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4000.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>World's Finest #1: Superman</title>
+<id>http://www.feedbooks.com/userbook/3999</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T22:47:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Join us on Earth-X for the  re-imagined Superman and his new adventures.</summary>
+<category term="Superman"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3999.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3999.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3999.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3999.png?t=20090817224715" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3999.png?size=smaller&amp;t=20090817224715" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3999.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Grave Portent</title>
+<id>http://www.feedbooks.com/userbook/3984</id>
+<author>
+  <name>Jack Chapman</name>
+  <uri>http://www.feedbooks.com/user/29457/profile#Jack%20Chapman</uri>
+</author>
+<updated>2009-11-04T20:31:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Grave Portent follows the officers of a small, country Police station as they investigate a suspicious death, face a riot at a nuclear construction site, pursue a sex offender, and suppress evidence of drug smuggling. As they veer between cynicism and idealism the coppers go about their business in a fallible, all-too-human manner.</summary>
+<category term="police"/>
+<category term="detective"/>
+<category term="crime/mystery"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3984.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3984.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3984.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3984.png?t=20091104203158" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3984.png?size=smaller&amp;t=20091104203158" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3984.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #7</title>
+<id>http://www.feedbooks.com/userbook/3982</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T20:06:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Reunion.
+
+Where does poor little Harley run with nowhere else to go? To Ivy's house, of course! How long can she hold up away from the Joker, and could he possibly be trying to get her back? Plus, the Ultimate secret origin of Poison Ivy!</summary>
+<category term="batgirl"/>
+<category term="Joker"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="harley quinn"/>
+<category term="poison ivy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3982.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3982.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3982.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3982.png?t=20090817200619" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3982.png?size=smaller&amp;t=20090817200619" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3982.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #6</title>
+<id>http://www.feedbooks.com/userbook/3981</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T20:06:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Reality Check.
+
+Harley Quinn can't believe her good fortune! She's made friends with Ivy, won the love of her sweetheart, The Joker, and discovered her old mentor, Jonathan Crane is now in town. Could any woman's life be any better? She's on cloud nine, facing a future bright and exciting, despite The Joker's dislike of Crane's potential influence on the young woman. And then it happens...</summary>
+<category term="Scarecrow"/>
+<category term="Joker"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="harley quinn"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3981.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3981.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3981.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3981.png?t=20090817200614" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3981.png?size=smaller&amp;t=20090817200614" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3981.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Quran - The Final Testament - Authorized English Version</title>
+<id>http://www.feedbooks.com/userbook/3968</id>
+<author>
+  <name>Dr. Rashad Khalifa</name>
+  <uri>http://www.feedbooks.com/user/29442/profile#Dr.%20Rashad%20Khalifa</uri>
+</author>
+<updated>2010-01-02T15:59:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1990</dcterms:issued>
+<summary>Quran - The Final Testament 
+Authorized English Version 
+Translated from the Original by Dr. Rashad Khalifa, Ph.D. 
+Copyright &#169; Islamic Productions, 2003. 
+</summary>
+<category term="scripture"/>
+<category term="Psalms"/>
+<category term="Lot"/>
+<category term="Noah"/>
+<category term="Abraham"/>
+<category term="Mohammad"/>
+<category term="Jesus"/>
+<category term="Moses"/>
+<category term="Judaism"/>
+<category term="Gospel"/>
+<category term="Torah"/>
+<category term="bible"/>
+<category term="Christianity"/>
+<category term="islam"/>
+<category term="Budha"/>
+<category term="Jesus"/>
+<category term="Allah"/>
+<category term="God"/>
+<category term="islam"/>
+<category term="Koran"/>
+<category term="quran"/>
+<category term="Final Testament"/>
+<category term="New Testament"/>
+<category term="old testament"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3968.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3968.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3968.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3968.png?t=20100102155902" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3968.png?size=smaller&amp;t=20100102155902" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3968.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Last Sun of Krypton #3</title>
+<id>http://www.feedbooks.com/userbook/3966</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T16:29:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Last Sun of Krypton, Part 3 (of 3).
+
+&quot;If Lyla had still been there to talk him out of it, Kal knew that he would never have even suggested this solution, let alone volunteered for it. He stood alone in the middle of a large, barren field, staring up at the monolith that was an energy plant, and he could feel the heat of the world gathering beneath his feet.
+
+Two days had already gone by, two more days of heartache and fear, of disbelief and thick, destructive denial. Despite the official pleas from the Board, and despite the few ready rockets off-world that had already left for the colonies, most of the population refused to budge from their homes on only the word of Jor-El.
+
+Kal&#8217;s breathing was quick and nervous in the heated air. All of those people were depending on his bravery, his intellect&#8230;
+
+&#8230;and on the nuclear bomb strapped to the hood of his small electric car. &quot;</summary>
+<category term="Krypton"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3966.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3966.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3966.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3966.png?t=20090817162902" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3966.png?size=smaller&amp;t=20090817162902" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3966.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Last Sun of Krypton #2</title>
+<id>http://www.feedbooks.com/userbook/3965</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T16:29:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>last Sun of Krypton, Part 2 (of 3).
+
+Even with the heavy news hanging over their heads, life must go on for Kal-El and his loved ones. But how can they go on with life as usual when the world is about to collapse? Isn't there anything that Kal can do to help save Krypton and its people?</summary>
+<category term="Krypton"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3965.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3965.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3965.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3965.png?t=20090817162902" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3965.png?size=smaller&amp;t=20090817162902" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3965.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Last Sun of Krypton #1</title>
+<id>http://www.feedbooks.com/userbook/3964</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T22:48:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Last Sun of Krypton, Part 1 (of 3).
+
+Travel with us now, into the past, to a time when a great and advanced race of people lived, loved, fought and struggled with the day-to-day and with the higher aspirations of all people. Come and witness Kal-El, with his family around him, as he discovers that for his generation...there seems no future to aspire to! What do you do in the face of the ultimate end?</summary>
+<category term="Krypton"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3964.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3964.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3964.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3964.png?t=20090817224815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3964.png?size=smaller&amp;t=20090817224815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3964.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Weird Western Quarterly #11</title>
+<id>http://www.feedbooks.com/userbook/3963</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:29:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Johnny Thunder: Steel Heart Iron Soul.
+
+As Johnny Thunder, John Tane has evaded the deathbed oath to his mother never to do violence, and become Mesa City's great protector. Now he's about to be challenged on a whole new level when a powerful land baron makes a grab for greater wealth and glory, and the enigmatic renegade, Madame .44, has Johnny Thunder's heart in her sights! What might be his most dangerous mission yet will also be the first chapter in a ballad of love and gunslinging like the Wild West has yet to see!</summary>
+<category term="DC2"/>
+<category term="Western"/>
+<category term="Comics"/>
+<category term="Madame .44"/>
+<category term="Johnny Thunder"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3963.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3963.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3963.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3963.png?t=20090817162901" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3963.png?size=smaller&amp;t=20090817162901" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3963.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #5</title>
+<id>http://www.feedbooks.com/userbook/3940</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T20:06:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Harvey and Ivy.
+
+Harvey Dent has a curse: he's the acid-scarred mobster Two-Face! And he has a past: having pursued prison for Poison Ivy! Is there a connection between the two events? How does one lead to the other, and how do the lives of these two villains intersect? It's all in this issue of Gotham Girls, as signs point to dangerous storms brewing for our heroes...and other protagonists! </summary>
+<category term="batgirl"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Two-Face"/>
+<category term="poison ivy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3940.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3940.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3940.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3940.png?t=20090817200609" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3940.png?size=smaller&amp;t=20090817200609" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3940.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #4</title>
+<id>http://www.feedbooks.com/userbook/3939</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-08-17T20:06:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>The Joker Rules April Fools!
+
+It's April Fools Day in Gotham and that can only mean one thing! The Clown Prince of Crime is giving the city a hearty greeting, and Batgirl must struggle, not only with a diabolical mastermind that gives even Batman pause, but whether or not to accept help from a shocking source! </summary>
+<category term="batgirl"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="harley quinn"/>
+<category term="poison ivy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3939.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3939.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3939.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3939.png?t=20090817200605" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3939.png?size=smaller&amp;t=20090817200605" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3939.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #5</title>
+<id>http://www.feedbooks.com/userbook/3938</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:28:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Danger Trail: The Verdant Darkness Affair, Part 2 (of 2).
+
+What connection lies between la Llorona's kidnapped children and Nyola's captured heroine Rima? What is drawing the natives of Central America and Mexico together? Speed Saunders, King Faraday and Midnight are joined by Doctor Occult to learn the truth before an Empire of Blood washes over the land!</summary>
+<category term="Rima"/>
+<category term="Midnight"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="adventure"/>
+<category term="mystery"/>
+<category term="King Faraday"/>
+<category term="Speed Saunders"/>
+<category term="Doctor Occult"/>
+<category term="pulp fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3938.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3938.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3938.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3938.png?t=20090817162850" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3938.png?size=smaller&amp;t=20090817162850" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3938.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #4</title>
+<id>http://www.feedbooks.com/userbook/3937</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:28:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Danger Trail: The Verdant Darkness Affair, Part 1 (of 2)</summary>
+<category term="Rima"/>
+<category term="Midnight"/>
+<category term="vampires"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="adventure"/>
+<category term="mystery"/>
+<category term="King Faraday"/>
+<category term="Speed Saunders"/>
+<category term="Doctor Occult"/>
+<category term="pulp fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3937.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3937.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3937.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3937.png?t=20090817162849" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3937.png?size=smaller&amp;t=20090817162849" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3937.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Justice League #16</title>
+<id>http://www.feedbooks.com/userbook/3936</id>
+<author>
+  <name>Susan Hillwig</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig</uri>
+</author>
+<updated>2009-08-17T16:28:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Lead Us Not Into Desecration, Part 3 (of 3).
+
+It's past and present versus the future as the Justice League teams up with some of the greatest heroes of the Old West to take down the Lord of Time! Can they stop his scheme before it's too late, or will Arizona be blown right off the map?</summary>
+<category term="justice league"/>
+<category term="Cinnamon"/>
+<category term="Scalphunter"/>
+<category term="flash"/>
+<category term="Hawkgirl"/>
+<category term="Western"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Jonah Hex"/>
+<category term="Bat Lash"/>
+<category term="Elongated Man"/>
+<category term="Green Lantern"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3936.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3936.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3936.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3936.png?t=20090817162849" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3936.png?size=smaller&amp;t=20090817162849" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3936.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Weird Western Quarterly #10</title>
+<id>http://www.feedbooks.com/userbook/3935</id>
+<author>
+  <name>Susan Hillwig</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig</uri>
+</author>
+<updated>2009-08-17T16:28:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Lead Us Not Into Desecration, Part 2 (of 3).
+
+It's 1878: Do you know where your heroes are? Lost in time, their memories gone, four members of the Justice League have been marked for death by the Lord of Time. And if they want to make it out of this one alive, they're gonna have to rely on the kindness of strangers...namely Jonah Hex, Scalphunter, Bat Lash, and making her DC2 debut, Cinnamon!</summary>
+<category term="Scalphunter"/>
+<category term="flash"/>
+<category term="Hawkgirl"/>
+<category term="Western"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Jonah Hex"/>
+<category term="Bat Lash"/>
+<category term="Elongated Man"/>
+<category term="Green Lantern"/>
+<category term="justice league"/>
+<category term="Cinnamon"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3935.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3935.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3935.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3935.png?t=20090817162848" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3935.png?size=smaller&amp;t=20090817162848" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3935.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Justice League #15</title>
+<id>http://www.feedbooks.com/userbook/3934</id>
+<author>
+  <name>Susan Hillwig</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig</uri>
+</author>
+<updated>2009-08-17T16:28:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Lead Us Not Into Desecration, Part 1 (of 3).
+
+What starts as a typical day for a group of Leaguers turns deadly as they are attacked by an unknown enemy. Who is the Lord of Time, and what diabolical scheme does he have that threatens both the past and the present with destruction? You won't want to miss what happens at the end of this issue!</summary>
+<category term="Hawkgirl"/>
+<category term="flash"/>
+<category term="Western"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Wonder Woman"/>
+<category term="Elongated Man"/>
+<category term="Green Lantern"/>
+<category term="Jonah Hex"/>
+<category term="justice league"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3934.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3934.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3934.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3934.png?t=20090817162847" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3934.png?size=smaller&amp;t=20090817162847" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3934.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Weird Western Quarterly #9</title>
+<id>http://www.feedbooks.com/userbook/3907</id>
+<author>
+  <name>Susan Hillwig</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig</uri>
+</author>
+<updated>2009-08-17T16:28:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Windrunner: Inherit the Wind Part 2 (of 2) - Revelations.
+
+Special extra-large issue! Torn between civilization and the wilderness, Chris Maxwell tries to find out where he fits...but when a strange old Indian shaman enters his life, he finds himself thrust into a power struggle beyond anything he can imagine, and a new legend of the West is born in a flash!</summary>
+<category term="windrunner"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Western"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3907.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3907.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3907.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3907.png?t=20090817162838" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3907.png?size=smaller&amp;t=20090817162838" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3907.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

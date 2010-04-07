@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:app="http://www.w3.org/2007/app" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=32&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=32&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=32&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 32 | Feedbooks</title>
+  <updated>2010-04-07T18:24:52Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>621</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=31&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=33&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>A Daughter of the Snows</title>
+<id>http://www.feedbooks.com/book/2852</id>
+<author>
+  <name>Jack London</name>
+  <uri>http://www.feedbooks.com/author/34</uri>
+</author>
+<updated>2009-09-16T12:28:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1902</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>London's first novel introduces the strong, independent, well-educated heroine that would run through much of his work.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2852.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2852.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2852.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2852.png?t=20090916122858" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2852.png?size=smaller&amp;t=20090916122858" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2852.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Cartels Jungle</title>
+<id>http://www.feedbooks.com/book/4652</id>
+<author>
+  <name>Irving Cox</name>
+  <uri>http://www.feedbooks.com/author/413</uri>
+</author>
+<updated>2010-03-20T17:01:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>In most ideally conceived Utopias the world as it exists is depicted as a mushrooming horror of maladjustment, cruelty and crime. In this startlingly original short novel that basic premise is granted, but only to pave the way for an approach to Utopia over a highway of the mind so daringly unusual we predict you'll forget completely that you're embarking on a fictional excursion into the future by one of the most gifted writers in the field. And that forgetfulness will be accompanied by the startling realization that Irving E. Cox has a great deal more than a storyteller's magic to impart.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31062</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4652.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4652.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4652.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4652.png?t=20100320170107" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4652.png?size=smaller&amp;t=20100320170107" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4652.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tarzan and the Jewels of Opar</title>
+<id>http://www.feedbooks.com/book/947</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2010-01-06T20:20:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Here Tarzan returns to Opar, the source of the gold for lost Atlantis. Ages ago Atlantis sunk beneath the waves -- but the denizens of Opar still mine the gold of this lost colony. Tarzan, following greedy pair -- one Belgian, one Arab -- into the jungle, where they stumble into the lost city. Bad enough -- and then Tarzan injures his head in a fight and loses his memory. That's great news for La, the high priestess for the Flaming God, who's had a serious crush on the apeman since their first encounter. But the priests who work for her have other ideas: they don't intend to allow Tarzan to escape their sacrificial knives a second time. . . .</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/947.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/947.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/947.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/947.png?t=20100106202031" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/947.png?size=smaller&amp;t=20100106202031" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/947.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ventus</title>
+<id>http://www.feedbooks.com/book/1690</id>
+<author>
+  <name>Karl Schroeder</name>
+  <uri>http://www.feedbooks.com/author/249</uri>
+</author>
+<updated>2009-09-16T11:10:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2000</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>After terrifying and titanic struggles, a godlike artificial intelligence gone rogue has finally been destroyed. But not before it scattered seeds of itself throughout the galaxy.
+
+On the terraformed planet Ventus, benign AIs -- the godlike Winds &#8211; which shaped and guarded its transformation, have fallen silent. Calandria May is sent down to the surface where she quickly finds that an extension of the rogue AI, a cyborg called Armiger, has planted a strange and powerful device in a young man named Jordan Mason. Jordan has visions. He is desperate to find their meaning and source -- desperate enough to risk awakening the Winds, perhaps invoking the power that can destroy technology to protect the environment they created. 
+
+Ventus is an epic journey across a fascinating planet with two big mysteries -- why have the Winds fallen silent? And is Armiger, or Jordan, carrying a Resurrection Seed?</summary>
+<dcterms:source>http://www.kschroeder.com/my-books/ventus/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1690.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1690.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1690.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1690.png?t=20090916111055" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1690.png?size=smaller&amp;t=20090916111055" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1690.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ghost Stories of an Antiquary</title>
+<id>http://www.feedbooks.com/book/3677</id>
+<author>
+  <name>Montague Rhodes James</name>
+  <uri>http://www.feedbooks.com/author/951</uri>
+</author>
+<updated>2009-08-18T01:18:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1904</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>Ghost Stories of an Antiquary is the title of M. R. James' first collection of ghost stories, published in 1904 (some had previously appeared in magazines). Some later editions under this title contain both the original collection and its successor, More Ghost Stories (1911), combined in one volume.
+Montague Rhodes James (1862&#8211;1936) was a medieval scholar; Provost of King's College, Cambridge. He wrote many of his ghost stories to be read aloud in the long tradition of spooky Christmas Eve tales. His stories often use rural settings, with a quiet, scholarly protagonist getting caught up in the activities of supernatural forces. The details of horror are almost never explicit, the stories relying on a gentle, bucolic background to emphasise the awfulness of the otherworldly intrusions.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3677.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3677.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3677.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3677.png?t=20090818011811" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3677.png?size=smaller&amp;t=20090818011811" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3677.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A World Apart</title>
+<id>http://www.feedbooks.com/book/4611</id>
+<author>
+  <name>Sam Merwin</name>
+  <uri>http://www.feedbooks.com/author/1346</uri>
+</author>
+<updated>2010-02-09T23:40:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Most men of middle age would welcome a chance to live their lives a second time. But Coulter did not.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31215</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4611.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4611.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4611.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4611.png?t=20100209234036" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4611.png?size=smaller&amp;t=20100209234036" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4611.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>To Each His Star</title>
+<id>http://www.feedbooks.com/book/4629</id>
+<author>
+  <name>Bryce Walton</name>
+  <uri>http://www.feedbooks.com/author/946</uri>
+</author>
+<updated>2010-03-02T19:23:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<summary>&quot;Nothing around those other suns but ashes and dried blood,&quot; old Dunbar told the space-wrecked, desperate men. &quot;Only one way to go, where we can float down through the clouds to Paradise. That's straight ahead to the sun with the red rim around it.&quot; But Dunbar's eyes were old and uncertain. How could they believe in his choice when every star in this forsaken section of space was surrounded by a beckoning red rim?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31355</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4629.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4629.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4629.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4629.png?t=20100302192320" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4629.png?size=smaller&amp;t=20100302192320" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4629.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Crock of Gold</title>
+<id>http://www.feedbooks.com/book/4142</id>
+<author>
+  <name>James Stephens</name>
+  <uri>http://www.feedbooks.com/author/1179</uri>
+</author>
+<updated>2009-09-01T16:33:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Philosophy" label="Philosophy"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>A truly unique novel, The Crock of Gold is a mixture of philosophy, Irish folklore and the neverending battle of the sexes, written with charm, humour and good grace. It achieved enduring popularity, and was frequently reprinted throughout the author's lifetime.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4142.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4142.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4142.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4142.png?t=20090901163341" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4142.png?size=smaller&amp;t=20090901163341" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4142.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Possessed (The Devils)</title>
+<id>http://www.feedbooks.com/book/368</id>
+<author>
+  <name>Fyodor Mikhailovich Dostoyevsky</name>
+  <uri>http://www.feedbooks.com/author/2</uri>
+</author>
+<updated>2009-09-16T10:19:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1872</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>The Possessed (In Russian: &#1041;&#1077;&#1089;&#1099;, tr. Besy), also translated as The Devils or Demons, is an 1872 novel by Fyodor Dostoevsky. For an explanation of the marked difference in the English-language title, please see the section &quot;Note on the title&quot; below.
+An extremely political book, The Possessed is a testimonial of life in Imperial Russia in the late 19th century.
+As the revolutionary democrats begin to rise in Russia, different ideologies begin to collide. Dostoevsky casts a critical eye on both the left-wing idealists, exposing their ideas and ideological foundation as demonic, and the conservative establishment's ineptitude in dealing with those ideas and their social consequences.
+This form of intellectual conservativism tied to the Slavophil movement of Dostoevsky's day, is seen to have continued on into its modern manifestation in individuals like Aleksandr Solzhenitsyn. Dostoevsky's novels focusing on the idea that utopias and positivists ideas, in being utilitarian, were unrealistic and unobtainable.
+The book has five primary ideological characters: Verkhovensky, Shatov, Stavrogin, Stepan Trofimovich, and Kirilov. Through their philosophies, Dostoevsky describes the political chaos seen in 19th-Century Russia.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/368.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/368.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/368.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/368.png?t=20090916101922" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/368.png?size=smaller&amp;t=20090916101922" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/368.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Twenty Rules For Writing Detective Stories</title>
+<id>http://www.feedbooks.com/book/1769</id>
+<author>
+  <name>S. S. Van Dine</name>
+  <uri>http://www.feedbooks.com/author/250</uri>
+</author>
+<updated>2009-09-16T11:13:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1939</dcterms:issued>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Essay" label="Essay"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1769.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1769.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1769.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1769.png?t=20090916111348" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1769.png?size=smaller&amp;t=20090916111348" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1769.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Five Weeks in a Balloon</title>
+<id>http://www.feedbooks.com/book/4394</id>
+<author>
+  <name>Jules Verne</name>
+  <uri>http://www.feedbooks.com/author/19</uri>
+</author>
+<updated>2009-11-13T12:23:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1869</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Travel" label="Travel"/>
+<summary>A scholar, Dr. Samuel Ferguson, accompanied by his manservant Joe and his friend Richard &quot;Dick&quot; Kennedy, sets out to travel across the African continent &#8212; still not fully explored &#8212; with the help of a hot-air balloon filled with hydrogen.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/3526</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4394.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4394.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4394.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4394.png?t=20091113122302" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4394.png?size=smaller&amp;t=20091113122302" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4394.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Within A Budding Grove</title>
+<id>http://www.feedbooks.com/book/1448</id>
+<author>
+  <name>Marcel Proust</name>
+  <uri>http://www.feedbooks.com/author/3</uri>
+</author>
+<updated>2010-01-13T12:26:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1924</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1448.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1448.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1448.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1448.png?t=20100113122632" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1448.png?size=smaller&amp;t=20100113122632" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1448.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>When the World Screamed</title>
+<id>http://www.feedbooks.com/book/355</id>
+<author>
+  <name>Arthur Conan Doyle</name>
+  <uri>http://www.feedbooks.com/author/1</uri>
+</author>
+<updated>2009-09-16T10:18:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1929</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Professor Challenger drills into the earth until he reaches the mantle, convinced that it is a sentient being and that by doing so he will be the first person to alert it to mankind's presence. He awakens the giant creature, which then proceeds to destroy his machine.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/355.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/355.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/355.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/355.png?t=20090916101819" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/355.png?size=smaller&amp;t=20090916101819" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/355.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Home Again, Home Again</title>
+<id>http://www.feedbooks.com/book/663</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:27:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1999</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/663.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/663.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/663.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/663.png?t=20090916102755" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/663.png?size=smaller&amp;t=20090916102755" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/663.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Black Stone</title>
+<id>http://www.feedbooks.com/book/1666</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T11:05:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1666.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1666.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1666.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1666.png?t=20090916110546" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1666.png?size=smaller&amp;t=20090916110546" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1666.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Helen of Troy</title>
+<id>http://www.feedbooks.com/book/4428</id>
+<author>
+  <name>Andrew Lang</name>
+  <uri>http://www.feedbooks.com/author/101</uri>
+</author>
+<updated>2009-11-18T18:08:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1882</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<summary>In Greek mythology, Helen, better known as Helen of Sparta or Helen of Troy, was daughter of Zeus and Leda, wife of king Menelaus of Sparta and sister of Castor, Polydeuces and Clytemnestra. Her abduction by Paris brought about the Trojan War. Helen was described as having the face that launched a thousand ships. Helen or Helene is probably derived from the Greek word meaning &quot;torch&quot; or &quot;corposant&quot; or might be related to &quot;selene&quot; meaning &quot;moon&quot;. </summary>
+<dcterms:source>http://www.gutenberg.org/etext/3229</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4428.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4428.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4428.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4428.png?t=20091118180831" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4428.png?size=smaller&amp;t=20091118180831" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4428.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Beast in the Cave</title>
+<id>http://www.feedbooks.com/book/236</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/236.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/236.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/236.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/236.png?t=20090916101526" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/236.png?size=smaller&amp;t=20090916101526" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/236.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ivan the Fool</title>
+<id>http://www.feedbooks.com/book/1669</id>
+<author>
+  <name>Lev Nikolayevich Tolstoy</name>
+  <uri>http://www.feedbooks.com/author/28</uri>
+</author>
+<updated>2009-09-16T11:00:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1882</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1669.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1669.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1669.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1669.png?t=20090916110051" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1669.png?size=smaller&amp;t=20090916110051" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1669.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Black Tulip</title>
+<id>http://www.feedbooks.com/book/118</id>
+<author>
+  <name>Alexandre Dumas</name>
+  <uri>http://www.feedbooks.com/author/25</uri>
+</author>
+<updated>2009-09-16T10:10:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1850</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/118.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/118.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/118.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/118.png?t=20090916101006" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/118.png?size=smaller&amp;t=20090916101006" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/118.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Mystery of Cloomber</title>
+<id>http://www.feedbooks.com/book/359</id>
+<author>
+  <name>Arthur Conan Doyle</name>
+  <uri>http://www.feedbooks.com/author/1</uri>
+</author>
+<updated>2009-09-16T10:18:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1889</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Near their residence, Branksome, is The Cloomber Hall, for many years untenanted. After a little while it is settled in by John Berthier Heatherstone, late of the Indian Army. General Heatherstone is nervous to the point of being paranoid. As the story unfolds, it becomes evident that his fears are connected with some people in India whom he has offended somehow. People hear a strange sound, like the tolling of a bell, in his presence, which seems to cause the general great discomfort. Every year his paranoia reaches its climax around the fifth of October, after which date his fears subside for a while. After some time there is a shipwreck in the bay and among the survivors are three Buddhist priests who had boarded the ship from Kurrachee.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/359.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/359.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/359.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/359.png?t=20090916101833" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/359.png?size=smaller&amp;t=20090916101833" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/359.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

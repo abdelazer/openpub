@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=31&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=31&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=31&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 31 | Feedbooks</title>
+  <updated>2010-04-07T18:24:51Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>601</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=30&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=32&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>The Mysteries of Udolpho</title>
+<id>http://www.feedbooks.com/book/332</id>
+<author>
+  <name>Ann Radcliffe</name>
+  <uri>http://www.feedbooks.com/author/117</uri>
+</author>
+<updated>2009-09-16T10:17:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1794</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Romance" label="Romance"/>
+<category term="Gothic" label="Gothic"/>
+<summary>Follow the fortunes of Emily St. Aubert who suffers, among other misadventures, the death of her father, supernatural terrors in a gloomy castle, and the machinations of an Italian brigand. Considered by many to be the first &quot;Gothic&quot; novel.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/332.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/332.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/332.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/332.png?t=20090916101716" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/332.png?size=smaller&amp;t=20090916101716" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/332.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Riddle of the Sands</title>
+<id>http://www.feedbooks.com/book/3871</id>
+<author>
+  <name>Erskine Childers</name>
+  <uri>http://www.feedbooks.com/author/1053</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1903</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<category term="War" label="War"/>
+<category term="Thriller" label="Thriller"/>
+<summary>The Riddle of the Sands: A Record of Secret Service is a patriotic British 1903 novel by Erskine Childers.
+It is a novel that &quot;owes a lot to the wonderful adventure novels of writers like Rider Haggard, that were a staple of Victorian Britain&quot;; perhaps more significantly, it was a spy novel that &quot;established a formula that included a mass of verifiable detail, which gave authenticity to the story &#8211; the same ploy that would be used so well by John Buchan, Ian Fleming, John le Carr&#233; and many others.&quot; Ken Follett called it &quot;the first modern thriller.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3871.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3871.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3871.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3871.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3871.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3871.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Beasts of Tarzan</title>
+<id>http://www.feedbooks.com/book/164</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2010-01-06T20:18:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/164.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/164.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/164.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/164.png?t=20100106201851" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/164.png?size=smaller&amp;t=20100106201851" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/164.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Waves</title>
+<id>http://www.feedbooks.com/book/1230</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:37:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>One of Woolf&#8217;s most experimental novels, The Waves presents six characters in monologue - from morning until night, from childhood into old age - against a background of the sea. The result is a glorious chorus of voices that exists not to remark on the passing of events but to celebrate the connection between its various individual parts.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1230.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1230.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1230.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1230.png?t=20090916103728" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1230.png?size=smaller&amp;t=20090916103728" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1230.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lost on Venus</title>
+<id>http://www.feedbooks.com/book/1220</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:45:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1935</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Carson Napier begins this episode in the Room of the Seven Doors. He can leave any time he wants, but six of the seven doors lead to hideous deaths; only one is the door of life. After navigating his way out of this logic puzzle, Carson continues his quest to rescue the planet's fairest princess. He pursues this with singlemindedness, even though more terrible dangers lie ahead; even though the princess wishes neither his help or his affection; even though her people will execute him if he enters their country! Such is the honor of an Earthman's pledge.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1220.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1220.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1220.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1220.png?t=20090916104515" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1220.png?size=smaller&amp;t=20090916104515" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1220.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Law</title>
+<id>http://www.feedbooks.com/book/2770</id>
+<author>
+  <name>Fr&#233;d&#233;ric Bastiat</name>
+  <uri>http://www.feedbooks.com/author/540</uri>
+</author>
+<updated>2009-09-16T12:26:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1849</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Essay" label="Essay"/>
+<category term="Politics" label="Politics"/>
+<summary>The Law, original French title La Loi, is a 1849 book by Fr&#233;d&#233;ric Bastiat. It was published one year after the third French Revolution of 1848 and one year before his death of tuberculosis at age 49. The essay was influenced by John Locke's Second Treatise on Government and in turn influenced Henry Hazlitt's Economics in One Lesson. It is the work for which Bastiat is most famous along with The candlemaker's petition and the Parable of the broken window.
+In The Law, Bastiat states that &quot;each of us has a natural right &#8212; from God &#8212; to defend his person, his liberty, and his property&quot;. The State is a &quot;substitution of a common force for individual forces&quot; to defend this right. The law becomes perverted when it punishes one's right to self-defense in favor of another's acquired right to plunder.</summary>
+<dcterms:source>http://www.mises.org/story/2060</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2770.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2770.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2770.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2770.png?t=20090916122643" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2770.png?size=smaller&amp;t=20090916122643" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2770.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Juvenilia &#8211; Volume III</title>
+<id>http://www.feedbooks.com/book/4207</id>
+<author>
+  <name>Jane Austen</name>
+  <uri>http://www.feedbooks.com/author/18</uri>
+</author>
+<updated>2009-10-07T11:14:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1790</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Romance" label="Romance"/>
+<category term="Essay" label="Essay"/>
+<category term="Collections" label="Collections"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Perhaps as early as 1787, Austen began to write poems, stories, and plays for her own and her family's amusement. Austen later compiled &quot;fair copies&quot; of these early works into three bound notebooks, now referred to as the &quot;Juvenilia,&quot; containing pieces originally written between 1787 and 1793. (from Wikipedia)
+.
+The 3rd volume of juvenilia includes:
+    * Evelyn
+    * Catharine
+.
+Cover image:
+Back View of Jane Austen, Watercolor
+by Cassandra Austen
+from http://en.wikipedia.org/wiki/File:CassandraAusten-JaneAustenBackView%281804%29.jpg</summary>
+<dcterms:source>teh internets</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4207.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4207.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4207.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4207.png?t=20091007111404" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4207.png?size=smaller&amp;t=20091007111404" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4207.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Gold-Bug</title>
+<id>http://www.feedbooks.com/book/774</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-09-16T10:30:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1842</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/774.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/774.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/774.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/774.png?t=20090916103016" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/774.png?size=smaller&amp;t=20090916103016" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/774.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Geek Mafia: Mile Zero</title>
+<id>http://www.feedbooks.com/book/1942</id>
+<author>
+  <name>Rick Dakan</name>
+  <uri>http://www.feedbooks.com/author/187</uri>
+</author>
+<updated>2009-09-16T11:24:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Thriller" label="Thriller"/>
+<summary>Key West-southernmost point in the United States, Mile Zero on Highway 1; and as far as you can run away from your past troubles without swimming to Cuba. Key West-originally Cayo Huesos or Isle of Bones, for centuries a refuge for pirates, wreckers, writers, scoundrels, drunks, and tourists. Now home to a Crew of techno geek con artists who've turned it into their own private hunting ground. Paul and Chloe have the run of the sun-drenched island, free to play and scam far from the enemies they left behind in Silicon Valley. But that doesn't mean they can't bring a little high tech know how to the paradise. They and their new Crew have covered the island with their own private Big Brother style network-hidden cameras, RFID sensors, and a web of informers that tip them off about every crime committed and tourist trapped on the island. But will all the gadgets and games be enough when not one but three rival crews of con artists come to hold a top-secret gang summit? And when one of them is murdered, who will solve the crime? Inspired by author Rick Dakan's own eventful experiences in the video game and comic book industries, the Geek Mafia series satisfies the hunger in all of us to buck the system, take revenge on corporate America, and live a life of excitement and adventure.</summary>
+<dcterms:source>http://www.rickdakan.com/geekmafia.htm</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1942.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1942.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1942.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1942.png?t=20090916112428" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1942.png?size=smaller&amp;t=20090916112428" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1942.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sanin</title>
+<id>http://www.feedbooks.com/book/2177</id>
+<author>
+  <name>Mikhail Petrovich Artsybashev</name>
+  <uri>http://www.feedbooks.com/author/307</uri>
+</author>
+<updated>2009-09-16T11:51:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>The hero of Artsybashev's novel exhibits a set of new values to be contrasted with the morality of the older Russian intelligentsia. Sanin is an attractive, clever, powerful, life-loving man who is, at the same time, an amoral and carnal animal, bored both by politics and by religion. During the novel he lusts after his own sister, but defends her when she is betrayed by an arrogant officer; he deflowers an innocent-but-willing virgin; and encourages a Jewish friend to end his self-doubts by committing suicide. Sanin's extreme individualism greatly appealed to young people in Russia during the twilight years of the Romanov regime. &quot;Saninism&quot; was marked by sensualism, self-gratification, and self-destruction--and gained in credibility in an atmosphere of moral and spiritual despondency.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2177.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2177.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2177.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2177.png?t=20090916115123" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2177.png?size=smaller&amp;t=20090916115123" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2177.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>People of the Dark</title>
+<id>http://www.feedbooks.com/book/1740</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T11:11:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1740.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1740.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1740.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1740.png?t=20090916111115" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1740.png?size=smaller&amp;t=20090916111115" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1740.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Glimpses of Unfamiliar Japan, Vol 2</title>
+<id>http://www.feedbooks.com/book/2057</id>
+<author>
+  <name>Lafcadio Hearn</name>
+  <uri>http://www.feedbooks.com/author/286</uri>
+</author>
+<updated>2010-01-13T18:53:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1894</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="History" label="History"/>
+<category term="Essay" label="Essay"/>
+<category term="Travel" label="Travel"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/dirs/etext05/8glm210.txt</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2057.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2057.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2057.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2057.png?t=20100113185342" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2057.png?size=smaller&amp;t=20100113185342" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2057.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lilith</title>
+<id>http://www.feedbooks.com/book/3414</id>
+<author>
+  <name>George MacDonald</name>
+  <uri>http://www.feedbooks.com/author/817</uri>
+</author>
+<updated>2009-08-18T01:18:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1895</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Lilith is a fantasy novel written by Scottish writer George MacDonald and first published in 1895. Its importance was recognized in its later revival in paperback by Ballantine Books as the fifth volume of the celebrated Ballantine Adult Fantasy series in September 1969.
+Lilith is considered among the darkest of MacDonald's works, and among the most profound. It is a story concerning the nature of life, death and salvation. Many believe MacDonald is arguing for Christian universalism, or the idea that all will eventually be saved.
+Mr. Vane, the protagonist of Lilith, owns a library that seems to be haunted by the former librarian, who looks much like a raven from the brief glimpses he catches of the wraith. After finally encountering the supposed ghost, the mysterious Mr. Raven, Vane learns that Raven had known his father; indeed, Vane's father had visited the strange parallel universe from which Raven comes and goes and now resides therein. Vane follows Raven into the world through a mirror (this symbolistic realm is described as &quot;the region of the seven dimensions&quot;, a term taken from Jacob Boehme).
+Source: Wikipedia</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3414.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3414.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3414.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3414.png?t=20090818011805" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3414.png?size=smaller&amp;t=20090818011805" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3414.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Collector's Item</title>
+<id>http://www.feedbooks.com/book/4645</id>
+<author>
+  <name>Evelyn E. Smith</name>
+  <uri>http://www.feedbooks.com/author/463</uri>
+</author>
+<updated>2010-03-20T16:08:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1954</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Being trapped in the steaming h&#8212;l of Venus is no excuse for forgetting one's manners&#8212;but anyone abducted, marooned, tricked, kept from tea might well crack under the strain!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31686</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4645.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4645.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4645.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4645.png?t=20100320160841" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4645.png?size=smaller&amp;t=20100320160841" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4645.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Further Adventures of Robinson Crusoe</title>
+<id>http://www.feedbooks.com/book/665</id>
+<author>
+  <name>Daniel Defoe</name>
+  <uri>http://www.feedbooks.com/author/40</uri>
+</author>
+<updated>2009-09-16T10:27:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1719</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.digbib.org/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/665.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/665.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/665.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/665.png?t=20090916102758" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/665.png?size=smaller&amp;t=20090916102758" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/665.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jewels of Gwahlur</title>
+<id>http://www.feedbooks.com/book/1623</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T11:08:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1935</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1623.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1623.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1623.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1623.png?t=20090916110807" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1623.png?size=smaller&amp;t=20090916110807" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1623.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Dream of John Ball</title>
+<id>http://www.feedbooks.com/book/3688</id>
+<author>
+  <name>William Morris</name>
+  <uri>http://www.feedbooks.com/author/372</uri>
+</author>
+<updated>2009-08-18T01:18:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1888</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<category term="Politics" label="Politics"/>
+<summary>A Dream of John Ball (1888) is a novel by English author William Morris about the English peasants' revolt of 1381 and the rebel John Ball. Like the novels close contemporary - A Connecticut Yankee in King Arthur's Court (1889) by Mark Twain - it describes a dream and time travel encounter between the medieval and modern worlds. However unlike Twain's vision of a violent and chaotic &quot;Dark Age&quot;, Morris describes a positive image of the Middle Ages, seeing it as a golden, if brief, period when peasants were prosperous and happy and guilds protected workers from exploitation.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3688.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3688.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3688.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3688.png?t=20090818011811" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3688.png?size=smaller&amp;t=20090818011811" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3688.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Free Air</title>
+<id>http://www.feedbooks.com/book/3689</id>
+<author>
+  <name>Sinclair Lewis</name>
+  <uri>http://www.feedbooks.com/author/246</uri>
+</author>
+<updated>2009-08-18T01:18:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Travel" label="Travel"/>
+<summary>Long before Jack Kerouac penned his famous American roadtrip epic, Sinclair Lewis wrote what may in fact be the seminal work of the genre. This cheerful little road novel, published in 1919, is about Claire Boltwood, who, in the early days of the 20th century, travels by automobile from New York City to the Pacific Northwest, where she falls in love with a nice, down-to-earth young man and gives up her snobbish Estate. </summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3689.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3689.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3689.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3689.png?t=20090818011811" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3689.png?size=smaller&amp;t=20090818011811" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3689.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Personal Record</title>
+<id>http://www.feedbooks.com/book/731</id>
+<author>
+  <name>Joseph Conrad</name>
+  <uri>http://www.feedbooks.com/author/10</uri>
+</author>
+<updated>2009-09-16T10:29:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Biography" label="Biography"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/731.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/731.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/731.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/731.png?t=20090916102955" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/731.png?size=smaller&amp;t=20090916102955" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/731.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Crystal Age</title>
+<id>http://www.feedbooks.com/book/2577</id>
+<author>
+  <name>William Henry Hudson</name>
+  <uri>http://www.feedbooks.com/author/451</uri>
+</author>
+<updated>2009-09-16T11:47:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1887</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>I do not quite know how it happened my recollection of the whole matter ebbing in a somewhat clouded condition.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2577.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2577.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2577.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2577.png?t=20090916114706" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2577.png?size=smaller&amp;t=20090916114706" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2577.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

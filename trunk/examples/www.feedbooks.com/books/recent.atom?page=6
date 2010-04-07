@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:app="http://www.w3.org/2007/app" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=6</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=6" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=6" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 6 | Feedbooks</title>
+  <updated>2010-04-07T18:26:16Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>101</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=5" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=7" rel="next" title="Next Page"/>
+<entry>
+<title>Thin Edge</title>
+<id>http://www.feedbooks.com/book/4554</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2010-01-08T17:07:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There are inventions of great value that one type of society can use&#8212;and that would, for another society, be most nastily deadly!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30869</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4554.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4554.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4554.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4554.png?t=20100108170711" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4554.png?size=smaller&amp;t=20100108170711" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4554.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Alias the Lone Wolf</title>
+<id>http://www.feedbooks.com/book/4551</id>
+<author>
+  <name>Louis Joseph Vance</name>
+  <uri>http://www.feedbooks.com/author/1286</uri>
+</author>
+<updated>2010-01-07T19:23:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>The super crook in &quot;The Lone Wolf,&quot; the object of fiendish vengeance in &quot;The False Faces,&quot; and the clever secret service man in &quot;The Red Masquerade&quot; now has his most thrilling adventure as a gentleman adventurer who pits his wits against a ruthless schemer to save an innocent man framed for burglary.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/10327</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4551.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4551.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4551.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4551.png?t=20100107192354" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4551.png?size=smaller&amp;t=20100107192354" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4551.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mrs. Raffles</title>
+<id>http://www.feedbooks.com/book/4550</id>
+<author>
+  <name>John Kendrick Bangs</name>
+  <uri>http://www.feedbooks.com/author/574</uri>
+</author>
+<updated>2010-01-06T20:46:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1905</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Being the Adventures of an Amateur Crackswoman.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30853</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4550.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4550.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4550.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4550.png?t=20100106204600" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4550.png?size=smaller&amp;t=20100106204600" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4550.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Monkey's Paw</title>
+<id>http://www.feedbooks.com/book/4548</id>
+<author>
+  <name>William Wymark Jacobs</name>
+  <uri>http://www.feedbooks.com/author/1325</uri>
+</author>
+<updated>2010-01-06T10:22:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1902</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>&quot;The Monkey's Paw&quot; is a horror short story by author W. W. Jacobs. It was published in England in 1902.The story is based on the famous &quot;setup&quot; in which three wishes are granted. In the story, the paw of a dead monkey is a talisman that grants its possessor three wishes, but the wishes come with an enormous price for interfering with fate.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4548.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4548.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4548.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4548.png?t=20100106102203" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4548.png?size=smaller&amp;t=20100106102203" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4548.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>To Invade New York....</title>
+<id>http://www.feedbooks.com/book/4546</id>
+<author>
+  <name>Irvin Lewis</name>
+  <uri>http://www.feedbooks.com/author/1321</uri>
+</author>
+<updated>2010-01-05T14:35:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It would be foolish to do a thing a hard way, when there is such an easy way. In a technically dependent culture, people become quite helpless, really....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30844</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4546.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4546.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4546.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4546.png?t=20100105143504" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4546.png?size=smaller&amp;t=20100105143504" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4546.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Barbarians</title>
+<id>http://www.feedbooks.com/book/4545</id>
+<author>
+  <name>Algis Budrys</name>
+  <uri>http://www.feedbooks.com/author/344</uri>
+</author>
+<updated>2010-01-05T14:28:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>History was repeating itself; there were moats and nobles in Pennsylvania and vassals in Manhattan and the barbarian hordes were overrunning the land.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30828</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4545.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4545.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4545.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4545.png?t=20100105142836" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4545.png?size=smaller&amp;t=20100105142836" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4545.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Eyes Have It</title>
+<id>http://www.feedbooks.com/book/4544</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2010-01-05T14:20:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1964</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>In a sense, this is a story of here-and-now. This Earth, this year ... but on a history-line slipped slightly sidewise. A history in which a great man acted differently, and Magic, rather than physical science, was developed....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30833</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4544.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4544.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4544.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4544.png?t=20100105142041" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4544.png?size=smaller&amp;t=20100105142041" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4544.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nor Iron Bars a Cage....</title>
+<id>http://www.feedbooks.com/book/4543</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2010-01-05T14:16:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Iron bars do not confine a Man&#8212;only his body. There are more subtle, and more confining bindings, however....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30832</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4543.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4543.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4543.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4543.png?t=20100105141631" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4543.png?size=smaller&amp;t=20100105141631" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4543.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Malcolm Sage, Detective</title>
+<id>http://www.feedbooks.com/book/4542</id>
+<author>
+  <name>Herbert George Jenkins</name>
+  <uri>http://www.feedbooks.com/author/1320</uri>
+</author>
+<updated>2010-01-04T16:24:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>MALCOLM SAGE had been a hot shot intelligence agent for Britain's Division Z during the Great War, but when the fighting ceased, his thirst for action and adventure didn't. Fortunately, his old chief from division Z helped him set up the Malcolm Sage Detective Bureau, and much merry mayhem and more than a few ripping good yarns ensued.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/28084</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4542.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4542.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4542.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4542.png?t=20100104162408" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4542.png?size=smaller&amp;t=20100104162408" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4542.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Soldiers of Fortune</title>
+<id>http://www.feedbooks.com/book/4541</id>
+<author>
+  <name>Richard Harding Davis</name>
+  <uri>http://www.feedbooks.com/author/1319</uri>
+</author>
+<updated>2010-01-04T15:44:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Politics" label="Politics"/>
+<summary>A romance of America's nascent imperial power recounting the adventures of Robert Clay, a mining engineer and sometime mercenary, and Hope Langham, the daughter of a wealthy American industrialist, as they become caught up in a coup in Olancho, a fictional Latin American republic. When the coup, organized by corrupt politicians and generals, threatens the American-owned Valencia Mining Company, Clay organizes his workers and the handful of Americans visiting the mine into a counter-coup force. Written on the eve of the Spanish-American War, Soldiers of Fortune casts the young American as the dashing, hypermasculine hero of the new military and economic imperium.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/403</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4541.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4541.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4541.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4541.png?t=20100104154411" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4541.png?size=smaller&amp;t=20100104154411" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4541.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A World by the Tale</title>
+<id>http://www.feedbooks.com/book/4540</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2010-01-04T15:03:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>This is about the best-hated author on Earth. Who was necessarily pampered and petted because of his crime against humanity....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30816</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4540.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4540.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4540.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4540.png?t=20100104150304" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4540.png?size=smaller&amp;t=20100104150304" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4540.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Hate Disease</title>
+<id>http://www.feedbooks.com/book/4539</id>
+<author>
+  <name>Murray Leinster</name>
+  <uri>http://www.feedbooks.com/author/180</uri>
+</author>
+<updated>2010-01-04T14:27:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The Med Service people hit strange problems as routine: if they weren't weirdos, they weren't tough enough to merit Med Service attention. Now the essence of a weird problem is that it involves a factor nobody ever thought of before ... or the absence of one nobody ever missed ...</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30815</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4539.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4539.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4539.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4539.png?t=20100104142725" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4539.png?size=smaller&amp;t=20100104142725" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4539.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Moving Finger</title>
+<id>http://www.feedbooks.com/book/4535</id>
+<author>
+  <name>Edward Phillips Oppenheim</name>
+  <uri>http://www.feedbooks.com/author/842</uri>
+</author>
+<updated>2010-01-03T12:04:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1911</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>A mystifying story dealing with a wealthy M.P.'s experiment with a poor young man.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30811</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4535.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4535.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4535.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4535.png?t=20100103120407" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4535.png?size=smaller&amp;t=20100103120407" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4535.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Vindication of the Rights of Woman</title>
+<id>http://www.feedbooks.com/book/4532</id>
+<author>
+  <name>Mary Wollstonecraft</name>
+  <uri>http://www.feedbooks.com/author/1315</uri>
+</author>
+<updated>2009-12-31T15:26:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1792</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<summary>Writing in an age when the call for the rights of man had brought revolution to America and France, Mary Wollstonecraft produced her own declaration of female independence in 1792. Passionate and forthright, A Vindication of the Rights of Woman attacked the prevailing view of docile, decorative femininity, and instead laid out the principles of emancipation: an equal education for girls and boys, an end to prejudice, and for women to become defined by their profession, not their partner. Mary Wollstonecraft&#8217;s work was received with a mixture of admiration and outrage &#8211; Walpole called her &#8216;a hyena in petticoats&#8217; &#8211; yet it established her as the mother of modern feminism.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/3420</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4532.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4532.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4532.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4532.png?t=20091231152625" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4532.png?size=smaller&amp;t=20091231152625" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4532.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Thirst Quenchers</title>
+<id>http://www.feedbooks.com/book/4531</id>
+<author>
+  <name>Raphael Rick</name>
+  <uri>http://www.feedbooks.com/author/163</uri>
+</author>
+<updated>2009-12-30T18:52:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Earth has more water surface than land surface&#8212;but that does not mean we have all the water we want to drink. And right now, America is already pressing the limits of fresh water supply....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30797</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4531.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4531.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4531.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4531.png?t=20091230185242" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4531.png?size=smaller&amp;t=20091230185242" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4531.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Dueling Machine</title>
+<id>http://www.feedbooks.com/book/4530</id>
+<author>
+  <name>Ben Bova</name>
+  <uri>http://www.feedbooks.com/author/945</uri>
+</author>
+<updated>2009-12-30T18:48:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The trouble with great ideas is that someone is sure to expend enormous effort and ingenuity figuring out how to louse them up.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30796</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4530.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4530.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4530.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4530.png?t=20091230184824" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4530.png?size=smaller&amp;t=20091230184824" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4530.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Sonny</title>
+<id>http://www.feedbooks.com/book/4529</id>
+<author>
+  <name>Raphael Rick</name>
+  <uri>http://www.feedbooks.com/author/163</uri>
+</author>
+<updated>2009-12-30T18:28:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Of course, no one actually knows the power of a thought. That is, the milli&#8212;or megawatts type of power ...</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30798</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4529.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4529.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4529.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4529.png?t=20091230182827" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4529.png?size=smaller&amp;t=20091230182827" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4529.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Maggie, a Girl of the Street</title>
+<id>http://www.feedbooks.com/book/4528</id>
+<author>
+  <name>Stephen Crane</name>
+  <uri>http://www.feedbooks.com/author/1314</uri>
+</author>
+<updated>2009-12-29T16:38:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1896</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Regarded as the first work of unalloyed naturalism in American fiction.
+The story of Maggie Johnson a young woman who, seduced by her brother's friend and then disowned by her family, turns to prostitution.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/447</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4528.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4528.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4528.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4528.png?t=20091229163830" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4528.png?size=smaller&amp;t=20091229163830" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4528.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Red Badge of Courage</title>
+<id>http://www.feedbooks.com/book/4527</id>
+<author>
+  <name>Stephen Crane</name>
+  <uri>http://www.feedbooks.com/author/1314</uri>
+</author>
+<updated>2009-12-29T15:19:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1895</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="War" label="War"/>
+<summary>The Red Badge of Courage is an 1895 war novel by American author Stephen Crane. It is considered one of the most influential works in American literature. The novel, a depiction on the cruelty of the American Civil War, features a young recruit who overcomes initial fears to become a hero on the battlefield. The book made Crane an international success. Although he was born after the war and had not at the time experienced battle firsthand, the novel is considered an example of Realism.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/463</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4527.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4527.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4527.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4527.png?t=20091229151925" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4527.png?size=smaller&amp;t=20091229151925" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4527.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Piers Plowman</title>
+<id>http://www.feedbooks.com/book/4526</id>
+<author>
+  <name>William Langland</name>
+  <uri>http://www.feedbooks.com/author/1313</uri>
+</author>
+<updated>2009-12-29T15:05:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1387</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<category term="Religion" label="Religion"/>
+<summary>Written by a fourteenth-century cleric, this spiritual allegory explores man in relation to his ultimate destiny against the background of teeming, colorful medieval life.</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4526.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4526.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4526.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4526.png?t=20091229150528" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4526.png?size=smaller&amp;t=20091229150528" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4526.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

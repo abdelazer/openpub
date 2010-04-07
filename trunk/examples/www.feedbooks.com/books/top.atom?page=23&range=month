@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=23&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=23&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=23&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 23 | Feedbooks</title>
+  <updated>2010-04-07T18:24:47Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>441</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=22&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=24&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Return to Pleasure Island</title>
+<id>http://www.feedbooks.com/book/661</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:27:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1999</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/661.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/661.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/661.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/661.png?t=20090916102754" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/661.png?size=smaller&amp;t=20090916102754" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/661.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Minister's Black Veil</title>
+<id>http://www.feedbooks.com/book/1745</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:12:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1837</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1745.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1745.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1745.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1745.png?t=20090916111214" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1745.png?size=smaller&amp;t=20090916111214" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1745.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Columbus of Space</title>
+<id>http://www.feedbooks.com/book/871</id>
+<author>
+  <name>Garrett Putman Serviss</name>
+  <uri>http://www.feedbooks.com/author/164</uri>
+</author>
+<updated>2009-09-16T10:32:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1909</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The first story ever written about an atomic powered space craft. </summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/871.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/871.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/871.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/871.png?t=20090916103222" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/871.png?size=smaller&amp;t=20090916103222" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/871.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Brain Twister</title>
+<id>http://www.feedbooks.com/book/1959</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<author>
+  <name>Laurence Mark Janifer</name>
+  <uri>http://www.feedbooks.com/author/268</uri>
+</author>
+<updated>2009-09-16T11:26:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Thriller" label="Thriller"/>
+<summary>In nineteen-fourteen, it was enemy aliens.
+In nineteen-thirty, it was Wobblies.
+In nineteen-fifty-seven, it was fellow-travelers.
+And, in nineteen seventy-one, Kenneth J. Malone rolled wearily out of bed wondering what the hell it was going to be now.
+One thing, he told himself, was absolutely certain: it was going to be terrible. It always was.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1959.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1959.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1959.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1959.png?t=20090916112634" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1959.png?size=smaller&amp;t=20090916112634" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1959.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Thing on the Doorstep</title>
+<id>http://www.feedbooks.com/book/289</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/289.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/289.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/289.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/289.png?t=20090916101541" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/289.png?size=smaller&amp;t=20090916101541" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/289.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Dream of Armageddon</title>
+<id>http://www.feedbooks.com/book/598</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:27:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1901</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/598.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/598.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/598.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/598.png?t=20090916102709" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/598.png?size=smaller&amp;t=20090916102709" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/598.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Master Mind of Mars</title>
+<id>http://www.feedbooks.com/book/1213</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:43:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1927</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1213.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1213.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1213.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1213.png?t=20090916104320" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1213.png?size=smaller&amp;t=20090916104320" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1213.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Anne's House of Dreams</title>
+<id>http://www.feedbooks.com/book/3307</id>
+<author>
+  <name>Lucy Maud Montgomery</name>
+  <uri>http://www.feedbooks.com/author/547</uri>
+</author>
+<updated>2009-08-18T01:18:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>A chronicle of Anne&#8217;s early married life, as she and her childhood sweetheart Gilbert Blythe begin to build their life together.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3307.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3307.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3307.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3307.png?t=20090818011803" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3307.png?size=smaller&amp;t=20090818011803" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3307.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Pygmalion</title>
+<id>http://www.feedbooks.com/book/4440</id>
+<author>
+  <name>George Bernard Shaw</name>
+  <uri>http://www.feedbooks.com/author/749</uri>
+</author>
+<updated>2009-11-25T23:30:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>The story of Henry Higgins, a professor of phonetics who makes a bet with his friend Colonel Pickering that he can successfully pass off a Cockney flower girl, Eliza Doolittle, as a refined society lady by teaching her how to speak with an upper class accent and training her in etiquette. In the process, Higgins and Eliza grow close, but she ultimately rejects his domineering ways and declares she will marry Freddy Eynsford-Hill &#8211; a young, poor, gentleman.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/3825</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4440.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4440.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4440.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4440.png?t=20091125233058" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4440.png?size=smaller&amp;t=20091125233058" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4440.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Apartment Next Door</title>
+<id>http://www.feedbooks.com/book/4144</id>
+<author>
+  <name>William Andrew Johnston</name>
+  <uri>http://www.feedbooks.com/author/1180</uri>
+</author>
+<updated>2009-09-02T15:46:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Thriller" label="Thriller"/>
+<summary>A story of the U.S. Secret Service, into which Mr. Johston has woven mysteries more enthralling than in &quot;The House of Whispers.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org/etext/11240</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4144.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4144.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4144.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4144.png?t=20090902154609" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4144.png?size=smaller&amp;t=20090902154609" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4144.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Herbert West: Reanimator</title>
+<id>http://www.feedbooks.com/book/256</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/256.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/256.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/256.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/256.png?t=20090916101530" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/256.png?size=smaller&amp;t=20090916101530" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/256.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nimby and the Dimension Hoppers</title>
+<id>http://www.feedbooks.com/book/2669</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T12:20:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2003</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.infinitematrix.net/stories/shorts/nimby.html</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2669.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2669.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2669.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2669.png?t=20090916122002" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2669.png?size=smaller&amp;t=20090916122002" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2669.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Little Fuzzy</title>
+<id>http://www.feedbooks.com/book/313</id>
+<author>
+  <name>Henry Beam Piper</name>
+  <uri>http://www.feedbooks.com/author/114</uri>
+</author>
+<updated>2009-09-16T10:16:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The chartered Zarathustra Company had it all their way. Their charter was for a Class III uninhabited planet, which Zarathustra was, and it meant they owned the planet lock stock and barrel. They exploited it, developed it and reaped the huge profits from it without interference from the Colonial Government. Then Jack Holloway, a sunstone prospector, appeared on the scene with his family of Fuzzies and the passionate conviction that they were not cute animals but little people.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/313.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/313.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/313.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/313.png?t=20090916101615" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/313.png?size=smaller&amp;t=20090916101615" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/313.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Spell of Apocalypse</title>
+<id>http://www.feedbooks.com/book/1973</id>
+<author>
+  <name>Mayer Alan Brenner</name>
+  <uri>http://www.feedbooks.com/author/242</uri>
+</author>
+<updated>2009-09-16T11:27:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1994</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Whose magic will prove mightiest in this final showdown between gods, mortals, and other beings?</summary>
+<dcterms:source>http://www.mayerbrenner.com/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1973.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1973.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1973.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1973.png?t=20090916112748" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1973.png?size=smaller&amp;t=20090916112748" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1973.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Man Who Would be King</title>
+<id>http://www.feedbooks.com/book/3771</id>
+<author>
+  <name>Rudyard Kipling</name>
+  <uri>http://www.feedbooks.com/author/56</uri>
+</author>
+<updated>2009-08-18T01:19:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1888</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The Man Who Would be King (1888) is a short story by Rudyard Kipling chronicling the adventures of two British men who become kings in Kafiristan (now a province of Afghanistan).</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3771.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3771.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3771.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3771.png?t=20090818011902" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3771.png?size=smaller&amp;t=20090818011902" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3771.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Skull</title>
+<id>http://www.feedbooks.com/book/4335</id>
+<author>
+  <name>Philip K. Dick</name>
+  <uri>http://www.feedbooks.com/author/1023</uri>
+</author>
+<updated>2009-10-23T23:08:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Conger agreed to kill a stranger he had never seen. But he would make no mistakes because he had the stranger's skull under his arm.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30255</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4335.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4335.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4335.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4335.png?t=20091023230859" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4335.png?size=smaller&amp;t=20091023230859" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4335.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Of Human Bondage</title>
+<id>http://www.feedbooks.com/book/2052</id>
+<author>
+  <name>W. Somerset Maugham</name>
+  <uri>http://www.feedbooks.com/author/269</uri>
+</author>
+<updated>2009-11-16T16:35:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>From an orphan with a clubfoot, Philip Carey grows into an impressionable young man with a voracious appetite for adventure and knowledge. Then he falls obsessively in love, embarking on a disastrous relationship that will change his life forever.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2052.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2052.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2052.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2052.png?t=20091116163552" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2052.png?size=smaller&amp;t=20091116163552" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2052.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Herland</title>
+<id>http://www.feedbooks.com/book/3610</id>
+<author>
+  <name>Charlotte Perkins Gilman</name>
+  <uri>http://www.feedbooks.com/author/918</uri>
+</author>
+<updated>2009-08-18T01:18:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Sexuality" label="Sexuality"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<category term="Politics" label="Politics"/>
+<summary>Herland is a utopian novel from 1915, written by feminist Charlotte Perkins Gilman. The book describes an isolated society composed entirely of women who reproduce via parthenogenesis (asexual reproduction). The result is an ideal social order, free of war, conflict and domination.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3610.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3610.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3610.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3610.png?t=20090818011810" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3610.png?size=smaller&amp;t=20090818011810" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3610.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Six Fingers of Time</title>
+<id>http://www.feedbooks.com/book/4657</id>
+<author>
+  <name>Raphael Aloysius Lafferty</name>
+  <uri>http://www.feedbooks.com/author/349</uri>
+</author>
+<updated>2010-03-20T17:30:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Time is money. Time heals all wounds. Given time, anything is possible. And now he had all the time in the world!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31663</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4657.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4657.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4657.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4657.png?t=20100320173040" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4657.png?size=smaller&amp;t=20100320173040" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4657.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Red and the Black</title>
+<id>http://www.feedbooks.com/book/1356</id>
+<author>
+  <name>Stendhal</name>
+  <uri>http://www.feedbooks.com/author/107</uri>
+</author>
+<updated>2009-11-26T09:35:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1830</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>The Red and the Black, Stendhal&#8217;s masterpiece, is the story of Julien Sorel, a young dreamer from the provinces, fueled by Napoleonic ideals, whose desire to make his fortune sets in motion events both mesmerizing and tragic. Sorel&#8217;s quest to find himself, and the doomed love he encounters along the way, are delineated with an unprecedented psychological depth and realism. At the same time, Stendhal weaves together the social life and fraught political intrigues of post&#8211;Napoleonic France, bringing that world to unforgettable, full-color life. His portrait of Julien and early-nineteenth-century France remains an unsurpassed creation, one that brilliantly anticipates modern literature. </summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1356.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1356.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1356.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1356.png?t=20091126093532" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1356.png?size=smaller&amp;t=20091126093532" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1356.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

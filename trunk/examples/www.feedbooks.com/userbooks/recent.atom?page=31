@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=31</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=31" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=31" rel="self"/>
+  <title>Original Books / New Releases / Page 31 | Feedbooks</title>
+  <updated>2010-04-07T18:24:12Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>601</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=30" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=32" rel="next" title="Next Page"/>
+<entry>
+<title>Batman #2</title>
+<id>http://www.feedbooks.com/userbook/7050</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-08-18T00:53:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Batman: World's Finest?</summary>
+<category term="Metallo"/>
+<category term="Batman"/>
+<category term="Superman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Lex Luthor"/>
+<category term="Lois Lane"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7050.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7050.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7050.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7050.png?t=20090818005359" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7050.png?size=smaller&amp;t=20090818005359" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7050.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #2</title>
+<id>http://www.feedbooks.com/userbook/7049</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T22:46:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Detective Comics: Lustmord: An Uncommon Fondness for Blood.</summary>
+<category term="Hugo Strange"/>
+<category term="Vicki Vale"/>
+<category term="Batman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7049.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7049.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7049.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7049.png?t=20090817224613" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7049.png?size=smaller&amp;t=20090817224613" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7049.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>All-Star Comics Annual #1</title>
+<id>http://www.feedbooks.com/userbook/7048</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-08-17T22:34:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>All-Star Comics Annual: Justice Society of America: The Time of Their Lives.
+
+</summary>
+<category term="JSA"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Justice Society of America"/>
+<category term="Justice Society"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7048.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7048.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7048.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7048.png?t=20090817223427" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7048.png?size=smaller&amp;t=20090817223427" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7048.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #33</title>
+<id>http://www.feedbooks.com/userbook/7047</id>
+<author>
+  <name>Roy Flinchum and Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Roy%20Flinchum%20and%20Brian%20Burchette</uri>
+</author>
+<updated>2009-08-18T00:41:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Action Comics: Straight as an Arrow.
+
+Jimmy Olsen holds the key to the Fero Corporation's secrets, but will they let him live long enough to reveal it. Who is Fero? The answers start here!</summary>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Connor Hawke"/>
+<category term="Royal Flush Gang"/>
+<category term="Supergirl"/>
+<category term="Superman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7047.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7047.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7047.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7047.png?t=20090818004159" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7047.png?size=smaller&amp;t=20090818004159" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7047.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Holiness: Its Nature, Hindrances, Difficulties, and Roots</title>
+<id>http://www.feedbooks.com/userbook/7046</id>
+<author>
+  <name>J.C. Ryle</name>
+  <uri>http://www.feedbooks.com/user/48814/profile#J.C.%20Ryle</uri>
+</author>
+<updated>2009-08-18T01:07:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1879</dcterms:issued>
+<summary>Holiness: Its Nature, Hindrances, Difficulties, and Roots</summary>
+<category term="religion"/>
+<category term="Spirituality"/>
+<category term="growth"/>
+<category term="holiness"/>
+<category term="Christianity"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7046.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7046.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7046.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7046.png?t=20090818010729" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7046.png?size=smaller&amp;t=20090818010729" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7046.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>WHAT IS DEATH? IS DEATH REALLY DEATH? </title>
+<id>http://www.feedbooks.com/userbook/7043</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2009-08-18T00:33:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Many who do not believe in Hell also say they do not believe in annihilation. What does the persons who does not believe in Hell mean when they says they do not believe in annihilation? Do they believe that all now have eternal life and no one will really die; therefore, Christ cannot give eternal life to those who obey Him, but only a reward for those who already have eternal life and will never be dead and will never be without eternal life?
+The word &#8220;annihilation&#8221; is not in the Bible but what is meant by it is.
+</summary>
+<category term="c"/>
+<category term="second"/>
+<category term="Passover"/>
+<category term="atonement"/>
+<category term="reward"/>
+<category term="God"/>
+<category term="heaven"/>
+<category term="death"/>
+<category term="second"/>
+<category term="resurrection"/>
+<category term="First"/>
+<category term="everlasting"/>
+<category term="torment"/>
+<category term="sleep"/>
+<category term="death"/>
+<category term="spiritual"/>
+<category term="fire"/>
+<category term="perish"/>
+<category term="destroy"/>
+<category term="destruction"/>
+<category term="Die"/>
+<category term="Salvation"/>
+<category term="death"/>
+<category term="life"/>
+<category term="life"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7043.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7043.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7043.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7043.png?t=20090818003317" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7043.png?size=smaller&amp;t=20090818003317" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7043.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>My Inaugural Address at the Great White Throne Judgment of the Dead</title>
+<id>http://www.feedbooks.com/userbook/6971</id>
+<author>
+  <name>secretrapture</name>
+  <uri>http://www.feedbooks.com/user/47576/profile#secretrapture</uri>
+</author>
+<updated>2009-08-17T22:53:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>An unusual perspective on current End Times events, as predicted in the Book of Revelation, including the Rapture and the Tribulation.</summary>
+<category term="secret rapture"/>
+<category term="second coming"/>
+<category term="Day of the Lord"/>
+<category term="End Times"/>
+<category term="alien spacemen"/>
+<category term="Judgment Day"/>
+<category term="rapture"/>
+<category term="prophecies"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6971.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6971.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6971.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6971.png?t=20090817225332" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6971.png?size=smaller&amp;t=20090817225332" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6971.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Supergirl #6</title>
+<id>http://www.feedbooks.com/userbook/6970</id>
+<author>
+  <name>James Steel</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#James%20Steel</uri>
+</author>
+<updated>2010-01-29T11:43:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Ultimate Supergirl: World's Finest, Part 2.
+
+While Nightwing faces down Houngan, Supergirl has her hands full with Amalgamax. But how can the maid of might triumph when her opponent has the combined powers of the Justice Society?</summary>
+<category term="Nightwing"/>
+<category term="Amalgamax"/>
+<category term="Houngan"/>
+<category term="Supergirl"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Kara Zor-El"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6970.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6970.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6970.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6970.png?t=20100129114341" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6970.png?size=smaller&amp;t=20100129114341" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6970.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #33</title>
+<id>http://www.feedbooks.com/userbook/6969</id>
+<author>
+  <name>Batkid</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Batkid</uri>
+</author>
+<updated>2009-08-18T00:46:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Nightwing: Vengeance Served Cold.
+
+When a Wayne Enterprises vice president is found dead - apparently by suicide - Batman becomes suspicious. He and Robin must piece the clues together to find out exactly how the man died - and who killed him.</summary>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Nightwing"/>
+<category term="Batman"/>
+<category term="robin"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6969.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6969.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6969.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6969.png?t=20090818004625" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6969.png?size=smaller&amp;t=20090818004625" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6969.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>All-Star Comics #9</title>
+<id>http://www.feedbooks.com/userbook/6968</id>
+<author>
+  <name>Dan Johnson</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Dan%20Johnson</uri>
+</author>
+<updated>2009-08-18T00:54:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>All-Star Comics: Deadman: God's Lonely Man, Part 2 (of 2)</summary>
+<category term="Phantom Stranger"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Deadman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6968.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6968.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6968.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6968.png?t=20090818005403" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6968.png?size=smaller&amp;t=20090818005403" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6968.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Shattered Crystals</title>
+<id>http://www.feedbooks.com/userbook/6966</id>
+<author>
+  <name>Mia Amalia Kanner &amp; Eve Rosenzweig Kugler</name>
+  <uri>http://www.feedbooks.com/user/1815/profile#Mia%20Amalia%20Kanner%20%26%20Eve%20Rosenzweig%20Kugler</uri>
+</author>
+<updated>2009-08-28T13:28:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>In Shattered Crystals, Mia Amalia Kanner recounts the true story of her desperate struggle to save her family from annihilation in Nazi Germany and war-torn France. Yet this is much more than a Holocaust history. It is about a courageous Jewish woman who, on finding herself destitute, becomes a cook in a home for war-displaced Jewish children. She faces an agonizing choice. Is giving up her three young daughters necessary to save their lives?
+
+Mia's odyssey is also a love story of a remarkable woman who secures her husband's release from Buchenwald concentration camp. Then, during the darkest days of the war, he is arrested in France. Now she must find a way to save him from deportation to the death camps.
+
+Before Hitler, they had been an ordinary family. As Mia and her husband face ever increasing danger and persecution, readers find themselves asking, &#8220;What would I have done?&#8221;</summary>
+<category term="history"/>
+<category term="biography"/>
+<category term="Holocaust"/>
+<category term="war"/>
+<category term="Jews"/>
+<category term="germany"/>
+<category term="france"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6966.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6966.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6966.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6966.png?t=20090828132801" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6966.png?size=smaller&amp;t=20090828132801" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6966.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Courting Disaster</title>
+<id>http://www.feedbooks.com/userbook/6860</id>
+<author>
+  <name>Meryl McQueen</name>
+  <uri>http://www.feedbooks.com/user/41857/profile#Meryl%20McQueen</uri>
+</author>
+<updated>2009-08-17T16:52:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Abrams Porter. Plumber. Smart, sexy, single. Every woman's best friend. And falling hard for Nina, the long-legged vision he met at a hot dog stand. A short, sharp story about love, pickup trucks, relish, Twizzlers, and the joys and perils of too many people in one bed.</summary>
+<category term="short story"/>
+<category term="contemporary fiction"/>
+<category term="new york"/>
+<category term="comedy"/>
+<category term="Humor"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6860.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6860.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6860.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6860.png?t=20090817165212" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6860.png?size=smaller&amp;t=20090817165212" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6860.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Homesick</title>
+<id>http://www.feedbooks.com/userbook/6859</id>
+<author>
+  <name>Meryl McQueen</name>
+  <uri>http://www.feedbooks.com/user/41857/profile#Meryl%20McQueen</uri>
+</author>
+<updated>2009-08-18T00:22:07Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Marcus has been on the run for decades from the violence that scarred him as a child in South Africa. Now his past has caught up to him. It happens now, the sirens and the silence.  It happens now, the sirens and the silence and the thunder.  Later, then and always, rain.</summary>
+<category term="south africa"/>
+<category term="short story"/>
+<category term="commercial fiction"/>
+<category term="crime"/>
+<category term="violence"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6859.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6859.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6859.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6859.png?t=20090818002207" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6859.png?size=smaller&amp;t=20090818002207" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6859.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Fall Daze</title>
+<id>http://www.feedbooks.com/userbook/6857</id>
+<author>
+  <name>Meryl McQueen</name>
+  <uri>http://www.feedbooks.com/user/41857/profile#Meryl%20McQueen</uri>
+</author>
+<updated>2009-08-17T16:52:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2004</dcterms:issued>
+<summary>New school, new town, new life: sixteen-year-old Nicole is about to find out the hard way that home can be a four-letter word. </summary>
+<category term="Young Adult"/>
+<category term="high school"/>
+<category term="senior year"/>
+<category term="short story"/>
+<category term="teenage"/>
+<category term="adolescent"/>
+<category term="moving"/>
+<category term="family"/>
+<category term="drama"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6857.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6857.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6857.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6857.png?t=20090817165209" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6857.png?size=smaller&amp;t=20090817165209" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6857.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dead Fairies</title>
+<id>http://www.feedbooks.com/userbook/6856</id>
+<author>
+  <name>Meryl McQueen</name>
+  <uri>http://www.feedbooks.com/user/41857/profile#Meryl%20McQueen</uri>
+</author>
+<updated>2009-08-18T00:49:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>It' not magic. It's just life. A dark fairytale about a village's strangest daughter, the man in the woods, and a dying boy. Fairies only die if they stop dancing, and they can't dance if they can't fly.</summary>
+<category term="fairytale"/>
+<category term="Magic"/>
+<category term="fantasy"/>
+<category term="village"/>
+<category term="fable"/>
+<category term="fairies"/>
+<category term="woods"/>
+<category term="dark"/>
+<category term="hunt"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6856.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6856.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6856.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6856.png?t=20090818004916" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6856.png?size=smaller&amp;t=20090818004916" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6856.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Do Butterflies Bleed?</title>
+<id>http://www.feedbooks.com/userbook/6853</id>
+<author>
+  <name>Meryl McQueen</name>
+  <uri>http://www.feedbooks.com/user/41857/profile#Meryl%20McQueen</uri>
+</author>
+<updated>2009-09-28T01:39:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>A short short about grandfathers, grandsons, and the beauty of a dignified death. Written in the form of a one-scene play.</summary>
+<category term="hospital"/>
+<category term="peaceful"/>
+<category term="joy"/>
+<category term="play"/>
+<category term="death"/>
+<category term="grandson"/>
+<category term="grandfather"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6853.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6853.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6853.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6853.png?t=20090928013921" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6853.png?size=smaller&amp;t=20090928013921" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6853.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Month of Sundays</title>
+<id>http://www.feedbooks.com/userbook/6852</id>
+<author>
+  <name>Meryl McQueen</name>
+  <uri>http://www.feedbooks.com/user/41857/profile#Meryl%20McQueen</uri>
+</author>
+<updated>2009-08-18T00:25:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2004</dcterms:issued>
+<summary>Four best friends. One deadly secret. A family's tragedy. This is a story of understanding too little, too late. Don't waste a minute of this one precious life.</summary>
+<category term="Young Adult"/>
+<category term="commercial fiction"/>
+<category term="high school"/>
+<category term="YA"/>
+<category term="adolescent"/>
+<category term="teenager"/>
+<category term="suicide"/>
+<category term="bulimia"/>
+<category term="friendship"/>
+<category term="family"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6852.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6852.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6852.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6852.png?t=20090818002556" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6852.png?size=smaller&amp;t=20090818002556" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6852.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Swimming Lessons</title>
+<id>http://www.feedbooks.com/userbook/6851</id>
+<author>
+  <name>Meryl McQueen</name>
+  <uri>http://www.feedbooks.com/user/41857/profile#Meryl%20McQueen</uri>
+</author>
+<updated>2009-08-18T00:48:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>A parent's worst nightmare: the loss of a child. A parent's only hope: a child's joy. What happens when all you have to give is not enough? A story about love, dreams, family, unexpected connections, and learning to swim. </summary>
+<category term="grief"/>
+<category term="family"/>
+<category term="womens fiction"/>
+<category term="commercial fiction"/>
+<category term="loss"/>
+<category term="death"/>
+<category term="suicide"/>
+<category term="autism"/>
+<category term="water"/>
+<category term="communication"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6851.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6851.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6851.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6851.png?t=20090818004821" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6851.png?size=smaller&amp;t=20090818004821" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6851.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Boarding Pass</title>
+<id>http://www.feedbooks.com/userbook/6850</id>
+<author>
+  <name>Meryl McQueen</name>
+  <uri>http://www.feedbooks.com/user/41857/profile#Meryl%20McQueen</uri>
+</author>
+<updated>2009-08-17T16:48:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Where do you go, when you've been everywhere? Carl is about to find out. A short story about love, travel, familiar faces, and airport food.</summary>
+<category term="divorce"/>
+<category term="love"/>
+<category term="travel"/>
+<category term="womens fiction"/>
+<category term="commercial fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6850.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6850.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6850.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6850.png?t=20090817164832" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6850.png?size=smaller&amp;t=20090817164832" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6850.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Vertigo</title>
+<id>http://www.feedbooks.com/userbook/6849</id>
+<author>
+  <name>Meryl McQueen</name>
+  <uri>http://www.feedbooks.com/user/41857/profile#Meryl%20McQueen</uri>
+</author>
+<updated>2009-10-01T03:21:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Traveling in Paris with her husband and kids, Melissa Foreman meets an old flame. What happens next is anyone's guess.</summary>
+<category term="women"/>
+<category term="fiction"/>
+<category term="contemporary fiction"/>
+<category term="paris"/>
+<category term="travel"/>
+<category term="romantic"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6849.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6849.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6849.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6849.png?t=20091001032124" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6849.png?size=smaller&amp;t=20091001032124" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6849.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

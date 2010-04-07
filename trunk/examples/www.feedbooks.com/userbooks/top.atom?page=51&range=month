@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=51&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=51&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=51&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 51 | Feedbooks</title>
+  <updated>2010-04-07T18:23:42Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1001</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=50&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=52&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Earth Escape</title>
+<id>http://www.feedbooks.com/userbook/9213</id>
+<author>
+  <name>Kittytigerhound</name>
+  <uri>http://www.feedbooks.com/user/66573/profile#Kittytigerhound</uri>
+</author>
+<updated>2009-12-31T12:59:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>I created this story a few years ago for my english homework and enjoyed it.
+I decided to rewrite it and publish it to see what people think.
+It is quite a short story of approx 2000 words.</summary>
+<category term="fiction"/>
+<category term="Teen"/>
+<category term="Young Adult"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9213.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9213.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9213.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9213.png?t=20091231125935" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9213.png?size=smaller&amp;t=20091231125935" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9213.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>&#218;lomek Sv&#283;t - 001 - S.S.H.U.T.</title>
+<id>http://www.feedbooks.com/userbook/10676</id>
+<author>
+  <name>Robert Ethan Skyler</name>
+  <uri>http://www.feedbooks.com/user/69072/profile#Robert%20Ethan%20Skyler</uri>
+</author>
+<updated>2010-03-01T11:42:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Historie, napsal v&#237;t&#283;z, z&#345;&#237;dka z&#225;znamy popsan&#233; ud&#225;losti, nebo&#357; se skute&#269;n&#283; odehr&#225;lo, dezinfikuj&#237; a zjednodu&#353;en&#233;, je jejich lekce ztr&#225;ta chr&#225;nit, nebo n&#225;s odsoudit?
+
+Na konci druh&#233; sv&#283;tov&#233; v&#225;lky, obl&#233;hali v jeho bunkru, jeho fantazie rozpadaj&#237;c&#237; se kolem sebe, Hitler je jeho &#250;t&#283;k. Na jih let&#283;l na jednu z posledn&#237;ch mo&#382;nost&#237;, jednu z&#225;v&#283;re&#269;nou st&#225;nku a je&#353;t&#283; jednu lekci historie zapomn&#283;la n&#225;s u&#269;it.
+
+D&#233;lka: 5000 Words nebo p&#345;ibli&#382;n&#283; 35 stran.</summary>
+<category term="Kr&#225;tk&#233;"/>
+<category term="p&#345;&#237;b&#283;hy"/>
+<category term="politick&#233;"/>
+<category term="v&#283;du"/>
+<category term="fiction"/>
+<category term="Pravda"/>
+<category term="Hitlerova"/>
+<category term="smrt"/>
+<category term="Alpine-bavorsk&#233;"/>
+<category term="reduty"/>
+<category term="&#381;ukov"/>
+<category term="Stalin"/>
+<category term="druh&#233;"/>
+<category term="sv&#283;tov&#233;"/>
+<category term="v&#225;lky"/>
+<category term="revizionismus"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10676.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10676.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10676.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10676.png?t=20100301114246" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10676.png?size=smaller&amp;t=20100301114246" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10676.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Time to Get Up</title>
+<id>http://www.feedbooks.com/userbook/9577</id>
+<author>
+  <name>luke t. bergeron</name>
+  <uri>http://www.feedbooks.com/user/69825/profile#luke%20t.%20bergeron</uri>
+</author>
+<updated>2010-01-13T01:58:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A short story about a young man goes with his mother to bail his kid sister out of jail. </summary>
+<category term="bail"/>
+<category term="dui"/>
+<category term="jail"/>
+<category term="family"/>
+<category term="kid sister"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9577.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9577.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9577.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9577.png?t=20100113015852" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9577.png?size=smaller&amp;t=20100113015852" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9577.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>the Practical Pedal - Summer 2007</title>
+<id>http://www.feedbooks.com/userbook/2636</id>
+<author>
+  <name>Edited by Wiley Davis</name>
+  <uri>http://www.feedbooks.com/user/18753/profile#Edited%20by%20Wiley%20Davis</uri>
+</author>
+<updated>2009-08-17T23:13:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>We print stories that inform and inspire. Riding a bike is an adventure and the Practical Pedal puts that excitement front and center. Every issue teaches people something about bicycling, something about how transportation affects their lives, and leaves them feeling excited about getting on a bike and making a difference</summary>
+<category term="commute"/>
+<category term="transportation"/>
+<category term="environment"/>
+<category term="green"/>
+<category term="bike"/>
+<category term="wiley"/>
+<category term="portland"/>
+<category term="bicycle"/>
+<category term="bicycle commuting"/>
+<category term="bicycle commute"/>
+<category term="bike commuting"/>
+<category term="practical pedal"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/2636.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/2636.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/2636.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2636.png?t=20090817231346" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2636.png?size=smaller&amp;t=20090817231346" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/2636.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jacob Checks Out</title>
+<id>http://www.feedbooks.com/userbook/3161</id>
+<author>
+  <name>Joseph Devon</name>
+  <uri>http://www.feedbooks.com/user/21430/profile#Joseph%20Devon</uri>
+</author>
+<updated>2009-08-17T16:23:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>A confused narrator tries to piece together the life of one of his oldest friends, Jacob. Various parts of Jacob&#8217;s life are held up to the light, from childhood through present day, as friends try to find the cracks that eventually led to Jacob&#8217;s unconventional exit.</summary>
+<category term="first person"/>
+<category term="narrator"/>
+<category term="Creative Commons"/>
+<category term="fiction"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3161.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3161.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3161.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3161.png?t=20090817162335" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3161.png?size=smaller&amp;t=20090817162335" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3161.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Everything He Ever Said</title>
+<id>http://www.feedbooks.com/userbook/3386</id>
+<author>
+  <name>Patrick O'Neal</name>
+  <uri>http://www.feedbooks.com/user/25188/profile#Patrick%20O%27Neal</uri>
+</author>
+<updated>2009-08-17T16:25:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>The story of a boy and his sister and how they each deal with the death of their parents.</summary>
+<category term="Bikers"/>
+<category term="Youth"/>
+<category term="Parents"/>
+<category term="fiction"/>
+<category term="Ice Cream"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3386.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3386.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3386.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3386.png?t=20090817162511" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3386.png?size=smaller&amp;t=20090817162511" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3386.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Plain Text - Day 21</title>
+<id>http://www.feedbooks.com/userbook/3672</id>
+<author>
+  <name>Wiley Davis</name>
+  <uri>http://www.feedbooks.com/user/18753/profile#Wiley%20Davis</uri>
+</author>
+<updated>2009-08-17T16:27:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Uploads of my daily work on a new novel. Approx. 500 words/day.
+
+See all at: http://thungy.com
+
+In a world of free food and networked living, something interesting is happening down in
+Baja. A fifteen year old girl named Zoe, her biologist father, and a coastline of drugged-out fishermen help us reconcile the conflict between physical reality and virtual freedom.</summary>
+<category term="plain text"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3672.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3672.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3672.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3672.png?t=20090817162712" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3672.png?size=smaller&amp;t=20090817162712" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3672.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Histoires</title>
+<id>http://www.feedbooks.com/userbook/4422</id>
+<author>
+  <name>Fifoubad</name>
+  <uri>http://www.feedbooks.com/user/26260/profile#Fifoubad</uri>
+</author>
+<updated>2009-08-17T16:31:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>peur</summary>
+<category term="peur"/>
+<category term="histoires"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4422.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4422.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4422.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4422.png?t=20090817163120" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4422.png?size=smaller&amp;t=20090817163120" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4422.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Srdce domova</title>
+<id>http://www.feedbooks.com/userbook/7122</id>
+<author>
+  <name>czech blog novel</name>
+  <uri>http://www.feedbooks.com/user/49173/profile#czech%20blog%20novel</uri>
+</author>
+<updated>2009-12-29T01:20:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>blogov&#253; rom&#225;n</summary>
+<category term="Novel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7122.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7122.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7122.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7122.png?t=20091229012009" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7122.png?size=smaller&amp;t=20091229012009" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7122.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Anthology of Micronesian Tales</title>
+<id>http://www.feedbooks.com/userbook/7130</id>
+<author>
+  <name>P.Pedrus</name>
+  <uri>http://www.feedbooks.com/user/49181/profile#P.Pedrus</uri>
+</author>
+<updated>2009-08-17T16:53:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Anthology of Micronesian Tales is a collection of native Micronesian short stories, poems, and a true story based on my family roots. Such literary pieces reflect traditional Micronesian ways.</summary>
+<category term="literature"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7130.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7130.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7130.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7130.png?t=20090817165359" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7130.png?size=smaller&amp;t=20090817165359" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7130.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>To Court or Not To Court in Manhattan</title>
+<id>http://www.feedbooks.com/userbook/7596</id>
+<author>
+  <name>Holden Wilde</name>
+  <uri>http://www.feedbooks.com/user/52795/profile#Holden%20Wilde</uri>
+</author>
+<updated>2009-09-22T02:08:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>1,000 words of fiction on current state of courting in Manhattan from a single gent</summary>
+<category term="Single"/>
+<category term="manhattan"/>
+<category term="dating"/>
+<category term="Sex"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7596.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7596.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7596.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7596.png?t=20090922020829" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7596.png?size=smaller&amp;t=20090922020829" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7596.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Semblance of a Dream</title>
+<id>http://www.feedbooks.com/userbook/7960</id>
+<author>
+  <name>L. S. Hartfield</name>
+  <uri>http://www.feedbooks.com/user/35305/profile#L.%20S.%20Hartfield</uri>
+</author>
+<updated>2010-02-05T13:48:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Excerpt:
+ 
+WE CANNOT TURN AROUND
+ 
+The shattered glass
+Of soundproof walls
+That can block the night no more
+Is scattered, alas,
+On the broken stillness
+Of a distant, darkened shore.
+ 
+That shore is still, and silent
+In the moonlight,
+But for the waves of a falling sea
+That is never drowned.
+ 
+We are open, awake, aware,
+But we cannot turn around.
+ 
+&#169; 2009 Laura Sunny Marie Hartfield; All Rights Reserved.
+</summary>
+<category term="Anxiety"/>
+<category term="Ocean"/>
+<category term="dreams"/>
+<category term="sea"/>
+<category term="symbolism"/>
+<category term="metaphor"/>
+<category term="poetry"/>
+<category term="poetry collection"/>
+<category term="depression"/>
+<category term="emptiness"/>
+<category term="love"/>
+<category term="hope"/>
+<category term="hopelessness"/>
+<category term="light"/>
+<category term="darkness"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7960.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7960.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7960.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7960.png?t=20100205134858" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7960.png?size=smaller&amp;t=20100205134858" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7960.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Canoe</title>
+<id>http://www.feedbooks.com/userbook/9647</id>
+<author>
+  <name>luke t. bergeron</name>
+  <uri>http://www.feedbooks.com/user/69825/profile#luke%20t.%20bergeron</uri>
+</author>
+<updated>2010-01-16T00:05:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>The Canoe is a nonfiction story about a group of brothers and their misadventures on a lake one summer in Maine.</summary>
+<category term="coming of age"/>
+<category term="childhood"/>
+<category term="nonfiction"/>
+<category term="Girls"/>
+<category term="Lake"/>
+<category term="theft"/>
+<category term="woods"/>
+<category term="stealing"/>
+<category term="canoe"/>
+<category term="mischief"/>
+<category term="campground"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9647.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9647.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9647.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9647.png?t=20100116000530" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9647.png?size=smaller&amp;t=20100116000530" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9647.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Volunteer Dog</title>
+<id>http://www.feedbooks.com/userbook/8854</id>
+<author>
+  <name>MorganB</name>
+  <uri>http://www.feedbooks.com/user/60964/profile#MorganB</uri>
+</author>
+<updated>2009-12-16T03:37:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>&quot;Rebecca never sits on public benches but she had to stop here, feeling a cry coming on, downtown, on a bench she&#8217;d picked because it faced a tall video screen.  Sitting and staring sometimes helps.  Zoning at the screen, with its rotating community bulletins and conference updates, is like watching TV, it gently teases out her thoughts.  And it&#8217;s something not-fraught, a relief after volunteering at the hospital.&quot;</summary>
+<category term="shooting"/>
+<category term="volunteering"/>
+<category term="hospital"/>
+<category term="dogs"/>
+<category term="junior league"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8854.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8854.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8854.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8854.png?t=20091216033728" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8854.png?size=smaller&amp;t=20091216033728" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8854.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>E Zhivindi Yag - The Living Fire</title>
+<id>http://www.feedbooks.com/userbook/8995</id>
+<author>
+  <name>Ronald Lee</name>
+  <uri>http://www.feedbooks.com/user/63763/profile#Ronald%20Lee</uri>
+</author>
+<updated>2010-01-10T00:04:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Internationally renowned Romani activist Ronald Lee's autobiographical novel, formerly published as &quot;Goddam Gypsy&quot;, is an intense, fast moving, and brutally honest affair. Yanko--a Canadian Rom who 'took the non-Romani way but didn't go far'--seeks his fortunes both among and apart from the Roma, never quite finding his place. His story exposes the out of sight, out of mind world of Canada's Roma in 1970's Montreal: Parties, rackets, bar brawls, weddings, desperate poverty, and intermittent police raids fuel in Yanko the passion, creativity, and rebellious defiance that is The Living Fire.
+
+Despite four decades having passed since its original publication, during which several popular foreign language translations have also been published, this special reader's preview of the first three chapters is the book's first appearance in electronic form and precedes the upcoming eBook release of the complete work later in 2010.</summary>
+<category term="ottawa"/>
+<category term="Toronto"/>
+<category term="montreal"/>
+<category term="1970"/>
+<category term="fiction"/>
+<category term="urban"/>
+<category term="urban"/>
+<category term="Autobiography"/>
+<category term="Toronto"/>
+<category term="Canada"/>
+<category term="gypsies"/>
+<category term="gypsy"/>
+<category term="romany"/>
+<category term="romani"/>
+<category term="roma"/>
+<category term="rom"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8995.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8995.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8995.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8995.png?t=20100110000403" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8995.png?size=smaller&amp;t=20100110000403" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8995.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dawg Tired, The Brain Fog Chronicles</title>
+<id>http://www.feedbooks.com/userbook/9051</id>
+<author>
+  <name>Gayla Peterson</name>
+  <uri>http://www.feedbooks.com/user/62751/profile#Gayla%20Peterson</uri>
+</author>
+<updated>2009-12-24T16:08:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>A nurse is struck down with an unknown illness and rapidly progresses to the point of total disability.
+
+Her journey through a medical community who insisted &quot;you are just depressed&quot; is truly heartbreaking, as is the emotional and financial journey the book follows.</summary>
+<category term="chronic illness"/>
+<category term="medical"/>
+<category term="dysautonomia"/>
+<category term="disability"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9051.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9051.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9051.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9051.png?t=20091224160801" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9051.png?size=smaller&amp;t=20091224160801" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9051.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Cruel</title>
+<id>http://www.feedbooks.com/userbook/1345</id>
+<author>
+  <name>K. A. Laity</name>
+  <uri>http://www.feedbooks.com/user/14246/profile#K.%20A.%20Laity</uri>
+</author>
+<updated>2009-08-17T16:11:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1992</dcterms:issued>
+<summary>Dangerous Liaisons in leather jackets: it's 1982 in New Jersey, but the story's still the same as it was for Anthony and Cleopatra.</summary>
+<category term="torment"/>
+<category term="New Jersey"/>
+<category term="Dangerous Liaisons"/>
+<category term="young love"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/1345.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/1345.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/1345.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1345.png?t=20090817161143" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/1345.png?size=smaller&amp;t=20090817161143" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/1345.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Plain Text - Day 15</title>
+<id>http://www.feedbooks.com/userbook/3564</id>
+<author>
+  <name>Wiley Davis</name>
+  <uri>http://www.feedbooks.com/user/18753/profile#Wiley%20Davis</uri>
+</author>
+<updated>2009-08-17T16:26:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Uploads of my daily work on a new novel. Approx. 500 words/day.
+
+See all at: http://thungy.com
+
+In a world of free food and networked living, something interesting is happening down in
+Baja. A fifteen year old girl named Zoe, her biologist father, and a coastline of drugged-out fishermen help us reconcile the conflict between physical reality and virtual freedom.</summary>
+<category term="text"/>
+<category term="plain"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3564.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3564.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3564.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3564.png?t=20090817162615" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3564.png?size=smaller&amp;t=20090817162615" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3564.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Plain Text - Day 23</title>
+<id>http://www.feedbooks.com/userbook/3729</id>
+<author>
+  <name>Wiley Davis</name>
+  <uri>http://www.feedbooks.com/user/18753/profile#Wiley%20Davis</uri>
+</author>
+<updated>2009-08-17T16:27:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Uploads of my daily work on a new novel. Approx. 500 words/day.
+
+See all at: http://thungy.com
+
+In a world of free food and networked living, something interesting is happening down in
+Baja. A fifteen year old girl named Zoe, her biologist father, and a coastline of drugged-out fishermen help us reconcile the conflict between physical reality and virtual freedom.</summary>
+<category term="plain text"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3729.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3729.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3729.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3729.png?t=20090817162738" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3729.png?size=smaller&amp;t=20090817162738" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3729.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>ISRAEL AND A. D. 70</title>
+<id>http://www.feedbooks.com/userbook/5633</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2009-08-17T16:39:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Israel's destruction in A. D. 70, her weeping, gnashing of teeth, outer darkness</summary>
+<category term="rapture"/>
+<category term="Israel"/>
+<category term="outer darkness"/>
+<category term="gnashing of teeth"/>
+<category term="AD 70"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5633.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5633.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5633.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5633.png?t=20090817163927" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5633.png?size=smaller&amp;t=20090817163927" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5633.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

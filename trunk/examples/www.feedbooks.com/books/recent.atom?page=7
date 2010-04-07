@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=7</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=7" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=7" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 7 | Feedbooks</title>
+  <updated>2010-04-07T18:26:16Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>121</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=6" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=8" rel="next" title="Next Page"/>
+<entry>
+<title>The Travels of Sir John Mandeville</title>
+<id>http://www.feedbooks.com/book/4525</id>
+<author>
+  <name>Sir John Mandeville</name>
+  <uri>http://www.feedbooks.com/author/1312</uri>
+</author>
+<updated>2009-12-29T14:54:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1371</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Collections" label="Collections"/>
+<category term="Travel" label="Travel"/>
+<summary>&quot;Jehan de Mandeville&quot;, translated as &quot;Sir John Mandeville&quot;, is the name claimed by the compiler of a singular book of supposed travels, written in Anglo-Norman French, and published between 1357 and 1371.
+By aid of translations into many other languages it acquired extraordinary popularity. Despite the extremely unreliable and often fantastical nature of the travels it describes, it was used as a work of reference &#8212; Christopher Columbus, for example, was heavily influenced by both this work and Marco Polo's earlier Il Milione (Adams 53).</summary>
+<dcterms:source>http://www.gutenberg.org/etext/782</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4525.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4525.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4525.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4525.png?t=20091229145417" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4525.png?size=smaller&amp;t=20091229145417" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4525.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dead Man's Planet</title>
+<id>http://www.feedbooks.com/book/4524</id>
+<author>
+  <name>Joseph Samachson</name>
+  <uri>http://www.feedbooks.com/author/1311</uri>
+</author>
+<updated>2009-12-28T18:41:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1955</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>When a driven man arrives at a cemetery world, what else can it be but journey's end&#8212;and the start of a new one?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30773</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4524.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4524.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4524.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4524.png?t=20091228184122" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4524.png?size=smaller&amp;t=20091228184122" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4524.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Am I Still There?</title>
+<id>http://www.feedbooks.com/book/4523</id>
+<author>
+  <name>James R. Hall</name>
+  <uri>http://www.feedbooks.com/author/1310</uri>
+</author>
+<updated>2009-12-28T18:34:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Which must in essence, of course, simply be the question &quot;What do I mean by 'I'?&quot;</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30763</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4523.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4523.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4523.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4523.png?t=20091228183424" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4523.png?size=smaller&amp;t=20091228183424" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4523.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ham Sandwich</title>
+<id>http://www.feedbooks.com/book/4522</id>
+<author>
+  <name>James Henry Schmitz</name>
+  <uri>http://www.feedbooks.com/author/278</uri>
+</author>
+<updated>2009-12-28T18:14:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It gets difficult to handle the problem of a man who has a real talent that you need badly&#8212;and he cannot use it if he knows it's honest!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30764</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4522.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4522.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4522.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4522.png?t=20091228181440" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4522.png?size=smaller&amp;t=20091228181440" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4522.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>New Apples in the Garden</title>
+<id>http://www.feedbooks.com/book/4521</id>
+<author>
+  <name>Kris Ottman Neville</name>
+  <uri>http://www.feedbooks.com/author/420</uri>
+</author>
+<updated>2009-12-28T18:09:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Some problems are perfectly predictable&#8212;yet not in the sense that allows a preprogrammed machine to handle them&#8212; New Apples in the Garden.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30767</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4521.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4521.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4521.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4521.png?t=20091228180910" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4521.png?size=smaller&amp;t=20091228180910" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4521.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Irresistible Weapon</title>
+<id>http://www.feedbooks.com/book/4520</id>
+<author>
+  <name>Horace Brown Fyfe</name>
+  <uri>http://www.feedbooks.com/author/340</uri>
+</author>
+<updated>2009-12-28T17:38:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There's no such thing as a weapon too horrible to use; weapons will continue to become bigger, and deadlier. Like other things that can't be stopped....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29994</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4520.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4520.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4520.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4520.png?t=20091228173837" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4520.png?size=smaller&amp;t=20091228173837" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4520.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Kazan, the Wolf Dog</title>
+<id>http://www.feedbooks.com/book/4518</id>
+<author>
+  <name>James Oliver Curwood</name>
+  <uri>http://www.feedbooks.com/author/1285</uri>
+</author>
+<updated>2009-12-22T15:08:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The tale of a &quot;quarter-strain wolf and three-quarters husky&quot; torn between the call of the human and his wild mate.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/10084</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4518.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4518.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4518.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4518.png?t=20091222150853" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4518.png?size=smaller&amp;t=20091222150853" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4518.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Valley of Silent Men</title>
+<id>http://www.feedbooks.com/book/4517</id>
+<author>
+  <name>James Oliver Curwood</name>
+  <uri>http://www.feedbooks.com/author/1285</uri>
+</author>
+<updated>2009-12-22T14:52:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Western" label="Western"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/4707</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4517.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4517.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4517.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4517.png?t=20091222145217" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4517.png?size=smaller&amp;t=20091222145217" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4517.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Last Resort</title>
+<id>http://www.feedbooks.com/book/4516</id>
+<author>
+  <name>Stephen Bartholomew</name>
+  <uri>http://www.feedbooks.com/author/1308</uri>
+</author>
+<updated>2009-12-22T14:43:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The phenomenon of ''hysterical strength'' at the physical level is well known. Wonder what the equivalent phenomenon at the psychological level might do....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30649</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4516.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4516.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4516.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4516.png?t=20091222144337" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4516.png?size=smaller&amp;t=20091222144337" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4516.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mr. Chipfellow's Jackpot</title>
+<id>http://www.feedbooks.com/book/4515</id>
+<author>
+  <name>Dick Purcell</name>
+  <uri>http://www.feedbooks.com/author/1307</uri>
+</author>
+<updated>2009-12-22T14:39:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Being one of the richest men in the world, it was only natural that many people anticipated the day he would die. For someone should claim&#8212; Mr. Chipfellow's Jackpot.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30670</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4515.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4515.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4515.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4515.png?t=20091222143904" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4515.png?size=smaller&amp;t=20091222143904" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4515.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Combat</title>
+<id>http://www.feedbooks.com/book/4514</id>
+<author>
+  <name>Mack Reynolds</name>
+  <uri>http://www.feedbooks.com/author/273</uri>
+</author>
+<updated>2009-12-22T14:35:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>An Alien landing on Earth might be readily misled, victimized by a one-sided viewpoint. And then again ... it might be the Earthmen who were misled....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30712</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4514.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4514.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4514.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4514.png?t=20091222143519" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4514.png?size=smaller&amp;t=20091222143519" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4514.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Where There's Hope</title>
+<id>http://www.feedbooks.com/book/4513</id>
+<author>
+  <name>Jerome Bixby</name>
+  <uri>http://www.feedbooks.com/author/1171</uri>
+</author>
+<updated>2009-12-22T14:30:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The women had made up their minds, and nothing&#8212;repeat, nothing&#8212;could change them. But something had to give....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30715</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4513.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4513.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4513.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4513.png?t=20091222143033" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4513.png?size=smaller&amp;t=20091222143033" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4513.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jo's Boys, and How They Turned Out: A Sequel to &quot;Little Men&quot;</title>
+<id>http://www.feedbooks.com/book/4506</id>
+<author>
+  <name>Louisa May Alcott</name>
+  <uri>http://www.feedbooks.com/author/50</uri>
+</author>
+<updated>2010-03-15T14:55:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1886</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Jo's Boys, and How They Turned Out: A Sequel to &quot;Little Men&quot; is a novel by American author Louisa May Alcott, first published in 1886. The novel is the final book in the unofficial Little Women trilogy. In it, Jo's &quot;children&quot;, now grown, are caught up in real world troubles. (Wikipedia)</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4506.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4506.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4506.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4506.png?t=20100315145517" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4506.png?size=smaller&amp;t=20100315145517" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4506.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Little Men: Life At Plumfield With Jo's Boys </title>
+<id>http://www.feedbooks.com/book/4505</id>
+<author>
+  <name>Louisa May Alcott</name>
+  <uri>http://www.feedbooks.com/author/50</uri>
+</author>
+<updated>2009-12-20T10:51:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1871</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Little Men, or Life at Plumfield with Jo's Boys is a novel by American author Louisa May Alcott, first published in 1871. The novel reprises characters from Little Women and is considered by some the second book of an unofficial Little Women trilogy, which is completed with Alcott's 1886 novel Jo's Boys, and How They Turned Out: A Sequel to &quot;Little Men&quot;. Little Men tells the story of Jo Bhaer and the children at Plumfield Estate School.
+
+</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4505.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4505.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4505.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4505.png?t=20091220105100" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4505.png?size=smaller&amp;t=20091220105100" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4505.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Unthinking Destroyer</title>
+<id>http://www.feedbooks.com/book/4503</id>
+<author>
+  <name>Rog Phillips</name>
+  <uri>http://www.feedbooks.com/author/723</uri>
+</author>
+<updated>2009-12-19T19:48:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1948</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Gordon and Harold both admitted the possibility of thinking entities other than human. But would they ever recognize the physical form of some of these beings?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30683</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4503.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4503.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4503.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4503.png?t=20091219194844" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4503.png?size=smaller&amp;t=20091219194844" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4503.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Happy Man</title>
+<id>http://www.feedbooks.com/book/4502</id>
+<author>
+  <name>Gerald W. Page</name>
+  <uri>http://www.feedbooks.com/author/1304</uri>
+</author>
+<updated>2009-12-19T19:43:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>More's &quot;Utopia&quot; was isolated&#8212; cut off&#8212;from the dreary world outside. All Utopias are....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30705</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4502.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4502.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4502.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4502.png?t=20091219194304" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4502.png?size=smaller&amp;t=20091219194304" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4502.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>All Day Wednesday</title>
+<id>http://www.feedbooks.com/book/4501</id>
+<author>
+  <name>Richard Olin</name>
+  <uri>http://www.feedbooks.com/author/1303</uri>
+</author>
+<updated>2009-12-19T19:36:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Practically everybody would agree that this is Utopia....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30680</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4501.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4501.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4501.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4501.png?t=20091219193657" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4501.png?size=smaller&amp;t=20091219193657" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4501.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Flaming Forest</title>
+<id>http://www.feedbooks.com/book/4500</id>
+<author>
+  <name>James Oliver Curwood</name>
+  <uri>http://www.feedbooks.com/author/1285</uri>
+</author>
+<updated>2009-12-16T21:13:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Western" label="Western"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org/etext/4702</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4500.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4500.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4500.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4500.png?t=20091216211306" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4500.png?size=smaller&amp;t=20091216211306" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4500.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Brass Bottle</title>
+<id>http://www.feedbooks.com/book/4499</id>
+<author>
+  <name>Thomas Anstey Guthrie</name>
+  <uri>http://www.feedbooks.com/author/1302</uri>
+</author>
+<updated>2009-12-16T20:50:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1900</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>A djinn, sealed in a jar for three thousand years, has been found by Horace Ventimore, a young and not very flourishing architect. Upon his release the djinn expresses his gratitude by seeking to grant his benefactor's every wish--generally with results the very opposite to those desired!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30689</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4499.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4499.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4499.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4499.png?t=20091216205025" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4499.png?size=smaller&amp;t=20091216205025" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4499.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Touchstone</title>
+<id>http://www.feedbooks.com/book/4498</id>
+<author>
+  <name>Edith Wharton</name>
+  <uri>http://www.feedbooks.com/author/35</uri>
+</author>
+<updated>2009-12-16T19:05:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1900</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>A young lawyer sells a package of love letters written to him over the years by a distinquished novelist to raise money to pay for his wedding to another woman. His secret comes back to haunt him and, when he confesses to his wife, their marriage is reduced to resigned coexistence.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/267</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4498.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4498.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4498.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4498.png?t=20091216190526" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4498.png?size=smaller&amp;t=20091216190526" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4498.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

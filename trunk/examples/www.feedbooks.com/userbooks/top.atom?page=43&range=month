@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/top.atom?page=43&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/top?page=43&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=43&amp;range=month" rel="self"/>
+  <title>Original Books / Most Popular (This Month) / Page 43 | Feedbooks</title>
+  <updated>2010-04-07T18:23:35Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>841</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=42&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?page=44&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Semblances</title>
+<id>http://www.feedbooks.com/userbook/3544</id>
+<author>
+  <name>S. P. Elledge</name>
+  <uri>http://www.feedbooks.com/user/113/profile#S.%20P.%20Elledge</uri>
+</author>
+<updated>2009-08-18T00:27:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Even more short stories.</summary>
+<category term="literary"/>
+<category term="short"/>
+<category term="stories"/>
+<category term="fiction"/>
+<category term="short stories"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3544.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3544.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3544.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3544.png?t=20090818002721" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3544.png?size=smaller&amp;t=20090818002721" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3544.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aquaman #7</title>
+<id>http://www.feedbooks.com/userbook/4229</id>
+<author>
+  <name>Brandon Herren</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brandon%20Herren</uri>
+</author>
+<updated>2009-08-17T16:30:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Aquaman: Sea Change, Part 1 (of 2): Castles Made of Sand</summary>
+<category term="Aqualad"/>
+<category term="Trident"/>
+<category term="Atlantis"/>
+<category term="Aquaman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Ocean Master"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4229.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4229.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4229.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4229.png?t=20090817163043" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4229.png?size=smaller&amp;t=20090817163043" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4229.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mightiest Mortals #2</title>
+<id>http://www.feedbooks.com/userbook/4297</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:31:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Mightiest Mortals: In a Crash of Thunder</summary>
+<category term="Shazam"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Doctor Sivana"/>
+<category term="Captain Marvel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4297.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4297.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4297.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4297.png?t=20090817163104" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4297.png?size=smaller&amp;t=20090817163104" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4297.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Perfect Woman</title>
+<id>http://www.feedbooks.com/userbook/5385</id>
+<author>
+  <name>eveda</name>
+  <uri>http://www.feedbooks.com/user/38856/profile#eveda</uri>
+</author>
+<updated>2009-09-02T14:58:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Fantasy story about Woman.</summary>
+<category term="multimedia"/>
+<category term="woman"/>
+<category term="ebook"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5385.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5385.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5385.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5385.png?t=20090902145844" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5385.png?size=smaller&amp;t=20090902145844" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5385.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Future Primitive, Part 1</title>
+<id>http://www.feedbooks.com/userbook/4834</id>
+<author>
+  <name>J.L. Dale</name>
+  <uri>http://www.feedbooks.com/user/32948/profile#J.L.%20Dale</uri>
+</author>
+<updated>2009-08-17T19:21:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Part 1: Porn on the Bacab
+
+Set against the backdrop of punk philosophy, three jesters devise a plot to ensnare a pious beauty. Their actions may have culminated in the re-birthing of a Mayan god. All told appropriately by the drunk.</summary>
+<category term="Humor"/>
+<category term="reality"/>
+<category term="religion"/>
+<category term="philosophy"/>
+<category term="mayan"/>
+<category term="play"/>
+<category term="drama"/>
+<category term="amorality play"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4834.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4834.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4834.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4834.png?t=20090817192123" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4834.png?size=smaller&amp;t=20090817192123" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4834.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>After the Dragon (Excerpt)</title>
+<id>http://www.feedbooks.com/userbook/5611</id>
+<author>
+  <name>Wendy Palmer</name>
+  <uri>http://www.feedbooks.com/user/40179/profile#Wendy%20Palmer</uri>
+</author>
+<updated>2009-08-17T20:12:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Trick&#8217;s in trouble. His wife has been murdered, his own family is hunting him down, and he teeters on the edge of suicide. When his cousin forces him to help a DarkElf, he welcomes the danger she brings.
+
+But Mizzle is more than dangerous &#8211; she&#8217;s inhumanly beautiful and cruel and yet sometimes breathtakingly kind. Drawn to her despite himself, Trick is plunged into an adventure he hopes will give him the chance to avenge his wife&#8230;or get him killed.</summary>
+<category term="fiction"/>
+<category term="fantasy"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/5611.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/5611.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/5611.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5611.png?t=20090817201236" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/5611.png?size=smaller&amp;t=20090817201236" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/5611.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Blue Beetle #4</title>
+<id>http://www.feedbooks.com/userbook/6148</id>
+<author>
+  <name>Chris Paugh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Chris%20Paugh</uri>
+</author>
+<updated>2009-08-17T16:44:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Blue Beetle, Issue 4 (of 4): The End of the Beginning.</summary>
+<category term="Comics"/>
+<category term="Booster Gold"/>
+<category term="Green Arrow"/>
+<category term="Blue Beetle"/>
+<category term="Looker"/>
+<category term="Airwave"/>
+<category term="DC2"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6148.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6148.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6148.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6148.png?t=20090817164406" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6148.png?size=smaller&amp;t=20090817164406" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6148.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>MATTHEW 24  And Israel </title>
+<id>http://www.feedbooks.com/userbook/6823</id>
+<author>
+  <name>William West</name>
+  <uri>http://www.feedbooks.com/user/37734/profile#William%20West</uri>
+</author>
+<updated>2009-08-17T23:44:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Israel's destruction, her weeping,
+gnashing of teeth, outer darkness
+Many of the passages spoken by John the Baptist and by Jesus about Israel's rejection of Christ and its destruction are misapplied to Hell. Matthew 24 is often misused to prove Israel will be restored, and Christ will return to earth and rule the world forever from Jerusalem and that the saved will forever live on this earth, not in Heaven.
+</summary>
+<category term="an"/>
+<category term="evil"/>
+<category term="Cruel"/>
+<category term="Sadistic"/>
+<category term="and"/>
+<category term="Fiendish"/>
+<category term="God"/>
+<category term="&#8232;&#8232;THE"/>
+<category term="Calvin"/>
+<category term="God"/>
+<category term="the"/>
+<category term="God"/>
+<category term="who"/>
+<category term="Loves"/>
+<category term="To"/>
+<category term="torment"/>
+<category term="&#8232;&#8232;"/>
+<category term="JONATHAN"/>
+<category term="EDWARDS"/>
+<category term="God"/>
+<category term="the"/>
+<category term="Horrors"/>
+<category term="of"/>
+<category term="hell"/>
+<category term="&#8232;&#8232;Evil"/>
+<category term="Pagan"/>
+<category term="teachings"/>
+<category term="That"/>
+<category term="Are"/>
+<category term="Attributed"/>
+<category term="To"/>
+<category term="God"/>
+<category term="Israel"/>
+<category term="gnashing"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/6823.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/6823.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/6823.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6823.png?t=20090817234429" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/6823.png?size=smaller&amp;t=20090817234429" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/6823.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Birds of Prey #2</title>
+<id>http://www.feedbooks.com/userbook/7803</id>
+<author>
+  <name>Matthew Davies</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Matthew%20Davies</uri>
+</author>
+<updated>2009-10-08T18:29:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Birds of Prey, Part Two (of Four): Dissention in the Ranks.</summary>
+<category term="Vigilante"/>
+<category term="Zatanna"/>
+<category term="Omen"/>
+<category term="Huntress"/>
+<category term="batgirl"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Green Arrow"/>
+<category term="Black Canary"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7803.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7803.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7803.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7803.png?t=20091008182927" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7803.png?size=smaller&amp;t=20091008182927" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7803.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Birds of Prey #4</title>
+<id>http://www.feedbooks.com/userbook/7920</id>
+<author>
+  <name>Matthew Davies</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Matthew%20Davies</uri>
+</author>
+<updated>2009-10-17T00:40:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Birds of Prey, Part Four (of Four): Salvations and Revelations.</summary>
+<category term="Black Canary"/>
+<category term="Green Arrow"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="batgirl"/>
+<category term="Nightwing"/>
+<category term="Overmaster"/>
+<category term="Huntress"/>
+<category term="Omen"/>
+<category term="Zatanna"/>
+<category term="Vigilante"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/7920.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/7920.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/7920.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7920.png?t=20091017004004" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/7920.png?size=smaller&amp;t=20091017004004" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/7920.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Shazam! #6</title>
+<id>http://www.feedbooks.com/userbook/8375</id>
+<author>
+  <name>Mark Bowers</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Mark%20Bowers</uri>
+</author>
+<updated>2009-11-16T00:34:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Shazam!: Speed</summary>
+<category term="Captain Marvel"/>
+<category term="Kid Marvel"/>
+<category term="Black Adam"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Shazam"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8375.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8375.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8375.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8375.png?t=20091116003405" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8375.png?size=smaller&amp;t=20091116003405" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8375.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Bioethics and Population</title>
+<id>http://www.feedbooks.com/userbook/9407</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T13:40:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Issues in the ethics and practice of demography and bioengineering - population control, the right to life, cloning, and abortion.</summary>
+<category term="psychology"/>
+<category term="physics"/>
+<category term="science"/>
+<category term="culture"/>
+<category term="power"/>
+<category term="technology"/>
+<category term="virtual"/>
+<category term="ontology"/>
+<category term="Quantum"/>
+<category term="mechanics"/>
+<category term="Epistemology"/>
+<category term="ai"/>
+<category term="artificial"/>
+<category term="intelligence"/>
+<category term="narcissism"/>
+<category term="dream"/>
+<category term="Consciousness"/>
+<category term="machine"/>
+<category term="Superman"/>
+<category term="Art"/>
+<category term="Art"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9407.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9407.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9407.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9407.png?t=20100106134040" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9407.png?size=smaller&amp;t=20100106134040" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9407.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>I've Got a Time B*mb</title>
+<id>http://www.feedbooks.com/userbook/9147</id>
+<author>
+  <name>Sybil lamb</name>
+  <uri>http://www.feedbooks.com/user/65978/profile#Sybil%20lamb</uri>
+</author>
+<updated>2010-02-01T12:36:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>epic queer lust crime mystery thriller occult noir stories of the underground nation of fitlh and elegance in the year 287-288</summary>
+<category term="Time B*mb"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9147.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9147.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9147.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9147.png?t=20100201123617" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9147.png?size=smaller&amp;t=20100201123617" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9147.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Suffering of Being Kafka</title>
+<id>http://www.feedbooks.com/userbook/9432</id>
+<author>
+  <name>Sam Vaknin</name>
+  <uri>http://www.feedbooks.com/user/27505/profile#Sam%20Vaknin</uri>
+</author>
+<updated>2010-01-06T15:00:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>A second volume of short stories and poetry translated from the Hebrew.</summary>
+<category term="Hebrew"/>
+<category term="fiction"/>
+<category term="short"/>
+<category term="fiction"/>
+<category term="Vaknin"/>
+<category term="Shmuel"/>
+<category term="Sam"/>
+<category term="short"/>
+<category term="stories"/>
+<category term="stories"/>
+<category term="poems"/>
+<category term="poetry"/>
+<category term="family"/>
+<category term="love"/>
+<category term="emotions"/>
+<category term="Israel"/>
+<category term="literature"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/9432.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/9432.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/9432.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9432.png?t=20100106150044" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/9432.png?size=smaller&amp;t=20100106150044" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/9432.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Chickasaw Gravelpacker: A Dick Burns Minit Mrdr&#174;</title>
+<id>http://www.feedbooks.com/userbook/2484</id>
+<author>
+  <name>William Garner &amp; monkeyrotica</name>
+  <uri>http://www.feedbooks.com/user/19484/profile#William%20Garner%20%26%20monkeyrotica</uri>
+</author>
+<updated>2009-08-17T16:18:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>A hermaphroditic Chinaman takes the Speaker of the House hostage in a hideously perverted plot to change his gender.</summary>
+<category term="monkeyrotica"/>
+<category term="pulp"/>
+<category term="dc"/>
+<category term="hardboiled"/>
+<category term="minit mrdr"/>
+<category term="dick burns"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/2484.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/2484.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/2484.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2484.png?t=20090817161839" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/2484.png?size=smaller&amp;t=20090817161839" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/2484.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>PQR - Fall 2007</title>
+<id>http://www.feedbooks.com/userbook/3462</id>
+<author>
+  <name>CTPartners</name>
+  <uri>http://www.feedbooks.com/user/4156/profile#CTPartners</uri>
+</author>
+<updated>2009-08-17T16:25:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>A timely and insightful business magazine published by CTPartners. 
+
+For its worldwide readership of corporate leaders and up-and-coming executives, PQR covers the globe, reporting on major business trends, talent management strategies, fascinating business personalities, and need-to-know developments impacting executive recruitment, retention, and human capital. 
+</summary>
+<category term="business"/>
+<category term="business"/>
+<category term="magazine"/>
+<category term="trends"/>
+<category term="management"/>
+<category term="CTPartners"/>
+<category term="retention"/>
+<category term="talent"/>
+<category term="strategies"/>
+<category term="personalities"/>
+<category term="executive"/>
+<category term="recruitment"/>
+<category term="human"/>
+<category term="capital"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/3462.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/3462.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/3462.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3462.png?t=20090817162537" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/3462.png?size=smaller&amp;t=20090817162537" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/3462.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #7</title>
+<id>http://www.feedbooks.com/userbook/4025</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:29:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<summary>Danger Trail: The Man in Stitches Affair, Part 2 (of 2).
+
+The Revenant Program proceeds apace as Saunders and Midnight must struggle with former ally King Faraday to find the evidence that can shut down Doctor Zero for good! Maybe, just maybe, newcomer Argent St. Cloud can help out!</summary>
+<category term="Midnight"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="adventure"/>
+<category term="mystery"/>
+<category term="Speed Saunders"/>
+<category term="King Faraday"/>
+<category term="Argent St. Cloud"/>
+<category term="pulp fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4025.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4025.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4025.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4025.png?t=20090817162917" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4025.png?size=smaller&amp;t=20090817162917" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4025.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aquaman #11</title>
+<id>http://www.feedbooks.com/userbook/4267</id>
+<author>
+  <name>Masoud House</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Masoud%20House</uri>
+</author>
+<updated>2009-08-17T16:30:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Aquaman: The Return&#8221;, Part 2 (of 5): The Behemoth of the Sea</summary>
+<category term="Atlantis"/>
+<category term="Aquaman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Black Manta"/>
+<category term="Black Shark"/>
+<category term="Black Jack"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4267.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4267.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4267.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4267.png?t=20090817163019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4267.png?size=smaller&amp;t=20090817163019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4267.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Aquaman #5</title>
+<id>http://www.feedbooks.com/userbook/4195</id>
+<author>
+  <name>Brandon Herren</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brandon%20Herren</uri>
+</author>
+<updated>2009-08-17T16:30:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Aquaman: Shadows Over Atlantis, Part 2 (of 2)</summary>
+<category term="Atlantis"/>
+<category term="Aquaman"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Ocean Master"/>
+<category term="Black Manta"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4195.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4195.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4195.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4195.png?t=20090817163022" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4195.png?size=smaller&amp;t=20090817163022" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4195.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mightiest Mortals #3</title>
+<id>http://www.feedbooks.com/userbook/4410</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-08-17T16:31:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Captain Marvel: Under a Seal of Six Gods!</summary>
+<category term="Sabbac"/>
+<category term="DC3"/>
+<category term="Comics"/>
+<category term="Boss Ibac"/>
+<category term="Doctor Sivana"/>
+<category term="Captain Marvel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/4410.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/4410.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/4410.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4410.png?t=20090817163155" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/4410.png?size=smaller&amp;t=20090817163155" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/4410.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

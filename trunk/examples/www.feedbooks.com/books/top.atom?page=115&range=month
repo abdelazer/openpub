@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=115&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=115&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=115&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 115 | Feedbooks</title>
+  <updated>2010-04-07T18:25:45Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2281</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=114&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=116&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Sand</title>
+<id>http://www.feedbooks.com/book/1071</id>
+<author>
+  <name>Algernon Blackwood</name>
+  <uri>http://www.feedbooks.com/author/199</uri>
+</author>
+<updated>2009-09-16T10:40:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1071.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1071.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1071.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1071.png?t=20090916104030" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1071.png?size=smaller&amp;t=20090916104030" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1071.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Modern Lover</title>
+<id>http://www.feedbooks.com/book/1081</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2009-09-16T10:42:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1933</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1081.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1081.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1081.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1081.png?t=20090916104205" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1081.png?size=smaller&amp;t=20090916104205" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1081.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Terror</title>
+<id>http://www.feedbooks.com/book/1174</id>
+<author>
+  <name>Arthur Machen</name>
+  <uri>http://www.feedbooks.com/author/130</uri>
+</author>
+<updated>2009-09-16T10:43:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1174.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1174.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1174.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1174.png?t=20090916104310" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1174.png?size=smaller&amp;t=20090916104310" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1174.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Runagates Club</title>
+<id>http://www.feedbooks.com/book/1190</id>
+<author>
+  <name>John Buchan</name>
+  <uri>http://www.feedbooks.com/author/17</uri>
+</author>
+<updated>2009-09-16T10:43:57Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1928</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1190.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1190.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1190.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1190.png?t=20090916104357" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1190.png?size=smaller&amp;t=20090916104357" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1190.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Against the Grain</title>
+<id>http://www.feedbooks.com/book/1240</id>
+<author>
+  <name>Joris-Karl Huysmans</name>
+  <uri>http://www.feedbooks.com/author/43</uri>
+</author>
+<updated>2009-09-16T10:45:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1884</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Because of his extreme sensitivity to the absurd and grotesque in human affairs, the protagonist of this masterpiece of decadence has estranged himself from society and savors the most bizarre aspects of human existence in his quest for novelty. This landmark novel is filled with weird images and biting wit.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1240.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1240.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1240.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1240.png?t=20090916104518" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1240.png?size=smaller&amp;t=20090916104518" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1240.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Society</title>
+<id>http://www.feedbooks.com/book/1391</id>
+<author>
+  <name>Virginia Woolf</name>
+  <uri>http://www.feedbooks.com/author/206</uri>
+</author>
+<updated>2009-09-16T10:47:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1391.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1391.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1391.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1391.png?t=20090916104722" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1391.png?size=smaller&amp;t=20090916104722" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1391.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Haunted Baronet</title>
+<id>http://www.feedbooks.com/book/1572</id>
+<author>
+  <name>Joseph Sheridan Le Fanu</name>
+  <uri>http://www.feedbooks.com/author/231</uri>
+</author>
+<updated>2009-09-16T10:58:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1871</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1572.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1572.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1572.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1572.png?t=20090916105808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1572.png?size=smaller&amp;t=20090916105808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1572.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>With No Strings Attached</title>
+<id>http://www.feedbooks.com/book/1956</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-09-16T11:25:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A man will always be willing to buy something he wants, and believes in, even if it is impossible, rather than something he believes is impossible. So... sell him what he thinks he wants!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1956.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1956.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1956.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1956.png?t=20090916112541" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1956.png?size=smaller&amp;t=20090916112541" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1956.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>East is West</title>
+<id>http://www.feedbooks.com/book/2034</id>
+<author>
+  <name>William Olaf Stapledon</name>
+  <uri>http://www.feedbooks.com/author/284</uri>
+</author>
+<updated>2009-09-16T11:32:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1979</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2034.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2034.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2034.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2034.png?t=20090916113222" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2034.png?size=smaller&amp;t=20090916113222" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2034.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tidal Moon</title>
+<id>http://www.feedbooks.com/book/2252</id>
+<author>
+  <name>Stanley Grauman Weinbaum</name>
+  <uri>http://www.feedbooks.com/author/322</uri>
+</author>
+<updated>2009-09-16T11:34:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1938</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2252.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2252.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2252.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2252.png?t=20090916113453" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2252.png?size=smaller&amp;t=20090916113453" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2252.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Unborn Tomorrow</title>
+<id>http://www.feedbooks.com/book/2313</id>
+<author>
+  <name>Mack Reynolds</name>
+  <uri>http://www.feedbooks.com/author/273</uri>
+</author>
+<updated>2009-09-16T12:00:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Unfortunately, there was only one thing he could bring back from the wonderful future... and though he didn't want to... nevertheless he did....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2313.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2313.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2313.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2313.png?t=20090916120042" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2313.png?size=smaller&amp;t=20090916120042" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2313.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Cry from a Far Planet</title>
+<id>http://www.feedbooks.com/book/2378</id>
+<author>
+  <name>Tom Godwin</name>
+  <uri>http://www.feedbooks.com/author/270</uri>
+</author>
+<updated>2009-09-16T12:06:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1958</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The problem of separating the friends from the enemies was a major one in the conquest of space as many a dead spacer could have testified. A tough job when you could see an alien and judge appearances; far tougher when they were only whispers on the wind.</summary>
+<dcterms:source>http://gutenberg.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2378.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2378.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2378.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2378.png?t=20090916120629" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2378.png?size=smaller&amp;t=20090916120629" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2378.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Breaking Point</title>
+<id>http://www.feedbooks.com/book/2586</id>
+<author>
+  <name>James Edwin Gunn</name>
+  <uri>http://www.feedbooks.com/author/459</uri>
+</author>
+<updated>2009-09-16T12:10:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The ship was proof against any test, but the men inside her could be strained and warped, individually and horribly. Unfortunately, while the men knew that, they couldn't really believe it. The Aliens could--and did. </summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2586.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2586.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2586.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2586.png?t=20090916121042" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2586.png?size=smaller&amp;t=20090916121042" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2586.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Risk Profession</title>
+<id>http://www.feedbooks.com/book/3288</id>
+<author>
+  <name>Donald Edwin Westlake</name>
+  <uri>http://www.feedbooks.com/author/766</uri>
+</author>
+<updated>2009-08-18T01:18:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The men who did dangerous work had a special kind of insurance policy. But when somebody wanted to collect on that policy, the claims investigator suddenly became a member of ... THE RISK PROFESSION</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3288.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3288.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3288.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3288.png?t=20090818011802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3288.png?size=smaller&amp;t=20090818011802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3288.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jarwin and Cuffy</title>
+<id>http://www.feedbooks.com/book/3548</id>
+<author>
+  <name>Robert Michael Ballantyne</name>
+  <uri>http://www.feedbooks.com/author/885</uri>
+</author>
+<updated>2009-08-18T01:18:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1900</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Excerpt: &quot;In all the wide expanse of ocean that surrounded that island, there was nothing visible save one small, solitary speck on the far-off horizon. It might have been mistaken for a seagull, but it was in reality a raft&#8212;a mass of spars and planks rudely bound together with ropes. A boat&#8217;s mast rose from the centre of it, on which hung a rag of sail, and a small red flag drooped motionless from its summit. There were a few casks on the highest part of the raft, but no living soul was visible. Nevertheless, it was not without tenants. In a hollow between two of the spars, under the shadow of one of the casks, lay the form of a man. The canvas trousers, cotton shirt, blue jacket, and open necktie, bespoke him a sailor, but it seemed as though there were nothing left save the dead body of the unfortunate tar, so pale and thin and ghastly were his features. A terrier dog lay beside him, so shrunken that it looked like a mere scrap of door-matting. Both man and dog were apparently dead, but they were not so in reality, for, after lying about an hour quite motionless, the man slowly opened his eyes.
+
+Ah, reader, it would have touched your heart to have seen those eyes! They were so deep set, as if in dark caverns, and so unnaturally large. They gazed round in a vacant way for a few moments, until they fell on the dog. Then a gleam of fire shot through them, and their owner raised his large, gaunt, wasted frame on one elbow, while he gazed with a look of eagerness, which was perfectly awful, at his dumb companion.
+
+&#8220;Not dead yet!&#8221; he said, drawing a long sigh.&quot;</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3548.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3548.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3548.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3548.png?t=20090818011809" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3548.png?size=smaller&amp;t=20090818011809" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3548.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Walls of Acid</title>
+<id>http://www.feedbooks.com/book/3667</id>
+<author>
+  <name>Henry Hasse</name>
+  <uri>http://www.feedbooks.com/author/897</uri>
+</author>
+<updated>2009-08-18T01:18:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1947</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Five millenniums have passed since the loathsome Termans were eliminated from the world of Diskra.... But what of the other planets?</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3667.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3667.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3667.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3667.png?t=20090818011811" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3667.png?size=smaller&amp;t=20090818011811" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3667.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Gloved Hand</title>
+<id>http://www.feedbooks.com/book/3753</id>
+<author>
+  <name>Burton E. Stevenson</name>
+  <uri>http://www.feedbooks.com/author/988</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Excerpt:
+I was genuinely tired when I got back to the office, that Wednesday afternoon, for it had been a trying day&#8212;the last of the series of trying days which had marked the progress of the Minturn case; and my feeling of depression was increased by the fact that our victory had not been nearly so complete as I had hoped it would be. Besides, there was the heat; always, during the past ten days, there had been the heat, unprecedented for June, with the thermometer climbing higher and higher and breaking a new record every day.
+As I threw off coat and hat and dropped into the chair before my desk, I could see the heat-waves quivering up past the open windows from the fiery street below. I turned away and closed my eyes, and tried to evoke a vision of white surf falling upon the beach, of tall trees swaying in the breeze, of a brook dropping gently between green banks.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3753.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3753.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3753.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3753.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3753.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3753.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lords of the Stratosphere</title>
+<id>http://www.feedbooks.com/book/4088</id>
+<author>
+  <name>Arthur J. Burks</name>
+  <uri>http://www.feedbooks.com/author/1149</uri>
+</author>
+<updated>2009-08-18T01:18:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1933</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>High into air are the great New York buildings lifted by a ray whose source no telescope can find.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29466</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4088.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4088.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4088.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4088.png?t=20090818011817" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4088.png?size=smaller&amp;t=20090818011817" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4088.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Diane of the Green Van</title>
+<id>http://www.feedbooks.com/book/4300</id>
+<author>
+  <name>Leona Dalrymple</name>
+  <uri>http://www.feedbooks.com/author/1232</uri>
+</author>
+<updated>2009-10-05T15:15:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>Diane of the Green Van is a romance novel that was awarded the $10,000.00 prize in a novel contest in which over five hundred manuscripts were submitted.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/16101</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4300.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4300.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4300.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4300.png?t=20091005151524" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4300.png?size=smaller&amp;t=20091005151524" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4300.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Gone Fishing</title>
+<id>http://www.feedbooks.com/book/4283</id>
+<author>
+  <name>James Henry Schmitz</name>
+  <uri>http://www.feedbooks.com/author/278</uri>
+</author>
+<updated>2009-10-01T21:15:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There is no predictable correlation between intelligence and ethics, nor is ruthlessness necessarily an evil thing. And there is nothing like enforced, uninterrupted contemplation to learn to distinguish one from another....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30140</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4283.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4283.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4283.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4283.png?t=20091001211512" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4283.png?size=smaller&amp;t=20091001211512" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4283.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

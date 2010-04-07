@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=22&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=22&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=22&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 22 | Feedbooks</title>
+  <updated>2010-04-07T18:24:46Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>421</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=21&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=23&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Sky Island</title>
+<id>http://www.feedbooks.com/book/4148</id>
+<author>
+  <name>Lyman Frank Baum</name>
+  <uri>http://www.feedbooks.com/author/96</uri>
+</author>
+<updated>2009-09-03T12:10:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Trot is near her home on the coast of southern California when she meets a strange little boy with a large umbrella. Button Bright has been using his family's magic umbrella to take long-range journeys from his Philadelphia home, and has gotten as far as California. After an explanation of how the magic umbrella works, the two children, joined by Cap'n Bill, decide to take a trip to a nearby island; they call it &quot;Sky island,&quot; because it looks like it's &quot;halfway in the sky&quot; &#8212; but the umbrella takes them to a different place entirely, a literal island in the sky.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/4356</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4148.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4148.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4148.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4148.png?t=20090903121018" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4148.png?size=smaller&amp;t=20090903121018" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4148.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Henry IV, Part 1</title>
+<id>http://www.feedbooks.com/book/3023</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:45:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1597</dcterms:issued>
+<category term="History" label="History"/>
+<category term="Plays" label="Plays"/>
+<summary>Henry IV, Part 1 is a history play by William Shakespeare, believed to have been written no later than 1597. It is the second of Shakespeare's tetralogy that deals with the successive reigns of Richard II, Henry IV (2 plays), and Henry V. Henry IV, Part 1 depicts a span of history that begins with Hotspur's battle at Homildon against the Douglas late in 1402 and ends with the defeat of the rebels at Shrewsbury in the middle of 1403. From the start it has been an extremely popular play both with the public and the critics.</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3023.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3023.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3023.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3023.png?t=20090916124536" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3023.png?size=smaller&amp;t=20090916124536" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3023.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Gorgias</title>
+<id>http://www.feedbooks.com/book/985</id>
+<author>
+  <name>Plato</name>
+  <uri>http://www.feedbooks.com/author/144</uri>
+</author>
+<updated>2009-09-16T10:38:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-400</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/985.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/985.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/985.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/985.png?t=20090916103830" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/985.png?size=smaller&amp;t=20090916103830" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/985.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Beautiful and the Damned</title>
+<id>http://www.feedbooks.com/book/1417</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-09-16T10:50:18Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1417.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1417.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1417.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1417.png?t=20090916105018" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1417.png?size=smaller&amp;t=20090916105018" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1417.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Golden Ass</title>
+<id>http://www.feedbooks.com/book/591</id>
+<author>
+  <name>Lucius Apuleius</name>
+  <uri>http://www.feedbooks.com/author/136</uri>
+</author>
+<updated>2010-01-02T15:27:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>160</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>The story follows Lucius, a young man of good birth, as he disports himself in the cities and along the roads of Thessaly. This is a wonderful tale abounding in lusty incident, curious adventure and bawdy wit.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/591.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/591.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/591.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/591.png?t=20100102152704" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/591.png?size=smaller&amp;t=20100102152704" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/591.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Venus Trap</title>
+<id>http://www.feedbooks.com/book/4638</id>
+<author>
+  <name>Evelyn E. Smith</name>
+  <uri>http://www.feedbooks.com/author/463</uri>
+</author>
+<updated>2010-03-10T19:36:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>One thing Man never counted on to take along into space with him was the Eternal Triangle&#8212;especially a true-blue triangle like this!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/31583</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4638.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4638.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4638.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4638.png?t=20100310193627" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4638.png?size=smaller&amp;t=20100310193627" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4638.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Thuvia Maid of Mars</title>
+<id>http://www.feedbooks.com/book/437</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:21:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>This installment shifts focus from John Carter and Dejah Thoris, protagonists of the first three books in the series, to their son Carthoris, prince of Helium, and to Thuvia, princess of Ptarth, and follows Carthoris' efforts to win the heart of Thuvia, who will have nothing to do with him. When Thuvia is kidnapped Carthoris is presented with an opportunity -- throw in an airship battle, lost cities, savage creatures, and the fabulous phantom bowmen of Lothar, and you have thrills, chills, and high adventure of the best kind.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/437.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/437.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/437.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/437.png?t=20090916102125" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/437.png?size=smaller&amp;t=20090916102125" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/437.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Tower of the Elephant</title>
+<id>http://www.feedbooks.com/book/4574</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2010-01-18T10:12:47Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1933</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>&quot;The Tower of the Elephant&quot; is one of the original short stories starring the fictional sword and sorcery hero Conan the Cimmerian, written by American author Robert E. Howard. It is set in the pseudo-historical Hyborian Age and concerns Conan infiltrating a perilous tower in order to steal a fabled gem from an evil sorcerer named Yara. Due to its unique insights into the Hyborian world and atypical science fiction elements, the story is considered a classic of Conan lore and is often cited by Howard scholars as one of his best tales. Source: Wikipedia</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4574.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4574.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4574.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4574.png?t=20100118101247" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4574.png?size=smaller&amp;t=20100118101247" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4574.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Parmenides</title>
+<id>http://www.feedbooks.com/book/988</id>
+<author>
+  <name>Plato</name>
+  <uri>http://www.feedbooks.com/author/144</uri>
+</author>
+<updated>2009-09-16T10:38:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-400</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/988.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/988.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/988.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/988.png?t=20090916103831" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/988.png?size=smaller&amp;t=20090916103831" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/988.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The War Prayer</title>
+<id>http://www.feedbooks.com/book/2792</id>
+<author>
+  <name>Mark Twain</name>
+  <uri>http://www.feedbooks.com/author/24</uri>
+</author>
+<updated>2009-09-16T12:27:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="War" label="War"/>
+<summary>Written by Mark Twain during the Philippine-American War in the first decade of the twentieth century, The War Prayer tells of a patriotic church service held to send the town's young men off to war. During the service, a stranger enters and addresses the gathering. He tells the patriotic crowd that their prayers for victory are double-edged-by praying for victory they are also praying for the destruction of the enemy... for the destruction of human life.</summary>
+<dcterms:source>Wikipedia</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2792.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2792.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2792.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2792.png?t=20090916122713" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2792.png?size=smaller&amp;t=20090916122713" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2792.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Summer</title>
+<id>http://www.feedbooks.com/book/184</id>
+<author>
+  <name>Edith Wharton</name>
+  <uri>http://www.feedbooks.com/author/35</uri>
+</author>
+<updated>2009-09-16T10:12:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Sexuality" label="Sexuality"/>
+<summary>Summer is a novel by Edith Wharton published in 1917 by Charles Scribner's Sons. The story is one of only two novels by Wharton to be set in New England; Wharton was best known for her portrayals of upper class New York society. The novel details the sexual awakening of its protagonist, Charity Royall, and her cruel treatment by the father of her child, and shares many plot similarities with Wharton's better known novel, Ethan Frome. Only moderately well-received when originally published, Summer has had a resurgence in critical popularity since the 1960s.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/184.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/184.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/184.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/184.png?t=20090916101253" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/184.png?size=smaller&amp;t=20090916101253" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/184.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Impact</title>
+<id>http://www.feedbooks.com/book/4653</id>
+<author>
+  <name>Irving Cox</name>
+  <uri>http://www.feedbooks.com/author/413</uri>
+</author>
+<updated>2010-03-20T17:06:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>They were languorous, anarchic, shameless in their pleasures ... were they lower than man ... or higher?</summary>
+<dcterms:source>http://www.gutenberg.org/etext/25567</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4653.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4653.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4653.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4653.png?t=20100320170640" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4653.png?size=smaller&amp;t=20100320170640" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4653.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Theaetetus</title>
+<id>http://www.feedbooks.com/book/713</id>
+<author>
+  <name>Plato</name>
+  <uri>http://www.feedbooks.com/author/144</uri>
+</author>
+<updated>2009-09-16T10:29:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-400</dcterms:issued>
+<category term="Philosophy" label="Philosophy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/713.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/713.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/713.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/713.png?t=20090916102919" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/713.png?size=smaller&amp;t=20090916102919" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/713.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Beetle</title>
+<id>http://www.feedbooks.com/book/3759</id>
+<author>
+  <name>Richard Marsh</name>
+  <uri>http://www.feedbooks.com/author/993</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Horror" label="Horror"/>
+<summary>A fantastic creature, &quot;born of neither god nor man,&quot; hypnotic and supernatural, stalks British politician Paul Lessingham through turn-of-the-century London. A classic tale of supernatural horror.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3759.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3759.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3759.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3759.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3759.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3759.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Swords of Mars</title>
+<id>http://www.feedbooks.com/book/1215</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:44:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1934</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1215.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1215.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1215.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1215.png?t=20090916104431" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1215.png?size=smaller&amp;t=20090916104431" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1215.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Love's Labours Lost</title>
+<id>http://www.feedbooks.com/book/2986</id>
+<author>
+  <name>William Shakespeare</name>
+  <uri>http://www.feedbooks.com/author/494</uri>
+</author>
+<updated>2009-09-16T12:38:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1598</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<summary>Love's Labour's Lost is one of William Shakespeare's early comedies, believed to have been written in the mid-1590s, and first published in 1598.
+The play opens with the King of Navarre and three noble companions, Berowne, Dumaine, and Longaville, taking an oath to devote themselves to three years of study, promising not to give in to the company of women &#8212; Berowne somewhat more hesitantly than the others.
+</summary>
+<dcterms:source>http://shakespeare.mit.edu/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2986.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2986.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2986.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2986.png?t=20090916123858" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2986.png?size=smaller&amp;t=20090916123858" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2986.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Place so Foreign</title>
+<id>http://www.feedbooks.com/book/660</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:27:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2000</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/660.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/660.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/660.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/660.png?t=20090916102754" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/660.png?size=smaller&amp;t=20090916102754" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/660.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Spell of Catastrophe</title>
+<id>http://www.feedbooks.com/book/1594</id>
+<author>
+  <name>Mayer Alan Brenner</name>
+  <uri>http://www.feedbooks.com/author/242</uri>
+</author>
+<updated>2009-09-16T11:07:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1989</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>For a change, Max was not actually on the run, which is to say that he didn't think anyone in particular was after him. Of course, his perception (which happened to be wrong) did not materially change the situation. He did indeed have a pursuer, and later that night the pursuer caught up.</summary>
+<dcterms:source>http://www.mayerbrenner.com/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1594.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1594.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1594.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1594.png?t=20090916110726" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1594.png?size=smaller&amp;t=20090916110726" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1594.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In a Grove</title>
+<id>http://www.feedbooks.com/book/4205</id>
+<author>
+  <name>Ry&#363;nosuke Akutagawa</name>
+  <uri>http://www.feedbooks.com/author/1068</uri>
+</author>
+<updated>2009-09-28T08:01:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Psychology" label="Psychology"/>
+<summary>&quot;In a Grove&quot; is an early modernist short story consisting of seven varying accounts of the murder of a samurai, Kanazawa no Takehiro, whose corpse has been found in a bamboo forest near Kyoto. Each section simultaneously clarifies and obfuscates what the reader knows about the murder, eventually creating a complex and contradictory vision of events that brings into question humanity's ability or willingness to perceive and transmit objective truth. It is the basis for Kurosawa's &quot;Rashoumon.&quot;
+(from Wikipedia)
+---
+Note: The original Japanese text version is also available on Feedbooks at http://www.feedbooks.com/book/4204</summary>
+<dcterms:source>http://www.scribd.com/doc/3682435/In-a-Grove-by-Ryunosuke-Akutagawa</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4205.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4205.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4205.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4205.png?t=20090928080129" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4205.png?size=smaller&amp;t=20090928080129" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4205.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Doctor Who and the Empire of Glass</title>
+<id>http://www.feedbooks.com/book/2664</id>
+<author>
+  <name>Andy Lane</name>
+  <uri>http://www.feedbooks.com/author/484</uri>
+</author>
+<updated>2009-09-16T12:19:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1995</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.bbc.co.uk/doctorwho/classic/ebooks/empireofglass/index.shtml</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2664.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2664.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2664.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2664.png?t=20090916121951" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2664.png?size=smaller&amp;t=20090916121951" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2664.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

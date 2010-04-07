@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=27</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=27" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=27" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 27 | Feedbooks</title>
+  <updated>2010-04-07T18:26:30Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>521</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=26" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=28" rel="next" title="Next Page"/>
+<entry>
+<title>The House of the Vampire</title>
+<id>http://www.feedbooks.com/book/3837</id>
+<author>
+  <name>George Sylvester Viereck</name>
+  <uri>http://www.feedbooks.com/author/1035</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1907</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<category term="Sexuality" label="Sexuality"/>
+<category term="Gothic" label="Gothic"/>
+<summary>The first known gay vampire novel and one of the first psychic vampire stories.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3837.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3837.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3837.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3837.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3837.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3837.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dangerous Days</title>
+<id>http://www.feedbooks.com/book/3834</id>
+<author>
+  <name>Mary Roberts Rinehart</name>
+  <uri>http://www.feedbooks.com/author/977</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="War" label="War"/>
+<summary>The darkening storm of the first World War threatens to tear apart the lives of a group of friends. At the eye of the storm is Clayton Spencer, an ambitious businessman, who must risk everything to be with the woman he loves.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3834.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3834.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3834.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3834.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3834.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3834.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Great White Queen</title>
+<id>http://www.feedbooks.com/book/3831</id>
+<author>
+  <name>William Le Queux</name>
+  <uri>http://www.feedbooks.com/author/873</uri>
+</author>
+<updated>2009-08-18T01:18:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>A classic example of early &quot;lost race&quot; science-fiction.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3831.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3831.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3831.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3831.png?t=20090818011814" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3831.png?size=smaller&amp;t=20090818011814" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3831.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Stowmarket Mystery</title>
+<id>http://www.feedbooks.com/book/3830</id>
+<author>
+  <name>Louis Tracy</name>
+  <uri>http://www.feedbooks.com/author/1028</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1904</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>A mystery novel featuring Reginald Brett, Barrister Detective, an insightful, Sherlockian investigator.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3830.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3830.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3830.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3830.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3830.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3830.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Roast Beef, Medium: The Business Adventures of Emma McChesney</title>
+<id>http://www.feedbooks.com/book/3828</id>
+<author>
+  <name>Edna Ferber</name>
+  <uri>http://www.feedbooks.com/author/828</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>Edna Ferber, Pulitzer Prize-winning author of Show Boat and Giant, achieved her first great success with a series of stories she published in American Magazine between 1911 and 1913. The stories featured Emma McChesney: smart, savvy, stylish, divorced mother, and Midwest traveling sales representative for T. A. Buck's Featherloom skirts and petticoats. With one hand on her sample case and the other fending off advances from salesmen, hotel clerks, and other predators, Emma holds on tightly to her reputation: honest, hardworking, and able to outsell the slickest salesman. 
+
+Like her compact bag of traveling necessities, Emma has her life boiled down to essentials: her work and her seventeen-year-old son, Jock. Her experience has taught her that it's best to stick to roast beef, medium--avoiding both physical and moral indigestion--rather than experiment with fancy sauces and exotic dishes. Yet she never shies away from a challenge, and her sharp instincts and common sense serve her well in dealing with the likes of Ed Meyer, a smooth-talking, piano-playing salesman; Blanche LeHay, prima donna of the Sam Levin Crackerjack Belles; and T. A. Buck Jr., the wet-behind-the-ears son of the founder of Featherloom. </summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3828.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3828.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3828.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3828.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3828.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3828.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Personality Plus: Some Experiences of Emma McChesney And Her Son, Jack</title>
+<id>http://www.feedbooks.com/book/3827</id>
+<author>
+  <name>Edna Ferber</name>
+  <uri>http://www.feedbooks.com/author/828</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>The second book in the Emma McChesney series.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3827.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3827.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3827.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3827.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3827.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3827.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Number Seventeen</title>
+<id>http://www.feedbooks.com/book/3825</id>
+<author>
+  <name>Louis Tracy</name>
+  <uri>http://www.feedbooks.com/author/1028</uri>
+</author>
+<updated>2009-09-16T12:27:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>A mystery novel featuring Winter and Fourneaux.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3825.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3825.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3825.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3825.png?t=20090916122720" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3825.png?size=smaller&amp;t=20090916122720" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3825.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Strange Case of Mortimer Fenley</title>
+<id>http://www.feedbooks.com/book/3824</id>
+<author>
+  <name>Louis Tracy</name>
+  <uri>http://www.feedbooks.com/author/1028</uri>
+</author>
+<updated>2009-08-18T01:18:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>When John Trenholme, artist, accepted a welcome commission from a magazine editor to journey down to a certain old Hertfordshire village and make a series of sketches of its imperiled beauties, he looked forward to nothing more exciting than an agreeable, wholly peaceful little expedition. Certainly he did not in the least expect to get mixed up with a murder, and to find himself one of the most important witnesses in &quot;The Strange Case of Mortimer Fenley.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3824.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3824.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3824.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3824.png?t=20090818011814" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3824.png?size=smaller&amp;t=20090818011814" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3824.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Eight Hundred Leagues On The Amazon</title>
+<id>http://www.feedbooks.com/book/3821</id>
+<author>
+  <name>Jules Verne</name>
+  <uri>http://www.feedbooks.com/author/19</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1881</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Joam Garral grants his daughter's wish to travel to Bel&#233;m where she wants to marry Manuel Valdez in the presence of Manuel's invalid mother. The Garrals travel down the Amazon River using a giant timber raft. At Bel&#233;m, Joam plans to restore his good name, as he is still wanted in Brazil for a crime he did not perpetrate. A scoundrel named Torres offers Joam absolute proof of Joam's innocence but the price that Torres wants for this information is to marry Joam's daughter, which is inconceivable to Joam. The proof lies in an encrypted letter that will exonerate Garral. When Torres is killed, the Garral family must race to decode the letter before Joam is executed.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/3091</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3821.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3821.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3821.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3821.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3821.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3821.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The After House</title>
+<id>http://www.feedbooks.com/book/3820</id>
+<author>
+  <name>Mary Roberts Rinehart</name>
+  <uri>http://www.feedbooks.com/author/977</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Romance" label="Romance"/>
+<category term="Thriller" label="Thriller"/>
+<summary>When three people are murdered on a yacht everyone must watch their back as the murderer is still on board. But who is it?</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3820.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3820.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3820.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3820.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3820.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3820.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Stretton Street Affair</title>
+<id>http://www.feedbooks.com/book/3819</id>
+<author>
+  <name>William Le Queux</name>
+  <uri>http://www.feedbooks.com/author/873</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Mr. Le Queux breaks all records for speed and thrills. And he tells you, too, about orosin, that newly discovered poison, a drop of which, on cigar or cigarette, renders the smoker unconscious. A gripping detective and mystery story. Every page presents a baffling situation, and all lead to the most unusual climax of the times.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3819.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3819.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3819.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3819.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3819.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3819.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Emma McChesney and Company</title>
+<id>http://www.feedbooks.com/book/3818</id>
+<author>
+  <name>Edna Ferber</name>
+  <uri>http://www.feedbooks.com/author/828</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>Edna Ferber, Pulitzer Prize-winning author of Show Boat and Giant, achieved her first great success with a series of stories she published in American Magazine between 1911 and 1913. The stories feature Emma McChesney, a smart, savvy, stylish, divorced mother, and Midwest traveling sales representative for T. A. Buck's Featherloom skirts and petticoats. With one hand on her sample case and the other fending off advances from salesmen, hotel clerks, and other predators, Emma holds on tightly to her reputation. Her experience has taught her that it's best to stick to roast beef, medium, rather than experiment with fancy sauces and exotic dishes. Emma McChesney and Company is the final volume of three chronicling the travels and trials of Emma McChesney.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3818.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3818.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3818.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3818.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3818.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3818.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Half Portions</title>
+<id>http://www.feedbooks.com/book/3817</id>
+<author>
+  <name>Edna Ferber</name>
+  <uri>http://www.feedbooks.com/author/828</uri>
+</author>
+<updated>2009-08-18T01:18:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>A collection of 9 short stories.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3817.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3817.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3817.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3817.png?t=20090818011815" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3817.png?size=smaller&amp;t=20090818011815" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3817.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Gigolo</title>
+<id>http://www.feedbooks.com/book/3816</id>
+<author>
+  <name>Edna Ferber</name>
+  <uri>http://www.feedbooks.com/author/828</uri>
+</author>
+<updated>2009-08-18T01:18:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Romance" label="Romance"/>
+<category term="Collections" label="Collections"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Eight stories of tangy satire and sweet sentimentality. Filled with human drama, unfaltering reason, and extraordinary description.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3816.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3816.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3816.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3816.png?t=20090818011814" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3816.png?size=smaller&amp;t=20090818011814" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3816.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Itinerary of Archbishop Baldwin through Wales</title>
+<id>http://www.feedbooks.com/book/3813</id>
+<author>
+  <name>Giraldus Cambrensis</name>
+  <uri>http://www.feedbooks.com/author/1024</uri>
+</author>
+<updated>2010-01-02T15:27:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1191</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Travel" label="Travel"/>
+<summary>A mediaeval Norman-Welsh cleric recounts his adventures travelling through his homeland, recruiting for the Third Crusade.</summary>
+<dcterms:source>J.M. Dent (1912)</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3813.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3813.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3813.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3813.png?t=20100102152708" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3813.png?size=smaller&amp;t=20100102152708" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3813.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Beyond Lies the Wub</title>
+<id>http://www.feedbooks.com/book/3812</id>
+<author>
+  <name>Philip K. Dick</name>
+  <uri>http://www.feedbooks.com/author/1023</uri>
+</author>
+<updated>2009-08-18T01:18:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The slovenly wub might well have said: Many men talk like philosophers and live like fools.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3812.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3812.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3812.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3812.png?t=20090818011814" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3812.png?size=smaller&amp;t=20090818011814" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3812.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Bishop and Other Stories</title>
+<id>http://www.feedbooks.com/book/3810</id>
+<author>
+  <name>Anton Pavlovich Chekhov</name>
+  <uri>http://www.feedbooks.com/author/137</uri>
+</author>
+<updated>2009-08-18T01:18:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>A collection of various of Anton Chekhov's short stories including: THE BISHOP, THE LETTER, EASTER EVE, A NIGHTMARE, THE MURDER, UPROOTED, and THE STEPPE. </summary>
+<dcterms:source>www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3810.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3810.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3810.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3810.png?t=20090818011813" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3810.png?size=smaller&amp;t=20090818011813" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3810.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tales of Chinatown</title>
+<id>http://www.feedbooks.com/book/3803</id>
+<author>
+  <name>Sax Rohmer</name>
+  <uri>http://www.feedbooks.com/author/778</uri>
+</author>
+<updated>2009-08-18T01:18:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>Ten stories of Macabre Mystery by the creator of the famous Dr. Fu Manchu. Includes the excellent ghost story Tcheriapin and a creeping hand story called The Hand of Mandarin Qung.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3803.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3803.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3803.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3803.png?t=20090818011814" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3803.png?size=smaller&amp;t=20090818011814" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3803.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Farewell to the Master </title>
+<id>http://www.feedbooks.com/book/3797</id>
+<author>
+  <name>Harry Bates</name>
+  <uri>http://www.feedbooks.com/author/1013</uri>
+</author>
+<updated>2009-08-18T01:18:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1940</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>&quot;Farewell to the Master&quot; is a science fiction short story written by Harry Bates. It was first published in the October 1940 issue of Astounding Science Fiction. It provided the basis of the noted 1951 film The Day the Earth Stood Still and its 2008 remake. In 1973, the story was adapted by Marvel Comics for its Worlds Unknown series with Bates' blessing.</summary>
+<dcterms:source>http://thenostalgialeague.com/olmag/bates.html</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3797.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3797.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3797.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3797.png?t=20090818011814" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3797.png?size=smaller&amp;t=20090818011814" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3797.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Journey into the Interior of the Earth</title>
+<id>http://www.feedbooks.com/book/3796</id>
+<author>
+  <name>Jules Verne</name>
+  <uri>http://www.feedbooks.com/author/19</uri>
+</author>
+<updated>2010-03-31T18:17:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1877</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Journey to the Center of the Earth is a classic 1864 science fiction novel by Jules Verne (published in the original French as Voyage au centre de la Terre). The story involves a professor who leads his nephew and hired guide down a volcano in Iceland to the &quot;center of the Earth&quot;. They encounter many adventures, including prehistoric animals and natural hazards, eventually coming to the surface again in southern Italy.</summary>
+<dcterms:source>http://en.wikisource.org/wiki/Journey_into_the_Interior_of_the_Earth</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3796.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3796.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3796.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3796.png?t=20100331181736" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3796.png?size=smaller&amp;t=20100331181736" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3796.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

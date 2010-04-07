@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=152</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=152" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=152" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 152 | Feedbooks</title>
+  <updated>2010-04-07T18:27:53Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>3021</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=151" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=153" rel="next" title="Next Page"/>
+<entry>
+<title>Frankenstein</title>
+<id>http://www.feedbooks.com/book/91</id>
+<author>
+  <name>Mary Shelley</name>
+  <uri>http://www.feedbooks.com/author/33</uri>
+</author>
+<updated>2009-09-16T10:09:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1818</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Horror" label="Horror"/>
+<category term="Gothic" label="Gothic"/>
+<summary>Frankenstein; or, The Modern Prometheus, generally known as Frankenstein, is a novel written by the British author Mary Shelley. The title of the novel refers to a scientist, Victor Frankenstein, who learns how to create life and creates a being in the likeness of man, but larger than average and more powerful. In popular culture, people have tended to refer to the Creature as &quot;Frankenstein&quot;, despite this being the name of the scientist. Frankenstein is a novel infused with some elements of the Gothic novel and the Romantic movement. It was also a warning against the &quot;over-reaching&quot; of modern man and the Industrial Revolution, alluded to in the novel's subtitle, The Modern Prometheus. The story has had an influence across literature and popular culture and spawned a complete genre of horror stories and films. It is arguably considered the first fully realized science fiction novel.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/91.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/91.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/91.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/91.png?t=20090916100925" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/91.png?size=smaller&amp;t=20090916100925" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/91.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Invisible Girl</title>
+<id>http://www.feedbooks.com/book/90</id>
+<author>
+  <name>Mary Shelley</name>
+  <uri>http://www.feedbooks.com/author/33</uri>
+</author>
+<updated>2009-09-16T10:09:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1820</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/90.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/90.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/90.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/90.png?t=20090916100923" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/90.png?size=smaller&amp;t=20090916100923" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/90.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>King Solomon's Mines</title>
+<id>http://www.feedbooks.com/book/89</id>
+<author>
+  <name>Henry Rider Haggard</name>
+  <uri>http://www.feedbooks.com/author/32</uri>
+</author>
+<updated>2009-09-16T10:09:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1885</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>King Solomon's Mines (1885) is a popular novel by the Victorian adventure writer and fabulist, Sir H. Rider Haggard. It tells of a quest into an unexplored region of Africa by a group of adventurers led by Allan Quatermain in search of the missing brother of one of the party. It is significant as the first English fictional adventure novel set in Africa, and is considered the genesis of the Lost World literary genre.</summary>
+<dcterms:source>Gutenberg</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/89.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/89.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/89.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/89.png?t=20090916100923" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/89.png?size=smaller&amp;t=20090916100923" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/89.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dracula</title>
+<id>http://www.feedbooks.com/book/88</id>
+<author>
+  <name>Bram Stoker</name>
+  <uri>http://www.feedbooks.com/author/31</uri>
+</author>
+<updated>2009-09-25T12:22:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Horror" label="Horror"/>
+<category term="Gothic" label="Gothic"/>
+<summary>Dracula is an 1897 novel by Irish author Bram Stoker, featuring as its primary antagonist the vampire Count Dracula.
+Dracula has been attributed to many literary genres including vampire literature, horror fiction, the gothic novel and invasion literature. Structurally it is an epistolary novel, that is, told as a series of diary entries and letters. Literary critics have examined many themes in the novel, such as the role of women in Victorian culture, conventional and conservative sexuality, immigration, colonialism, postcolonialism and folklore. Although Stoker did not invent the vampire, the novel's influence on the popularity of vampires has been singularly responsible for many theatrical and film interpretations throughout the 20th and 21st centuries.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/88.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/88.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/88.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/88.png?t=20090925122259" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/88.png?size=smaller&amp;t=20090925122259" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/88.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Lady Chatterley's Lover</title>
+<id>http://www.feedbooks.com/book/87</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2010-01-11T15:57:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1928</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Sexuality" label="Sexuality"/>
+<summary>Lady Chatterley's Lover is a novel by D. H. Lawrence written in 1928.
+Printed privately in Florence in 1928, it was not printed in the United Kingdom until 1960 (other than in an underground edition issued by Inky Stephensen's Mandrake Press in 1929). Lawrence considered calling this book Tenderness at one time and made significant alterations to the original manuscript in order to make it palatable to readers. It has been published in three different versions.
+The publication of the book caused a scandal due to its explicit sex scenes, including previously banned four-letter words, and perhaps because the lovers were a working-class male and an aristocratic female.
+The story is said to have originated from events in Lawrence's own unhappy domestic life, and he took inspiration for the settings of the book from Ilkeston in Derbyshire where he lived for a while. According to some critics the fling of Lady Ottoline Morrell with &quot;Tiger&quot;, a young stonemason who came to carve plinths for her garden statues, also influenced the story.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/87.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/87.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/87.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/87.png?t=20100111155701" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/87.png?size=smaller&amp;t=20100111155701" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/87.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Prussian Officer</title>
+<id>http://www.feedbooks.com/book/86</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2009-09-16T10:09:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="War" label="War"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/86.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/86.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/86.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/86.png?t=20090916100914" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/86.png?size=smaller&amp;t=20090916100914" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/86.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Fox</title>
+<id>http://www.feedbooks.com/book/85</id>
+<author>
+  <name>David Herbert Lawrence</name>
+  <uri>http://www.feedbooks.com/author/30</uri>
+</author>
+<updated>2009-09-16T10:09:14Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1923</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="War" label="War"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/85.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/85.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/85.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/85.png?t=20090916100914" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/85.png?size=smaller&amp;t=20090916100914" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/85.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Fanny Hill: Memoirs of a Woman of Pleasure</title>
+<id>http://www.feedbooks.com/book/84</id>
+<author>
+  <name>John Cleland</name>
+  <uri>http://www.feedbooks.com/author/29</uri>
+</author>
+<updated>2009-09-16T10:09:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1749</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Sexuality" label="Sexuality"/>
+<summary>Memoirs of a Woman of Pleasure, popularly known as Fanny Hill, is a novel by John Cleland.
+Written in 1748 while Cleland was in debtor's prison in London, it is considered the first modern &quot;erotic novel&quot; in English, and has become a byword for the battle of censorship of erotica.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/84.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/84.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/84.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/84.png?t=20090916100913" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/84.png?size=smaller&amp;t=20090916100913" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/84.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Tale of Two Cities</title>
+<id>http://www.feedbooks.com/book/81</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-09-16T10:08:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1859</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<summary>A Tale of Two Cities (1859) is the second historical novel by Charles Dickens, set in London and Paris before and during the French Revolution. It depicts the plight of the French proletariat under the brutal oppression of the French aristocracy in the years leading up to the revolution, and the corresponding savage brutality demonstrated by the revolutionaries toward the former aristocrats in the early years of the revolution. It follows the lives of several protagonists through these events, most notably Charles Darnay, a French once-aristocrat who falls victim to the indiscriminate wrath of the revolution despite his virtuous nature, and Sydney Carton, a dissipated English barrister who endeavours to redeem his ill-spent life out of love for Darnay's wife, Lucie Manette.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/81.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/81.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/81.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/81.png?t=20090916100843" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/81.png?size=smaller&amp;t=20090916100843" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/81.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Princess of Mars</title>
+<id>http://www.feedbooks.com/book/80</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:08:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>A Princess of Mars is an Edgar Rice Burroughs science fiction novel, the first of his famous Barsoom series. It is also Burroughs' first novel, predating his Tarzan stories. He wrote it between July and September 28, 1911, going through four working titles; initially, he was going to call it My First Adventure on Mars, then The Green Martians, Dejah Thoris, Martian Princess, and finally Under the Moons of Mars.
+The finished story was first published under the last of these titles in All-Story as a six-part serial in the issues for February-July 1912. For the serial publication, the author's name was given as &quot;Norman Bean&quot;; Burroughs had chosen the pseudonym of &quot;Normal Bean&quot; as a type of pun stressing that he was in his right mind, being concerned he might suffer ridicule for writing such a fantastic story. The effect was spoiled when a typesetter changed &quot;Normal&quot; to &quot;Norman&quot; on the assumption that the former was a typographical error. The story was later published as a complete novel under the present title by A. C. McClurg in October 1917.
+Full of swordplay and daring feats, the story is considered a classic example of 20th century pulp fiction.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/80.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/80.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/80.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/80.png?t=20090916100839" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/80.png?size=smaller&amp;t=20090916100839" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/80.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Shot</title>
+<id>http://www.feedbooks.com/book/77</id>
+<author>
+  <name>Aleksandr Sergeyevich Pushkin</name>
+  <uri>http://www.feedbooks.com/author/26</uri>
+</author>
+<updated>2009-09-16T10:08:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1830</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/77.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/77.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/77.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/77.png?t=20090916100836" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/77.png?size=smaller&amp;t=20090916100836" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/77.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Queen of Spades</title>
+<id>http://www.feedbooks.com/book/76</id>
+<author>
+  <name>Aleksandr Sergeyevich Pushkin</name>
+  <uri>http://www.feedbooks.com/author/26</uri>
+</author>
+<updated>2009-09-16T10:08:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1834</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>Pushkin's story tells of the Russianized German card player, Hermann--an engineer in the army in Russia--who becomes obsessed with the secret of three consecutive winning cards after hearing a story about an old countess' winnings years prior. His obsession drives him to manipulate the countess' ward, Lizaveta Ivanovna, into letting him into their home.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/76.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/76.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/76.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/76.png?t=20090916100836" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/76.png?size=smaller&amp;t=20090916100836" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/76.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Count of Monte Cristo</title>
+<id>http://www.feedbooks.com/book/73</id>
+<author>
+  <name>Alexandre Dumas</name>
+  <uri>http://www.feedbooks.com/author/25</uri>
+</author>
+<updated>2009-11-24T17:50:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1845</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The Count of Monte Cristo (French: Le Comte de Monte-Cristo) is an adventure novel by Alexandre Dumas, p&#232;re. It is often considered, along with The Three Musketeers, as Dumas' most popular work. It is also among the highest selling books of all time. The writing of the work was completed in 1844. Like many of his novels, it is expanded from the plot outlines suggested by his collaborating ghostwriter Auguste Maquet.
+The story takes place in France, Italy, islands in the Mediterranean and the Levant during the historical events of 1815&#8211;1838 (from just before the Hundred Days through the reign of Louis-Philippe of France). The historical setting is a fundamental element of the book. It is primarily concerned with themes of hope, justice, vengeance, mercy, forgiveness and death, and is told in the style of an adventure story.
+</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/73.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/73.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/73.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/73.png?t=20091124175035" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/73.png?size=smaller&amp;t=20091124175035" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/73.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Adventures of Tom Sawyer</title>
+<id>http://www.feedbooks.com/book/72</id>
+<author>
+  <name>Mark Twain</name>
+  <uri>http://www.feedbooks.com/author/24</uri>
+</author>
+<updated>2009-09-16T10:08:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1876</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The Adventures of Tom Sawyer, by Mark Twain, is a popular 1876 novel about a young boy growing up in the antebellum South on the Mississippi River in the fictional town of St. Petersburg, Missouri.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/72.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/72.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/72.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/72.png?t=20090916100823" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/72.png?size=smaller&amp;t=20090916100823" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/72.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Adventures of Huckleberry Finn</title>
+<id>http://www.feedbooks.com/book/71</id>
+<author>
+  <name>Mark Twain</name>
+  <uri>http://www.feedbooks.com/author/24</uri>
+</author>
+<updated>2009-10-11T14:31:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1885</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Adventures of Huckleberry Finn (often shortened to Huck Finn) is a novel written by American humorist Mark Twain. It is commonly used and accounted as one of the first Great American Novels. It is also one of the first major American novels written using Local Color Regionalism, or vernacular, told in the first person by the eponymous Huckleberry &quot;Huck&quot; Finn, best friend of Tom Sawyer and hero of three other Mark Twain books.
+The book is noted for its colorful description of people and places along the Mississippi River. By satirizing Southern antebellum society that was already a quarter-century in the past by the time of publication, the book is an often scathing look at entrenched attitudes, particularly racism. The drifting journey of Huck and his friend Jim, a runaway slave, down the Mississippi River on their raft may be one of the most enduring images of escape and freedom in all of American literature.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/71.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/71.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/71.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/71.png?t=20091011143119" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/71.png?size=smaller&amp;t=20091011143119" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/71.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Great Expectations</title>
+<id>http://www.feedbooks.com/book/70</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<updated>2009-11-24T18:57:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1861</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Great Expectations is a novel by Charles Dickens first serialised in All the Year Round from 1 December 1860 to August 1861. It is regarded as one of his greatest and most sophisticated novels, and is one of his most enduringly popular, having been adapted for stage and screen over 250 times.
+Great Expectations is written in a semi-autobiographical style, and is the story of the orphan Pip, writing his life from his early days of childhood until adulthood. The story can also be considered semi-autobiographical of Dickens, like much of his work, drawing on his experiences of life and people.
+The action of the story takes place from Christmas Eve, 1812, when the protagonist is about seven years old, to the winter of 1840.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/70.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/70.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/70.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/70.png?t=20091124185741" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/70.png?size=smaller&amp;t=20091124185741" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/70.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tarzan of the Apes</title>
+<id>http://www.feedbooks.com/book/69</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:08:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>When Tarzan is orphaned as a baby deep in the African jungle, the apes adopt him and raise him as their own. By the time the boy is ten, he can swing through the trees and talk to the animals.  By the time he is eighteen, he has the strength of a lion and rules the apes as their king. But Tarzan knows he's different. Will he ever discover his true identity?</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/69.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/69.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/69.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/69.png?t=20090916100812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/69.png?size=smaller&amp;t=20090916100812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/69.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>New Grub Street</title>
+<id>http://www.feedbooks.com/book/68</id>
+<author>
+  <name>George Gissing</name>
+  <uri>http://www.feedbooks.com/author/22</uri>
+</author>
+<updated>2009-12-09T20:09:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1891</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>The story is about the literary world of late-Victorian London that Gissing inhabited, and its title, New Grub Street, alludes to the London street, Grub Street, which in the 18th century became synonymous with the &quot;hack writing&quot; that pervades Gissing's novel; Grub Street itself was no longer extant when Gissing was writing. The novel contrasts Edwin Reardon, a congenitally uncommercial but talented writer, against Jasper Milvain, a selfish and unscrupulous hack who rejects artistic endeavour for material gain. Milvain's trite, manipulative work ascends while Reardon's work--and his life--spiral downward.
+The novel suggests that the literary world rewards materialistic self-promotion more than serious artistic sensibility. Gissing's biography--a respected writer who struggled for a long time to obtain commercial success--strongly suggests the novel is autobiographical, the author's stand-in being (of course) Reardon.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/68.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/68.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/68.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/68.png?t=20091209200926" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/68.png?size=smaller&amp;t=20091209200926" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/68.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Lost World</title>
+<id>http://www.feedbooks.com/book/67</id>
+<author>
+  <name>Arthur Conan Doyle</name>
+  <uri>http://www.feedbooks.com/author/1</uri>
+</author>
+<updated>2009-09-16T10:08:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1912</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The Lost World is a novel released in 1912 by Arthur Conan Doyle concerning an expedition to a plateau in South America where prehistoric animals (dinosaurs and other extinct creatures) still survive. The character of Professor Challenger was introduced in this book. Interestingly, for a seminal work of dinosaur-related fiction, the animals only occupy a small portion of the narrative. Much more time is devoted to a war between early human hominids and a vicious tribe of ape-like creatures.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/67.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/67.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/67.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/67.png?t=20090916100805" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/67.png?size=smaller&amp;t=20090916100805" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/67.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Casebook of Sherlock Holmes</title>
+<id>http://www.feedbooks.com/book/66</id>
+<author>
+  <name>Arthur Conan Doyle</name>
+  <uri>http://www.feedbooks.com/author/1</uri>
+</author>
+<updated>2009-12-03T17:31:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1923</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<category term="Collections" label="Collections"/>
+<summary>The last twelve stories written about Holmes and Watson, these tales reflect the disillusioned world of the 1920s in which they were written. Some of the sharpest turns of wit in English literature are contrasted by dark images of psychological tragedy, suicide, and incest in a collection of tales that have haunted generations of readers.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/66.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/66.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/66.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/66.png?t=20091203173128" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/66.png?size=smaller&amp;t=20091203173128" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/66.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

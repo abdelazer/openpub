@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=11</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=11" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=11" rel="self"/>
+  <title>Original Books / New Releases / Page 11 | Feedbooks</title>
+  <updated>2010-04-07T18:23:54Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>201</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=10" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=12" rel="next" title="Next Page"/>
+<entry>
+<title>Royals</title>
+<id>http://www.feedbooks.com/userbook/10281</id>
+<author>
+  <name>Denise Kim Wy</name>
+  <uri>http://www.feedbooks.com/user/51109/profile#Denise%20Kim%20Wy</uri>
+</author>
+<updated>2010-02-12T22:56:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Matthew Hoarde now known as Vance Walton, is a hit man prodigy. His father was killed by an unknown murderer. He was accepted to the Royals, an underground brotherhood that is more stronger than the Mafia. After years of serving them and having his loved ones killed one by one he now decided to fight againts the system. Will he succeed? Or his mysterious past shall overpower his judgement?
+</summary>
+<category term="romance"/>
+<category term="mafia"/>
+<category term="love"/>
+<category term="death"/>
+<category term="assassin"/>
+<category term="action"/>
+<category term="Young Adult"/>
+<category term="hit man"/>
+<category term="crime"/>
+<category term="adventure"/>
+<category term="Identity"/>
+<category term="thriller"/>
+<category term="underground"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10281.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10281.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10281.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10281.png?t=20100212225622" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10281.png?size=smaller&amp;t=20100212225622" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10281.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tall Tales of Felony and Failure</title>
+<id>http://www.feedbooks.com/userbook/10278</id>
+<author>
+  <name>Warren Haustrumerda</name>
+  <uri>http://www.feedbooks.com/user/74759/profile#Warren%20Haustrumerda</uri>
+</author>
+<updated>2010-02-11T10:01:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Tall Tales of Felony and Failure is a pulp novella that follows two young men, Cranston and Tom, through an adventure from Hawaii to the Holy See via Cambodia and Las Vegas.
+
+The story begins with Cranston learning to stop and start time, allowing the pair to escape death on several occasions, steal magnificently, and recover John the Baptist's conscious head. The tale ends, as expected, in submarine piracy.
+
+A darkly humorous account of murder, debauchery, and dereliction, this tale details two lads' almost immediate disregard of societal restrictions once any means to enforce these restrictions are removed.
+</summary>
+<category term="submarine"/>
+<category term="piracy"/>
+<category term="demons"/>
+<category term="church"/>
+<category term="government"/>
+<category term="dark humor"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10278.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10278.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10278.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10278.png?t=20100211100108" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10278.png?size=smaller&amp;t=20100211100108" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10278.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Bikes of New York</title>
+<id>http://www.feedbooks.com/userbook/10277</id>
+<author>
+  <name>Cheeseburger Brown</name>
+  <uri>http://www.feedbooks.com/user/74538/profile#Cheeseburger%20Brown</uri>
+</author>
+<updated>2010-02-15T15:06:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>This is the story of Luc Drapeau, immigrant and father, living in the midst of a global energy crisis. He feels the throb of civilization through the soles of his shoes, and it isn't his imagination: in Manhattan every sidewalk bounces to harness every footfall for the public energy pool, every recoil channeled to the island&#8217;s banks of giant flywheels turning underground to keep the lights lit. The poor ride generator bicycles to power the cities, working for coins with their sweat. They dare not let the pace slacken. To lose momentum is to let joules fall down the well, and to go home hungry. It&#8217;s a hard life. But Luc Drapeau is about to change the bikes forever.</summary>
+<category term="fiction"/>
+<category term="dystopian"/>
+<category term="near-future"/>
+<category term="SciFi"/>
+<category term="energy crisis"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10277.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10277.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10277.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10277.png?t=20100215150641" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10277.png?size=smaller&amp;t=20100215150641" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10277.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>How to Make Money at Roulette in the LONG TERM</title>
+<id>http://www.feedbooks.com/userbook/10257</id>
+<author>
+  <name>Michael B.</name>
+  <uri>http://www.feedbooks.com/user/74554/profile#Michael%20B.</uri>
+</author>
+<updated>2010-02-12T21:29:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>There are only a very few select ways out of thousands of different possibilities, that are able to successfully defeat the game of roulette in the long term. And I'm bringing the public the best roulette system there is.</summary>
+<category term="make money online"/>
+<category term="gambling"/>
+<category term="casino"/>
+<category term="roulette strategy"/>
+<category term="roulette system"/>
+<category term="roulette"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10257.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10257.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10257.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10257.png?t=20100212212944" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10257.png?size=smaller&amp;t=20100212212944" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10257.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Simon of Space</title>
+<id>http://www.feedbooks.com/userbook/10254</id>
+<author>
+  <name>Cheeseburger Brown</name>
+  <uri>http://www.feedbooks.com/user/74538/profile#Cheeseburger%20Brown</uri>
+</author>
+<updated>2010-02-19T11:49:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<summary>Simon Fell has awakened at a foreign star with no memory of his former life. He stands to inherit the legacy of a self he has never known. In a complex and frightening world of pioneer planets, clashing cultures and esoteric robots, one lost man will face a battery of tribulations, from his ignorance of basic customs to his entanglement in the machinations of interstellar politics. These are the adventures of N. Simonithrat Fell: hyperspatial amnesiac and gentleman-about-the-galaxy. Space will never be the same. </summary>
+<category term="Humor"/>
+<category term="adventure"/>
+<category term="science fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10254.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10254.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10254.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10254.png?t=20100219114915" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10254.png?size=smaller&amp;t=20100219114915" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10254.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #47</title>
+<id>http://www.feedbooks.com/userbook/10249</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2010-02-08T19:01:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Action Comics: Heart Of Kryptonite, Soul On Fire.</summary>
+<category term="Lois Lane"/>
+<category term="Lex Luthor"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Metallo"/>
+<category term="Superboy"/>
+<category term="Supergirl"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10249.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10249.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10249.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10249.png?t=20100208190144" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10249.png?size=smaller&amp;t=20100208190144" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10249.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Adventure Comics Annual #1</title>
+<id>http://www.feedbooks.com/userbook/10252</id>
+<author>
+  <name>David Charlton and Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton%20and%20Charles%20Wilkins</uri>
+</author>
+<updated>2010-02-08T19:01:15Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Adventure Comics Annual: Action and Adventure, Part Two.</summary>
+<category term="Kryptonite Man"/>
+<category term="Lois Lane"/>
+<category term="Evil Factory"/>
+<category term="General Zod"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Brainiac"/>
+<category term="Superman"/>
+<category term="Maxima"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10252.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10252.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10252.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10252.png?t=20100208190115" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10252.png?size=smaller&amp;t=20100208190115" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10252.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Green Lantern #4</title>
+<id>http://www.feedbooks.com/userbook/10250</id>
+<author>
+  <name>John Elbe</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#John%20Elbe</uri>
+</author>
+<updated>2010-02-08T19:00:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Green Lantern: Eye of the Beholder, Part 1 (of 3): Paint it Black.</summary>
+<category term="Green Lantern"/>
+<category term="Black Hand"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Punch"/>
+<category term="Jewelee"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10250.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10250.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10250.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10250.png?t=20100208190044" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10250.png?size=smaller&amp;t=20100208190044" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10250.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Weird Western Quarterly #17</title>
+<id>http://www.feedbooks.com/userbook/10251</id>
+<author>
+  <name>Susan Hillwig and Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Susan%20Hillwig%20and%20Don%20Walsh</uri>
+</author>
+<updated>2010-02-08T19:00:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Weird Western Quarterly: Auld Lang Syne.</summary>
+<category term="Jonah Hex"/>
+<category term="Johnny Thunder"/>
+<category term="Madame .44"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Western"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10251.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10251.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10251.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10251.png?t=20100208190019" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10251.png?size=smaller&amp;t=20100208190019" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10251.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>S4/c</title>
+<id>http://www.feedbooks.com/userbook/10216</id>
+<author>
+  <name>shawntee</name>
+  <uri>http://www.feedbooks.com/user/74272/profile#shawntee</uri>
+</author>
+<updated>2010-02-07T08:18:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>The history of S4/c, the history of British television industry, a glimpse into it.</summary>
+<category term="S4/c"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10216.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10216.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10216.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10216.png?t=20100207081826" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10216.png?size=smaller&amp;t=20100207081826" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10216.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Heart of Hauden</title>
+<id>http://www.feedbooks.com/userbook/10212</id>
+<author>
+  <name>P.A. Seasholtz</name>
+  <uri>http://www.feedbooks.com/user/74137/profile#P.A.%20Seasholtz</uri>
+</author>
+<updated>2010-02-11T01:25:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Desperate and dying, with their society plunged into chaos at the hands of the Plague Bringers, Laedian Fayersae has led her people to Hauden on the winds of a misunderstood foretelling.  Silent and fading, with their ancient fires extinguished at the hands of the Dasyu, whispers by the Ganien Mothers on Hauden keep the memory of a forgotten prophecy from going dark.  Thus, the accidental convergence of foretelling and prophecy begins the Harmony of the Othar Saga.</summary>
+<category term="Series"/>
+<category term="fantasy"/>
+<category term="Harmony of the Othar Saga"/>
+<category term="P.A. Seasholtz"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10212.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10212.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10212.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10212.png?t=20100211012512" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10212.png?size=smaller&amp;t=20100211012512" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10212.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Daring Twist</title>
+<id>http://www.feedbooks.com/userbook/10189</id>
+<author>
+  <name>Leigh Ellwood</name>
+  <uri>http://www.feedbooks.com/user/73955/profile#Leigh%20Ellwood</uri>
+</author>
+<updated>2010-02-06T02:43:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A Dareville short! It's Karaoke Night at the local Cinco de Mayo celebration, but Red Marbury is singing the blues. When a gorgeous barfly named Miguel offers to cheer him up, Red comes to realize he can still enjoy the fireworks.</summary>
+<category term="gay"/>
+<category term="Erotic"/>
+<category term="romance"/>
+<category term="adult"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10189.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10189.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10189.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10189.png?t=20100206024319" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10189.png?size=smaller&amp;t=20100206024319" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10189.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Life Broker</title>
+<id>http://www.feedbooks.com/userbook/10149</id>
+<author>
+  <name>Ivan Turner</name>
+  <uri>http://www.feedbooks.com/user/69637/profile#Ivan%20Turner</uri>
+</author>
+<updated>2010-02-05T17:37:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>If you're like Mr. Davis, you're unsatisfied with your life.  Of course, if you're like Mr. Davis, you've reached the end of your life and a none too happy ending it was.  Ready for a new life, Mr. Davis now has the opportunity to make sure everything goes the way he wants it to go.  And with Jimmy as his broker, everything's sure to turn out just right.</summary>
+<category term="reincarnation"/>
+<category term="heaven"/>
+<category term="God"/>
+<category term="afterlife"/>
+<category term="sci fi"/>
+<category term="science fiction"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10149.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10149.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10149.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10149.png?t=20100205173711" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10149.png?size=smaller&amp;t=20100205173711" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10149.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Historical and the Mythological Jesus</title>
+<id>http://www.feedbooks.com/userbook/10133</id>
+<author>
+  <name>Paulo Roberto Candido dos Santos</name>
+  <uri>http://www.feedbooks.com/user/62908/profile#Paulo%20Roberto%20Candido%20dos%20Santos</uri>
+</author>
+<updated>2010-02-03T22:55:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>In this book the author tries to compare the historical Jesus with the mythological, seeking to show that the Jesus of the Gospels probably never really existed, having emerged from a fusion of ancient pagan deities with a Jewish mystic of the century I Yeshu ben Panthera, which can have been the son of a Roman officer. It also discusses the deification of Jesus at the Council of Nicea, which may have occurred to satisfy political and social Constantino.Trata a controversial text that should not be regarded as religious and, yes, as a historical study.</summary>
+<category term=";"/>
+<category term=";"/>
+<category term=";"/>
+<category term=";"/>
+<category term="Legend of Satmi"/>
+<category term="Gospels"/>
+<category term="Mithraism"/>
+<category term="Panthera"/>
+<category term="Jesus"/>
+<category term="."/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10133.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10133.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10133.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10133.png?t=20100203225538" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10133.png?size=smaller&amp;t=20100203225538" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10133.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Costa Rica Travel Tips</title>
+<id>http://www.feedbooks.com/userbook/10121</id>
+<author>
+  <name>Paul Clayton</name>
+  <uri>http://www.feedbooks.com/user/73566/profile#Paul%20Clayton</uri>
+</author>
+<updated>2010-02-03T15:58:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>If you&#8217;re planning a trip to Costa Rica, there&#8217;s more to just walking into a travel agency and buying a ticket. But why start with a travel agent? Most of us spend a lot of time and money on our holidays, yet rarely do we take the trouble to plan them properly. We almost invariably forget to do something beforehand or fail to pack something important. Often as not, we will not get to see and do all the things that we wanted to, simply because of a lack of planning.
+This little book can become your guide! The facts contained in it will help to reinforce your background knowledge of Costa Rica, and could very well help you to determine what to do, and where to go when you ultimately get there! Thanks to the internet, travel discounts are widely available. However, if you don't know where to look, then you are likely paying 'retail prices' for travel related expenses to Costa Rica. The best travel discounts are constantly changing, so use the ebook and our web site resources to help research all your Costa Rica vacation plans and maximize your visit.
+Also this ebook can help potential purchasers of property in Costa Rica, whether looking for investment property, income from vacation rentals, or a permanent retirement home. Looking for a dentist, how about getting that tummy tuck or knee replacement. Costa Rica has become world renown for their medical tourism and you can find the Doctors and retreats within our resources.
+As exciting as traveling Costa Rica is, the really scary part is the prospect of returning home and telling your friends and family how your dream trip turned into your worst nightmare. All because you weren&#8217;t prepared! Make no mistake... this ebook can help you with how to make the best decisions about your resort, hotel, condo, private vacation rental and destination within Costa Rica so you can actually experience memories that will last a lifetime. </summary>
+<category term="costa rica hotels"/>
+<category term="costa rica vacation rentals"/>
+<category term="costa rica"/>
+<category term="costa rica vacations"/>
+<category term="costa rica travel"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10121.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10121.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10121.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10121.png?t=20100203155802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10121.png?size=smaller&amp;t=20100203155802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10121.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Batman #17</title>
+<id>http://www.feedbooks.com/userbook/10110</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2010-02-03T10:28:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Batman: Hizzoner, The Joker!
+</summary>
+<category term="harley quinn"/>
+<category term="Vicki Vale"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Joker"/>
+<category term="Penguin"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10110.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10110.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10110.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10110.png?t=20100203102840" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10110.png?size=smaller&amp;t=20100203102840" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10110.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #17</title>
+<id>http://www.feedbooks.com/userbook/10108</id>
+<author>
+  <name>Brian Burchette</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Brian%20Burchette</uri>
+</author>
+<updated>2010-02-03T10:28:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Detective Comics: The Two Faces of Harvey Dent, Part 1 (of 2).</summary>
+<category term="Two-Face"/>
+<category term="Vicki Vale"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10108.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10108.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10108.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10108.png?t=20100203102816" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10108.png?size=smaller&amp;t=20100203102816" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10108.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rogues Gallery #7</title>
+<id>http://www.feedbooks.com/userbook/10111</id>
+<author>
+  <name>Michael Hewison</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Michael%20Hewison</uri>
+</author>
+<updated>2010-02-03T10:27:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Rogues Gallery: Scarecrow and The Joker.</summary>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Joker"/>
+<category term="Scarecrow"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10111.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10111.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10111.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10111.png?t=20100203102751" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10111.png?size=smaller&amp;t=20100203102751" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10111.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #19</title>
+<id>http://www.feedbooks.com/userbook/10112</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2010-02-03T10:27:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>Danger Trail: Affairs of Blood and State, Part 4.
+
+</summary>
+<category term="Azrael"/>
+<category term="adventure"/>
+<category term="mystery"/>
+<category term="pulp"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<category term="Plastic Man"/>
+<category term="Rose Psychic"/>
+<category term="pulp fiction"/>
+<category term="Speed Saunders"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10112.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10112.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10112.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10112.png?t=20100203102724" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10112.png?size=smaller&amp;t=20100203102724" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10112.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Anthill</title>
+<id>http://www.feedbooks.com/userbook/10109</id>
+<author>
+  <name>Bryan L. Lee</name>
+  <uri>http://www.feedbooks.com/user/56437/profile#Bryan%20L.%20Lee</uri>
+</author>
+<updated>2010-02-15T16:14:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2010</dcterms:issued>
+<summary>They were just regular black ants, the kind boys feed grasshoppers to, or zap with their magnifying glasses.  But Harold knew Alice didn't like ants.</summary>
+<category term="housewife"/>
+<category term="insects"/>
+<category term="ants"/>
+<category term="Scary"/>
+<category term="horror"/>
+<category term="fiction"/>
+<category term="short story"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/10109.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/10109.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/10109.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10109.png?t=20100215161444" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/10109.png?size=smaller&amp;t=20100215161444" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/10109.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

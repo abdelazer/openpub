@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=38</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=38" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=38" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 38 | Feedbooks</title>
+  <updated>2010-04-07T18:26:37Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>741</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=37" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=39" rel="next" title="Next Page"/>
+<entry>
+<title>The Plastic Elf of Extrusion Valley</title>
+<id>http://www.feedbooks.com/book/3456</id>
+<author>
+  <name>David McGillveray</name>
+  <uri>http://www.feedbooks.com/author/546</uri>
+</author>
+<updated>2009-08-18T01:18:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Strange things are afoot in the computer-controlled fabrication farms of Germany&#8217;s Altes Land&#8230;</summary>
+<dcterms:source>http://futurismic.com/category/fiction/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3456.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3456.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3456.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3456.png?t=20090818011804" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3456.png?size=smaller&amp;t=20090818011804" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3456.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Fanny Herself</title>
+<id>http://www.feedbooks.com/book/3455</id>
+<author>
+  <name>Edna Ferber</name>
+  <uri>http://www.feedbooks.com/author/828</uri>
+</author>
+<updated>2009-08-18T01:18:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Biography" label="Biography"/>
+<summary>This intensely personal chronicle of a young girl growing up Jewish in a small midwestern town is the most autobiographical of Pulitzer Prize-winning Ferber&#8217;s novels, full of fine, full-blown, and fascinating characters. </summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work was published before 1923 and is in the public domain in the USA only.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3455.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3455.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3455.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3455.png?t=20090818011805" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3455.png?size=smaller&amp;t=20090818011805" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3455.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Phantastes</title>
+<id>http://www.feedbooks.com/book/3437</id>
+<author>
+  <name>George MacDonald</name>
+  <uri>http://www.feedbooks.com/author/817</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1858</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Phantastes: A Faerie Romance for Men and Women is a fantasy novel written by George MacDonald, first published in London in 1858. Its importance was recognized in its later revival in paperback by Ballantine Books as the fourteenth volume of the celebrated Ballantine Adult Fantasy series in April 1970. 
+This was the first prose work published by MacDonald. Because of its limited financial success, MacDonald saw himself forced to turn to writing realistic novels. Phantastes, however, exerted a strong influence on fantasy authors of later generations: for example, C. S. Lewis in his book Suprised by Joy claimed that his imagination had been &quot;baptized&quot; by reading it.
+The story centers on the character Anodos (&quot;pathless&quot; or &quot;ascent&quot; in Greek) and takes its inspiration from German Romanticism, particularly Novalis. The story concerns a young man who is pulled into a dreamlike world and there hunts for his ideal of female beauty, embodied by the &quot;Marble Lady&quot;. Anodos lives through many adventures and temptations while in the other world, until he is finally ready to give up his ideals. In its themes and overall storyline, Phantastes is a kind of dry run for MacDonald's later novel Lilith.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3437.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3437.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3437.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3437.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3437.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3437.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Return of Dr. Fu-Manchu</title>
+<id>http://www.feedbooks.com/book/3449</id>
+<author>
+  <name>Sax Rohmer</name>
+  <uri>http://www.feedbooks.com/author/778</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>Second book in the Fu Manchu series.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3449.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3449.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3449.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3449.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3449.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3449.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Atoms of Empire</title>
+<id>http://www.feedbooks.com/book/3445</id>
+<author>
+  <name>Charles John Cutcliffe Wright Hyne</name>
+  <uri>http://www.feedbooks.com/author/178</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1904</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>The wandering Englishman, the atom of empire, at sundry ends of the earth is not always good company in the flesh, but in Mr. Cutcliffe Hyne's stories he is good company. For the reader is not in the position of the &quot;native&quot;; he is, on the contrary, elected of the company of proper Britons and talked to as an equal. Those who try this book will have no sharp regrets.</summary>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3445.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3445.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3445.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3445.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3445.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3445.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Jemina, the Mountain Girl</title>
+<id>http://www.feedbooks.com/book/3444</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>Written circa 1917, and published published much later in &quot;Vanity Fair&quot;. It was later first published in book form in Tales of the Jazz Age in 1922.
+Written, like &quot;Tarquin of Cheapside,&quot; while I was at Princeton, this sketch was published years later in &quot;Vanity Fair.&quot; For its technique I must apologize to Mr. Stephen Leacock.
+I have laughed over it a great deal, especially when I first wrote it, but I can laugh over it no longer. Still, as other people tell me it is amusing, I include it here. It seems to me worth preserving a few years&#8212;at least until the ennui of changing fashions suppresses me, my books, and it together.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3444.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3444.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3444.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3444.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3444.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3444.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Mr. Icky</title>
+<id>http://www.feedbooks.com/book/3443</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Plays" label="Plays"/>
+<summary>This has the distinction of being the only magazine piece ever written in a New York hotel. The business was done in a bedroom in the Knickerbocker, and shortly afterward that memorable hostelry closed its doors forever.
+When a fitting period of mourning had elapsed it was published in the &quot;Smart Set.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3443.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3443.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3443.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3443.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3443.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3443.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Porcelain and Pink</title>
+<id>http://www.feedbooks.com/book/3442</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Plays" label="Plays"/>
+<summary>First published in the &quot;Smart Set&quot;, and first published in book form in Tales of the Jazz Age in 1922.
+&quot;And do you write for any other magazines?&quot; inquired the young lady.
+&quot;Oh, yes,&quot; I assured her. &quot;I've had some stories and plays in the 'Smart Set,' for instance&#8212;&#8212;&#8212;&quot;
+The young lady shivered.
+&quot;The 'Smart Set'!&quot; she exclaimed. &quot;How can you? Why, they publish stuff about girls in blue bathtubs, and silly things like that&quot;
+And I had the magnificent joy of telling her that she was referring to &quot;Porcelain and Pink,&quot; which had appeared there several months before.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3442.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3442.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3442.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3442.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3442.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3442.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>May Day</title>
+<id>http://www.feedbooks.com/book/3441</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>This somewhat unpleasant tale, published as a novelette in the &quot;Smart Set&quot; in July, 1920, relates a series of events which took place in the spring of the previous year. Each of the three events made a great impression upon me. In life they were unrelated, except by the general hysteria of that spring which inaugurated the Age of Jazz, but in my story I have tried, unsuccessfully I fear, to weave them into a pattern&#8212;a pattern which would give the effect of those months in New York as they appeared to at least one member of what was then the younger generation.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3441.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3441.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3441.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3441.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3441.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3441.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Camel's Back</title>
+<id>http://www.feedbooks.com/book/3440</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>Originally published in the &quot;Saturday Evening Post&quot; in 1920, this story was first published in book form in Tales of the Jazz Age in 1922.
+&quot;I suppose that of all the stories I have ever written this one cost me the least travail and perhaps gave me the most amusement. As to the labor involved, it was written during one day in the city of New Orleans, with the express purpose of buying a platinum and diamond wrist watch which cost six hundred dollars. I began it at seven in the morning and finished it at two o'clock the same night. It was published in the &quot;Saturday Evening Post&quot; in 1920, and later included in the O. Henry Memorial Collection for the same year. I like it least of all the stories in this volume.
+My amusement was derived from the fact that the camel part of the story is literally true; in fact, I have a standing engagement with the gentleman involved to attend the next fancy-dress party to which we are mutually invited, attired as the latter part of the camel&#8212;this as a sort of atonement for being his historian.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3440.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3440.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3440.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3440.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3440.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3440.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Jelly Bean</title>
+<id>http://www.feedbooks.com/book/3439</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>Originally published in the periodical The Metropolitan, this story was first published in book form in Tales of the Jazz Age in 1922.
+&quot;This is a Southern story, with the scene laid in the small Lily of Tarleton, Georgia. I have a profound affection for Tarleton, but somehow whenever I write a story about it I receive letters from all over the South denouncing me in no uncertain terms. &quot;The Jelly-Bean,&quot; published in &quot;The Metropolitan,&quot; drew its full share of these admonitory notes.
+It was written under strange circumstances shortly after my first novel was published, and, moreover, it was the first story in which I had a collaborator. For, finding that I was unable to manage the crap-shooting episode, I turned it over to my wife, who, as a Southern girl, was presumably an expert on the technique and terminology of that great sectional pastime.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3439.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3439.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3439.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3439.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3439.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3439.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Night Horseman</title>
+<id>http://www.feedbooks.com/book/3436</id>
+<author>
+  <name>Max Brand</name>
+  <uri>http://www.feedbooks.com/author/753</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3436.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3436.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3436.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3436.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3436.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3436.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Lees of Happiness</title>
+<id>http://www.feedbooks.com/book/3435</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>This short story was first published in the &quot;Chicago Tribune,&quot; and first published in book form in Tales of the Jazz Age in 1922.
+&quot;Of this story I can say that it came to me in an irresistible form, crying to be written. It will be accused perhaps of being a mere piece of sentimentality, but, as I saw it, it was a great deal more. If, therefore, it lacks the ring of sincerity, or even, of tragedy, the fault rests not with the theme but with my handling of it.
+It appeared in the &quot;Chicago Tribune,&quot; and later obtained, I believe, the quadruple gold laurel leaf or some such encomium from one of the anthologists who at present swarm among us. The gentleman I refer to runs as a rule to stark melodramas with a volcano or the ghost of John Paul Jones in the role of Nemesis, melodramas carefully disguised by early paragraphs in Jamesian manner which hint dark and subtle complexities to follow. On this order:
+&quot;The case of Shaw McPhee, curiously enough, had no hearing on the almost incredible attitude of Martin Sulo. This is parenthetical and, to at least three observers, whose names for the present I must conceal, it seems improbable, etc., etc., etc.,&quot; until the poor rat of fiction is at last forced out into the open and the melodrama begins.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3435.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3435.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3435.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3435.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3435.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3435.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>&quot;O Russet Witch!&quot;</title>
+<id>http://www.feedbooks.com/book/3434</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>This short story was first published in the &quot;Metropolitan,&quot; and first published in book form in Tales of the Jazz Age in 1922.
+&quot;When this was written I had just completed the first draft of my second novel, and a natural reaction made me revel in a story wherein none of the characters need be taken seriously. And I'm afraid that I was somewhat carried away by the feeling that there was no ordered scheme to which I must conform. After due consideration, however, I have decided to let it stand as it is, although the reader may find himself somewhat puzzled at the time element. I had best say that however the years may have dealt with Merlin Grainger, I myself was thinking always in the present.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3434.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3434.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3434.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3434.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3434.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3434.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tarquin of Cheapside</title>
+<id>http://www.feedbooks.com/book/3433</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>This short story was first published in the &quot;Smart Set&quot; in 1921, although it had been written 5 years previous. It was first published in book form in Tales of the Jazz Age in 1922.
+&quot;Written almost six years ago, this story is a product of undergraduate days at Princeton. Considerably revised, it was published in the &quot;Smart Set&quot; in 1921. At the time of its conception I had but one idea&#8212;to be a poet&#8212;and the fact that I was interested in the ring of every phrase, that I dreaded the obvious in prose if not in plot, shows throughout. Probably the peculiar affection I feel for it depends more upon its age than upon any intrinsic merit.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3433.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3433.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3433.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3433.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3433.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3433.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Diamond as Big as the Ritz</title>
+<id>http://www.feedbooks.com/book/3432</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>The story tells of John T. Unger, a teenager from the town of Hades, Mississippi, who was sent to a private boarding school in Boston. During the summer he would visit the homes of his classmates, the vast majority of whom were from wealthy families.
+In the middle of his sophomore year, a young man named Percy Washington was placed in Unger's form. He would speak only to Unger, and then very rarely, but invited him for the summer to his home, the location of which he would only state as being &quot;in the West&quot;, an invitation Unger accepted.
+During the train ride Percy boasted that his father was &quot;by far the richest man in the world&quot;, and when challenged by Unger boasted that his father &quot;has a diamond bigger than the Ritz-Carlton Hotel.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3432.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3432.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3432.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3432.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3432.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3432.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Curious Case of Benjamin Button</title>
+<id>http://www.feedbooks.com/book/3431</id>
+<author>
+  <name>Francis Scott Fitzgerald</name>
+  <uri>http://www.feedbooks.com/author/201</uri>
+</author>
+<updated>2009-08-18T01:18:20Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>This story was inspired by a remark of Mark Twain's to the effect that it was a pity that the best part of life came at the beginning and the worst part at the end. By trying the experiment upon only one man in a perfectly normal world I have scarcely given his idea a fair trial. Several weeks after completing it, I discovered an almost identical plot in Samuel Butler's &quot;Note-books.&quot;
+The story was published in &quot;Collier's&quot; last summer and provoked this startling letter from an anonymous admirer in Cincinnati:
+&quot;Sir--
+I have read the story Benjamin Button in Colliers and I wish to say that as a short story writer you would make a good lunatic I have seen many peices of cheese in my life but of all the peices of cheese I have ever seen you are the biggest peice. I hate to waste a peice of stationary on you but I will.&quot;
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3431.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3431.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3431.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3431.png?t=20090818011820" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3431.png?size=smaller&amp;t=20090818011820" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3431.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Harrigan</title>
+<id>http://www.feedbooks.com/book/3429</id>
+<author>
+  <name>Max Brand</name>
+  <uri>http://www.feedbooks.com/author/753</uri>
+</author>
+<updated>2009-08-18T01:18:06Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>With gusts of wind fanning it roughly, the flame rose fast. Harrigan made other journeys to the rotten stump and wrenched away great chunks of bark and wood. He came back and piled them on the fire. It towered high, the upper tongues twisting among the branches of the tree. They laid Kate Malone between the windbreak and the fire. In a short time her trembling ceased; she turned her face to the blaze and slept.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3429.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3429.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3429.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3429.png?t=20090818011806" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3429.png?size=smaller&amp;t=20090818011806" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3429.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Raven</title>
+<id>http://www.feedbooks.com/book/3428</id>
+<author>
+  <name>Edgar Allan Poe</name>
+  <uri>http://www.feedbooks.com/author/16</uri>
+</author>
+<updated>2009-08-18T01:18:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1845</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<category term="Horror" label="Horror"/>
+<summary>&quot;The Raven&quot; is a narrative poem by the American writer and poet Edgar Allan Poe. It was published for the first time on January 29, 1845, in the New York Evening Mirror. Noted for its musicality, stylized language and supernatural atmosphere, it tells of the mysterious visit of a talking raven to a distraught lover, tracing his slow descent into madness.</summary>
+<dcterms:source>Project Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3428.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3428.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3428.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3428.png?t=20090818011805" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3428.png?size=smaller&amp;t=20090818011805" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3428.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Water-Babies</title>
+<id>http://www.feedbooks.com/book/3421</id>
+<author>
+  <name>Charles Kingsley</name>
+  <uri>http://www.feedbooks.com/author/820</uri>
+</author>
+<updated>2009-08-18T01:18:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1863</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>The Water-Babies, A Fairy Tale for a Land Baby is a children's novel by the Reverend Charles Kingsley. Written in 1862-1863 as a serial for Macmillan's Magazine, it was first published in its entirety in 1863. The book was extremely popular during its day, and was a mainstay of children's literature through the 1920s.
+The protagonist is Tom, a young chimney sweep, who falls into a river after encountering an upper-class girl named Ellie and being chased out of her house. There he dies and is transformed into a &quot;water baby&quot;, as he is told by a caddis fly &#8212; an insect that sheds its skin &#8212; and begins his moral education. The story is thematically concerned with Christian redemption, though Kingsley also uses the book to argue that England treats its poor badly, and to question child labour, among other themes.
+Source: Wikipedia</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3421.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3421.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3421.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3421.png?t=20090818011805" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3421.png?size=smaller&amp;t=20090818011805" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3421.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

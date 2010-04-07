@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=134</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=134" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=134" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 134 | Feedbooks</title>
+  <updated>2010-04-07T18:27:41Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2661</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=133" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=135" rel="next" title="Next Page"/>
+<entry>
+<title>A Place so Foreign</title>
+<id>http://www.feedbooks.com/book/660</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:27:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2000</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/660.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/660.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/660.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/660.png?t=20090916102754" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/660.png?size=smaller&amp;t=20090916102754" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/660.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>All Complex Ecosystems Have Parasites</title>
+<id>http://www.feedbooks.com/book/659</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:27:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Essay" label="Essay"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/659.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/659.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/659.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/659.png?t=20090916102753" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/659.png?size=smaller&amp;t=20090916102753" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/659.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Craphound</title>
+<id>http://www.feedbooks.com/book/658</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<updated>2009-09-16T10:27:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1998</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://craphound.com</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/658.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/658.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/658.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/658.png?t=20090916102753" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/658.png?size=smaller&amp;t=20090916102753" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/658.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Men Are Trouble</title>
+<id>http://www.feedbooks.com/book/656</id>
+<author>
+  <name>James Patrick Kelly</name>
+  <uri>http://www.feedbooks.com/author/139</uri>
+</author>
+<updated>2009-09-16T10:27:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2004</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.jimkelly.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/656.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/656.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/656.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/656.png?t=20090916102752" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/656.png?size=smaller&amp;t=20090916102752" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/656.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Itsy Bitsy Spider</title>
+<id>http://www.feedbooks.com/book/655</id>
+<author>
+  <name>James Patrick Kelly</name>
+  <uri>http://www.feedbooks.com/author/139</uri>
+</author>
+<updated>2009-09-16T10:27:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1997</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.jimkelly.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/655.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/655.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/655.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/655.png?t=20090916102751" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/655.png?size=smaller&amp;t=20090916102751" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/655.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Faith</title>
+<id>http://www.feedbooks.com/book/654</id>
+<author>
+  <name>James Patrick Kelly</name>
+  <uri>http://www.feedbooks.com/author/139</uri>
+</author>
+<updated>2009-09-16T10:27:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1989</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.jimkelly.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/654.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/654.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/654.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/654.png?t=20090916102750" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/654.png?size=smaller&amp;t=20090916102750" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/654.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Luck</title>
+<id>http://www.feedbooks.com/book/653</id>
+<author>
+  <name>James Patrick Kelly</name>
+  <uri>http://www.feedbooks.com/author/139</uri>
+</author>
+<updated>2009-09-16T10:27:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2002</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.jimkelly.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/653.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/653.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/653.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/653.png?t=20090916102750" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/653.png?size=smaller&amp;t=20090916102750" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/653.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Barry Westphall Crashes The Singularity</title>
+<id>http://www.feedbooks.com/book/652</id>
+<author>
+  <name>James Patrick Kelly</name>
+  <uri>http://www.feedbooks.com/author/139</uri>
+</author>
+<updated>2009-09-16T10:27:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2002</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.jimkelly.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/652.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/652.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/652.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/652.png?t=20090916102750" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/652.png?size=smaller&amp;t=20090916102750" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/652.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Burn</title>
+<id>http://www.feedbooks.com/book/651</id>
+<author>
+  <name>James Patrick Kelly</name>
+  <uri>http://www.feedbooks.com/author/139</uri>
+</author>
+<updated>2009-09-16T10:27:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2005</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Colonization is the theme of this exciting, complex page-turner that provides a provocative and entertaining look at Thoreau's classic eco-text Walden. Eccentric billionaire Jack Winter has bought the planet Beekman's Pea, renamed it Walden, and created a utopia in which members renounce the technologies of human civilization. Marginalized by these newcomers, the planet's original inhabitants are resisting the colony's dominance by setting fires to Walden's artificial ecology. A member of Walden, Prosper Gregory Leung is a veteran firefighter who believes in protecting Winter's utopian vision, but when he is wounded, he begins to learn of the terrible price that the people of Walden are paying for their paradise. Interwoven with themes of environmental responsibility, political struggle, and courage, this adventure novel nimbly combines political and social relevance with a flawless and gripping narrative from a veteran science fiction author.</summary>
+<dcterms:source>http://www.jimkelly.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/651.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/651.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/651.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/651.png?t=20090916102749" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/651.png?size=smaller&amp;t=20090916102749" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/651.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Confessions</title>
+<id>http://www.feedbooks.com/book/349</id>
+<author>
+  <name> Jean-Jacques Rousseau</name>
+  <uri>http://www.feedbooks.com/author/124</uri>
+</author>
+<updated>2010-01-07T08:14:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1768</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Biography" label="Biography"/>
+<summary>In his Confessions Jean-Jacques Rousseau tells the story of his life, from the formative experience of his humble childhood in Geneva, through the achievement of international fame as novelist and philosopher in Paris, to his wanderings as an exile, persecuted by governments and alienated from the world of modern civilization. In trying to explain who he was and how he came to be the object of others' admiration and abuse, Rousseau analyses with unique insight the relationship between an elusive but essential inner self and the variety of social identities he was led to adopt.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/349.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/349.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/349.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/349.png?t=20100107081410" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/349.png?size=smaller&amp;t=20100107081410" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/349.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Hunter Patrol</title>
+<id>http://www.feedbooks.com/book/375</id>
+<author>
+  <name>Henry Beam Piper</name>
+  <uri>http://www.feedbooks.com/author/114</uri>
+</author>
+<updated>2009-09-16T10:19:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Many men have dreamed of world peace, but none have been able to achieve it. If one man did have that power, could mankind afford to pay the price?</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/375.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/375.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/375.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/375.png?t=20090916101925" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/375.png?size=smaller&amp;t=20090916101925" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/375.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Null-ABC</title>
+<id>http://www.feedbooks.com/book/381</id>
+<author>
+  <name>Henry Beam Piper</name>
+  <uri>http://www.feedbooks.com/author/114</uri>
+</author>
+<updated>2009-09-16T10:19:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There's some reaction these days that holds scientists responsible for war. Take it one step further: What happens if &quot;book-learnin'&quot; is held responsible...? A blackmarket in forbidden knowledge!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/381.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/381.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/381.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/381.png?t=20090916101930" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/381.png?size=smaller&amp;t=20090916101930" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/381.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Oroonoko: or, the Royal Slave</title>
+<id>http://www.feedbooks.com/book/330</id>
+<author>
+  <name>Aphra Behn</name>
+  <uri>http://www.feedbooks.com/author/115</uri>
+</author>
+<updated>2009-09-16T10:16:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1688</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/330.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/330.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/330.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/330.png?t=20090916101656" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/330.png?size=smaller&amp;t=20090916101656" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/330.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Last Enemy</title>
+<id>http://www.feedbooks.com/book/377</id>
+<author>
+  <name>Henry Beam Piper</name>
+  <uri>http://www.feedbooks.com/author/114</uri>
+</author>
+<updated>2009-09-16T10:19:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1950</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The last enemy was the toughest of all--and conquering him was in itself almost as dangerous as not conquering. For a strange pattern of beliefs can make assassination an honorable profession!</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/377.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/377.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/377.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/377.png?t=20090916101926" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/377.png?size=smaller&amp;t=20090916101926" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/377.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Dream-Quest of Unknown Kadath</title>
+<id>http://www.feedbooks.com/book/247</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:28Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1943</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Horror" label="Horror"/>
+<summary>Randolph Carter dreams three times of a majestic sunset city, but each time he is abruptly snatched away before he can see it up close. When he prays to the gods of dream to reveal the whereabouts of the phantasmal city, they do not answer, and his dreams of the city stop altogether. Undaunted, Carter resolves to go to Kadath, where the gods live, to beseech them in person. However, no one has ever been to Kadath and none even knows how to get there. In dream, Randolph Carter descends &quot;the seventy steps to the cavern of flame&quot; and speaks of his plan to the priests Nasht and Kaman-Thah, whose temple borders the Dreamlands. The priests warn Carter of the great danger of his quest and suggest that the gods withdrew his vision of the city on purpose.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/247.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/247.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/247.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/247.png?t=20090916101528" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/247.png?size=smaller&amp;t=20090916101528" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/247.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Princess of Cleves</title>
+<id>http://www.feedbooks.com/book/345</id>
+<author>
+  <name>Madame de la Fayette</name>
+  <uri>http://www.feedbooks.com/author/120</uri>
+</author>
+<updated>2009-09-16T10:17:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1678</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<summary>La Princesse de Cl&#232;ves is a French novel, regarded by many as one of the first European novels, and a classic of its era. Its author is most often held to be Madame de La Fayette.
+Published anonymously in March 1678, and set a century earlier in the royal court of Henry II of France, it recreates that era with remarkable precision. Nearly every character &#8211; except the heroine &#8211; is a historic figure. Events and intrigues unfold with great faithfulness to documentary record.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/345.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/345.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/345.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/345.png?t=20090916101745" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/345.png?size=smaller&amp;t=20090916101745" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/345.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Middlemarch</title>
+<id>http://www.feedbooks.com/book/575</id>
+<author>
+  <name>George Eliot</name>
+  <uri>http://www.feedbooks.com/author/132</uri>
+</author>
+<updated>2010-01-02T15:27:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1871</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Vast and crowded, rich in irony and suspense, Middlemarch is richer still in character, with two of the era's most enduring characters, Dorothea Brooke, trapped in a loveless marriage, and Lydgate, an ambitious young doctor.</summary>
+<dcterms:source>Gutenberg</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/575.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/575.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/575.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/575.png?t=20100102152703" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/575.png?size=smaller&amp;t=20100102152703" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/575.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Wheels of Chance</title>
+<id>http://www.feedbooks.com/book/634</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:27:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1895</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/634.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/634.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/634.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/634.png?t=20090916102722" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/634.png?size=smaller&amp;t=20090916102722" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/634.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Treasure in the Forest</title>
+<id>http://www.feedbooks.com/book/633</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:27:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1894</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/633.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/633.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/633.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/633.png?t=20090916102717" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/633.png?size=smaller&amp;t=20090916102717" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/633.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Story of the Inexperienced Ghost</title>
+<id>http://www.feedbooks.com/book/632</id>
+<author>
+  <name>H. G. Wells</name>
+  <uri>http://www.feedbooks.com/author/14</uri>
+</author>
+<updated>2009-09-16T10:27:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1902</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/632.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/632.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/632.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/632.png?t=20090916102717" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/632.png?size=smaller&amp;t=20090916102717" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/632.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

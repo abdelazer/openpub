@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/top.atom?page=56&amp;range=month</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/top?page=56&amp;amp;range=month" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=56&amp;range=month" rel="self"/>
+  <title>Browsing Public Domain Books / Most Popular (This Month) / Page 56 | Feedbooks</title>
+  <updated>2010-04-07T18:25:05Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1101</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=55&amp;range=month" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?page=57&amp;range=month" rel="next" title="Next Page"/>
+<entry>
+<title>Kazan, the Wolf Dog</title>
+<id>http://www.feedbooks.com/book/4518</id>
+<author>
+  <name>James Oliver Curwood</name>
+  <uri>http://www.feedbooks.com/author/1285</uri>
+</author>
+<updated>2009-12-22T15:08:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>The tale of a &quot;quarter-strain wolf and three-quarters husky&quot; torn between the call of the human and his wild mate.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/10084</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4518.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4518.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4518.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4518.png?t=20091222150853" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4518.png?size=smaller&amp;t=20091222150853" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4518.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Poor Folk</title>
+<id>http://www.feedbooks.com/book/362</id>
+<author>
+  <name>Fyodor Mikhailovich Dostoyevsky</name>
+  <uri>http://www.feedbooks.com/author/2</uri>
+</author>
+<updated>2009-09-16T10:18:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1846</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Written in the form of letters, it recounts a blossoming romance amid St. Petersburg's slums between a middle-aged writer and a much younger seamstress. </summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/362.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/362.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/362.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/362.png?t=20090916101850" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/362.png?size=smaller&amp;t=20090916101850" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/362.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Murder in the Gunroom</title>
+<id>http://www.feedbooks.com/book/379</id>
+<author>
+  <name>Henry Beam Piper</name>
+  <uri>http://www.feedbooks.com/author/114</uri>
+</author>
+<updated>2009-09-16T10:19:29Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1953</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>The Lane Fleming collection of early pistols and revolvers was one of the best in the country. When Fleming was found dead on the floor of his locked gunroom, a Confederate-made Colt-type percussion .36 revolver in his hand, the coroner's verdict was &quot;death by accident.&quot; But Gladys Fleming had her doubts. Enough at any rate to engage Colonel Jefferson Davis Rand--better known just as Jeff--private detective and a pistol-collector himself, to catalogue, appraise, and negotiate the sale of her late husband's collection.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/379.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/379.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/379.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/379.png?t=20090916101929" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/379.png?size=smaller&amp;t=20090916101929" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/379.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Island of Sheep</title>
+<id>http://www.feedbooks.com/book/1211</id>
+<author>
+  <name>John Buchan</name>
+  <uri>http://www.feedbooks.com/author/17</uri>
+</author>
+<updated>2009-09-16T10:40:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Thriller" label="Thriller"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1211.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1211.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1211.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1211.png?t=20090916104045" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1211.png?size=smaller&amp;t=20090916104045" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1211.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Skulls in the Stars</title>
+<id>http://www.feedbooks.com/book/1632</id>
+<author>
+  <name>Robert Ervin Howard</name>
+  <uri>http://www.feedbooks.com/author/245</uri>
+</author>
+<updated>2009-09-16T11:08:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1929</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1632.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1632.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1632.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1632.png?t=20090916110830" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1632.png?size=smaller&amp;t=20090916110830" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1632.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Modus Vivendi</title>
+<id>http://www.feedbooks.com/book/4330</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-10-23T22:13:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Psychology" label="Psychology"/>
+<summary>It's undoubtedly difficult to live with someone who is Different. He must, because he is Different, live by other ways. But what makes it so difficult is that, for some reason he thinks you are Different!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30311</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4330.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4330.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4330.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4330.png?t=20091023221335" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4330.png?size=smaller&amp;t=20091023221335" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4330.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Caesar and Cleopatra</title>
+<id>http://www.feedbooks.com/book/4439</id>
+<author>
+  <name>George Bernard Shaw</name>
+  <uri>http://www.feedbooks.com/author/749</uri>
+</author>
+<updated>2009-11-25T10:07:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1898</dcterms:issued>
+<category term="Plays" label="Plays"/>
+<summary>Set in Egypt, Caesar and Cleopatra, is a drama in which the 50-year-old Roman general meets the childish young Queen and exerts a fatherly influence on her.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/3329</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4439.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4439.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4439.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4439.png?t=20091125100717" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4439.png?size=smaller&amp;t=20091125100717" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4439.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Eyes Have It</title>
+<id>http://www.feedbooks.com/book/4544</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2010-01-05T14:20:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1964</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>In a sense, this is a story of here-and-now. This Earth, this year ... but on a history-line slipped slightly sidewise. A history in which a great man acted differently, and Magic, rather than physical science, was developed....</summary>
+<dcterms:source>http://www.gutenberg.org/etext/30833</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4544.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4544.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4544.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4544.png?t=20100105142041" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4544.png?size=smaller&amp;t=20100105142041" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4544.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Out of the Aeons</title>
+<id>http://www.feedbooks.com/book/275</id>
+<author>
+  <name>Howard Phillips Lovecraft</name>
+  <uri>http://www.feedbooks.com/author/12</uri>
+</author>
+<updated>2009-09-16T10:15:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1933</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/275.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/275.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/275.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/275.png?t=20090916101539" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/275.png?size=smaller&amp;t=20090916101539" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/275.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Spacehounds of IPC</title>
+<id>http://www.feedbooks.com/book/828</id>
+<author>
+  <name>Edward Elmer &quot;Doc&quot; Smith</name>
+  <uri>http://www.feedbooks.com/author/150</uri>
+</author>
+<updated>2009-09-16T10:30:37Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1931</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>When the Inter-Planetary Corporation's top spaceliner Arcturus took off on a routine flight to Mars it turned out to be the beginning of a most unexpected and long voyage: attacked by a mysterious spaceship, the liner crash-landed on Ganymede. The survivors must first master that world's primeval terrors, then construct a new spacecraft, and finally, find a way to deal with the warring intelligences of the Jovian system.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/828.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/828.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/828.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/828.png?t=20090916103037" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/828.png?size=smaller&amp;t=20090916103037" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/828.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Skylark of Space</title>
+<id>http://www.feedbooks.com/book/830</id>
+<author>
+  <name>Edward Elmer &quot;Doc&quot; Smith</name>
+  <uri>http://www.feedbooks.com/author/150</uri>
+</author>
+<updated>2009-09-16T10:30:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1928</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>We know so little about intra-atomic forces, that this story, improbable as it will appear in spots, will read commonplace years hence, when we have atomic engines, and when we have solved the riddle of the atom. You will follow the hair-raising explorations and strange ventures into far-away worlds with bated breath, and you will be fascinated, as we were, with the strangeness of it all.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/830.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/830.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/830.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/830.png?t=20090916103045" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/830.png?size=smaller&amp;t=20090916103045" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/830.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Gifts of Asti</title>
+<id>http://www.feedbooks.com/book/856</id>
+<author>
+  <name>Andre Alice Norton</name>
+  <uri>http://www.feedbooks.com/author/159</uri>
+</author>
+<updated>2009-09-16T10:31:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1948</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>Varta, the last priestess of Asti, lives alone with Lur, a telepath of the lizardfolk, in Asti's isolated mountain retreat. Decadent Memphir has long since drifted away from the austere paths of Asti, and now the barbarians of Klem are sacking the city, and the smoke of its burning drifts up to the temple.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/856.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/856.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/856.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/856.png?t=20090916103139" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/856.png?size=smaller&amp;t=20090916103139" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/856.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Wives and Daughters</title>
+<id>http://www.feedbooks.com/book/2724</id>
+<author>
+  <name>Elizabeth Cleghorn Gaskell</name>
+  <uri>http://www.feedbooks.com/author/517</uri>
+</author>
+<updated>2010-01-02T15:27:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1864</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Wives and Daughters is a novel by Elizabeth Gaskell, first published in the Cornhill Magazine as a serial from August 1864 to January 1866. When Mrs Gaskell died suddenly in 1865, it was not quite complete, and the last section was written by Frederick Greenwood.
+The story revolves around Molly Gibson, only daughter of a widowed doctor living in a provincial English town in the 1830s.</summary>
+<dcterms:source>Gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2724.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2724.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2724.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2724.png?t=20100102152705" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2724.png?size=smaller&amp;t=20100102152705" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2724.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Bull Hunter</title>
+<id>http://www.feedbooks.com/book/3348</id>
+<author>
+  <name>Max Brand</name>
+  <uri>http://www.feedbooks.com/author/753</uri>
+</author>
+<updated>2009-08-18T01:18:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1924</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<category term="Western" label="Western"/>
+<summary>Hunter was a man who could rip a tree trunk from the ground with his bare hands or tame the wildest stallion with his kind manner. Nobody west of the Pecos would have dared run afoul of the mighty frontiersman. But Pete Reeve didn't have the reputation of a dead shot because he relied on his common sense. Then Bull and Pete crossed paths, and townsfolk from Cheyenne to San Antonio braced for the battle.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3348.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3348.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3348.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3348.png?t=20090818011804" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3348.png?size=smaller&amp;t=20090818011804" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3348.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tales of Wonder</title>
+<id>http://www.feedbooks.com/book/3357</id>
+<author>
+  <name>Lord Dunsany</name>
+  <uri>http://www.feedbooks.com/author/757</uri>
+</author>
+<updated>2009-08-18T01:18:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Fantasy" label="Fantasy"/>
+<category term="Collections" label="Collections"/>
+<summary>The Last Book of Wonder, originally published as Tales of Wonder, is the tenth book and sixth original short story collection of Irish fantasy writer Lord Dunsany, considered a major influence on the work of J. R. R. Tolkien, H. P. Lovecraft, Ursula LeGuin and others.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3357.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3357.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3357.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3357.png?t=20090818011804" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3357.png?size=smaller&amp;t=20090818011804" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3357.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Moon is Green</title>
+<id>http://www.feedbooks.com/book/4106</id>
+<author>
+  <name>Fritz Reuter Leiber Jr.</name>
+  <uri>http://www.feedbooks.com/author/380</uri>
+</author>
+<updated>2009-08-18T01:18:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1952</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Anybody who wanted to escape death could, by paying a very simple price--denial of life!</summary>
+<dcterms:source>http://www.gutenberg.org/etext/29662</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4106.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4106.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4106.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4106.png?t=20090818011819" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4106.png?size=smaller&amp;t=20090818011819" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4106.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>R.U.R.</title>
+<id>http://www.feedbooks.com/book/4199</id>
+<author>
+  <name>Karel &#268;apek</name>
+  <uri>http://www.feedbooks.com/author/1194</uri>
+</author>
+<updated>2009-09-14T16:39:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Plays" label="Plays"/>
+<summary>R.U.R. (Rossum's Universal Robots) is a science fiction play in the Czech language by Karel &#268;apek. It premiered in 1921 and is famous for having introduced and popularized the term robot.</summary>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4199.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4199.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4199.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4199.png?t=20090914163905" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4199.png?size=smaller&amp;t=20090914163905" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4199.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Trumpet-Major</title>
+<id>http://www.feedbooks.com/book/4676</id>
+<author>
+  <name>Thomas Hardy</name>
+  <uri>http://www.feedbooks.com/author/48</uri>
+</author>
+<updated>2010-03-30T15:41:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1880</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<category term="Romance" label="Romance"/>
+<category term="War" label="War"/>
+<summary>Hardy distrusted the application of nineteenth-century empiricism to history because he felt it marginalized important human elements. In The Trumpet Major, the tale of a woman courted by three competing suitors during the Napoleonic wars, he explores the subversive effects of ordinary human desire and conflicting loyalties on systematized versions of history.</summary>
+<dcterms:source>http://www.gutenberg.org/etext/2864</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/4676.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/4676.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/4676.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4676.png?t=20100330154108" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/4676.png?size=smaller&amp;t=20100330154108" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/4676.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Valley of Decision</title>
+<id>http://www.feedbooks.com/book/440</id>
+<author>
+  <name>Edith Wharton</name>
+  <uri>http://www.feedbooks.com/author/35</uri>
+</author>
+<updated>2009-09-16T10:21:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1902</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/440.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/440.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/440.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/440.png?t=20090916102136" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/440.png?size=smaller&amp;t=20090916102136" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/440.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Itsy Bitsy Spider</title>
+<id>http://www.feedbooks.com/book/655</id>
+<author>
+  <name>James Patrick Kelly</name>
+  <uri>http://www.feedbooks.com/author/139</uri>
+</author>
+<updated>2009-09-16T10:27:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1997</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.jimkelly.net</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/655.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/655.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/655.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/655.png?t=20090916102751" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/655.png?size=smaller&amp;t=20090916102751" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/655.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

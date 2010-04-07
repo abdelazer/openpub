@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/userbooks/recent.atom?page=22</id>
+  <link type="text/html" href="http://www.feedbooks.com/userbooks/recent?page=22" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=22" rel="self"/>
+  <title>Original Books / New Releases / Page 22 | Feedbooks</title>
+  <updated>2010-04-07T18:24:05Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>1113</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>421</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=21" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom?page=23" rel="next" title="Next Page"/>
+<entry>
+<title>Dial M For Monkey</title>
+<id>http://www.feedbooks.com/userbook/8487</id>
+<author>
+  <name>Adam Maxwell</name>
+  <uri>http://www.feedbooks.com/user/59820/profile#Adam%20Maxwell</uri>
+</author>
+<updated>2010-03-20T09:10:45Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Adam Maxwell's first collection of short stories is inventive, funny, dark, and hugely entertaining. Effortlessly fusing pop culture, gunplay, and simians, Dial M For Monkey contains a vibrant mixture of short stories - and short-short stories including 'Happiness is a Warm Gun' which featured in McSweeney's  Internet Tendency.</summary>
+<category term="strange"/>
+<category term="absurd"/>
+<category term="surreal"/>
+<category term="comedy"/>
+<category term="weird"/>
+<category term="dark"/>
+<category term="stories"/>
+<category term="comic"/>
+<category term="fiction"/>
+<category term="funny"/>
+<category term="short story"/>
+<category term="flash fiction"/>
+<category term="short stories"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8487.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8487.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8487.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8487.png?t=20100320091045" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8487.png?size=smaller&amp;t=20100320091045" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8487.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Abort</title>
+<id>http://www.feedbooks.com/userbook/8490</id>
+<author>
+  <name>Xavier Leret</name>
+  <uri>http://www.feedbooks.com/user/57967/profile#Xavier%20Leret</uri>
+</author>
+<updated>2010-02-23T13:51:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>An account of an abortion.</summary>
+<category term="www.xavierleret.com"/>
+<category term="Leret"/>
+<category term="Xavier"/>
+<category term="fiction"/>
+<category term="short"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8490.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8490.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8490.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8490.png?t=20100223135121" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8490.png?size=smaller&amp;t=20100223135121" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8490.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Bathrobe Guru</title>
+<id>http://www.feedbooks.com/userbook/8480</id>
+<author>
+  <name>Small Stories</name>
+  <uri>http://www.feedbooks.com/user/15148/profile#Small%20Stories</uri>
+</author>
+<updated>2010-04-02T14:18:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>A man wakes up with a body in his bed that looks identical to him. The plot was developed through a group collaboration on Google Wave.</summary>
+<category term="SciFi"/>
+<category term="sci-fi"/>
+<category term="micro novel"/>
+<category term="Creative Commons"/>
+<category term="science fiction"/>
+<category term="short story"/>
+<category term="wave fiction"/>
+<category term="google wave"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8480.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8480.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8480.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8480.png?t=20100402141832" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8480.png?size=smaller&amp;t=20100402141832" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8480.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ultimate Gotham Girls #22</title>
+<id>http://www.feedbooks.com/userbook/8465</id>
+<author>
+  <name>Samantha Chapman</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Samantha%20Chapman</uri>
+</author>
+<updated>2009-11-21T02:06:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Ultimate Gotham Girls: Save Our Circus.
+
+Haley's Circus is back in town, and ready to put on a killer show for Gotham City...at least, it was until a half-rate supervillain made a big-name mess by setting the animals loose! Join all our Gotham Girls, even including guest-stars, as they try to clean up in time for the show. And check back in with Harley Quinn, as she makes a couple new friends... </summary>
+<category term="poison ivy"/>
+<category term="harley quinn"/>
+<category term="Film Freak"/>
+<category term="Comics"/>
+<category term="DC3"/>
+<category term="batgirl"/>
+<category term="Catwoman"/>
+<category term="Spoiler"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8465.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8465.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8465.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8465.png?t=20091121020627" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8465.png?size=smaller&amp;t=20091121020627" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8465.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Rogues Gallery #1</title>
+<id>http://www.feedbooks.com/userbook/8464</id>
+<author>
+  <name>David Charlton</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#David%20Charlton</uri>
+</author>
+<updated>2009-11-21T02:05:49Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Rogues Gallery: Catwoman: Hot Tin Roof.</summary>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Catwoman"/>
+<category term="Batman"/>
+<category term="robin"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8464.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8464.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8464.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8464.png?t=20091121020549" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8464.png?size=smaller&amp;t=20091121020549" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8464.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Action Comics #42</title>
+<id>http://www.feedbooks.com/userbook/8462</id>
+<author>
+  <name>Pat Owen</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Pat%20Owen</uri>
+</author>
+<updated>2009-11-21T02:05:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Action Comics: Ring of Fire, Part 1 (of 3).
+
+It's training day as Superman tries to show Conner the ropes and how to use his powers. Meanwhile, trouble is brewing in Metropolis that involves The Man of Steel's old friend Pete Ross. And if that isn't all, Lois finally gets her chance to interview the man who should be dead...Morgan Edge!</summary>
+<category term="Lois Lane"/>
+<category term="Lana Lang"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Superman"/>
+<category term="Superboy"/>
+<category term="Brainiac"/>
+<category term="Freaks"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8462.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8462.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8462.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8462.png?t=20091121020500" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8462.png?size=smaller&amp;t=20091121020500" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8462.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nightwing #42</title>
+<id>http://www.feedbooks.com/userbook/8461</id>
+<author>
+  <name>Imari</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Imari</uri>
+</author>
+<updated>2009-11-21T02:04:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Nightwing: The Return, Part 3 (of 7): The Ties That Bind Us.
+
+How can things get worse? Jason Todd battles demons inner and out as he faces The Prince of Lies and his silent human golems! Things get downright weird in the Cave as we witness the aftermath of The Wrath's attack, and the siege of The Hill! Gotham Central is in turmoil as Commissioner Gordon faces a nigh unstoppable assassin in the form of Drakon and... well, you'll have to read it to find out more!</summary>
+<category term="Talia"/>
+<category term="Hush"/>
+<category term="Batman"/>
+<category term="Nightwing"/>
+<category term="DC2"/>
+<category term="Comics"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8461.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8461.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8461.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8461.png?t=20091121020411" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8461.png?size=smaller&amp;t=20091121020411" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8461.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Clash of the Sissies V2.0</title>
+<id>http://www.feedbooks.com/userbook/8427</id>
+<author>
+  <name>Graham Parke</name>
+  <uri>http://www.feedbooks.com/user/48793/profile#Graham%20Parke</uri>
+</author>
+<updated>2010-03-20T18:06:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>What do you do when an old friend becomes famous? Alex has some weird ideas about this. 
+&quot;Barend and I met as kids. This was years before he became famous for inventing the easy-foldable map, and infamous for the large number of bodies he decided to bury in his back yard...&quot; 
+   'Clash of the Sissies' is a micro novel dealing with topics no self-respecting micro novel should ever have to deal with.  
+My debut novel  No Hope for Gomez!  is now available from Amazon. 
+You can look Gomez up on the web on  www.GrahamParke.com
+
+</summary>
+<category term="collections"/>
+<category term="Humor"/>
+<category term="vonnegut"/>
+<category term="comedy"/>
+<category term="Humor/Satire"/>
+<category term="short fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8427.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8427.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8427.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8427.png?t=20100320180639" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8427.png?size=smaller&amp;t=20100320180639" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8427.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>About Fred</title>
+<id>http://www.feedbooks.com/userbook/8453</id>
+<author>
+  <name>Xavier Leret</name>
+  <uri>http://www.feedbooks.com/user/57967/profile#Xavier%20Leret</uri>
+</author>
+<updated>2010-02-10T19:01:58Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>John learns that his young daughter is being groomed by an uncle. A very twisted tale of revenge, abuse, pornography and murder. This is dark. Bring a torch. 
+
+Xavier is reading 'Turn The Porn On' for the Bordello Blush event - THE BOOK CLUB BOUTIQUE - Sat 13th Feb. Location: BLACKS. 67 DEAN ST. SOHO.London W1D 4QH
+Doors open at 8. Great club, big open fires, live music and sizzling, tingling, writings.</summary>
+<category term="dangerous"/>
+<category term="But"/>
+<category term="Unarmed"/>
+<category term="twisted"/>
+<category term="dark"/>
+<category term="www.xavierleret.com"/>
+<category term="Leret"/>
+<category term="Xavier"/>
+<category term="fiction"/>
+<category term="short"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8453.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8453.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8453.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8453.png?t=20100210190158" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8453.png?size=smaller&amp;t=20100210190158" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8453.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Going Under</title>
+<id>http://www.feedbooks.com/userbook/8435</id>
+<author>
+  <name>Alwyne Ashweth</name>
+  <uri>http://www.feedbooks.com/user/44808/profile#Alwyne%20Ashweth</uri>
+</author>
+<updated>2009-11-18T20:33:46Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Take for granted, the London Underground delves deeply underneath this ancient city.  The forgotten past of countless humans lies there, waiting to be discovered.  And discarded deities prowl the tunnels, searching for those who would serve them.
+
+www.strangecircle.org.uk</summary>
+<category term="London"/>
+<category term="underground"/>
+<category term="tube"/>
+<category term="horror"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8435.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8435.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8435.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8435.png?t=20091118203346" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8435.png?size=smaller&amp;t=20091118203346" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8435.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Christmas Stories for Molly and Julia</title>
+<id>http://www.feedbooks.com/userbook/8290</id>
+<author>
+  <name>Henry Davis</name>
+  <uri>http://www.feedbooks.com/user/58675/profile#Henry%20Davis</uri>
+</author>
+<updated>2009-12-11T00:47:23Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>These twelve stories are a compilation of stories Henry Davis wrote Christmas Eve and read on Christmas morning to his nieces, Molly and Julia, every Christmas. 
+
+Written over more than 12 years as the girls grew up, the stories were written to reflect the characteristics of that particular year. 
+
+Since they were written on Christmas Eve, each one reflects a different inspiration for that year
+</summary>
+<category term="books"/>
+<category term="Christmas"/>
+<category term="childrens"/>
+<category term="stories"/>
+<category term="Christmas"/>
+<category term="s books, children"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8290.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8290.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8290.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8290.png?t=20091211004723" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8290.png?size=smaller&amp;t=20091211004723" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8290.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Eaglethorpe Buxton and the Sorceress</title>
+<id>http://www.feedbooks.com/userbook/8396</id>
+<author>
+  <name>Wesley Allison</name>
+  <uri>http://www.feedbooks.com/user/5943/profile#Wesley%20Allison</uri>
+</author>
+<updated>2010-02-02T02:49:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Eaglethorpe Buxton, famed adventurer and story-teller is back, this time to put on a play about a sorceress. When the sorceress, subject of his play arrives with fire in her eyes, Eaglethorpe must pretend to be his good friend Ellwood. Will he pull off this charade and survive? And what happens when the real Ellwood shows up? One can never tell, especially when Eaglethorpe tells the story. 
+</summary>
+<category term="Magic"/>
+<category term="swords"/>
+<category term="play"/>
+<category term="drama"/>
+<category term="comedy"/>
+<category term="adventure"/>
+<category term="fantasy"/>
+<category term="sorcery"/>
+<category term="sorceress"/>
+<category term="Eaglethorpe Buxton"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8396.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8396.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8396.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8396.png?t=20100202024927" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8396.png?size=smaller&amp;t=20100202024927" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8396.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Eaglethorpe Buxton and the Elven Princess</title>
+<id>http://www.feedbooks.com/userbook/8395</id>
+<author>
+  <name>Wesley Allison</name>
+  <uri>http://www.feedbooks.com/user/5943/profile#Wesley%20Allison</uri>
+</author>
+<updated>2010-02-02T02:50:10Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Eaglethorpe Buxton, famed adventurer and story-teller, friend to those in need of a friend and guardian to those in need of a guardian. He is a liar and braggart, not to be trusted, especially around pies. Who are we to believe? Buxton himself leads us through his world as he comes to the aid of&#8230; a poor orphan? An elven princess? Who can guess with Eaglethorpe himself telling the tale? 
+</summary>
+<category term="elves"/>
+<category term="elf"/>
+<category term="sorcery"/>
+<category term="swords"/>
+<category term="adventure"/>
+<category term="comedy"/>
+<category term="fantasy"/>
+<category term="wesley allison"/>
+<category term="Elven Princess"/>
+<category term="Eaglethorpe Buxton"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8395.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8395.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8395.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8395.png?t=20100202025010" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8395.png?size=smaller&amp;t=20100202025010" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8395.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Batman #10</title>
+<id>http://www.feedbooks.com/userbook/8368</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-11-16T00:34:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Batman: Apokolips History X.
+
+(Crisis: The Apokolips Imperative Part 3)
+
+</summary>
+<category term="Mister Miracle"/>
+<category term="Granny Goodness"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Nightwing"/>
+<category term="Steppenwolf"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8368.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8368.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8368.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8368.png?t=20091116003432" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8368.png?size=smaller&amp;t=20091116003432" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8368.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Detective Comics #10</title>
+<id>http://www.feedbooks.com/userbook/8374</id>
+<author>
+  <name>Charles Wilkins</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Charles%20Wilkins</uri>
+</author>
+<updated>2009-11-16T00:34:19Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<summary>Detective Comics: Duel.
+
+(Crisis: The Apokolips Imperative Part 12)</summary>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Batman"/>
+<category term="Kanto"/>
+<category term="Justeen"/>
+<category term="Steppenwolf"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8374.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8374.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8374.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8374.png?t=20091116003419" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8374.png?size=smaller&amp;t=20091116003419" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8374.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Shazam! #6</title>
+<id>http://www.feedbooks.com/userbook/8375</id>
+<author>
+  <name>Mark Bowers</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Mark%20Bowers</uri>
+</author>
+<updated>2009-11-16T00:34:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2007</dcterms:issued>
+<summary>Shazam!: Speed</summary>
+<category term="Captain Marvel"/>
+<category term="Kid Marvel"/>
+<category term="Black Adam"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Shazam"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8375.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8375.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8375.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8375.png?t=20091116003405" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8375.png?size=smaller&amp;t=20091116003405" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8375.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Danger Trail #16</title>
+<id>http://www.feedbooks.com/userbook/8376</id>
+<author>
+  <name>Don Walsh</name>
+  <uri>http://www.feedbooks.com/user/28540/profile#Don%20Walsh</uri>
+</author>
+<updated>2009-11-16T00:33:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Danger Trail: The Blood of Templars Affair.</summary>
+<category term="Trin Dee"/>
+<category term="pulp fiction"/>
+<category term="Enemy Ace"/>
+<category term="Speed Saunders"/>
+<category term="Rose Psychic"/>
+<category term="Comics"/>
+<category term="DC2"/>
+<category term="Midnight"/>
+<category term="mystery"/>
+<category term="adventure"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8376.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8376.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8376.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8376.png?t=20091116003353" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8376.png?size=smaller&amp;t=20091116003353" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8376.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>After Dark</title>
+<id>http://www.feedbooks.com/userbook/8344</id>
+<author>
+  <name>Bryan L. Lee</name>
+  <uri>http://www.feedbooks.com/user/56437/profile#Bryan%20L.%20Lee</uri>
+</author>
+<updated>2009-11-26T01:35:22Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>What would happen if the neighborhood vigilante just happened to be a werewolf?  Find out After Dark.</summary>
+<category term="park"/>
+<category term="thriller"/>
+<category term="supernatural"/>
+<category term="werewolf"/>
+<category term="Scary"/>
+<category term="horror"/>
+<category term="fiction"/>
+<category term="short story"/>
+<category term="short fiction"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8344.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8344.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8344.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8344.png?t=20091126013522" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8344.png?size=smaller&amp;t=20091126013522" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8344.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Viking Saga</title>
+<id>http://www.feedbooks.com/userbook/8342</id>
+<author>
+  <name>Mark Coakley</name>
+  <uri>http://www.feedbooks.com/user/58250/profile#Mark%20Coakley</uri>
+</author>
+<updated>2009-11-16T15:41:42Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>Comparable to The Voyage of the Short Serpent, VIKING SAGA is a pulse-pounding literary historical thriller, set in 793 AD, when Norway was ruled by many small kingdoms and folk still worshipped the old gods. Halfdan the Black -- a young fighter and beer-soaked poet, with a Norse father and African mother -- vows revenge for the killing of his king. Halfdan's fate leads him through actual historical events, such as the raid on England's Lindisfarne nunnery and the first Norse contacts with Christianity. This spare, cunningly ironic novel is set against a brutal backdrop of life in the &quot;Dark Ages&quot;, and features violent action, a unique love-story, odd twists, cool humour, primitive poems and more. Well-researched and fast-moving, VIKING SAGA follows Halfdan the Black as he battles, boozes and rhymes his way to revenge, love, wisdom ... and becoming Norway's first king.</summary>
+<category term="fantasy"/>
+<category term="ice"/>
+<category term="snow"/>
+<category term="poetry"/>
+<category term="violence"/>
+<category term="Sex"/>
+<category term="love"/>
+<category term="charlemagne"/>
+<category term="monk"/>
+<category term="nun"/>
+<category term="fiction"/>
+<category term="Novel"/>
+<category term="tactics"/>
+<category term="love"/>
+<category term="Military"/>
+<category term="battle"/>
+<category term="glacier"/>
+<category term="blood"/>
+<category term="Sex"/>
+<category term="thriller"/>
+<category term="action"/>
+<category term="norway"/>
+<category term="norse"/>
+<category term="Lindisfarne"/>
+<category term="Halfdan"/>
+<category term="sagas"/>
+<category term="Saga"/>
+<category term="vikings"/>
+<category term="Viking"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8342.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8342.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8342.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8342.png?t=20091116154142" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8342.png?size=smaller&amp;t=20091116154142" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8342.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Morning Can Last Forever</title>
+<id>http://www.feedbooks.com/userbook/8269</id>
+<author>
+  <name>Holden Wilde</name>
+  <uri>http://www.feedbooks.com/user/52795/profile#Holden%20Wilde</uri>
+</author>
+<updated>2009-11-09T15:44:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2009</dcterms:issued>
+<summary>2,000 words of fiction on how a simple criminal transaction could go awry if done on a wrong morning</summary>
+<category term="adventure"/>
+<category term="nyc"/>
+<category term="mafia"/>
+<category term="corruption"/>
+<link type="application/epub+zip" href="http://www.feedbooks.com/userbook/8269.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/userbook/8269.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/userbook/8269.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8269.png?t=20091109154401" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/userbook/8269.png?size=smaller&amp;t=20091109154401" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/userbook/8269.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

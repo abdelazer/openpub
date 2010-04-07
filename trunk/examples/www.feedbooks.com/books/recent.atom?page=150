@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=150</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=150" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=150" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 150 | Feedbooks</title>
+  <updated>2010-04-07T18:27:51Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>2981</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=149" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=151" rel="next" title="Next Page"/>
+<entry>
+<title>The Land That Time Forgot</title>
+<id>http://www.feedbooks.com/book/188</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:13:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Starting out as a harrowing wartime sea adventure, Burroughs&#8217;s story ultimately develops into a lost world story reminiscent of such novels as Sir Arthur Conan Doyle&#8217;s The Lost World (1912) and Jules Verne&#8217;s The Mysterious Island (1874) and Journey to the Center of the Earth (1864). Burroughs adds his own twist by postulating a unique biological system for his lost world, in which the slow progress of evolution in the world outside is recapitulated as a matter of individual metamorphosis.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/188.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/188.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/188.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/188.png?t=20090916101303" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/188.png?size=smaller&amp;t=20090916101303" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/188.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Grimm's Fairy Tales</title>
+<id>http://www.feedbooks.com/book/187</id>
+<author>
+  <name>Jacob Ludwig Karl Grimm</name>
+  <uri>http://www.feedbooks.com/author/89</uri>
+</author>
+<author>
+  <name>Wilhem Karl Grimm</name>
+  <uri>http://www.feedbooks.com/author/90</uri>
+</author>
+<updated>2009-09-16T10:13:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1812</dcterms:issued>
+<category term="Young Readers" label="Young Readers"/>
+<category term="Collections" label="Collections"/>
+<summary>Children's and Household Tales (German: Kinder- und Hausm&#228;rchen) is a collection of German origin fairy tales first published in 1812 by Jacob and Wilhelm Grimm, the Brothers Grimm. The collection is commonly known today as Grimms' Fairy Tales (German: Grimms M&#228;rchen).</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/187.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/187.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/187.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/187.png?t=20090916101300" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/187.png?size=smaller&amp;t=20090916101300" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/187.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Summer</title>
+<id>http://www.feedbooks.com/book/184</id>
+<author>
+  <name>Edith Wharton</name>
+  <uri>http://www.feedbooks.com/author/35</uri>
+</author>
+<updated>2009-09-16T10:12:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1917</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Sexuality" label="Sexuality"/>
+<summary>Summer is a novel by Edith Wharton published in 1917 by Charles Scribner's Sons. The story is one of only two novels by Wharton to be set in New England; Wharton was best known for her portrayals of upper class New York society. The novel details the sexual awakening of its protagonist, Charity Royall, and her cruel treatment by the father of her child, and shares many plot similarities with Wharton's better known novel, Ethan Frome. Only moderately well-received when originally published, Summer has had a resurgence in critical popularity since the 1960s.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/184.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/184.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/184.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/184.png?t=20090916101253" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/184.png?size=smaller&amp;t=20090916101253" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/184.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Don Quixote</title>
+<id>http://www.feedbooks.com/book/183</id>
+<author>
+  <name>Miguel Cervantes</name>
+  <uri>http://www.feedbooks.com/author/87</uri>
+</author>
+<updated>2010-01-14T16:35:54Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1615</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Humor/Satire" label="Humor/Satire"/>
+<summary>Don Quixote, errant knight and sane madman, with the company of his faithful squire and wise fool, Sancho Panza, together roam the world and haunt readers' imaginations as they have for nearly four hundred years. </summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/183.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/183.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/183.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/183.png?t=20100114163554" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/183.png?size=smaller&amp;t=20100114163554" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/183.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>20,000 Leagues Under the Sea</title>
+<id>http://www.feedbooks.com/book/182</id>
+<author>
+  <name>Jules Verne</name>
+  <uri>http://www.feedbooks.com/author/19</uri>
+</author>
+<updated>2009-09-25T12:28:43Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1870</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>Twenty Thousand Leagues Under the Sea (French: Vingt mille lieues sous les mers) is a classic science fiction novel by French writer Jules Verne, published in 1870. It is about the fictional Captain Nemo and his submarine, Nautilus, as seen by one of his passengers, Professor Pierre Aronnax.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/182.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/182.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/182.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/182.png?t=20090925122843" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/182.png?size=smaller&amp;t=20090925122843" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/182.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Lost Continent</title>
+<id>http://www.feedbooks.com/book/181</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:12:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/181.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/181.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/181.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/181.png?t=20090916101230" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/181.png?size=smaller&amp;t=20090916101230" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/181.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Brothers Karamazov</title>
+<id>http://www.feedbooks.com/book/180</id>
+<author>
+  <name>Fyodor Mikhailovich Dostoyevsky</name>
+  <uri>http://www.feedbooks.com/author/2</uri>
+</author>
+<updated>2009-11-24T14:47:56Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1880</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Psychology" label="Psychology"/>
+<summary>The Brothers Karamazov is the final novel by the Russian author Fyodor Dostoevsky, and is generally considered the culmination of his life's work. Dostoevsky spent nearly two years writing The Brothers Karamazov, which was published as a serial in The Russian Messenger and completed in November 1880. Dostoevsky intended it to be the first part in an epic story titled The Life of a Great Sinner,[1] but he died less than four months after its publication.
+The book portrays a parricide in which each of the murdered man's sons share a varying degree of complicity. On a deeper level, it is a spiritual drama of moral struggles concerning faith, doubt, reason, free will and modern Russia. Dostoevsky composed much of the novel in Staraya Russa, which is also the main setting of the novel.</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/180.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/180.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/180.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/180.png?t=20091124144756" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/180.png?size=smaller&amp;t=20091124144756" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/180.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Bunner Sisters</title>
+<id>http://www.feedbooks.com/book/179</id>
+<author>
+  <name>Edith Wharton</name>
+  <uri>http://www.feedbooks.com/author/35</uri>
+</author>
+<updated>2009-09-16T10:12:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/179.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/179.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/179.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/179.png?t=20090916101212" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/179.png?size=smaller&amp;t=20090916101212" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/179.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Dream Psychology</title>
+<id>http://www.feedbooks.com/book/176</id>
+<author>
+  <name>Sigmund Freud</name>
+  <uri>http://www.feedbooks.com/author/83</uri>
+</author>
+<updated>2009-09-16T10:12:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Psychology" label="Psychology"/>
+<summary>The Interpretation of Dreams is a book by Sigmund Freud. The first edition was first published in German in November 1899 as Die Traumdeutung (though post-dated as 1900 by the publisher). The publication inaugurated the theory of Freudian dream analysis, which activity Freud famously described as &quot;the royal road to the understanding of unconscious mental processes&quot;.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/176.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/176.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/176.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/176.png?t=20090916101205" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/176.png?size=smaller&amp;t=20090916101205" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/176.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Paradise Regained</title>
+<id>http://www.feedbooks.com/book/175</id>
+<author>
+  <name>John Milton</name>
+  <uri>http://www.feedbooks.com/author/82</uri>
+</author>
+<updated>2009-09-16T10:12:04Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1667</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/175.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/175.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/175.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/175.png?t=20090916101204" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/175.png?size=smaller&amp;t=20090916101204" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/175.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Paradise Lost</title>
+<id>http://www.feedbooks.com/book/174</id>
+<author>
+  <name>John Milton</name>
+  <uri>http://www.feedbooks.com/author/82</uri>
+</author>
+<updated>2009-09-16T10:12:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1667</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<category term="Religion" label="Religion"/>
+<summary>Paradise Lost is an epic poem in blank verse by the 17th-century English poet John Milton. It was originally published in 1667 in ten books; a second edition followed in 1674, redivided into twelve books (in the manner of the division of Virgil's Aeneid) with minor revisions throughout and a note on the versification. The poem concerns the Judeo-Christian story of the Fall of Man; the temptation of Adam and Eve by the fallen angel Satan and their expulsion from the Garden of Eden. Milton's purpose, stated in Book I, is &quot;justify the ways of God to men&quot; and elucidate the conflict between God's eternal foresight and free will.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/174.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/174.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/174.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/174.png?t=20090916101203" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/174.png?size=smaller&amp;t=20090916101203" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/174.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>War and Peace</title>
+<id>http://www.feedbooks.com/book/83</id>
+<author>
+  <name>Lev Nikolayevich Tolstoy</name>
+  <uri>http://www.feedbooks.com/author/28</uri>
+</author>
+<updated>2010-01-02T15:27:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1869</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="History" label="History"/>
+<category term="War" label="War"/>
+<summary>War and Peace is a novel by Leo Tolstoy, first published from 1865 to 1869 in Russkii Vestnik, which tells the story of Russian society during the Napoleonic Era. It is usually described as one of Tolstoy's two major masterpieces (the other being Anna Karenina) as well as one of the world's greatest novels.
+War and Peace offered a new kind of fiction, with a great many characters caught up in a plot that covered nothing less than the grand subjects indicated by the title, combined with the equally large topics of youth, marriage, age, and death. Though it is often called a novel today, it broke so many conventions of the form that it was not considered a novel in its time. Indeed, Tolstoy himself considered Anna Karenina (1878) to be his first attempt at a novel in the European sense.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/83.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/83.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/83.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/83.png?t=20100102152700" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/83.png?size=smaller&amp;t=20100102152700" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/83.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>At the Earth's Core</title>
+<id>http://www.feedbooks.com/book/173</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:12:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/173.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/173.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/173.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/173.png?t=20090916101201" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/173.png?size=smaller&amp;t=20090916101201" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/173.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Ethan Frome</title>
+<id>http://www.feedbooks.com/book/170</id>
+<author>
+  <name>Edith Wharton</name>
+  <uri>http://www.feedbooks.com/author/35</uri>
+</author>
+<updated>2009-09-16T10:11:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1911</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<summary>Set against the bleak winter landscape of New England, Ethan Frome is the story of a poor farmer, lonely and downtrodden, his wife Zeena, and her cousin, the enchanting Mattie Silver. In the playing out of this short novel's powerful and engrossing drama, Edith Wharton constructed her least characteristic and most celebrated book.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/170.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/170.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/170.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/170.png?t=20090916101141" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/170.png?size=smaller&amp;t=20090916101141" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/170.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Art of War</title>
+<id>http://www.feedbooks.com/book/168</id>
+<author>
+  <name>Sun Tzu</name>
+  <uri>http://www.feedbooks.com/author/59</uri>
+</author>
+<updated>2009-09-16T10:11:40Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>-514</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<category term="War" label="War"/>
+<summary>The Art of War is a Chinese military treatise that was written during the 6th century BC by Sun Tzu. Composed of 13 chapters, each of which is devoted to one aspect of warfare, it has long been praised as the definitive work on military strategies and tactics of its time.
+The Art of War is one of the oldest books on military strategy in the world. It is the first and one of the most successful works on strategy and has had a huge influence on Eastern and Western military thinking, business tactics, and beyond. Sun Tzu was the first to recognize the importance of positioning in strategy and that position is affected both by objective conditions in the physical environment and the subjective opinions of competitive actors in that environment. He taught that strategy was not planning in the sense of working through a to-do list, but rather that it requires quick and appropriate responses to changing conditions. Planning works in a controlled environment, but in a competitive environment,</summary>
+<dcterms:source>http://www.paxlibrorum.com/</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/168.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/168.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/168.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/168.png?t=20090916101140" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/168.png?size=smaller&amp;t=20090916101140" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/168.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Black Arrow</title>
+<id>http://www.feedbooks.com/book/166</id>
+<author>
+  <name>Robert Louis Stevenson</name>
+  <uri>http://www.feedbooks.com/author/37</uri>
+</author>
+<updated>2009-09-16T10:11:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1884</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Adventure" label="Adventure"/>
+<summary>In fifteenth-century England, when his father's murderer is revealed to be his guardian, seventeen-year-old Richard Shelton joins the fellowship of the Black Arrow in avenging the death, rescuing the woman he loves, and participating in the struggle between the Yorks and Lancasters in the War of the Roses.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/166.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/166.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/166.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/166.png?t=20090916101138" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/166.png?size=smaller&amp;t=20090916101138" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/166.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Son of Tarzan</title>
+<id>http://www.feedbooks.com/book/165</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2010-01-06T20:19:41Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/165.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/165.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/165.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/165.png?t=20100106201941" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/165.png?size=smaller&amp;t=20100106201941" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/165.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Beasts of Tarzan</title>
+<id>http://www.feedbooks.com/book/164</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2010-01-06T20:18:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Adventure" label="Adventure"/>
+<summary>No Description Available</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/164.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/164.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/164.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/164.png?t=20100106201851" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/164.png?size=smaller&amp;t=20100106201851" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/164.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Gods of Mars</title>
+<id>http://www.feedbooks.com/book/163</id>
+<author>
+  <name>Edgar Rice Burroughs</name>
+  <uri>http://www.feedbooks.com/author/23</uri>
+</author>
+<updated>2009-09-16T10:11:30Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="Adventure" label="Adventure"/>
+<summary>After the long exile on Earth, John Carter finally returned to his beloved Mars. But beautiful Dejah Thoris, the woman he loved, had vanished. Now he was trapped in the legendary Eden of Mars -- an Eden from which none ever escaped alive.</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/163.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/163.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/163.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/163.png?t=20090916101130" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/163.png?size=smaller&amp;t=20090916101130" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/163.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Jungle Book</title>
+<id>http://www.feedbooks.com/book/162</id>
+<author>
+  <name>Rudyard Kipling</name>
+  <uri>http://www.feedbooks.com/author/56</uri>
+</author>
+<updated>2010-01-02T15:27:01Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1894</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Fantasy" label="Fantasy"/>
+<summary>The Jungle Book (1894) is a collection of stories written by Rudyard Kipling.The tales in the book (and also those in The Second Jungle Book which followed in 1895, and which includes five further stories about Mowgli) are fables, using animals in an anthropomorphic manner to give moral lessons. The verses of The Law of the Jungle, for example, lay down rules for the safety of individuals, families and communities. Kipling put in them nearly everything he knew or &quot;heard or dreamed about the Indian jungle.&quot;
+</summary>
+<dcterms:source>Wikisource</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/162.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/162.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/162.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/162.png?t=20100102152701" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/162.png?size=smaller&amp;t=20100102152701" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/162.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

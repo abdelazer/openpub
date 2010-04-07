@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:app="http://www.w3.org/2007/app" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=86</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=86" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=86" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 86 | Feedbooks</title>
+  <updated>2010-04-07T18:27:09Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1701</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=85" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=87" rel="next" title="Next Page"/>
+<entry>
+<title>The Man of the Forest</title>
+<id>http://www.feedbooks.com/book/1832</id>
+<author>
+  <name>Zane Grey</name>
+  <uri>http://www.feedbooks.com/author/255</uri>
+</author>
+<updated>2009-09-16T11:18:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1920</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>Accidentally overhearing a plot to kidnap the niece of a prominent rancher as she arrives from the East, Milt Dale springs into action. He comes out of his splendid isolation to protect Helen and her kid sister, Bo. Leading them away from manmade danger, exposing them to unaccustomed rigor on mountain trails, Dale imparts his rugged philosophy. Beyond the forest, Beasley and Snake Anson are still waiting to carry out their evil plot. </summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1832.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1832.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1832.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1832.png?t=20090916111812" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1832.png?size=smaller&amp;t=20090916111812" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1832.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Lone Star Ranger</title>
+<id>http://www.feedbooks.com/book/1831</id>
+<author>
+  <name>Zane Grey</name>
+  <uri>http://www.feedbooks.com/author/255</uri>
+</author>
+<updated>2009-09-16T11:18:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>When he is forced to kill a man after a deadly attack, Buck Duane begins a life on the run while trying to clear his name, and his fortunes are changed by a beautiful woman and a Texas Ranger who offers to pardon him for a price.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1831.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1831.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1831.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1831.png?t=20090916111803" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1831.png?size=smaller&amp;t=20090916111803" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1831.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Light of Western Stars</title>
+<id>http://www.feedbooks.com/book/1830</id>
+<author>
+  <name>Zane Grey</name>
+  <uri>http://www.feedbooks.com/author/255</uri>
+</author>
+<updated>2009-09-16T11:17:55Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>A New York society girl buys a ranch which becomes the center of frontier warfare. Her loyal superintendent rescues her when she is captured by bandits. A surprising climax brings the story to a delightful close.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1830.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1830.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1830.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1830.png?t=20090916111755" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1830.png?size=smaller&amp;t=20090916111755" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1830.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Golden Fleece</title>
+<id>http://www.feedbooks.com/book/1828</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:14:17Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1853</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1828.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1828.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1828.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1828.png?t=20090916111417" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1828.png?size=smaller&amp;t=20090916111417" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1828.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Pomegranate Seeds</title>
+<id>http://www.feedbooks.com/book/1827</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:14:16Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1853</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1827.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1827.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1827.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1827.png?t=20090916111416" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1827.png?size=smaller&amp;t=20090916111416" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1827.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Circe's Palace</title>
+<id>http://www.feedbooks.com/book/1826</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:08:27Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1853</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1826.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1826.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1826.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1826.png?t=20090916110827" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1826.png?size=smaller&amp;t=20090916110827" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1826.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Dragon's Teeth</title>
+<id>http://www.feedbooks.com/book/1825</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:02:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1853</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1825.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1825.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1825.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1825.png?t=20090916110205" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1825.png?size=smaller&amp;t=20090916110205" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1825.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Pygmies</title>
+<id>http://www.feedbooks.com/book/1824</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:16:00Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1853</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1824.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1824.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1824.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1824.png?t=20090916111600" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1824.png?size=smaller&amp;t=20090916111600" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1824.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Minotaur</title>
+<id>http://www.feedbooks.com/book/1823</id>
+<author>
+  <name>Nathaniel Hawthorne</name>
+  <uri>http://www.feedbooks.com/author/234</uri>
+</author>
+<updated>2009-09-16T11:15:32Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1853</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://en.wikisource.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1823.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1823.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1823.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1823.png?t=20090916111532" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1823.png?size=smaller&amp;t=20090916111532" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1823.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Sinister Man</title>
+<id>http://www.feedbooks.com/book/1821</id>
+<author>
+  <name>Edgar Wallace</name>
+  <uri>http://www.feedbooks.com/author/253</uri>
+</author>
+<updated>2009-09-16T11:15:25Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1924</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1821.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1821.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1821.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1821.png?t=20090916111525" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1821.png?size=smaller&amp;t=20090916111525" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1821.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Last of the Plainsmen</title>
+<id>http://www.feedbooks.com/book/1820</id>
+<author>
+  <name>Zane Grey</name>
+  <uri>http://www.feedbooks.com/author/255</uri>
+</author>
+<updated>2009-09-16T11:12:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1908</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Western" label="Western"/>
+<summary>This is the record of a trip which the author took with Buffalo Jones, known as the preserver of the American bison, across the Arizona desert and of a hunt in &quot;that wonderful country of deep canons and giant pines.&quot;</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1820.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1820.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1820.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1820.png?t=20090916111231" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1820.png?size=smaller&amp;t=20090916111231" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1820.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Heritage of the Desert</title>
+<id>http://www.feedbooks.com/book/1819</id>
+<author>
+  <name>Zane Grey</name>
+  <uri>http://www.feedbooks.com/author/255</uri>
+</author>
+<updated>2009-09-16T11:07:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1910</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Western" label="Western"/>
+<summary>Published in 1910, this was Zane Grey's first western novel. It received wide and unanimous praise for its powerful portrait of the land and the men and women of the Southwest.
+A lovely girl, who has been reared among Mormons, learns to love a young New Englander. The Mormon religion, however, demands that the girl shall become the second wife of one of the Mormons--Well, that's the problem of this great story.
+</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1819.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1819.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1819.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1819.png?t=20090916110731" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1819.png?size=smaller&amp;t=20090916110731" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1819.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Desert of Wheat</title>
+<id>http://www.feedbooks.com/book/1818</id>
+<author>
+  <name>Zane Grey</name>
+  <uri>http://www.feedbooks.com/author/255</uri>
+</author>
+<updated>2009-09-16T11:12:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1919</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1818.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1818.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1818.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1818.png?t=20090916111211" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1818.png?size=smaller&amp;t=20090916111211" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1818.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Desert Gold</title>
+<id>http://www.feedbooks.com/book/1817</id>
+<author>
+  <name>Zane Grey</name>
+  <uri>http://www.feedbooks.com/author/255</uri>
+</author>
+<updated>2009-12-14T15:43:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1913</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Western" label="Western"/>
+<summary>The story describes the recent uprising along the border, and ends with the finding of the gold which two prospectors had willed to the girl who is the story's heroine.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1817.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1817.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1817.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1817.png?t=20091214154350" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1817.png?size=smaller&amp;t=20091214154350" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1817.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Day of the Beast</title>
+<id>http://www.feedbooks.com/book/1816</id>
+<author>
+  <name>Zane Grey</name>
+  <uri>http://www.feedbooks.com/author/255</uri>
+</author>
+<updated>2009-09-16T11:11:13Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Western" label="Western"/>
+<summary>Herein is embodied my tribute to the American men who gave themselves to the service in the great war, and my sleepless and eternal gratitude for what they did for me.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1816.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1816.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1816.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1816.png?t=20090916111113" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1816.png?size=smaller&amp;t=20090916111113" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1816.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Call of the Canyon</title>
+<id>http://www.feedbooks.com/book/1815</id>
+<author>
+  <name>Zane Grey</name>
+  <uri>http://www.feedbooks.com/author/255</uri>
+</author>
+<updated>2009-09-16T10:59:03Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1924</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Western" label="Western"/>
+<summary>Glenn Killbourne and his fiancee Carley Burch find a strange test of their love in the mountains and canyons of Arizona.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1815.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1815.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1815.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1815.png?t=20090916105903" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1815.png?size=smaller&amp;t=20090916105903" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1815.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Border Legion</title>
+<id>http://www.feedbooks.com/book/1814</id>
+<author>
+  <name>Zane Grey</name>
+  <uri>http://www.feedbooks.com/author/255</uri>
+</author>
+<updated>2009-09-16T11:14:50Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Western" label="Western"/>
+<summary>Jack Kells was a remorseless killer, head of a gang that ravaged the southern border. He didn't think twice before he kidnapped pretty Joan Randle on a lonesome Idaho trail. His cold eyes filled her with fear, but her goodness made something happen deep within him. Bad as he was, he knew he had to keep Joan safe from desperados far worse than he. Kells had a price on his head and on his heels. Now loving this woman could cost him his life...or it could make him a hero in this wild, dangerous land.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1814.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1814.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1814.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1814.png?t=20090916111450" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1814.png?size=smaller&amp;t=20090916111450" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1814.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Man who bought London</title>
+<id>http://www.feedbooks.com/book/1813</id>
+<author>
+  <name>Edgar Wallace</name>
+  <uri>http://www.feedbooks.com/author/253</uri>
+</author>
+<updated>2009-09-16T11:11:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1915</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1813.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1813.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1813.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1813.png?t=20090916111133" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1813.png?size=smaller&amp;t=20090916111133" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1813.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Horse Latitudes</title>
+<id>http://www.feedbooks.com/book/1812</id>
+<author>
+  <name>Richard Kadrey</name>
+  <uri>http://www.feedbooks.com/author/109</uri>
+</author>
+<updated>2009-09-16T11:11:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1995</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gopher.well.sf.ca.us:70/0/Publications/authors/kadrey/HorseLat</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1812.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1812.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1812.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1812.png?t=20090916111151" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1812.png?size=smaller&amp;t=20090916111151" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1812.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Face in the Night</title>
+<id>http://www.feedbooks.com/book/1811</id>
+<author>
+  <name>Edgar Wallace</name>
+  <uri>http://www.feedbooks.com/author/253</uri>
+</author>
+<updated>2009-09-16T11:14:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1924</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/1811.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/1811.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/1811.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1811.png?t=20090916111433" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/1811.png?size=smaller&amp;t=20090916111433" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/1811.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

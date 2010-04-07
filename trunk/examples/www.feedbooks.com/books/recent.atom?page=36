@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=36</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=36" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=36" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 36 | Feedbooks</title>
+  <updated>2010-04-07T18:26:36Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>701</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=35" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=37" rel="next" title="Next Page"/>
+<entry>
+<title>The Abbot's Ghost, or Maurice Treherne's Temptation</title>
+<id>http://www.feedbooks.com/book/3520</id>
+<author>
+  <name>Louisa May Alcott</name>
+  <uri>http://www.feedbooks.com/author/50</uri>
+</author>
+<updated>2009-08-18T01:18:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1867</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Romance" label="Romance"/>
+<category term="Ghost Stories" label="Ghost Stories"/>
+<summary>A christmas story from the writer of Little Women.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3520.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3520.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3520.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3520.png?t=20090818011809" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3520.png?size=smaller&amp;t=20090818011809" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3520.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>How Santa Claus Came to Simpson's Bar</title>
+<id>http://www.feedbooks.com/book/3519</id>
+<author>
+  <name>Bret Harte</name>
+  <uri>http://www.feedbooks.com/author/863</uri>
+</author>
+<updated>2009-08-18T01:18:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1872</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>No Description Available</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3519.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3519.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3519.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3519.png?t=20090818011809" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3519.png?size=smaller&amp;t=20090818011809" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3519.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Two Christmas Celebrations, A.D. I. and MDCCCLV.</title>
+<id>http://www.feedbooks.com/book/3518</id>
+<author>
+  <name>Theodore Parker</name>
+  <uri>http://www.feedbooks.com/author/862</uri>
+</author>
+<updated>2009-08-18T01:18:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1856</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Religion" label="Religion"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3518.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3518.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3518.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3518.png?t=20090818011809" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3518.png?size=smaller&amp;t=20090818011809" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3518.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Story of a Stuffed Elephant</title>
+<id>http://www.feedbooks.com/book/3517</id>
+<author>
+  <name>Laura Lee Hope</name>
+  <uri>http://www.feedbooks.com/author/653</uri>
+</author>
+<updated>2009-08-18T01:18:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1922</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>From the &quot;Make-Believe Stories&quot;:
+&quot;Oh, how large he is!&quot;
+&quot;Isn't he? And such wonderfully strong legs!&quot;
+&quot;See his trunk, too! Isn't it cute! And he is well stuffed! This is really one of the best toys that ever came into our shop, Geraldine; don't you think so?&quot;
+&quot;Yes, Angelina. I must call father to come and look at him. He will make a lovely present for some boy or girl&#8212;I mean this Stuffed Elephant will make a lovely present, not our father!&quot; and Miss Angelina Mugg smiled at her sister across the big packing box of Christmas toys they were opening in their father's store.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3517.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3517.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3517.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3517.png?t=20090818011809" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3517.png?size=smaller&amp;t=20090818011809" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3517.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Story of a Nodding Donkey</title>
+<id>http://www.feedbooks.com/book/3516</id>
+<author>
+  <name>Laura Lee Hope</name>
+  <uri>http://www.feedbooks.com/author/653</uri>
+</author>
+<updated>2009-08-18T01:18:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1921</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>From the &quot;Make Believe Stories&quot;:
+The Nodding Donkey dated his birth from the day he received the beautiful coat of varnish in the workshop of Santa Claus at the North Pole. Before that he was just some pieces of wood, glued together. His head was not glued on, however, but was fastened in such a manner that with the least motion the Donkey could nod it up and down, and also sidewise.
+It is not every wooden donkey who is able to nod his head in as many ways as could the Donkey about whom I am going to tell you. This Nodding Donkey was an especially fine toy, and, as has been said, his first birthday was that on which he received such a bright, shiny coat of varnish.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3516.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3516.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3516.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3516.png?t=20090818011809" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3516.png?size=smaller&amp;t=20090818011809" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3516.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Six Little Bunkers at Grandpa Ford's</title>
+<id>http://www.feedbooks.com/book/3515</id>
+<author>
+  <name>Laura Lee Hope</name>
+  <uri>http://www.feedbooks.com/author/653</uri>
+</author>
+<updated>2009-08-18T01:18:09Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1918</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>From the Six Little Bunkers series:
+&quot;Oh, Daddy, come and take him off! He's a terrible big one, and he's winkin' one of his claws at me! Come and take him off!&quot;
+
+&quot;All right, Mun Bun. I'll be there in just a second. Hold him under water so he won't let go, and I'll get him for you.&quot;
+
+Daddy Bunker, who had been reading the paper on the porch of Cousin Tom's bungalow at Seaview, hurried down to the little pier that was built out into Clam River. On the end of the pier stood a little boy, who was called Mun Bun, but whose real name was Munroe Ford Bunker. However, he was almost always called Mun Bun.
+</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3515.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3515.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3515.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3515.png?t=20090818011809" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3515.png?size=smaller&amp;t=20090818011809" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3515.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Old Christmas</title>
+<id>http://www.feedbooks.com/book/3514</id>
+<author>
+  <name>Washington Irving</name>
+  <uri>http://www.feedbooks.com/author/95</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1819</dcterms:issued>
+<category term="Essay" label="Essay"/>
+<category term="Collections" label="Collections"/>
+<summary>A collection of essays about Christmas.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3514.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3514.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3514.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3514.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3514.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3514.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Spirit of Christmas</title>
+<id>http://www.feedbooks.com/book/3512</id>
+<author>
+  <name>Henry van Dyke</name>
+  <uri>http://www.feedbooks.com/author/860</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1905</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Essay" label="Essay"/>
+<category term="Collections" label="Collections"/>
+<category term="Religion" label="Religion"/>
+<summary>A short story, an essay, a sermon and two prayers for Christmas.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3512.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3512.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3512.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3512.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3512.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3512.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>True Names</title>
+<id>http://www.feedbooks.com/book/3511</id>
+<author>
+  <name>Cory Doctorow</name>
+  <uri>http://www.feedbooks.com/author/93</uri>
+</author>
+<author>
+  <name>Benjamin Rosenbaum</name>
+  <uri>http://www.feedbooks.com/author/587</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2008</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The tale of duelling galactic colony-organisms that are competing to recruit all the matter in the universe for raw computation.</summary>
+<dcterms:source>http://boingboing.hexten.net/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3511.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3511.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3511.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3511.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3511.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3511.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Nibsy's Christmas</title>
+<id>http://www.feedbooks.com/book/3510</id>
+<author>
+  <name>Jacob August Riis</name>
+  <uri>http://www.feedbooks.com/author/859</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1893</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Collections" label="Collections"/>
+<summary>A collection of 3 short stories about Christmas.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3510.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3510.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3510.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3510.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3510.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3510.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Christmas Porringer</title>
+<id>http://www.feedbooks.com/book/3509</id>
+<author>
+  <name>Evaleen Stein</name>
+  <uri>http://www.feedbooks.com/author/858</uri>
+</author>
+<updated>2009-08-18T01:18:05Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1914</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Young Readers" label="Young Readers"/>
+<summary>An earthenware porringer, bought by a little Flemish girl of Bruges as a gift for the Christ child and stolen by Robber Hans, finally brings much happiness to her and her grandmother, the lace maker.</summary>
+<dcterms:source>http://www.mainlesson.com/</dcterms:source>
+<rights>This work is available for countries where copyright is Life+70 and in the USA.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3509.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3509.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3509.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3509.png?t=20090818011805" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3509.png?size=smaller&amp;t=20090818011805" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3509.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Christmas, and Poems on Slavery for Christmas</title>
+<id>http://www.feedbooks.com/book/3508</id>
+<author>
+  <name>Thomas Hill</name>
+  <uri>http://www.feedbooks.com/author/857</uri>
+</author>
+<updated>2009-08-18T01:18:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1843</dcterms:issued>
+<category term="Poetry" label="Poetry"/>
+<category term="Collections" label="Collections"/>
+<summary>A set of Christmas and antislavery poems published by Thomas Hill (1818-1891) for the Boston antislavery fair. Digitized by the Antislavery Literature Project.</summary>
+<dcterms:source>http://antislavery.eserver.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3508.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3508.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3508.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3508.png?t=20090818011802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3508.png?size=smaller&amp;t=20090818011802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3508.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Christmas Sermon</title>
+<id>http://www.feedbooks.com/book/3507</id>
+<author>
+  <name>Robert Louis Stevenson</name>
+  <uri>http://www.feedbooks.com/author/37</uri>
+</author>
+<updated>2009-08-18T01:18:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1900</dcterms:issued>
+<category term="Essay" label="Essay"/>
+<category term="Religion" label="Religion"/>
+<summary>By the time this paper appears, I shall have been talking for twelve months; and it is thought I should take my leave in a formal and seasonable manner. Valedictory eloquence is rare, and death-bed sayings have not often hit the mark of the occasion. Charles Second, wit and sceptic, a man whose life had been one long lesson in human incredulity, an easy-going comrade, a manoeuvring king&#8212;remembered and embodied all his wit and scepticism along with more than his usual good humour in the famous &quot;I am afraid, gentlemen, I am an unconscionable time a-dying.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3507.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3507.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3507.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3507.png?t=20090818011802" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3507.png?size=smaller&amp;t=20090818011802" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3507.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Christian Gellert's Last Christmas</title>
+<id>http://www.feedbooks.com/book/3505</id>
+<author>
+  <name>Berthold Auerbach</name>
+  <uri>http://www.feedbooks.com/author/856</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1869</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>A Christmas short-story extracted from &quot;German Tales&quot;.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3505.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3505.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3505.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3505.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3505.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3505.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Gift of the Magi</title>
+<id>http://www.feedbooks.com/book/3504</id>
+<author>
+  <name>O. Henry</name>
+  <uri>http://www.feedbooks.com/author/855</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1906</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<summary>Jim Dillingham Young and his wife Della are a young couple who are very much in love with each other, but can barely afford their one-room apartment opposite the elevated train due to their very bad economic condition. For Christmas, Della decides to buy Jim a chain which costs twenty dollars for his prized pocket watch given to him by his father. To raise the funds, she has her prized long hair cut off and sold to make a wig. Meanwhile, Jim decides to sell his watch to buy Della a beautiful set of combs made out of tortoise shell for her lovely, knee-length brown hair. Although each is disappointed to find the gift they chose rendered useless, each is pleased with the gift they received, because it represents their love for one another.
+The true unselfish love that the characters, Jim and Della, share is greater than their possessions.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3504.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3504.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3504.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3504.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3504.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3504.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Upstarts</title>
+<id>http://www.feedbooks.com/book/3503</id>
+<author>
+  <name>L.J. Stecher</name>
+  <uri>http://www.feedbooks.com/author/854</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Earth was being bet on to break her blockade... but what was the purse... and who was to collect?</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3503.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3503.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3503.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3503.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3503.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3503.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Unthinkable</title>
+<id>http://www.feedbooks.com/book/3502</id>
+<author>
+  <name>Rog Phillips</name>
+  <uri>http://www.feedbooks.com/author/723</uri>
+</author>
+<updated>2009-09-16T12:33:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1949</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>If Nature suddenly began to behave differently, what we consider obvious and elementary today might become&#8212;unthinkable.</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3502.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3502.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3502.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3502.png?t=20090916123333" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3502.png?size=smaller&amp;t=20090916123333" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3502.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>An Amiable Charlatan</title>
+<id>http://www.feedbooks.com/book/3500</id>
+<author>
+  <name>Edward Phillips Oppenheim</name>
+  <uri>http://www.feedbooks.com/author/842</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1916</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Crime/Mystery" label="Crime/Mystery"/>
+<summary>&quot;The thing happened so suddenly that I really had very little time to make up my mind what course to adopt under somewhat singular circumstances. I was seated at my favorite table against the wall on the right-hand side in Stephano&#8217;s restaurant, with a newspaper propped up before me, a glass of hock by my side, and a portion of the plat du jour, which happened to be chicken en casserole, on the plate in front of me.
+
+I was, in fact, halfway through dinner when, without a word of warning, a man who seemed to enter with a lightfooted speed that, considering his size, was almost incredible, drew a chair toward him and took the vacant place at my table. My glass of wine and my plate were moved with smooth and marvelous haste to his vicinity. Under cover of the tablecloth a packet&#8212; I could not tell what it contained&#8212; was thrust into my hand.&quot;</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>This work is available for countries where copyright is Life+50 or in the USA (published before 1923).</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3500.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3500.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3500.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3500.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3500.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3500.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A Scientist Rises</title>
+<id>http://www.feedbooks.com/book/3499</id>
+<author>
+  <name>Desmond Winter Hall</name>
+  <uri>http://www.feedbooks.com/author/851</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The face of the giant was indeed that of a god....</summary>
+<dcterms:source>http://www.gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3499.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3499.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3499.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3499.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3499.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3499.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Pantheism Its Story and Significance</title>
+<id>http://www.feedbooks.com/book/3497</id>
+<author>
+  <name>J. Allanson Picton</name>
+  <uri>http://www.feedbooks.com/author/849</uri>
+</author>
+<updated>2009-08-18T01:18:08Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1905</dcterms:issued>
+<category term="Non-Fiction" label="Non-Fiction"/>
+<category term="Philosophy" label="Philosophy"/>
+<category term="History" label="History"/>
+<category term="Religion" label="Religion"/>
+<summary>No Description Available</summary>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/3497.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/3497.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/3497.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3497.png?t=20090818011808" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/3497.png?size=smaller&amp;t=20090818011808" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/3497.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

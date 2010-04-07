@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xml:lang="en" xmlns:opds="http://opds-spec.org/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>http://www.feedbooks.com/books/recent.atom?page=69</id>
+  <link type="text/html" href="http://www.feedbooks.com/books/recent?page=69" rel="alternate"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=69" rel="self"/>
+  <title>Browsing Public Domain Books / New Releases / Page 69 | Feedbooks</title>
+  <updated>2010-04-07T18:26:59Z</updated>
+  <icon>http://www.feedbooks.com/favicon.png</icon>
+  <author>
+    <name>Feedbooks</name>
+    <uri>http://www.feedbooks.com</uri>
+    <email>support@feedbooks.com</email>
+  </author>
+  <link type="application/atom+xml" href="/catalog.atom" rel="start" title="OPDS Catalog"/>
+  <link type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search" title="Search on Feedbooks"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/bookshelf.atom" rel="http://opds-spec.org/bookshelf" title="Bookshelf"/>
+  <link type="application/atom+xml" href="https://www.feedbooks.com/user/subscriptions.atom" rel="http://opds-spec.org/subscriptions" title="Subscriptions"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom" rel="http://opds-spec.org/sort/new" title="New Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/books/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Public Domain Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/recent.atom" rel="http://opds-spec.org/sort/new" title="New Original Books"/>
+  <link type="application/atom+xml" href="http://www.feedbooks.com/userbooks/top.atom?range=month" rel="http://opds-spec.org/sort/popular" title="Top Original Books"/>
+<opensearch:totalResults>3092</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<opensearch:startIndex>1361</opensearch:startIndex>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=68" rel="previous" title="Previous Page"/>
+<link type="application/atom+xml" href="http://www.feedbooks.com/books/recent.atom?page=70" rel="next" title="Next Page"/>
+<entry>
+<title>We Didn't Do Anything Wrong, Hardly</title>
+<id>http://www.feedbooks.com/book/2296</id>
+<author>
+  <name>Roger Kuykendall</name>
+  <uri>http://www.feedbooks.com/author/333</uri>
+</author>
+<updated>2009-09-16T11:38:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>After all--they only borrowed it a little while, just to fix it--</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2296.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2296.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2296.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2296.png?t=20090916113851" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2296.png?size=smaller&amp;t=20090916113851" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2296.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>All Day September</title>
+<id>http://www.feedbooks.com/book/2295</id>
+<author>
+  <name>Roger Kuykendall</name>
+  <uri>http://www.feedbooks.com/author/333</uri>
+</author>
+<updated>2009-09-16T11:51:52Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Some men just haven't got good sense. They just can't seem to learn the most fundamental things. Like when there's no use trying--when it's time to give up because it's hopeless....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2295.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2295.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2295.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2295.png?t=20090916115152" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2295.png?size=smaller&amp;t=20090916115152" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2295.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Star Dragon</title>
+<id>http://www.feedbooks.com/book/2293</id>
+<author>
+  <name>Mike Brotherton</name>
+  <uri>http://www.feedbooks.com/author/332</uri>
+</author>
+<updated>2009-09-16T11:56:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2003</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The SS Cygni probe sent back hours of video, captured by the Biolathe AI, but only a few minutes mattered--the four minutes that showed a creature made of fire, living , moving, dancing in the plasma fire of the double star's accretion disk. A dragon made of star stuff, so alien that only a human expedition to observe and perhaps capture it, could truly understand them.
+
+It's a perilous journey into the future, however, for SS Cygni is 245 light- years from Earth, and even though only two years' subjective time will pass on board the Karamojo, the crew will return to an Earth where five hundred years have passed. Captain Lena Fang doesn't care--she has made her life on her ship, where her best friend is the ship's AI. Samuel Fisher, the contract exobiologist,doesn't care, either. He is making the voyage of a lifetime and in the small world of the Karamojo he will have to live with the consequences of his obsessive quest for knowledge. The rest of the small crew--Axel Henderson, the biosystems engineer; Sylvia Devereaux, the beautiful physical sciences expert; and Phil Stearn, the ship's jack-of-all-trades--have their own reasons for saying good-bye to everyone they have ever known. As the Biolathe AI said, uncertain five hundred- year round trips don't attract the most stable personalities, but somehow they'll have to learn to get along with each other, if they're to catch their dragon and come home again.
+
+For at the end of the journey is the star dragon--a creature of fire with a nuclear furnace for heart. The crew of the Karamojo--human and AI alike--will risk everything to capture it, and it will take all their technology, all their skill, and more courage than they knew they had, to come home alive.</summary>
+<dcterms:source>http://www.mikebrotherton.com/</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2293.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2293.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2293.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2293.png?t=20090916115651" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2293.png?size=smaller&amp;t=20090916115651" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2293.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Whispering Spheres</title>
+<id>http://www.feedbooks.com/book/2292</id>
+<author>
+  <name>Russel R. Winterbotham</name>
+  <uri>http://www.feedbooks.com/author/331</uri>
+</author>
+<updated>2009-09-16T11:59:39Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1941</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>An alien life-form--metallic, sinister--threatening all mankind with annihilation.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2292.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2292.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2292.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2292.png?t=20090916115939" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2292.png?size=smaller&amp;t=20090916115939" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2292.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Wind</title>
+<id>http://www.feedbooks.com/book/2291</id>
+<author>
+  <name>Charles Louis Fontenay</name>
+  <uri>http://www.feedbooks.com/author/172</uri>
+</author>
+<updated>2009-09-16T11:59:38Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>When you have an engine with no fuel, and fuel without an engine, and a life-and-death deadline to meet, you have a problem indeed. Unless you are a stubborn Dutchman--and Jan Van Artevelde was the stubbornest Dutchman on Venus.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2291.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2291.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2291.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2291.png?t=20090916115938" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2291.png?size=smaller&amp;t=20090916115938" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2291.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Silk and the Song</title>
+<id>http://www.feedbooks.com/book/2290</id>
+<author>
+  <name>Charles Louis Fontenay</name>
+  <uri>http://www.feedbooks.com/author/172</uri>
+</author>
+<updated>2009-09-16T11:59:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1956</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2290.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2290.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2290.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2290.png?t=20090916115936" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2290.png?size=smaller&amp;t=20090916115936" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2290.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Watch the Sky</title>
+<id>http://www.feedbooks.com/book/2289</id>
+<author>
+  <name>James Henry Schmitz</name>
+  <uri>http://www.feedbooks.com/author/278</uri>
+</author>
+<updated>2009-09-16T11:59:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It's one thing to try to get away with what you believe to be a lie and be caught at it&#8212; and something different, and far worse sometimes, to find it isn't a lie ...</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2289.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2289.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2289.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2289.png?t=20090916115936" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2289.png?size=smaller&amp;t=20090916115936" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2289.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Winds of Time</title>
+<id>http://www.feedbooks.com/book/2288</id>
+<author>
+  <name>James Henry Schmitz</name>
+  <uri>http://www.feedbooks.com/author/278</uri>
+</author>
+<updated>2009-09-16T11:59:36Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1962</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>No Description Available</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2288.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2288.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2288.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2288.png?t=20090916115936" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2288.png?size=smaller&amp;t=20090916115936" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2288.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Winged Men of Orcon</title>
+<id>http://www.feedbooks.com/book/2287</id>
+<author>
+  <name>David R. Sparks</name>
+  <uri>http://www.feedbooks.com/author/330</uri>
+</author>
+<updated>2009-09-16T11:59:35Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1932</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Far out at the edge of the Universe two scientists play a game of wits--Earth to the winner.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2287.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2287.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2287.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2287.png?t=20090916115935" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2287.png?size=smaller&amp;t=20090916115935" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2287.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Vigorish</title>
+<id>http://www.feedbooks.com/book/2285</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-09-16T11:59:34Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>If it &quot;takes a thief to catch a thief&quot; ... what does it take to catch a psi-gifted thief?</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2285.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2285.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2285.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2285.png?t=20090916115934" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2285.png?size=smaller&amp;t=20090916115934" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2285.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>The Unnecessary Man</title>
+<id>http://www.feedbooks.com/book/2284</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-09-16T11:59:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Sometimes an organizational setup grows, sets its ways, and becomes so traditional that once-necessary jobs become unnecessary. But it is sometimes quite hard to spot just which man is the unnecessary one. In this case ... not the one you think!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2284.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2284.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2284.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2284.png?t=20090916115933" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2284.png?size=smaller&amp;t=20090916115933" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2284.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Tinker's Dam</title>
+<id>http://www.feedbooks.com/book/2283</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-09-16T11:59:33Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1961</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There is something very fundamental indeed about the ancient showman's trick&#8212;divert their attention from the thing you're really doing ...</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2283.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2283.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2283.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2283.png?t=20090916115933" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2283.png?size=smaller&amp;t=20090916115933" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2283.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Out Like a Light</title>
+<id>http://www.feedbooks.com/book/2280</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-09-16T11:47:11Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Kenneth Malone--sometimes known as Sir Kenneth of The Queen's Own FBI--had had problems with telepathic spies, and more than somewhat nutty telepathic counterspies. But the case of the Vanishing Delinquents was at least as bad....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2280.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2280.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2280.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2280.png?t=20090916114711" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2280.png?size=smaller&amp;t=20090916114711" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2280.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>In Case of Fire</title>
+<id>http://www.feedbooks.com/book/2278</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-09-16T11:57:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>There are times when a broken tool is better than a sound one, or a twisted personality more useful than a whole one. For instance, a whole beer bottle isn't half the weapon that half a beer bottle is ...</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2278.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2278.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2278.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2278.png?t=20090916115731" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2278.png?size=smaller&amp;t=20090916115731" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2278.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>By Proxy</title>
+<id>http://www.feedbooks.com/book/2277</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-09-16T11:51:24Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It's been said that the act of creation is a solitary thing--that teams never create; only individuals. But sometimes a team may be needed to make creation effective....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2277.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2277.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2277.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2277.png?t=20090916115124" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2277.png?size=smaller&amp;t=20090916115124" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2277.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Anything You Can Do ...</title>
+<id>http://www.feedbooks.com/book/2276</id>
+<author>
+  <name>Randall Garrett</name>
+  <uri>http://www.feedbooks.com/author/267</uri>
+</author>
+<updated>2009-09-16T11:36:12Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1963</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>One shipwrecked alien against the power of an entire planet means a losing battle... until Earth builds superman!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2276.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2276.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2276.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2276.png?t=20090916113612" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2276.png?size=smaller&amp;t=20090916113612" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2276.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Wizard</title>
+<id>http://www.feedbooks.com/book/2275</id>
+<author>
+  <name>Laurence Mark Janifer</name>
+  <uri>http://www.feedbooks.com/author/268</uri>
+</author>
+<updated>2009-09-16T11:38:44Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1960</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>Although the Masquerade itself, as a necessary protection against non-telepaths, was not fully formulated until the late years of the Seventeenth Century, groups of telepaths-in-hiding existed long before that date. Whether such groups were the results of natural mutations, or whether they came into being due to some other cause, has not yet been fully determined, but that a group did exist in the district of Offenburg, in what is now Prussia, we are quite sure. The activities of the group appear to have begun, approximately, in the year 1594, but it was not until eleven years after that date that they achieved a signal triumph, the first and perhaps the last of its kind until the dissolution of the Masquerade in 2103.</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2275.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2275.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2275.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2275.png?t=20090916113844" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2275.png?size=smaller&amp;t=20090916113844" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2275.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Charley de Milo</title>
+<id>http://www.feedbooks.com/book/2274</id>
+<author>
+  <name>Laurence Mark Janifer</name>
+  <uri>http://www.feedbooks.com/author/268</uri>
+</author>
+<updated>2009-09-16T11:55:59Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1959</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>It isn't at all obvious--at first thought--that having two perfectly good, usable arms could be a real handicap to a man....</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2274.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2274.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2274.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2274.png?t=20090916115559" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2274.png?size=smaller&amp;t=20090916115559" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2274.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>A World is Born</title>
+<id>http://www.feedbooks.com/book/2273</id>
+<author>
+  <name>Leigh Brackett</name>
+  <uri>http://www.feedbooks.com/author/327</uri>
+</author>
+<updated>2009-09-16T11:50:26Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1941</dcterms:issued>
+<category term="Short Fiction" label="Short Fiction"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<summary>The romantic, fictionalized solar system of Leigh Brackett's works provides a lush, steamy world in Mercury, where Mel Gray is working to build a home for veterans of the Second Interplanetary War. But Gray has no idea of the romance and adventure that awaits on this savage young world... A thrilling planetary adventure from the legendary COMET pulp magazine!</summary>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</rights>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2273.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2273.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2273.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2273.png?t=20090916115026" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2273.png?size=smaller&amp;t=20090916115026" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2273.atom" rel="alternate" title="Full entry"/>
+</entry>
+<entry>
+<title>Olga Romanoff or, The Syren of the Skies</title>
+<id>http://www.feedbooks.com/book/2270</id>
+<author>
+  <name>George Griffith</name>
+  <uri>http://www.feedbooks.com/author/174</uri>
+</author>
+<updated>2009-09-16T11:00:48Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1894</dcterms:issued>
+<category term="Novels" label="Novels"/>
+<category term="Science Fiction" label="Science Fiction"/>
+<category term="War" label="War"/>
+<summary>The novel continues (from The Angel of the Revolution) the tale of a worldwide brotherhood of anarchists fighting the world armed with fantastical airships, ending on an apocalyptic note as a comet smashes into the earth.</summary>
+<dcterms:source>http://gutenberg.net.au</dcterms:source>
+<link type="application/epub+zip" href="http://www.feedbooks.com/book/2270.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://www.feedbooks.com/book/2270.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://www.feedbooks.com/book/2270.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2270.png?t=20090916110048" rel="http://opds-spec.org/cover"/>
+<link type="image/png" href="http://www.feedbooks.com/book/2270.png?size=smaller&amp;t=20090916110048" rel="http://opds-spec.org/thumbnail"/>
+<link type="application/atom+xml;type=entry" href="http://www.feedbooks.com/book/2270.atom" rel="alternate" title="Full entry"/>
+</entry>
+</feed>

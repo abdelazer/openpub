@@ -166,8 +166,8 @@ A Publication Collection listing OPDS Catalog Entries:
     <dc:language>en</dc:language>
     <dc:issued>1917</dc:issued>
     <content type="text">The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</content>
-    <link type="image/png" rel="http://opds-spec.org/cover"           href="http://opds-spec.org/covers/4561.lrg.png"/>
-    <link type="image/png" rel="http://opds-spec.org/thumbnail" href="http://opds-spec.org/covers/4561.thmb.png"/>
+    <link type="image/png" rel="http://opds-spec.org/cover"     href="http://opds-spec.org/covers/4561.lrg.png"/>
+    <link type="image/gif" rel="http://opds-spec.org/thumbnail" href="http://opds-spec.org/covers/4561.thmb.gif"/>
 
     <link type="application/epub+zip"           
           rel="http://opds-spec.org/acquisition" 
@@ -202,7 +202,7 @@ A Publication Collection listing OPDS Catalog Entries:
     <dc:language>en</dc:language>
     <dc:issued>2009-10-01</dc:issued>
     <content type="text">The definitive reference for the web-curious philatelist.</content>
-    <link type="image/png" rel="http://opds-spec.org/cover" href="http://opds-spec.org/covers/11241.lrg.png"/>
+    <link type="image/jpeg" rel="http://opds-spec.org/cover" href="http://opds-spec.org/covers/11241.lrg.jpg"/>
 
     <link type="text/html"           
           rel="http://opds-spec.org/acquisition/buy" 
@@ -227,6 +227,21 @@ The following child elements are refined by this specification:
 = OPDS Catalog Entry Documents =
 
 OPDS Catalog Entry Documents are Atom `[RFC4287]` Entry documents that provide a complete representation of the metadata and data associated with an available electronic publication.
+
+== Covers and Artwork ==
+
+OPDS Catalog Entries MAY include relations to images that provide a visual representation of the electronic publication. For many publications, these images will be the publication's cover or other distinguishing artwork. 
+
+Catalog Entries MUST use one of the following link relations for these images:
+
+  * "http://opds-spec.org/cover": a high-quality version of the image 
+  * "http://opds-spec.org/thumbnail": a version of the image suitable for presentation at a small size
+
+The maximum size of the longest dimension of http://opds-spec.org/thumbnail images SHOULD be 120 pixels.
+
+The atom:links with these relations MUST include a type attribute of "image/gif", "image/jpeg", or "image/png" and the image resources MUST be in GIF, JPEG, or PNG format.
+
+While either image resource is optional and may be included independently, OPDS Catalog providers are encouraged to provide both these relations and resources whenever possible. More than one atom:link with either relation SHOULD NOT be provided for a single OPDS Catalog Entry.
 
 == Element Definitions ==
 

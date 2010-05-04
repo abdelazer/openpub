@@ -320,7 +320,9 @@ The complete media type for a relation to an OPDS Catalog Document MAY be:
 
 application/atom+xml;type=feed;profile=opds-catalog
 
-= Listing Publication Collections =
+= Collection Handling =
+
+== Listing Publication Collections ==
 
 OPDS Catalog Documents, especially Publication Collections, can contain large numbers of Resources. A client such as a web spider or web browser might be overwhelmed if the response to a GET contained every OPDS Catalog Entry in a Publication Collection -- in turn the server might also waste bandwidth and processing time on generating a response that cannot be handled. For this reason, servers MAY respond to Publication Collection GET requests with a OPDS Catalog Document containing a partial list of the Publication Collection's members, and a link to the next partial list feed, if it exists, as defined in Section 3 of `[RFC5005]`. 
 
@@ -337,13 +339,13 @@ Additionally, clients MUST NOT assume that an Atom Entry returned in the Publica
   * prism:issue
   * prism:volume
 
-= Filtering Publication Collections =
+== Filtering Publication Collections ==
 
 Many consumers of OPDS Catalog Documents will not be able to process every media type and will want to filter Publication Collections by the media type's of Acqusition Links. A server MAY allow the filtering of Publication Collections by a set of media types using...
 
 TODO
 
-= Complete Publication Collections =
+== Complete Publication Collections ==
 
 A server MAY provide a single, consolidated Publication Collection that includes the complete representation of every OPDS Catalog Entry Document in an OPDS Catalog in a single, unpaged atom:feed to faciliate crawling and aggregation. This represenation is called a Complete Publication Collection. If available, each OPDS Catalog Document in the OPDS Catalog SHOULD contain an atom:link element with a the relation of "http://opds-spec.org/crawlable" that references the Complete Publication Collection URI. A Complete Publication Collection MUST include an fh:complete element. See Section 2 of `[RFC5005]` for the specification of the fh:complete element. Servers SHOULD use a compressed Content-Encoding when transmitting Complete Publication Collections over HTTP if possible. See Section 14.11 of `[RFC2616]`.
 
@@ -351,19 +353,13 @@ A server MAY provide a single, consolidated Publication Collection that includes
 
 OPDS Catalogs are delivered over HTTP. Authentication requirements for HTTP are covered in Section 11 of `[RFC2616]`.
 
-TODO_GETHELP Point to Atom's description here?
+The type of authentication required for any OPDS Catalog is a decision to be made by the OPDS Catalog provider. OPDS Catalog clients are likely to face authentication schemes that vary across Catalogs. At a minimum, client and server implementations MUST be capable of being configured to use HTTP Basic Authentication `[RFC2617]` in conjunction with a connection made with TLS 1.0 `[RFC2246]` or a subsequent standards-track version of TLS supporting the conventions for using HTTP over TLS described in `[RFC2818]`. It is RECOMMENDED that OPDS Catalog clients be implemented in such a way that new authentication schemes can be deployed.
 
-The choice of authentication mechanism will impact interoperability.....
-
-The minimum level of security referenced above (Basic Authentication with TLS) is considered good practice for Internet applications at the time of publication of this specification and sufficient for establishing a baseline for interoperability. Implementers are encouraged to investigate and use alternative mechanisms regarded as equivalently good or better at the time of deployment. It is RECOMMENDED that clients be implemented in such a way that new authentication schemes can be deployed.
-
-Because this protocol uses HTTP response status codes as the primary means of reporting the result of a request, servers are advised to respond to unauthorized or unauthenticated requests using an appropriate 4xx HTTP response code (e.g., 401 "Unauthorized" or 403 "Forbidden") in accordance with `[RFC2617]`.
+Because this protocol uses HTTP response status codes as the primary means of reporting the result of a request, OPDS Catalog providers are advised to respond to unauthorized or unauthenticated requests using an appropriate 4xx HTTP response code (e.g., 401 "Unauthorized" or 403 "Forbidden") in accordance with `[RFC2617]`.
 
 = Security Considerations =
 
-OPDS Catalogs are delivered over HTTP and thus subject to the security considerations found in Section 15 of `[RFC2616]`.
-
-TODO_GETHELP
+OPDS Catalogs are Atom documents delivered over HTTP and thus subject to the security considerations found in Section 15 of `[RFC2616]` and Section 5 of `[RFC4287]`.
 
 == Linked Resources ==
 
@@ -391,8 +387,10 @@ Additional information about XHTML and HTML content safety can be found in Secti
   * `[REC-xml-infoset]` Cowan, J. and R. Tobin, "XML Information Set (Second Edition)", World Wide Web Consortium Recommendation REC-xml-infoset-20040204, February 2004, http://www.w3.org/TR/2004/REC-xml-infoset-20040204.
   * `[REC-xml-names]` Hollander, D., Bray, T., Tobin, R., and A. Layman, "Namespaces in XML 1.0 (Second Edition)", World Wide Web Consortium Recommendation REC-xml-names-20060816, August 2006, http://www.w3.org/TR/2006/REC-xml-names-20060816.
   * `[RFC2119]` Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997.
+  * `[RFC2246]`	Dierks, T. and C. Allen, "The TLS Protocol Version 1.0", RFC 2246, January 1999.
   * `[RFC2616]` Fielding, R., Gettys, J., Mogul, J., Frystyk, H., Masinter, L., Leach, P., and T. Berners-Lee, "Hypertext Transfer Protocol -- HTTP/1.1", RFC 2616, June 1999.
   * `[RFC2617]` Franks, J., Hallam-Baker, P., Hostetler, J., Lawrence, S., Leach, P., Luotonen, A., and L. Stewart, "HTTP Authentication: Basic and Digest Access Authentication", RFC 2617, June 1999.
+  * `[RFC2818]` Rescorla, E., "HTTP Over TLS", RFC 2818, May 2000.
   * `[RFC3187]` J. Hakala, J. and H. Walravens, "Using International Standard Book Numbers as Uniform Resource Names", RFC 3187, October 2001.
   * `[RFC3986]` Berners-Lee, T., Fielding, R., and L. Masinter, "Uniform Resource Identifier (URI): Generic Syntax", STD 66, RFC 3986, January 2005.
   * `[RFC3987]` Duerst, M. and M. Suignard, "Internationalized Resource Identifiers (IRIs)", RFC 3987, January 2005.

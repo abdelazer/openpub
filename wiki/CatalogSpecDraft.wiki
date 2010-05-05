@@ -46,7 +46,7 @@ Some sections of this specification are illustrated with fragments of a non-norm
 
 For convenience, instances of this format can be referred to as "OPDS Catalogs" or "OPDS Catalog Documents." The following terminology is used by this specification:
 
-  * Acquisition Link - An atom:link element with a relation that begins "http://opds-spec.org/acquisition" and represents the URI from which the content's complete representation in a particular media type MAY be requested.
+  * Acquisition Link - An atom:link element with a relation that begins "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described electrnic publication for any OPDS Catalog Entry. See the Section Acquisition Relations.
   * Complete Catalog Entry - An OPDS Catalog Entry that includes all known metadata and is linked from a Partial Catalog Entry.
   * Entry - An Atom Entry as defined in `[RFC4287]`. 
   * Feed - An Atom Feed as defined in `[RFC4287]`. 
@@ -135,6 +135,7 @@ The following relations are derived from `[DRAFT-Web-Linking]`, with some clarif
   * "first": The initial page in a paginated Publication Collection.
   * "help": A Resource that describes how the Catalog or publications may be used.
   * "last": The final page in a paginated Publication Collection.
+  * "license": The license under which this OPDS Catalog is released.
   * "next": The following page in a paginated Publication Collection.
   * "previous": The previous page in a paginated Publication Collection.
   * "related": A Publication Collection that  (best way to suggest related OPDS collection feeds. For example while browsing new release in romance, a related link could suggest the most popular publications in romance)
@@ -275,6 +276,8 @@ The following child elements are refined by this specification:
 
 OPDS Catalog Entry Documents are Atom `[RFC4287]` Entry documents that provide a complete representation of the metadata and data associated with an available electronic publication.
 
+Each OPDS Catalog Entry Document MUST include at least one Acquisition Link, which is an atom:link element with a relation that begins "http://opds-spec.org/acquisition". This link refers to the Resource which is the content of the electronic publication described by the OPDS Catalog Entry in a particular media type. Acquisition Links use one of the relations described in Acquisition Relations.
+
 == Partial and Complete Catalog Entries ==
 
 OPDS Catalog Entries may be represented as either a Partial or Complete Catalog Entry. Partial Catalog Entries include only critical metadata elements to reduce the size of OPDS Catalog documents for bandwidth- and resource-limited clients and link to their alternate representation as a Complete Catalog Entries, which include all metadata elements. A Partial Catalog Entry MUST include an "alternate" link relation referencing the Complete Catalog Entry Resource and that atom:link MUST use the type attribute "application/atom+xml;type=entry;profile=opds-catalog". Any Catalog Entry without a link to a Complete Catalog Entry MUST include all metadata elements.
@@ -296,16 +299,28 @@ OPDS Catalog providers are strongly encouraged to limit metadata elements not re
 
 == Entry Relations ==
 
-http://opds-spec.org/cover
-http://opds-spec.org/thumbnail
-Entry-level (from the link header draft)
+OPDS Catalog Documents SHOULD include links to related Resources. This specification defines five new relations for linking from OPDS Catalog Entry Documents. They are defined in the Sections Acquisition Relations and Covers and Artwork Relations.
 
-  alternate
-  related
-  copyright
-  license
-  replies (for comments)
-== Covers and Artwork Relations ==
+The following relations are derived from `[DRAFT-Web-Linking]`, with some clarification:
+
+  * "alternate": Identifies a Resource that describes this electronic publication in another format (a
+  * "copyright": Refers to a copyright statement that applies to this OPDS Catalog Entry.
+  * "latest-version": Refers to a more recent version of the electronic publication described by this OPDS Catalog Entry.
+  * "license": Refers to a license associated with this OPDS Catalog Entry.
+  * "related": Refers to a similar OPDS Catalog Entry.
+  * "replies ": Refers to a comment on or discussion of this OPDS Catalog Entry.
+
+=== Acquisition Relations ===
+
+Acquisition Relations describe the extent of the content referred to by an Acquisition Link or the manner in which that Resource may be acquired. This specification defines five Acquisition Relations, which all begin with "http://opds-spec.org/acquisition": 
+
+  * "http://opds-spec.org/acquisition": Indicates that the complete representation of the content Resource may be retrieved without payment.
+  * "http://opds-spec.org/acquisition/borrow": Indicates that the complete representation of the content Resource may be retrieved as part of a lending transaction.
+  * "http://opds-spec.org/acquisition/buy": Indicates that the complete representation of the content Resource may be retrieved as part of a purchase.
+  * "http://opds-spec.org/acquisition/sample": Indicates that a subset of the content Resource may be retrieved.
+  * "http://opds-spec.org/acquisition/subscribe": Indicates that the complete representation of the content Resource may be retrieved as part of a subscription.
+
+=== Covers and Artwork Relations ===
 
 OPDS Catalog Entries MAY include relations to images that provide a visual representation of the electronic publication. For many publications, these images will be the publication's cover or other distinguishing artwork. 
 

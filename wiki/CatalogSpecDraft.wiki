@@ -47,6 +47,7 @@ Some sections of this specification are illustrated with fragments of a non-norm
 For convenience, instances of this format can be referred to as "OPDS Catalogs" or "OPDS Catalog Documents." The following terminology is used by this specification:
 
   * Acquisition Link - An atom:link element with a relation that begins "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described electrnic publication for any OPDS Catalog Entry. See the Section Acquisition Relations.
+  * Catalog - An Atom feed containing a list of publications.
   * Complete Catalog Entry - An OPDS Catalog Entry that includes all known metadata and is linked from a Partial Catalog Entry.
   * Entry - An Atom Entry as defined in `[RFC4287]`. 
   * Feed - An Atom Feed as defined in `[RFC4287]`. 
@@ -55,6 +56,7 @@ For convenience, instances of this format can be referred to as "OPDS Catalogs" 
   * OPDS Catalog Entry - An Entry provides a representation of an available electronic publication and includes an Acquisition Link. 
   * OPDS Catalog Root - The Feed that represents either the complete OPDS Catalog if it is limited to a Publication Collection or else is the starting Feed in a set of Hierarchical Collections. External links to the Catalog are made to the OPDS Catalog Root Resource.
   * Partial Catalog Entry - An OPDS Catalog Entry that includes the minimal required metadata but no other metadata and links to the Complete Catalog Entry. 
+  * Publication - An electronic document, typically as a single file. OPDS is agnostic about the particular format of publications.
   * Publication Collection - A Feed whose Entries are exclusively OPDS Catalog Entries. 
   * relation (or "relation of") - Refers to the "rel" attribute value of an atom:link element.
   * Representation - An entity included with a request or response as defined in `[RFC2616]`.

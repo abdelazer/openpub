@@ -67,10 +67,8 @@ For convenience, instances of this format can be referred to as "OPDS Catalogs" 
 
 Additional terminology describes the acquisition scenario for a particular publication:
 
-  * "Direct acquisition" - The Acquisition Link will return the actual bytes of the publication when 
-traversed, either directly or via HTTP redirection.
-  * "Indirect acquisition" - The Acquisition Link will lead to one or more intermediate content-types before 
-the publication is acquired.
+  * "Direct acquisition" - The Acquisition Link will return the actual bytes of the publication when traversed, either directly or via HTTP redirection.
+  * "Indirect acquisition" - The Acquisition Link will lead to one or more intermediate content-types before the publication is acquired.
 
 The most typical indirect acquisition scenario is a link to an HTML page which prompts a user for 
 authentication and/or payment.  When the transaction is satisfactorily completed, the publication bytes 

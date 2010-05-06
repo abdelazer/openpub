@@ -63,6 +63,19 @@ For convenience, instances of this format can be referred to as "OPDS Catalogs" 
   * Resource - A network-accessible data object or service identified by an IRI, as defined in `[RFC2616]`. See `[REC-webarch]` for further discussion on Resources.
   * URI - A Uniform Resource Identifier as defined in `[RFC3986]`. In this specification, the phrase "the URI of a document" is shorthand for "a URI which, when dereferenced, is expected to produce that document as a representation".
   
+== Acquisition Types ==
+
+Additional terminology describes the acquisition scenario for a particular publication:
+
+  * "Direct acquisition" - The Acquisition Link will return the actual bytes of the publication when 
+traversed, either directly or via HTTP redirection.
+  * "Indirect acquisition" - The Acquisition Link will lead to one or more intermediate content-types before 
+the publication is acquired.
+
+The most typical indirect acquisition scenario is a link to an HTML page which prompts a user for 
+authentication and/or payment.  When the transaction is satisfactorily completed, the publication bytes 
+are eventually returned.
+
 = Document Types =
 
 This specification defines two kinds of documents -- OPDS Catalog Documents and OPDS Catalog Entry Documents.

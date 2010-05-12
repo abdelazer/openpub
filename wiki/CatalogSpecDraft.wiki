@@ -473,6 +473,19 @@ An OPDS Catalog provider MAY provide a single, consolidated Publication Collecti
 
 OPDS Catalog providers MUST include Complete Catalog Entries when serializing a Complete Publication Collection.
 
+= Discovering OPDS Catalogs =
+
+OPDS Catalogs may be discovered through HTML/XHTML pages, HTTP headers (See `[DRAFT-Web-Linking]`) or on a local network.
+
+The type associated to OPDS Catalogs is the most useful piece of information for the discovery process.
+
+For example, a webpage might include the following link to announce an OPDS Catalog:
+{{{
+<link rel="related" type="application/atom+xml;profile=opds-catalog" href="/catalog.atom" />
+}}}
+
+Feeds and Entries MAY be discovered that way. Entries MUST use the "type=entry" media parameter to be properly identified: "application/atom+xml;type=entry;profile=opds-catalog".
+
 = Aggregating OPDS Catalogs =
 
 OPDS Catalogs may be aggregated using the same techniques as Atom Feeds. Aggregators SHOULD use the atom:source element from Section 4.2.11 of `[RFC4287]` to include information about the original OPDS Catalog.

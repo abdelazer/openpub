@@ -479,7 +479,7 @@ OPDS Catalogs may be aggregated using the same techniques as Atom Feeds. Aggrega
 
 = Discovering OPDS Catalogs =
 
-The most common mechanism for discovering OPDS feeds is to link an HTML document describing the catalog service to the machine readable OPDS Catalog document using the auto-discovery pattern popularized by the syndicated feed community [AUTODISCOVERY].
+The most common mechanism for discovering OPDS feeds is to link an HTML document describing the catalog service to the OPDS Catalog document, using the auto-discovery pattern popularized by the syndicated feed community `[AUTODISCOVERY]`.
 
 HTML links SHOULD be expressed using link elements, with a rel attribute "related", and a type attribute "application/atom+xml;type=feed;profile=opds-catalog". Multiple links to OPDS catalogs MAY be expressed in a single HTML document.
 

@@ -21,7 +21,7 @@ Regrets: Roger
   * Keith will go through Issue #19 and the spec text and 
   * Hadrien and Ed will consolidate their comments about discovery. Ed includes more background but Hadrien included more discovery types (local network and HTTP headers). We'd probably try to keep the door open for future discovery techniques. All discovery techniques are based around the mimetype (and parameters). Some other techniques 
   * Hadrien notes that the Link Header draft doesn't include "search", but we'll wait and see what the call for comments generate.
-  * Patrick wonders if we should use atom:summary or atom:content? We should clarify when atom:content . Patrick will make a ticket.
+  * Patrick wonders if we should use atom:summary or atom:content? We should clarify when atom:content makes sense, what restrictions exist on atom:summary, and outline what the branches are for clients (all from Atom). JHadrien suggests that the ideal is probably feeds with partial entries that include textual (short) summaries and alternate links to compelte entries that have summaries and longer content (potentially XHTML). Keith agrees. Patrick is concerned that many current catalogs repeat metadata available elsewhere (author, title) in the HTML atom:content and that including both will look silly. Keith agrees but suggests that Catalog authors will realize their error. Patrick will make a ticket.
   * Hadrien will make a ticket for Keith requesting text on Cache Control and including some stronger text about targeting bandwidth- and resource-limited clients.
 
 == Coordinating call for comments ==

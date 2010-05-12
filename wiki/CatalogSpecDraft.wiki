@@ -455,7 +455,7 @@ The complete media type for a relation to an OPDS Catalog Feed Document Resource
 
 application/atom+xml;type=feed;profile=opds-catalog
 
-= Collection Handling =
+= Feed Handling =
 
 == Listing Acquisition Feeds ==
 
@@ -465,7 +465,7 @@ OPDS Catalog providers SHOULD use Partial Catalog Entries in all Acquisition Fee
 
 == Complete Acquisition Feeds ==
 
-An OPDS Catalog provider MAY provide a single, consolidated Acquisition Feed that includes the complete representation of every unique OPDS Catalog Entry Document in an OPDS Catalog in a single, unpaged atom:feed to faciliate crawling and aggregation. This representation is called a Complete Acquisition Feed and each OPDS Catalog Entry MUST be ordered by atom:updated. If available, each OPDS Catalog Feed Document in the OPDS Catalog SHOULD contain an atom:link element with a the relation of "http://opds-spec.org/crawlable" that references the Complete Acquisition Feed Resource. A Complete Acquisition Feed MUST include a fh:complete element from `[RFC5005]`. See Section 2 of `[RFC5005]` for the specification of the fh:complete element. OPDS Catalog providers SHOULD use a compressed Content-Encoding when transmitting Complete Acquisition Feeds over HTTP. See Section 14.11 of `[RFC2616]` for more on compression.
+An OPDS Catalog provider MAY provide a single, consolidated Acquisition Feed that includes the complete representation of every unique OPDS Catalog Entry Document in an OPDS Catalog in a single, unpaged atom:feed to faciliate crawling and aggregation. This representation is called a Complete Acquisition Feed and each OPDS Catalog Entry MUST be ordered by atom:updated, with the most recently updated Atom Entries coming first in the document order. If available, each OPDS Catalog Feed Document in the OPDS Catalog SHOULD contain an atom:link element with a the relation of "http://opds-spec.org/crawlable" that references the Complete Acquisition Feed Resource. A Complete Acquisition Feed MUST include a fh:complete element from `[RFC5005]`. See Section 2 of `[RFC5005]` for the specification of the fh:complete element. OPDS Catalog providers SHOULD use a compressed Content-Encoding when transmitting Complete Acquisition Feeds over HTTP. See Section 14.11 of `[RFC2616]` for more on compression.
 
 OPDS Catalog providers MUST include Complete Catalog Entries when serializing a Complete Acquisition Feed.
 
@@ -491,6 +491,11 @@ The type of authentication required for any OPDS Catalog is a decision to be mad
 
 Because this protocol uses HTTP response status codes as the primary means of reporting the result of a request, OPDS Catalog providers are advised to respond to unauthorized or unauthenticated requests using an appropriate 4xx HTTP response code (e.g., 401 "Unauthorized" or 403 "Forbidden") in accordance with `[RFC2617]`.
 
+= Bandwidth and Processing Considerations =
+
+Many OPDS Catalog clients operate in mobile environments, which may impose strict limitations on bandwidth and processing resources. OPDS Catalog publishers are strongly encouraged to publish their OPDS Catalogs using compression and caching techniques and the partial feeds described in the Section Listing Acquisition Feeds. Implementers are encouraged to investigate and use alternative mechanisms regarded as equivalently good or better at the time of deployment. See `[CACHING]` for more on caching techniques.
+
+
 = Security Considerations =
 
 OPDS Catalogs are Atom documents delivered over HTTP and thus subject to the security considerations found in Section 15 of `[RFC2616]` and Section 5 of `[RFC4287]`.
@@ -515,7 +520,7 @@ Additional information about XHTML and HTML content safety can be found in Secti
 
 == Normative References =
 
-  * `[DRAFT-Web-Linking]` Nottingham, M., "Web Linking", draft-nottingham-http-link-header-09, April 2010, http://tools.ietf.org/html/draft-nottingham-http-link-header.
+  * `[DRAFT-Web-Linking]` Nottingham, M., "Web Linking", draft-nottingham-http-link-header-10, May 2010, http://tools.ietf.org/html/draft-nottingham-http-link-header.
   * `[ISO4217]` "ISO 4217 currency and funds name and code elements", International Standard ISO 4217, http://www.iso.org/iso/en/prods-services/popstds/currencycodeslist.html.
   * `[OpenSearch]` Clinton D., "Open Search 1.1 Draft 4", http://www.opensearch.org/Specifications/OpenSearch/1.1
   * `[REC-xml]` Yergeau, F., Paoli, J., Bray, T., Sperberg-McQueen, C., and E. Maler, "Extensible Markup Language (XML) 1.0 (Fourth Edition)", World Wide Web Consortium Recommendation REC-xml-20060816, August 2006, http://www.w3.org/TR/2006/REC-xml-20060816.
@@ -538,9 +543,9 @@ Additional information about XHTML and HTML content safety can be found in Secti
 == Informative References ==
 
   * `[AUTODISCOVERY]` Cadenhead, R., Holderness, J., Morin, R., "RSS Autodiscovery", November 2006, http://www.rssboard.org/rss-autodiscovery.
+  * `[CACHING]` Nottingham, M., "Caching Tutorial", 1998, http://www.mnot.net/cache_docs/.
   * `[REC-webarch]` Walsh, N. and I. Jacobs, "Architecture of the World Wide Web, Volume One", W3C REC REC-webarch-20041215, December 2004, http://www.w3.org/TR/2004/REC-webarch-20041215.
   * `[RNC]` Clark, J., "RELAX NG Compact Syntax", December 2001, http://www.oasis-open.org/committees/relax-ng/compact-20021121.html.
-  * `[DRAFT-parameter]` Inkster, T., "The Profile Media Type Parameter," October 2009, http://buzzword.org.uk/2009/draft-inkster-profile-parameter-00.html.
 
 = Appendix A. Contributors =
 

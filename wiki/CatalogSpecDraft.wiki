@@ -484,7 +484,7 @@ The most common mechanism for discovering OPDS feeds is to link an HTML document
 HTML links SHOULD be expressed using link elements, with a rel attribute "related", and a type attribute "application/atom+xml;type=feed;profile=opds-catalog". Multiple links to OPDS catalogs MAY be expressed in a single HTML document.
 
 {{{
-<link rel="related" type="application/atom+xml;profile=opds-catalog" title="Feedbooks | OPDS catalog" href="http://opds-spec.org/opds-catalogs/catalog" /> 
+<link rel="related" type="application/atom+xml;profile=opds-catalog" href="/opds-catalogs/catalog" /> 
 }}}
 
 = Securing OPDS Catalogs =

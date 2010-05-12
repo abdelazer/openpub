@@ -279,7 +279,7 @@ A Publication Collection listing OPDS Catalog Entries from the "Unpopular Public
     <dc:publisher>StampMeOnline, Inc.</dc:publisher>
     <dc:language>en</dc:language>
     <dc:issued>2009-10-01</dc:issued>
-    <content type="text">The definitive reference for the web-curious philatelist.</content>
+    <content type="text">The definitive reference for the web-curious philatelist.</content>/opds-catalogs/vampire.farming.xml
     <link type="image/jpeg" rel="http://opds-spec.org/cover" href="http://opds-spec.org/covers/11241.lrg.jpg"/>
 
     <link type="text/html"           
@@ -473,22 +473,19 @@ An OPDS Catalog provider MAY provide a single, consolidated Publication Collecti
 
 OPDS Catalog providers MUST include Complete Catalog Entries when serializing a Complete Publication Collection.
 
-= Discovering OPDS Catalogs =
-
-OPDS Catalogs may be discovered through HTML/XHTML pages, HTTP headers (See `[DRAFT-Web-Linking]`) or on a local network.
-
-The type associated to OPDS Catalogs is the most useful piece of information for the discovery process.
-
-For example, a webpage might include the following link to announce an OPDS Catalog:
-{{{
-<link rel="related" type="application/atom+xml;profile=opds-catalog" href="/catalog.atom" />
-}}}
-
-Feeds and Entries MAY be discovered that way. Entries MUST use the "type=entry" media parameter to be properly identified: "application/atom+xml;type=entry;profile=opds-catalog".
-
 = Aggregating OPDS Catalogs =
 
 OPDS Catalogs may be aggregated using the same techniques as Atom Feeds. Aggregators SHOULD use the atom:source element from Section 4.2.11 of `[RFC4287]` to include information about the original OPDS Catalog.
+
+= Discovering OPDS Catalogs =
+
+The most common mechanism for discovering OPDS feeds is to link an HTML document describing the catalog service to the machine readable OPDS Catalog document using the auto-discovery pattern popularized by the syndicated feed community [AUTODISCOVERY].
+
+HTML links SHOULD be expressed using link elements, with a rel attribute "related", and a type attribute "application/atom+xml;type=feed;profile=opds-catalog". Multiple links to OPDS catalogs MAY be expressed in a single HTML document.
+
+{{{
+<link rel="related" type="application/atom+xml;profile=opds-catalog" title="Feedbooks | OPDS catalog" href="http://opds-spec.org/opds-catalogs/catalog" /> 
+}}}
 
 = Securing OPDS Catalogs =
 
@@ -544,6 +541,7 @@ Additional information about XHTML and HTML content safety can be found in Secti
 
 == Informative References ==
 
+  * `[AUTODISCOVERY]` Cadenhead, R., Holderness, J., Morin, R., "RSS Autodiscovery", November 2006, http://www.rssboard.org/rss-autodiscovery.
   * `[REC-webarch]` Walsh, N. and I. Jacobs, "Architecture of the World Wide Web, Volume One", W3C REC REC-webarch-20041215, December 2004, http://www.w3.org/TR/2004/REC-webarch-20041215.
   * `[RNC]` Clark, J., "RELAX NG Compact Syntax", December 2001, http://www.oasis-open.org/committees/relax-ng/compact-20021121.html.
   * `[DRAFT-parameter]` Inkster, T., "The Profile Media Type Parameter," October 2009, http://buzzword.org.uk/2009/draft-inkster-profile-parameter-00.html.

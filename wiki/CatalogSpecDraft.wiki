@@ -157,7 +157,7 @@ The following relations are derived from `[DRAFT-Web-Linking]`, with some clarif
 
 == Search ==
 
-An OPDS Catalog MAY provide a search facility through an `[OpenSearch]` Description Document. Links to OpenSearch documents MUST use the "search" relation value and the "application/opensearchdescription+xml" media type.
+An OPDS Catalog MAY provide a search facility through an `[OpenSearch]` Description Document. Links to `[OpenSearch]` Description documents MUST use the "search" relation value and the "application/opensearchdescription+xml" media type as defined in the "Autodiscovery" section of the `[OpenSearch]` specification.
 
 {{{
 <link rel="search" href="search.xml" type="application/opensearchdescription+xml"/>

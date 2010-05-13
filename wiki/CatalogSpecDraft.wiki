@@ -173,7 +173,7 @@ In an `[OpenSearch]` Description Document, the search interface SHOULD use the m
 
 OPDS Catalog Feed Documents MAY include elements from the `[OpenSearch]` namespace such as "opensearch:totalResults" or "opensearch:itemsPerPage" in `[OpenSearch]` responses.
 
-== Examples ==
+== Feed Examples ==
 
 An OPDS Catalog Root that is the top of a set of Navigation Feeds references three Acquisition Feeds using atom:links:
 {{{
@@ -371,7 +371,7 @@ While either image Resource is optional and may be included independently, OPDS 
 
 Some OPDS Catalog providers MAY choose to provide http://opds-spec.org/thumbnail image Resources using the "data" URL scheme from `[RFC2397]`. OPDS Catalog clients SHOULD support the "data" URL scheme if they support Covers and Artwork relations.
 
-== Examples ==
+== Entry Examples ==
 
 An example of a Partial Catalog Entry (as would appear in an Acquisition Feed) for a Publication available in two formats using Direct Acquisition:
 {{{
@@ -565,7 +565,7 @@ If the Publication is available using Indirect Acqusition, the type attribute of
 
 OPDS Catalog clients may only support a subset of all possible Publication media types. These clients will need to filter both the type attribute and dc:format children of Acqusition Links to support both Direct and Indirect Acqusition. Support for Indirect Acqusition is OPTIONAL.
 
-== Examples ==
+== Acquisition Examples ==
 
 The simplest case is a Publication available by Direct Acquisition in one format:
 

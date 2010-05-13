@@ -47,7 +47,7 @@ Some sections of this specification are illustrated with fragments of a non-norm
 The following terminology is used by this specification:
 
   * Acquisition Feed - An Atom Feed whose Atom Entries are exclusively OPDS Catalog Entries.
-  * Acquisition Link - An atom:link element with a relation that begins "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described Publication for any OPDS Catalog Entry. See the Section Acquisition Relations. They are serialized as OPDS Catalog Feed Documents.
+  * Acquisition Link - An atom:link element with a relation that begins "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described Publication or the Resource through which it may be acquired for any OPDS Catalog Entry. See the Sections Acquisition Relations and Acquiring Publications. They are serialized as OPDS Catalog Feed Documents.
   * Complete Catalog Entry - An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry.
   * IRI - An Internationalized Resource Identifier as defined in `[RFC3987]`. Before an IRI found in a document is used by HTTP, the IRI is first converted to a URI. 
   * Navigation Feed - An Atom Feed whose Atom Entries are not OPDS Catalog Entries but instead link to other Navigation Feeds, Acquisition Feeds, or other Resources to establish a hierarchical, browseable presentation of the OPDS Catalog. They are serialized as OPDS Catalog Feed Documents.
@@ -72,6 +72,8 @@ Additional terminology describes the acquisition scenario for a particular Publi
 
 The most typical Indirect Acquisition scenario is an Acquisition Link to an (X)HTML page which prompts a user for authentication and/or payment. When the transaction is satisfactorily completed, the Publication's bytes are eventually returned.
 
+For more on acquisition, see the Section Acquiring Publications.
+
 = Document Types =
 
 This specification defines two kinds of documents -- OPDS Catalog Feed Documents and OPDS Catalog Entry Documents.
@@ -88,7 +90,7 @@ OPDS Catalog Feed Documents MUST be "namespace-well-formed" as specified in Sect
 
 This specification uses the prefix "opds:" for the namespace name. The prefix "atom:" is used for "http://www.w3.org/2005/Atom ", the namespace name of the Atom Syndication Format `[RFC4287]`. These namespace prefixes are not semantically significant.
 
-Producers of OPDS Catalogs SHOULD produce OPDS Catalog Feed Documents and OPDS Catalog Entry Documents that are conformant to both Atom and the OPDS Catalog Relax NG schemas.
+Producers of OPDS Catalogs SHOULD produce OPDS Catalog Feed Documents and OPDS Catalog Entry Documents that are conformant to both Atom and the OPDS Catalog RELAX NG schemas.
 
 == Document Extensibility ==
 
@@ -233,27 +235,31 @@ An Acquisition Feed listing OPDS Catalog Entries from the "Unpopular Publication
   <entry>
     <title>Bob, Son of Bob</title>
     <id>urn:uuid:6409a00b-7bf2-405e-826c-3fdff0fd0734</id>
+    <updated>2010-01-10T10:01:11Z</updated>
     <author>
       <name>Bob the Recursive</name>
       <uri>http://opds-spec.org/authors/1285</uri>
     </author>
-    <updated>2010-01-10T10:01:11Z</updated>
     <dc:language>en</dc:language>
     <dc:issued>1917</dc:issued>
-    <content type="text">The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</content>
-    <link type="image/png" rel="http://opds-spec.org/cover"     href="http://opds-spec.org/covers/4561.lrg.png"/>
-    <link type="image/gif" rel="http://opds-spec.org/thumbnail" href="http://opds-spec.org/covers/4561.thmb.gif"/>
+    <category scheme="http://www.bisg.org/standards/bisac_subject/index.html"
+              term="FIC020000"
+              label="FICTION / Men's Adventure"/>
+    <summary>The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</summary>
+    <link type="image/png" rel="http://opds-spec.org/cover"     href="/covers/4561.lrg.png"/>
+    <link type="image/gif" rel="http://opds-spec.org/thumbnail" href="/covers/4561.thmb.gif"/>
+
+    <link type="application/atom+xml;type=feed;profile=opds-catalog" 
+          rel="alternate"
+          href="/opds-catalogs/entries/4571.complete.xml"
+          title="Complete Catalog Entry for Bob, Son of Bob"/>
 
     <link type="application/epub+zip"           
           rel="http://opds-spec.org/acquisition" 
-          href="http://opds-spec.org/content/free/4561.epub">
-      <dc:format>application/epub+zip</dc:format>
-    </link>      
+          href="/content/free/4561.epub"/>
     <link type="application/x-mobipocket-ebook" 
           rel="http://opds-spec.org/acquisition" 
-          href="http://opds-spec.org/content/free/4561.mobi">
-      <dc:format>application/x-mobipocket-ebook</dc:format>
-    </link>      
+          href="/content/free/4561.mobi"/>
  </entry>
 
  <entry>
@@ -272,16 +278,17 @@ An Acquisition Feed listing OPDS Catalog Entries from the "Unpopular Publication
       <uri>http://opds-spec.org/authors/21283</uri>
     </author>
     <updated>2010-01-10T10:01:10Z</updated>
+    <rights>Copyright (c) 2009, Stampy McGee</rights>
     <dc:identifier>urn:isbn:978029536341X</dc:identifier>
     <dc:publisher>StampMeOnline, Inc.</dc:publisher>
     <dc:language>en</dc:language>
     <dc:issued>2009-10-01</dc:issued>
     <content type="text">The definitive reference for the web-curious philatelist.</content>
-    <link type="image/jpeg" rel="http://opds-spec.org/cover" href="http://opds-spec.org/covers/11241.lrg.jpg"/>
+    <link type="image/jpeg" rel="http://opds-spec.org/cover" href="/covers/11241.lrg.jpg"/>
 
     <link type="text/html"           
           rel="http://opds-spec.org/acquisition/buy" 
-          href="http://opds-spec.org/content/buy/11241.epub">
+          href="/content/buy/11241.epub">
       <dc:format>application/epub+zip</dc:format>
       <opds:price currencycode="USD">18.99</opds:price>
     </link>
@@ -303,7 +310,7 @@ The following child elements are refined by this specification:
 
 OPDS Catalog Entry Documents are Atom `[RFC4287]` Entry documents that provide a complete representation of the metadata and data associated with an available Publication.
 
-Each OPDS Catalog Entry Document MUST include at least one Acquisition Link, which is an atom:link element with a relation that begins "http://opds-spec.org/acquisition". This link refers to the Resource which is the content of the Publication described by the OPDS Catalog Entry in a particular media type. Acquisition Links use one of the relations described in Acquisition Relations.
+Each OPDS Catalog Entry Document MUST include at least one Acquisition Link, which is an atom:link element with a relation that begins "http://opds-spec.org/acquisition". This link refers to the Resource which is the content of the Publication described by the OPDS Catalog Entry in a particular media type. Acquisition Links use one of the relations described in the Section Acquisition Relations.
 
 == Partial and Complete Catalog Entries ==
 
@@ -339,7 +346,7 @@ The following relations are derived from `[DRAFT-Web-Linking]`, with some clarif
 
 === Acquisition Relations ===
 
-Acquisition Relations describe the extent of the content referred to by an Acquisition Link or the manner in which that Resource may be acquired. This specification defines five Acquisition Relations, which all begin with "http://opds-spec.org/acquisition": 
+Acquisition relations describe the extent of the content referred to by an Acquisition Link or the manner in which that Resource may be acquired. This specification defines five acquisition relations, which all begin with "http://opds-spec.org/acquisition": 
 
   * "http://opds-spec.org/acquisition": Indicates that the complete representation of the content Resource may be retrieved without payment.
   * "http://opds-spec.org/acquisition/borrow": Indicates that the complete representation of the content Resource may be retrieved as part of a lending transaction.
@@ -364,6 +371,123 @@ While either image Resource is optional and may be included independently, OPDS 
 
 Some OPDS Catalog providers MAY choose to provide http://opds-spec.org/thumbnail image Resources using the "data" URL scheme from `[RFC2397]`. OPDS Catalog clients SHOULD support the "data" URL scheme if they support Covers and Artwork relations.
 
+== Examples ==
+
+An example of a Partial Catalog Entry (as would appear in an Acquisition Feed) for a Publication available in two formats using Direct Acquisition:
+{{{
+  <entry>
+    <title>Bob, Son of Bob</title>
+    <id>urn:uuid:6409a00b-7bf2-405e-826c-3fdff0fd0734</id>
+    <updated>2010-01-10T10:01:11Z</updated>
+    <author>
+      <name>Bob the Recursive</name>
+      <uri>http://opds-spec.org/authors/1285</uri>
+    </author>
+    <dc:language>en</dc:language>
+    <dc:issued>1917</dc:issued>
+    <category scheme="http://www.bisg.org/standards/bisac_subject/index.html"
+              term="FIC020000"
+              label="FICTION / Men's Adventure"/>
+    <summary>The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</summary>
+    <link type="image/png" rel="http://opds-spec.org/cover"     href="/covers/4561.lrg.png"/>
+    <link type="image/gif" rel="http://opds-spec.org/thumbnail" href="/covers/4561.thmb.gif"/>
+
+    <link type="application/atom+xml;type=entry;profile=opds-catalog" 
+          rel="alternate"
+          href="/opds-catalogs/entries/4571.complete.xml"
+          title="Complete Catalog Entry for Bob, Son of Bob"/>
+
+    <link type="application/epub+zip"           
+          rel="http://opds-spec.org/acquisition" 
+          href="/content/free/4561.epub"/>
+    <link type="application/x-mobipocket-ebook" 
+          rel="http://opds-spec.org/acquisition" 
+          href="/content/free/4561.mobi"/>
+ </entry>
+}}}
+
+The Complete Catalog Entry for the same Publication:
+{{{
+  <entry>
+    <title>Bob, Son of Bob</title>
+    <id>urn:uuid:6409a00b-7bf2-405e-826c-3fdff0fd0734</id>
+    <updated>2010-01-10T10:01:11Z</updated>
+
+    <author>
+      <name>Bob the Recursive</name>
+      <uri>http://opds-spec.org/authors/1285</uri>
+    </author>
+    <dc:language>en</dc:language>
+    <dc:issued>1917</dc:issued>
+    <category scheme="http://www.bisg.org/standards/bisac_subject/index.html"
+              term="FIC020000"
+              label="FICTION / Men's Adventure"/>
+
+    <summary>The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</summary>
+    <content type="text">The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.
+      Bob begins his humble life under the wandering eye of his senile mother, but quickly learns how to escape into the wilder world.
+      Follow Bob as he uncovers his father's past and uses those lessons to improve the lives of others.</content>
+
+    <link type="image/png" rel="http://opds-spec.org/cover"     href="/covers/4561.lrg.png"/>
+    <link type="image/gif" rel="http://opds-spec.org/thumbnail" href="/covers/4561.thmb.gif"/>
+
+    <link type="application/atom+xml;type=entry;profile=opds-catalog" 
+          rel="self"
+          href="/opds-catalogs/entries/4571.complete.xml"/>
+
+    <link type="application/epub+zip"           
+          rel="http://opds-spec.org/acquisition" 
+          href="/content/free/4561.epub"/>
+    <link type="application/x-mobipocket-ebook" 
+          rel="http://opds-spec.org/acquisition" 
+          href="/content/free/4561.mobi"/>
+ </entry>
+}}}
+
+A Complete Catalog Entry with a complex, paid, Indirect Acqusition, where three formats are available for a single price:
+{{{
+  <entry> 
+    <title>Personal Investing: The Missing Manual</title> 
+    <id>http://apps.oreilly.com/opds/product/9781449381806.EBOOK</id> 
+    <updated>2010-05-20T13:17:29</updated>
+    <dc:identifier>urn:isbn:9781449381806</dc:identifier>
+    <dc:publisher>O'Reilly Media</dc:publisher>
+    <dc:issued>2010-05-12</dc:issued>
+    <author> 
+      <name>Bonnie Biafore</name> 
+    </author> 
+    <author> 
+      <name>Amy E. Buttell</name> 
+    </author> 
+    <author> 
+      <name>Carol Fabbri</name> 
+    </author> 
+    <link type="text/html" 
+          rel="alternate" 
+          href="http://oreilly.com/catalog/0636920001386"/>
+    <link type="text/html" 
+          rel="http://opds-spec.org/acquisition/buy"
+          href="/product/9781449381806.EBOOK/buy">
+      <dc:format>application/pdf</dc:format> 
+      <dc:format>application/x-mobipocket-ebook</dc:format> 
+      <dc:format>application/epub+zip</dc:format> 
+      <opds:price currencycode="USD">17.99</opds:price> 
+    </link> 
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>Did your personal investments take a hit in the recession? It's time to take control of your funds 
+          with <em>Personal Investing: The Missing Manual</em>. This lively and easy-to-understand guide provides 
+          the confidence, tools, and insight you need to evaluate and invest in financial products that target 
+          success over the long term. You'll learn how to set goals and research the types of investments -- 
+          mutual funds, stocks, bonds, and other financial products -- that can best help you achieve them.</p>
+      </div>
+    </content>
+
+    <link href="http://covers.oreilly.com/images/0636920001386/bkt.gif" type="image/gif" rel="http://opds-spec.org/thumbnail" /> 
+    <link href="http://covers.oreilly.com/images/0636920001386/cat.gif" type="image/gif" rel="http://opds-spec.org/cover" /> 
+  </entry> 
+}}}
+
 == Element Definitions ==
 
 === The "atom:entry" Element ===
@@ -372,7 +496,7 @@ The "atom:entry" element is the document (i.e., top-level) element of an OPDS Ca
 
 The following child elements are refined by this specification:
 
-  * OPDS Catalog Entry Documents SHOULD contain at least one Acquisition Link, an atom:link element with a rel attribute value of "http://opds-spec.org/acquisition", "http://opds-spec.org/acquisition/buy", "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample".
+  * OPDS Catalog Entry Documents MUST contain at least one Acquisition Link, an atom:link element with a rel attribute value of "http://opds-spec.org/acquisition", "http://opds-spec.org/acquisition/buy", "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample".
 
 === The "atom:link" Element ===
 
@@ -389,14 +513,6 @@ The "atom:link" element defines a reference from an Atom Entry or Atom Feed to a
           ~ "must have at least one opds:price element."
         ]
       ]
-      s:rule [
-        context = "atom:link[@rel='http://opds-spec.org/acquisition']"
-        s:assert [
-          test = "dc:format"
-          "An atom:link with a rel attribute like 'http://opds-spec.org/acquisition' "
-          ~ "must have at least one dc:format element."
-        ]
-      ]
     ]
     element atom:link {
       atomCommonAttributes,
@@ -407,6 +523,7 @@ The "atom:link" element defines a reference from an Atom Entry or Atom Feed to a
       attribute title { text }?,
       attribute length { text }?,
       opdsPrice?,
+      dcFormat*,
       undefinedOPDSContent
     }
 }}}
@@ -414,8 +531,8 @@ The "atom:link" element defines a reference from an Atom Entry or Atom Feed to a
 The following child elements are defined by this specification:
 
   * atom:link elements with a rel attribute value of "http://opds-spec.org/acquisition/buy" MUST contain one opds:price element.
-  * atom:link elements with a rel attribute of "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample" MUST contain at least one dc:format element.
   * atom:link elements with a rel attribute of "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample" MAY contain one opds:price element.
+  * atom:link elements with a rel attribute of "http://opds-spec.org/acquisition", "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/buy", "http://opds-spec.org/acquisition/sample", or "http://opds-spec.org/acquisition/subscribe" MAY contain one or more dc:format elements.
 
 === The "opds:price" Element ===
 
@@ -436,24 +553,71 @@ opdsPrice =
 
 On the opds:price element, the value of the "currencycode" attribute MUST be an "Alphabetic code" from `[ISO4127]`. It defines the currency code used for the content of the opds:price element.
 
-= The Atom Format Type Parameter =
+= Acquiring Publications =
 
-The Atom Publishing Protocol `[RFC5023]` defines the Atom Format Type Parameter.
+The goal of OPDS Catalogs is to make Publications both discoverable and straightforward to acquire on a range of devices and platforms. To support that goal, this specification strives to provide a framework for describing how a Publication may be acquired while not attempting to constrain this very complex topic. Commonly-used acquisition scenarios may be specified in an update to this specification.
 
-Producers of OPDS Catalogs SHOULD use the "type" parameter. 
+All Acquisition Links MUST include a "type" attribute that advises clients on the media type of the representation that is expected to be returned when the value of the href attribute is dereferenced. Publications employing Digital Rights Management MUST include the drm parameter. See the Section The OPDS Catalog DRM Parameter. As with Atom, the value of the type attribute MUST conform to the syntax of a MIME media type `[MIMEREG]`.
 
+If the Publication is available using Direct Acqusition, the type attribute of the Acqusition Link MUST represent the media type of the Publication Resource itself. These Acquisition Link elements MAY contain a "dc:format" element, but in this scenario it is optional. For Acqusition Links using Direct Acqusition, the dc:format element MUST contain the same content value as the type parameter of its parent.
 
-= The Atom Format Profile Parameter ==
+If the Publication is available using Indirect Acqusition, the type attribute of the Acqusition Link SHOULD represent the media type of the first Resource a client must dereference to begin the acqusition. These Acqusition Link elements MUST contain one or more "dc:format" elements which describe the media type(s) of the Publication Resource(s) that will be available following a successful acqusition. This scenario may require human interaction to complete.
 
-Relations to OPDS Catalog Feed Document and OPDS Catalog Entry Document Resources SHOULD use a "profile" parameter from Section 4.3 of `[RFC4288]` with the value "opds-catalog". This profile parameter clients with an advisory hint that the Resource should be a component of an OPDS Catalog.
+OPDS Catalog clients may only support a subset of all possible Publication media types. These clients will need to filter both the type attribute and dc:format children of Acqusition Links to support both Direct and Indirect Acqusition. Support for Indirect Acqusition is OPTIONAL.
 
-The complete media type for a relation to an OPDS Catalog Entry Document Resource SHOULD be:
+== Examples ==
 
-application/atom+xml;type=entry;profile=opds-catalog
+The simplest case is a Publication available by Direct Acquisition in one format:
 
-The complete media type for a relation to an OPDS Catalog Feed Document Resource SHOULD be:
+{{{
+  <link type="application/x-mobipocket-ebook" 
+        rel="http://opds-spec.org/acquisition" 
+        href="/content/free/4561.mobi"/>
+}}}
 
-application/atom+xml;type=feed;profile=opds-catalog
+If the Publication was available in multiple formats as unique Resources, they would simply be listed:
+
+{{{
+  <link type="application/x-mobipocket-ebook" 
+        rel="http://opds-spec.org/acquisition/borrow" 
+        href="/content/borrow/4561.mobi"/>
+  <link type="application/epub+zip" 
+        rel="http://opds-spec.org/acquisition/borrow" 
+        href="/content/borrow/4561.epub"/>
+}}}
+
+If the Publication is only available in a format with DRM, that parameter is added to the type attribute:
+
+{{{
+  <link type="application/pdf;drm=ns.adobe.com#adept"
+        rel="http://opds-spec.org/acquisition/sample" 
+        href="/content/samples/4561.pdf"/>
+}}}
+
+If the Publication is available using Indirect Acqusition, a dc:format element is required:
+
+{{{
+  <link type="text/html" 
+        rel="http://opds-spec.org/acquisition/sample"
+        href="/product/9781449381806.EBOOK/sample">
+    <dc:format>application/pdf</dc:format> 
+    <dc:format>application/x-mobipocket-ebook</dc:format> 
+    <dc:format>application/epub+zip</dc:format> 
+  </link> 
+}}}
+
+If the Publication is requires payment, an opds:price element is required:
+
+{{{
+  <link type="text/html" 
+        rel="http://opds-spec.org/acquisition/buy"
+        href="/product/9781449381806.EBOOK/buy">
+    <dc:format>application/pdf</dc:format> 
+    <dc:format>application/x-mobipocket-ebook</dc:format> 
+    <dc:format>application/epub+zip</dc:format> 
+    <opds:price currencycode="USD">17.99</opds:price> 
+  </link> 
+}}}
 
 = Feed Handling =
 
@@ -516,12 +680,35 @@ Server implementations are strongly encouraged to verify that external content i
 
 Additional information about XHTML and HTML content safety can be found in Section 8.1 of `[RFC4287]`.
 
+= The Atom Format Type Parameter =
+
+The Atom Publishing Protocol `[RFC5023]` defines the Atom Format Type Parameter.
+
+Publishers of OPDS Catalogs SHOULD use the "type" parameter. 
+
+= The OPDS Catalog Profile Parameter ==
+
+Relations to OPDS Catalog Feed Document and OPDS Catalog Entry Document Resources SHOULD use a "profile" parameter following Section 4.3 of `[RFC4288]` with the value "opds-catalog". This profile parameter provides clients with an advisory hint that the Resource should be a component of an OPDS Catalog.
+
+The complete media type for a relation to an OPDS Catalog Entry Document Resource SHOULD be:
+
+application/atom+xml;type=entry;profile=opds-catalog
+
+The complete media type for a relation to an OPDS Catalog Feed Document Resource SHOULD be:
+
+application/atom+xml;type=feed;profile=opds-catalog
+
+= The OPDS Catalog DRM Parameter ==
+
+Relations to a Publication Resource in a format that uses Digital Rights Management (DRM) MUST include a "drm" parameter following Section 4.3 of `[RFC4288]`. This specification does not endorse or define any DRM techniques. The value "ns.adobe.com#adept" may be used to for formats that use Adobe Content Server 4's ADEPT DRM. This drm parameter provides clients with an advisory hint that the Resource employes DRM. 
+
 = References =
 
 == Normative References =
 
   * `[DRAFT-Web-Linking]` Nottingham, M., "Web Linking", draft-nottingham-http-link-header-10, May 2010, http://tools.ietf.org/html/draft-nottingham-http-link-header.
   * `[ISO4217]` "ISO 4217 currency and funds name and code elements", International Standard ISO 4217, http://www.iso.org/iso/en/prods-services/popstds/currencycodeslist.html.
+  * `[MIMEREG]` Freed, N. and J. Klensin, "Media Type Specifications and Registration Procedures", BCP 13, RFC 4288, December 2005.
   * `[OpenSearch]` Clinton D., "Open Search 1.1 Draft 4", http://www.opensearch.org/Specifications/OpenSearch/1.1
   * `[REC-xml]` Yergeau, F., Paoli, J., Bray, T., Sperberg-McQueen, C., and E. Maler, "Extensible Markup Language (XML) 1.0 (Fourth Edition)", World Wide Web Consortium Recommendation REC-xml-20060816, August 2006, http://www.w3.org/TR/2006/REC-xml-20060816.
   * `[REC-xml-infoset]` Cowan, J. and R. Tobin, "XML Information Set (Second Edition)", World Wide Web Consortium Recommendation REC-xml-infoset-20040204, February 2004, http://www.w3.org/TR/2004/REC-xml-infoset-20040204.
@@ -555,7 +742,7 @@ The content and concepts within are a product of the OpenPub community.
 
 This appendix is normative.
 
-The Relax NG schema explicitly excludes elements in the OPDS namespace that are not defined in this revision of the specification. Requirements for Atom Protocol processors encountering such markup are given in Sections 6.2 and 6.3 of `[RFC4287]`.
+The RELAX NG schema explicitly excludes elements in the OPDS namespace that are not defined in this revision of the specification. Requirements for Atom Protocol processors encountering such markup are given in Sections 6.2 and 6.3 of `[RFC4287]`.
 
 TODO
 

@@ -700,7 +700,7 @@ application/atom+xml;type=feed;profile=opds-catalog
 
 = The OPDS Catalog DRM Parameter ==
 
-Relations to a Publication Resource in a format that uses Digital Rights Management (DRM) MUST include a "drm" parameter following Section 4.3 of `[RFC4288]`. This specification does not endorse or define any DRM techniques. The value "ns.adobe.com#adept" may be used to for formats that use Adobe Content Server 4's ADEPT DRM. This drm parameter provides clients with an advisory hint that the Resource employs DRM. 
+Relations to a Publication Resource in a format that uses Digital Rights Management (DRM) MUST include a "drm" parameter following Section 4.3 of `[RFC4288]`. This specification does not endorse or define any DRM techniques. The value "ns.adobe.com#adept" may be used for Resources that use Adobe Content Server DRM. This drm parameter provides clients with an advisory hint that the Resource employs DRM. 
 
 = References =
 

@@ -331,6 +331,22 @@ Partial Catalog Entries SHOULD include the following metadata elements, if avail
 
 OPDS Catalog providers are strongly encouraged to limit metadata elements not required by Atom, OPDS, or listed above from Partial Catalog Entries to help facilitate the efficient transmission and consumption of OPDS Catalog documents. Implementers are encouraged to use Complete Catalog Entries to include experimental, exploratory, and esoteric metadata.
 
+== Relationship between Atom and Dublin-Core metadata ==
+
+OPDS entries MUST be identified by atom:id. dc:identifier SHOULD be used to identify the publication itself, not the OPDS entry.
+
+OPDS entries MUST provide a date where the entry was last updated using atom:updated. dc:issued SHOULD be used for the first publication date of the publication, not for any date related to the OPDS entry itself.
+
+For the publication's title, Catalog providers MUST use atom:title. Catalog providers MUST NOT display this information in dc:title. 
+
+A partial publication description SHOULD be displayed atom:summary, while a full description SHOULD be displayed in atom:content. Catalog providers MUST NOT display this information in dc:description.
+
+For the publication's authors, Catalog providers SHOULD use atom:author. Catalog providers MUST NOT display this information in dc:creator.
+
+For the publication's categories, Catalog providers SHOULD use atom:category. Catalog providers MUST NOT display this information in dc:subject.
+
+For the publication's rights, Catalog providers SHOULD use atom:rights. Catalog providers MUST NOT display this information in dc:rights.
+
 == Entry Relations ==
 
 OPDS Catalog Entry Documents SHOULD include links to related Resources. This specification defines five new relations for linking from OPDS Catalog Entry Documents. They are defined in the Sections Acquisition Relations and Covers and Artwork Relations.

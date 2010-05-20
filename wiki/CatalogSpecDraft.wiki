@@ -100,7 +100,7 @@ The namespace name "http://opds-spec.org/2010/catalog" is reserved for forward-c
 
 = OPDS Catalog Feed Documents =
 
-OPDS Catalog Feed Documents are Atom `[RFC4287]` Feed documents serve two purposes:
+OPDS Catalog Feed Documents are Atom `[RFC4287]` Feeds. They serve two purposes:
 
   * To create a browseable hierarchy of other OPDS Catalog Feed Documents and other Resources. These OPDS Catalog Feed Documents are referred to as Navigation Feeds.
   * To collect a set of OPDS Catalog Entries. These OPDS Catalog Feed Documents are referred to as Acquisition Feeds.

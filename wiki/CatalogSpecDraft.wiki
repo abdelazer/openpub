@@ -49,7 +49,7 @@ The following terminology is used by this specification:
   * Acquisition Feed - An Atom Feed whose Atom Entries are exclusively OPDS Catalog Entries.
   * Acquisition Link - An atom:link element with a relation that begins with "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described Publication or the Resource through which it may be acquired for any OPDS Catalog Entry. See the Sections Acquisition Relations and Acquiring Publications. They are serialized as OPDS Catalog Feed Documents.
   * Complete Catalog Entry - An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry.
-  * IRI - An Internationalized Resource Identifier as defined in `[RFC3987]`. Before an IRI found in a document is used by HTTP, the IRI is first converted to a URI. 
+  * IRI - An Internationalized Resource Identifier as defined in `[RFC3987]`. 
   * Navigation Feed - An Atom Feed whose Atom Entries are not OPDS Catalog Entries but instead link to other Navigation Feeds, Acquisition Feeds, or other Resources to establish a hierarchical, browseable presentation of the OPDS Catalog. They are serialized as OPDS Catalog Feed Documents.
   * OPDS Catalog - All of the Atom Feeds (Acquisition and Navigation) and Entries (Partial and Complete) following this specification published together to describe a consolidated group of available Publications.
   * OPDS Catalog Entry - An Atom Entry that provides a representation of an available Publication and includes an Acquisition Link. They are serialized as OPDS Catalog Entry Documents.
@@ -100,7 +100,7 @@ The namespace name "http://opds-spec.org/2010/catalog" is reserved for forward-c
 
 = OPDS Catalog Feed Documents =
 
-OPDS Catalog Feed Documents are Atom `[RFC4287]` Feed documents have two serve two purposes:
+OPDS Catalog Feed Documents are Atom `[RFC4287]` Feed documents serve two purposes:
 
   * To create a browseable hierarchy of other OPDS Catalog Feed Documents and other Resources. These OPDS Catalog Feed Documents are referred to as Navigation Feeds.
   * To collect a set of OPDS Catalog Entries. These OPDS Catalog Feed Documents are referred to as Acquisition Feeds.
@@ -516,7 +516,7 @@ The "atom:entry" element is the document (i.e., top-level) element of an OPDS Ca
 
 The following child elements are refined by this specification:
 
-  * OPDS Catalog Entry Documents MUST contain at least one Acquisition Link, an atom:link element with a rel attribute value of "http://opds-spec.org/acquisition", "http://opds-spec.org/acquisition/buy", "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample".
+  * OPDS Catalog Entry Documents MUST contain at least one Acquisition Link, an atom:link element with a rel attribute that begins with "http://opds-spec.org/acquisition".
 
 === The "atom:link" Element ===
 
@@ -542,7 +542,7 @@ The "atom:link" element defines a reference from an Atom Entry or Atom Feed to a
       attribute hreflang { atomLanguageTag }?,
       attribute title { text }?,
       attribute length { text }?,
-      opdsPrice?,
+      opdsPrice*,
       dcFormat*,
       undefinedOPDSContent
     }
@@ -552,7 +552,7 @@ The following child elements are defined by this specification:
 
   * atom:link elements with a rel attribute value of "http://opds-spec.org/acquisition/buy" MUST contain one opds:price element.
   * atom:link elements with a rel attribute of "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample" MAY contain one opds:price element.
-  * atom:link elements with a rel attribute of "http://opds-spec.org/acquisition", "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/buy", "http://opds-spec.org/acquisition/sample", or "http://opds-spec.org/acquisition/subscribe" MAY contain one or more dc:format elements.
+  * atom:link elements with a rel attribute that begins with "http://opds-spec.org/acquisition" MAY contain one or more dc:format elements.
 
 === The "opds:price" Element ===
 

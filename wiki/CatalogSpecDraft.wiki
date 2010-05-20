@@ -567,7 +567,7 @@ opdsPrice =
 
 ==== The "currencycode" Attribute ====
 
-On the opds:price element, the value of the "currencycode" attribute MUST be an "Alphabetic code" from `[ISO4127]`. It defines the currency code used for the content of the opds:price element.
+On the opds:price element, the value of the "currencycode" attribute MUST be an "Alphabetic code" from `[ISO4217]`. It defines the currency code used for the content of the opds:price element.
 
 = Acquiring Publications =
 

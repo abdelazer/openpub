@@ -573,11 +573,13 @@ On the opds:price element, the value of the "currencycode" attribute MUST be an 
 
 The goal of OPDS Catalogs is to make Publications both discoverable and straightforward to acquire on a range of devices and platforms. To support that goal, this specification strives to provide a framework for describing how a Publication may be acquired while not attempting to constrain this very complex topic. Commonly-used acquisition scenarios may be specified in an update to this specification.
 
-All Acquisition Links MUST include a "type" attribute that advises clients on the media type of the representation that is expected to be returned when the value of the href attribute is dereferenced. Publications employing Digital Rights Management MUST include the drm parameter. See the Section The OPDS Catalog DRM Parameter. As with Atom, the value of the type attribute MUST conform to the syntax of a MIME media type `[MIMEREG]`.
+All Acquisition Links MUST include a "type" attribute that advises clients on the media type of the representation that is expected to be returned when the value of the href attribute is dereferenced. As with Atom, the value of the type attribute MUST conform to the syntax of a MIME media type `[MIMEREG]`.
 
 If the Publication is available using Direct Acquisition, the type attribute of the Acquisition Link MUST represent the media type of the Publication Resource itself. These Acquisition Link elements MAY contain a "dc:format" element, but in this scenario it is optional. For Acquisition Links using Direct Acquisition, the dc:format element MUST contain the same content value as the type parameter of its parent.
 
 If the Publication is available using Indirect Acquisition, the type attribute of the Acquisition Link SHOULD represent the media type of the first Resource a client must dereference to begin the acquisition. These Acquisition Link elements MUST contain one or more "dc:format" elements which describe the media type(s) of the Publication Resource(s) that will be available following a successful acquisition. This scenario may require human interaction to complete.
+
+Publications in a format using Digital Rights Management SHOULD use a different value for the type attribute or dc:format child of the Acquisition Link than the same format without Digital Rights Management.
 
 OPDS Catalog clients may only support a subset of all possible Publication media types. These clients will need to filter both the type attribute and dc:format children of Acquisition Links to support both Direct and Indirect Acquisition. Support for Indirect Acquisition is OPTIONAL.
 
@@ -600,14 +602,6 @@ If the Publication was available in multiple formats as unique Resources, they w
   <link type="application/epub+zip" 
         rel="http://opds-spec.org/acquisition/borrow" 
         href="/content/borrow/4561.epub"/>
-}}}
-
-If the Publication is only available in a format with DRM, that parameter is added to the type attribute:
-
-{{{
-  <link type="application/pdf;drm=ns.adobe.com#adept"
-        rel="http://opds-spec.org/acquisition/sample" 
-        href="/content/samples/4561.pdf"/>
 }}}
 
 If the Publication is available using Indirect Acquisition, a dc:format element is required:
@@ -727,10 +721,6 @@ application/atom+xml;type=entry;profile=opds-catalog
 The complete media type for a relation to an OPDS Catalog Feed Document Resource SHOULD be:
 
 application/atom+xml;type=feed;profile=opds-catalog
-
-= The OPDS Catalog DRM Parameter ==
-
-Relations to a Publication Resource in a format that uses Digital Rights Management (DRM) MUST include a "drm" parameter following Section 4.3 of `[RFC4288]`. This specification does not endorse or define any DRM techniques. The value "ns.adobe.com#adept" may be used for Resources that use Adobe Content Server DRM. This drm parameter provides clients with an advisory hint that the Resource employs DRM. 
 
 = References =
 

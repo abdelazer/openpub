@@ -88,7 +88,7 @@ http://opds-spec.org/2010/catalog
 
 OPDS Catalog Feed Documents MUST be "namespace-well-formed" as specified in Section 7 of `[REC-xml-names]`.
 
-This specification uses the prefix "opds:" for the namespace name. The prefix "atom:" is used for "http://www.w3.org/2005/Atom ", the namespace name of the Atom Syndication Format `[RFC4287]`. These namespace prefixes are not semantically significant.
+This specification uses the prefix "opds:" for the namespace name. The prefix "atom:" is used for "http://www.w3.org/2005/Atom ", the namespace name of the Atom Syndication Format `[RFC4287]`. The prefix "dc:" is used for"http://purl.org/dc/terms/", the namespace name of Dublin Core Metadata Initiative (DCMI) Metadata Terms `[DCTERMS]`. These namespace prefixes are not semantically significant.
 
 Producers of OPDS Catalogs SHOULD produce OPDS Catalog Feed Documents and OPDS Catalog Entry Documents that are conformant to both Atom and the OPDS Catalog RELAX NG schemas.
 
@@ -314,7 +314,7 @@ Each OPDS Catalog Entry Document MUST include at least one Acquisition Link, whi
 
 == Partial and Complete Catalog Entries ==
 
-OPDS Catalog Entries may be represented as either a Partial or Complete Catalog Entry. Partial Catalog Entries include only critical metadata elements to reduce the size of OPDS Catalog documents for bandwidth- and resource-limited clients and link to their alternate representation as a Complete Catalog Entries, which include all metadata elements. 
+An OPDS Catalog Entry may be represented as either a Partial or Complete Catalog Entry. Partial Catalog Entries include only critical metadata elements to reduce the size of OPDS Catalog documents for bandwidth- and resource-limited clients and link to their alternate representation as a Complete Catalog Entries, which include all metadata elements. 
 
 A Partial Catalog Entry MUST include an "alternate" link relation referencing the Complete Catalog Entry Resource and that atom:link MUST use the type attribute "application/atom+xml;type=entry;profile=opds-catalog". 
 
@@ -330,26 +330,33 @@ Partial Catalog Entries SHOULD include the following metadata elements, if avail
   * dc:language
   * dc:publisher
   * opds:price 
-  * prism:issue
-  * prism:volume
 
 OPDS Catalog providers are strongly encouraged to limit metadata elements not required by Atom, OPDS, or listed above from Partial Catalog Entries to help facilitate the efficient transmission and consumption of OPDS Catalog documents. Implementers are encouraged to include metadata elements from other vocabularies in Complete Catalog Entries.
 
-== Relationship between Atom and Dublin-Core metadata ==
+== Relationship Between Atom and Dublin Core Metadata ==
 
-OPDS entries MUST be identified by atom:id. dc:identifier SHOULD be used to identify the publication itself, not the OPDS entry.
+OPDS Catalog providers are encouraged to include metadata from the Dublin Core Metadata Initiative (DCMI) Metadata Terms `[DCTERMS]` whenever appropriate. Some of the elements defined in `[DCTERMS]` overlap in meaning with similar elements defined by Atom in `[RFC4287]`. In general, OPDS Catalog Entries prefer the Atom elements over the DCTERMS elements and the following rules SHOULD be used by OPDS Catalog providers when choosing elements:
 
-OPDS entries MUST provide a date where the entry was last updated using atom:updated. dc:issued SHOULD be used for the first publication date of the publication, not for any date related to the OPDS entry itself.
+  * OPDS Catalog Entries MUST be identified by an "atom:id". One or more "dc:identifier" elements SHOULD be used to identify the represented Publication, if appropriate metadata is available, and MUST NOT identify the OPDS Catalog Entry.
+  * OPDS Catalog Entries MUST include an "atom:updated" element indicating when the OPDS Catalog Entry was last updated. A "dc:issued" element SHOULD be used to indicate the first publication date of the Publication and MUST NOT represent any date related to the OPDS Catalog Entry.
+  * OPDS Catalog Entries MUST inlcude an "atom:title" represnting the Publication's title and MUST NOT use "dc:title".
+  * OPDS Catalog Entries SHOULD use "atom:author" to represent the Publication's creators and SHOULD NOT use "dc:creator".
+  * OPDS Catalog Entries SHOULD use "atom:category" to represent the Publication's category, keywords, key phrases, or classification codes and SHOULD NOT use "dc:subject".
+  * OPDS Catalog Entries SHOULD use "atom:rights" to represent rights held in and over the Publication and SHOULD NOT use "dc:rights".
+  * OPDS Catalog Entries SHOULD use "atom:summary" and/or "atom:content" to describe the Publication SHOULD NOT use "dc:description" or "dc:abstract".
+  * OPDS Catalog Entries MAY use "atom:contributor" to represent contributors to the Publication beside its creators.
+  * OPDS Catalog Entries MAY use "atom:published" to indicate when the OPDS Catalog Entry was first accessible.
 
-For the publication's title, Catalog providers MUST use atom:title. Catalog providers MUST NOT display this information in dc:title. 
 
-A partial publication description SHOULD be displayed atom:summary, while a full description SHOULD be displayed in atom:content. Catalog providers MUST NOT display this information in dc:description.
+All metadata elements required by Atom are required in OPDS Catalog Entries and Feeds.
 
-For the publication's authors, Catalog providers SHOULD use atom:author. Catalog providers MUST NOT display this information in dc:creator.
+Following Atom `[RFC4287]` Section 4.2.6, the content of an "atom:id" identifying an OPDS Catalog Entry MUST NOT change when the OPDS Catalog Entry is "relocated, migrated, syndicated, republished, exported, or imported" and "MUST be created in a way that assures uniqueness."
 
-For the publication's categories, Catalog providers SHOULD use atom:category. Catalog providers MUST NOT display this information in dc:subject.
+== Summary and Content ==
 
-For the publication's rights, Catalog providers SHOULD use atom:rights. Catalog providers MUST NOT display this information in dc:rights.
+OPDS Catalog Entries MAY include either "atom:summary" or "atom:content" elements or both to provide a description, summary, abstract, or excerpt of the Publication. The content of an "atom:summary" element MUST be text and SHOULD NOT duplicate the content of "atom:title" or "atom:content".
+
+If an OPDS Catalog Entry includes both "atom:content" and "atom:summary", the "atom:content" SHOULD NOT be included in the Partial Catalog Entry. Both elements SHOULD be included in the Complete Catalog Entry.
 
 == Entry Relations ==
 
@@ -556,7 +563,7 @@ The following child elements are defined by this specification:
 
 === The "opds:price" Element ===
 
-The "opds:price" element represents the acquisition price of an individual Publication in a particular format from a particular provider. This element can appear as a child of the atom:entry element (in OPDS Catalog Entry Documents). 
+The "opds:price" element represents the acquisition price of an individual Publication in a particular format from a particular provider. This element can appear as a child of the atom:link element (in OPDS Catalog Entry Documents). 
 
 The content of opds:price is text describing a currency value.
 
@@ -731,9 +738,12 @@ application/atom+xml;type=feed;profile=opds-catalog
 == Normative References =
 
   * `[DRAFT-Web-Linking]` Nottingham, M., "Web Linking", draft-nottingham-http-link-header-10, May 2010, http://tools.ietf.org/html/draft-nottingham-http-link-header.
+  * `[DCTERMS]` DCMI Usage Board, "DCMI Metadata Terms", January 2008, http://dublincore.org/documents/dcmi-terms/.
+
+
   * `[ISO4217]` "ISO 4217 currency and funds name and code elements", International Standard ISO 4217, http://www.iso.org/iso/en/prods-services/popstds/currencycodeslist.html.
   * `[MIMEREG]` Freed, N. and J. Klensin, "Media Type Specifications and Registration Procedures", BCP 13, RFC 4288, December 2005.
-  * `[OpenSearch]` Clinton D., "Open Search 1.1 Draft 4", http://www.opensearch.org/Specifications/OpenSearch/1.1
+  * `[OpenSearch]` Clinton D., "Open Search 1.1 Draft 4", http://www.opensearch.org/Specifications/OpenSearch/1.1.
   * `[REC-xml]` Yergeau, F., Paoli, J., Bray, T., Sperberg-McQueen, C., and E. Maler, "Extensible Markup Language (XML) 1.0 (Fourth Edition)", World Wide Web Consortium Recommendation REC-xml-20060816, August 2006, http://www.w3.org/TR/2006/REC-xml-20060816.
   * `[REC-xml-infoset]` Cowan, J. and R. Tobin, "XML Information Set (Second Edition)", World Wide Web Consortium Recommendation REC-xml-infoset-20040204, February 2004, http://www.w3.org/TR/2004/REC-xml-infoset-20040204.
   * `[REC-xml-names]` Hollander, D., Bray, T., Tobin, R., and A. Layman, "Namespaces in XML 1.0 (Second Edition)", World Wide Web Consortium Recommendation REC-xml-names-20060816, August 2006, http://www.w3.org/TR/2006/REC-xml-names-20060816.
@@ -760,13 +770,13 @@ application/atom+xml;type=feed;profile=opds-catalog
 
 = Appendix A. Contributors =
 
-The content and concepts within are a product of the OpenPub community.
+The content and concepts within are a product of the openpub community.
 
 = Appendix B. RELAX NG Compact Schema =
 
 This appendix is normative.
 
-The RELAX NG schema explicitly excludes elements in the OPDS namespace that are not defined in this revision of the specification. Requirements for Atom Protocol processors encountering such markup are given in Sections 6.2 and 6.3 of `[RFC4287]`.
+The RELAX NG schema explicitly excludes elements in the OPDS Catalog namespace that are not defined in this revision of the specification. Requirements for Atom Protocol processors encountering such markup are given in Sections 6.2 and 6.3 of `[RFC4287]`.
 
 TODO
 

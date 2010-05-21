@@ -15,14 +15,6 @@ include "atom.rnc" {
           ~ "must have at least one opds:price element."
         ]
       ]
-      s:rule [
-        context = "atom:link[@rel='http://opds-spec.org/acquisition']"
-        s:assert [
-          test = "dc:format"
-          "An atom:link with a rel attribute like 'http://opds-spec.org/acquisition' "
-          ~ "must have at least one dc:format element."
-        ]
-      ]
     ]
     element atom:link {
       atomCommonAttributes,
@@ -32,7 +24,8 @@ include "atom.rnc" {
       attribute hreflang { atomLanguageTag }?,
       attribute title { text }?,
       attribute length { text }?,
-      opdsPrice?,
+      opdsPrice*,
+      dcFormat*,
       undefinedOPDSContent
     }
 }
@@ -47,8 +40,6 @@ anyOPDSForeignElement =
       | text
       | anyElement)*
   }
-
-
 
 dcFormat = 
   element dc:format {

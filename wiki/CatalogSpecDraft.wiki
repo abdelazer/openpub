@@ -660,27 +660,22 @@ OPDS Catalogs may be aggregated using the same techniques as Atom Feeds. Aggrega
 
 = Discovering OPDS Catalogs =
 
-Autodiscovery links can point to both OPDS feeds and entries.
+OPDS Catalogs may referenced in HTML/XHTML pages, HTTP headers, or using other techniques. These links may reference both OPDS Catalog Entries or Feeds.
+ 
+Links to OPDS Catalog Entry Document Resources MUST use a type attribute of "application/atom+xml;type=entry;profile=opds-catalog". Links to OPDS Catalog Feed Document Resources MUST use a type attribute of "application/atom+xml;type=feed;profile=opds-catalog".
 
-Links MUST use a type attribute "application/atom+xml;profile=opds-catalog".
+The most common mechanism for encouraging the auto-discovery of OPDS Catalogs is to link from an HTML document to the OPDS Catalog Root Resource, using the auto-discovery pattern popularized by the syndicated feed community `[AUTODISCOVERY]`.
 
-For an OPDS entry, the link MUST use the "type" media parameter set to "entry": "application/atom+xml;type=entry;profile=opds-catalog"
+Multiple links to OPDS Catalog Resources MAY be expressed in a single HTML document.
 
-== In HTML ==
-
-The most common mechanism for encouraging the auto-discovery of OPDS Catalogs is to link from HTML document to the OPDS Catalog Root Resource, using the auto-discovery pattern popularized by the syndicated feed community `[AUTODISCOVERY]`.
-
-Multiple links to OPDS catalogs MAY be expressed in a single HTML document.
-
+An example of two links inside an HTML page about the same Publication:
 {{{
-<link rel="related" type="application/atom+xml;profile=opds-catalog" href="/opds-catalogs/root" title="Example OPDS Catalog" /> 
+<link rel="related"   type="application/atom+xml;type=feed;profile=opds-catalog"  href="/opds-catalogs/root" title="Example OPDS Catalog" /> 
 
-<link rel="alternate" type="application/atom+xml;type=entry;profile=opds-catalog" href="/entry/1" title="Example OPDS Entry" /> 
+<link rel="alternate" type="application/atom+xml;type=entry;profile=opds-catalog" href="/entry/1"            title="Example OPDS Entry" /> 
 }}}
 
-== In HTTP Headers ==
-
-Autodiscovery links MAY also be expressed using HTTP headers as defined in `[DRAFT-Web-Linking]`.
+Auto-discovery links MAY also be expressed using HTTP headers as defined in `[DRAFT-Web-Linking]`.
 
 = Securing OPDS Catalogs =
 

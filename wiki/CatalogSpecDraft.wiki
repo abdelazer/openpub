@@ -354,7 +354,7 @@ Following Atom `[RFC4287]` Section 4.2.6, the content of an "atom:id" identifyin
 
 == Summary and Content ==
 
-OPDS Catalog Entries MAY include either "atom:summary" or "atom:content" elements or both to provide a description, summary, abstract, or excerpt of the Publication. The content of an "atom:summary" element MUST be text and SHOULD NOT duplicate the content of "atom:title" or "atom:content".
+OPDS Catalog Entries SHOULD include either "atom:summary" or "atom:content" elements or both to provide a description, summary, abstract, or excerpt of the Publication. The content of an "atom:summary" element MUST be text and SHOULD NOT duplicate the content of "atom:title" or "atom:content".
 
 If an OPDS Catalog Entry includes both "atom:content" and "atom:summary", the "atom:content" SHOULD NOT be included in the Partial Catalog Entry. Both elements SHOULD be included in the Complete Catalog Entry.
 

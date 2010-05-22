@@ -86,7 +86,7 @@ The namespace name `[REC-xml-names]` for elements defined in this specification 
 
 http://opds-spec.org/2010/catalog
 
-OPDS Catalog Feed Documents MUST be "namespace-well-formed" as specified in Section 7 of `[REC-xml-names]`.
+OPDS Catalog Feed Documents and OPDS Catalog Entry Documents MUST be "namespace-well-formed" as specified in Section 7 of `[REC-xml-names]`.
 
 This specification uses the prefix "opds:" for the namespace name. The prefix "atom:" is used for "http://www.w3.org/2005/Atom ", the namespace name of the Atom Syndication Format `[RFC4287]`. The prefix "dc:" is used for"http://purl.org/dc/terms/", the namespace name of Dublin Core Metadata Initiative (DCMI) Metadata Terms `[DCTERMS]`. These namespace prefixes are not semantically significant.
 

@@ -339,7 +339,7 @@ OPDS Catalog providers are encouraged to include metadata from the Dublin Core M
 
   * OPDS Catalog Entries MUST be identified by an "atom:id". One or more "dc:identifier" elements SHOULD be used to identify the represented Publication, if appropriate metadata is available, and MUST NOT identify the OPDS Catalog Entry.
   * OPDS Catalog Entries MUST include an "atom:updated" element indicating when the OPDS Catalog Entry was last updated. A "dc:issued" element SHOULD be used to indicate the first publication date of the Publication and MUST NOT represent any date related to the OPDS Catalog Entry.
-  * OPDS Catalog Entries MUST inlcude an "atom:title" represnting the Publication's title and MUST NOT use "dc:title".
+  * OPDS Catalog Entries MUST inlcude an "atom:title" representing the Publication's title and MUST NOT use "dc:title".
   * OPDS Catalog Entries SHOULD use "atom:author" to represent the Publication's creators and SHOULD NOT use "dc:creator".
   * OPDS Catalog Entries SHOULD use "atom:category" to represent the Publication's category, keywords, key phrases, or classification codes and SHOULD NOT use "dc:subject".
   * OPDS Catalog Entries SHOULD use "atom:rights" to represent rights held in and over the Publication and SHOULD NOT use "dc:rights".

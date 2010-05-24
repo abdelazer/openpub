@@ -229,7 +229,7 @@
   </div>
   <div id="RELAX_NG_Schema">
     <h1>4. RELAX NG Schema</h1>
-    <p>Some sections of this specification are illustrated with fragments of a non-normative RELAX NG Compact schema <tt><a href="#RNC">RNC</a></tt>. However, the text of this specification provides the definition of conformance. Complete schemas appear in Appendix B.</p>
+    <p>Some sections of this specification are illustrated with fragments of a non-normative RELAX NG Compact schema <tt><a href="#RNC">RNC</a></tt>. However, the text of this specification provides the definition of conformance. Complete schemas appear in <a href="#Appendix_B._RELAX_NG_Compact_Schema">Appendix B</a>.</p>
   </div>
   <div id="Terminology">
     <h1>5. Terminology</h1>
@@ -238,7 +238,7 @@
       <dt>Acquisition Feed</dt>
       <dd>An Atom Feed whose Atom Entries are exclusively OPDS Catalog Entries.</dd>
       <dt>Acquisition Link</dt>
-      <dd>An atom:link element with a relation that begins with "<a href="http://opds-spec.org/acquisition">http://opds-spec.org/acquisition</a>" and refers to the Resource which holds the content of the described Publication or the Resource through which it may be acquired for any OPDS Catalog Entry. See the Sections Acquisition Relations and Acquiring Publications. They are serialized as OPDS Catalog Feed Documents.</dd>
+      <dd>An atom:link element with a relation that begins with "<a href="http://opds-spec.org/acquisition">http://opds-spec.org/acquisition</a>" and refers to the Resource which holds the content of the described Publication or the Resource through which it may be acquired for any OPDS Catalog Entry. See Sections <a href="#Acquisition_Relations">8.4.1. Acquisition Relations</a> and <a href="#Acquiring_Publications">9. Acquiring Publications</a>. They are serialized as OPDS Catalog Feed Documents.</dd>
       <dt>Complete Catalog Entry</dt>
       <dd>An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry.</dd>
       <dt>IRI</dt>
@@ -277,7 +277,7 @@
       <li>"Indirect Acquisition" - The Acquisition Link will lead to one or more intermediate Resources with media types that MAY differ from the Publication before the Publication is able to be acquired.</li>
     </ul>
     <p>The most typical Indirect Acquisition scenario is an Acquisition Link to an (X)HTML page which prompts a user for authentication and/or payment. When the transaction is satisfactorily completed, the Publication's bytes are eventually returned.</p>
-    <p>For more on acquisition, see the Section Acquiring Publications.</p>
+    <p>For more on acquisition, see Section <a href="#Acquiring_Publications">9. Acquiring Publications</a>.</p>
   </div>
   <div id="Document_Types">
     <h1>6. Document Types</h1>
@@ -321,7 +321,7 @@
       <h2>7.3. Acquisition Feeds</h2>
       <p>An Acquisition Feed is an OPDS Catalog Feed Document that collects OPDS Catalog Entries into a single, ordered set. The simplest complete OPDS Catalog would be a single Acquisition Feed listing all of the available OPDS Catalog Entries from that provider. In more complex Catalogs, Acquisition Feeds are used to present and organize sets of related OPDS Catalog Entries for browsing and discovery by clients and aggregators.</p>
       <p>Links to Acquisition Feeds SHOULD use the type attribute "application/atom+xml;type=feed;profile=opds-catalog".</p>
-      <p>For further details on limiting the size of Acquisition Feeds through pagination, Partial Catalog Entries, and compression, see the Section Listing Acquisition Feeds.</p>
+      <p>For further details on limiting the size of Acquisition Feeds through pagination, Partial Catalog Entries, and compression, see Section <a href="#Listing_Acquisition_Feeds">10.1. Listing Acquisition Feeds</a>.</p>
     </div>
     <div id="Catalog_Relations">
       <h2>7.4. Catalog Relations</h2>
@@ -517,7 +517,8 @@
   <div id="OPDS_Catalog_Entry_Documents">
     <h1>8. OPDS Catalog Entry Documents</h1>
     <p>OPDS Catalog Entry Documents are Atom <tt><a href="#RFC4287">RFC4287</a></tt> Entry documents that provide a complete representation of the metadata and data associated with an available Publication.</p>
-    <p>Each OPDS Catalog Entry Document MUST include at least one Acquisition Link, which is an atom:link element with a relation that begins "<a href="http://opds-spec.org/acquisition">http://opds-spec.org/acquisition</a>". This link refers to the Resource which is the content of the Publication described by the OPDS Catalog Entry in a particular media type. Acquisition Links use one of the relations described in the Section Acquisition Relations.</p> <div id="Partial_and_Complete_Catalog_Entries">
+    <p>Each OPDS Catalog Entry Document MUST include at least one Acquisition Link, which is an atom:link element with a relation that begins "<a href="http://opds-spec.org/acquisition">http://opds-spec.org/acquisition</a>". This link refers to the Resource which is the content of the Publication described by the OPDS Catalog Entry in a particular media type. Acquisition Links use one of the relations described in the Section <a href="#Acquisition_Relations">8.4.1. Acquisition Relations</a>.</p>
+    <div id="Partial_and_Complete_Catalog_Entries">
       <h2>8.1. Partial and Complete Catalog Entries</h2>
       <p>An OPDS Catalog Entry may be represented as either a Partial or Complete Catalog Entry. Partial Catalog Entries include only critical metadata elements to reduce the size of OPDS Catalog documents for bandwidth- and resource-limited clients and link to their alternate representation as a Complete Catalog Entries, which include all metadata elements.</p>
       <p>A Partial Catalog Entry MUST include an "alternate" link relation referencing the Complete Catalog Entry Resource and that atom:link MUST use the type attribute "application/atom+xml;type=entry;profile=opds-catalog".</p>
@@ -559,9 +560,8 @@
     </div>
     <div id="Entry_Relations">
       <h2>8.4. Entry Relations</h2>
-      <p>OPDS Catalog Entry Documents SHOULD include links to related Resources. This specification defines five new relations for linking from OPDS Catalog Entry Documents. They are defined in the Sections Acquisition Relations and Covers and Artwork Relations.</p>
-      <p>The following relations are derived from
-<tt><a href="#DRAFT-Web-Linking">DRAFT-Web-Linking</a></tt>, with some clarification:</p>
+      <p>OPDS Catalog Entry Documents SHOULD include links to related Resources. This specification defines five new relations for linking from OPDS Catalog Entry Documents. They are defined in the Sections <a href="#Acquisition_Relations">8.4.1. Acquisition Relations</a> and <a href="#Covers_and_Artwork_Relations">8.4.2. Covers and Artwork Relations</a>.</p>
+      <p>The following relations are derived from <tt><a href="#DRAFT-Web-Linking">DRAFT-Web-Linking</a></tt>, with some clarification:</p>
       <ul>
         <li>"alternate": Identifies a Resource that describes this Publication in another format.</li>
         <li>"copyright": Refers to a copyright statement that applies to this OPDS Catalog Entry.</li>
@@ -820,7 +820,7 @@
     <div id="Listing_Acquisition_Feeds">
       <h2>10.1. Listing Acquisition Feeds</h2>
       <p>OPDS Catalog Feed Documents, especially Acquisition Feeds, may contain large numbers of Atom Entries. A client such as a web spider or web browser might be overwhelmed if the response to a GET contained every Atom Entry in an Acquisition Feed -- in turn the server might also waste bandwidth and processing time on generating a response that cannot be handled. For this reason, servers MAY respond to Acquisition Feed GET requests with a paginated response: an OPDS Catalog Feed Document containing a partial list of the Acquisition Feed's member Atom Entries and a link to the next partial Acquisition Feed, if it exists, as defined in Section 3 of <tt><a href="#RFC5005">RFC5005</a></tt>.</p>
-      <p>OPDS Catalog providers SHOULD use Partial Catalog Entries in all Acquisition Feeds except Complete Acquisition Feeds, which are intended for crawling and are referenced using the <a href="http://opds-spec.org/crawlable">http://opds-spec.org/crawlable</a> relation. Clients MUST NOT assume that an OPDS Catalog Entry returned in the Acquisition Feed is a full representation of an OPDS Catalog Entry Resource, as described in the Section Partial and Complete Entries.</p>
+      <p>OPDS Catalog providers SHOULD use Partial Catalog Entries in all Acquisition Feeds except Complete Acquisition Feeds, which are intended for crawling and are referenced using the <a href="http://opds-spec.org/crawlable">http://opds-spec.org/crawlable</a> relation. Clients MUST NOT assume that an OPDS Catalog Entry returned in the Acquisition Feed is a full representation of an OPDS Catalog Entry Resource, as described in the Section <a href="#Partial_and_Complete_Catalog_Entries">8.1. Partial and Complete Catalog Entries</a>.</p>
     </div>
     <div id="Complete_Acquisition_Feeds">
       <h2>10.2. Complete Acquisition Feeds</h2>
@@ -857,7 +857,7 @@
   </div>
   <div id="Bandwidth_and_Processing_Considerations">
     <h1>14. Bandwidth and Processing Considerations</h1>
-    <p>Many OPDS Catalog clients operate in mobile environments, which may impose strict limitations on bandwidth and processing resources. OPDS Catalog publishers are strongly encouraged to publish their OPDS Catalogs using compression and caching techniques and the partial feeds described in the Section Listing Acquisition Feeds. Implementers are encouraged to investigate and use alternative mechanisms regarded as equivalently good or better at the time of deployment. See <tt><a href="#CACHING">CACHING</a></tt> for more on caching techniques.</p>
+    <p>Many OPDS Catalog clients operate in mobile environments, which may impose strict limitations on bandwidth and processing resources. OPDS Catalog publishers are strongly encouraged to publish their OPDS Catalogs using compression and caching techniques and the partial feeds described in the Section <a href="#Listing_Acquisition_Feeds">10.1. Listing Acquisition Feeds</a>. Implementers are encouraged to investigate and use alternative mechanisms regarded as equivalently good or better at the time of deployment. See <tt><a href="#CACHING">CACHING</a></tt> for more on caching techniques.</p>
   </div>
   <div id="Security_Considerations">
     <h1>15. Security Considerations</h1>

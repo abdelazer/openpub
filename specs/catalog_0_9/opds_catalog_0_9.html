@@ -1,4 +1,3 @@
-<?xml version="1.0"?>
 <div>
   <div id="Status_of_this_Document">
     <h1 class="nonum">Status of this Document</h1>
@@ -50,9 +49,11 @@
       <li>
         <a href="#Terminology">5. Terminology</a>
       </li>
-      <li>
-        <a href="#Acquisition_Types">5.1. Acquisition Types</a>
-      </li>
+      <ul>
+        <li>
+          <a href="#Acquisition_Types">5.1. Acquisition Types</a>
+        </li>
+      </ul>
       <li>
         <a href="#Document_Types">6. Document Types</a>
       </li>
@@ -132,7 +133,6 @@
           <li>
             <a href="#The_opds_price_Element">8.6.3. The "opds:price" Element</a>
           </li>
-          <ul/>
         </ul>
       </ul>
       <li>
@@ -268,16 +268,16 @@
       <dt>URI</dt>
       <dd>A Uniform Resource Identifier as defined in <tt><a href="#RFC3986">RFC3986</a></tt>. In this specification, the phrase "the URI of a document" is shorthand for "a URI which, when dereferenced, is expected to produce that document as a representation".</dd>
     </dl>
-  </div>
-  <div id="Acquisition_Types">
-    <h2>5.1. Acquisition Types</h2>
-    <p>Additional terminology describes the acquisition scenario for a particular Publication:</p>
-    <ul>
-      <li>"Direct Acquisition" - The Acquisition Link will return the actual bytes of the Publication when dereferenced, either directly or via HTTP redirection.</li>
-      <li>"Indirect Acquisition" - The Acquisition Link will lead to one or more intermediate Resources with media types that MAY differ from the Publication before the Publication is able to be acquired.</li>
-    </ul>
-    <p>The most typical Indirect Acquisition scenario is an Acquisition Link to an (X)HTML page which prompts a user for authentication and/or payment. When the transaction is satisfactorily completed, the Publication's bytes are eventually returned.</p>
-    <p>For more on acquisition, see Section <a href="#Acquiring_Publications">9. Acquiring Publications</a>.</p>
+    <div id="Acquisition_Types">
+      <h2>5.1. Acquisition Types</h2>
+      <p>Additional terminology describes the acquisition scenario for a particular Publication:</p>
+      <ul>
+        <li>"Direct Acquisition" - The Acquisition Link will return the actual bytes of the Publication when dereferenced, either directly or via HTTP redirection.</li>
+        <li>"Indirect Acquisition" - The Acquisition Link will lead to one or more intermediate Resources with media types that MAY differ from the Publication before the Publication is able to be acquired.</li>
+      </ul>
+      <p>The most typical Indirect Acquisition scenario is an Acquisition Link to an (X)HTML page which prompts a user for authentication and/or payment. When the transaction is satisfactorily completed, the Publication's bytes are eventually returned.</p>
+      <p>For more on acquisition, see Section <a href="#Acquiring_Publications">9. Acquiring Publications</a>.</p>
+    </div>
   </div>
   <div id="Document_Types">
     <h1>6. Document Types</h1>

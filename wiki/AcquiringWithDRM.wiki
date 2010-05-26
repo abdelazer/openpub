@@ -10,10 +10,6 @@ Right now, our alternative offering of Direct Acqusition (with media type in the
   * What is the underlying format of the Publication (if it had no DRM)?
   * What specific DRM solution does the Publication use?
 
-If the Publication is available using Direct Acquisition, the type attribute of the Acquisition Link MUST represent the media type of the Publication Resource itself. These Acquisition Link elements MAY contain a “dc:format” element, but in this scenario it is optional. For Acquisition Links using Direct Acquisition, the dc:format element MUST contain the same content value as the type parameter of its parent.
-
-If the Publication is available using Indirect Acquisition, the type attribute of the Acquisition Link SHOULD represent the media type of the first Resource a client must dereference to begin the acquisition. These Acquisition Link elements MUST contain one or more “dc:format” elements which describe the media type(s) of the Publication Resource(s) that will be available following a successful acquisition. This scenario may require human interaction to complete.
-
 = Goals =
 
   * Allow an OPDS Catalog client to unambiguously filter between Publications without DRM and Publications using DRM.

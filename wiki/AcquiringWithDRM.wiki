@@ -112,6 +112,7 @@ but you get the idea. With this solution:
 }}}
 
 Criticism:
+  * Some view this as a violation of Dublin Core. Semantics of Dublin Core elements is supposed to be resource description, not description of the the network protocol used to acquire it
   * Introducing new parameters is disliked by some, in part because it makes dispatching Publications based on media type into the proper processor break (in some contexts).
   * Doesn't encode the specifics of the exact type of DRM (server-side activation?, client-side, encrypted?)
 

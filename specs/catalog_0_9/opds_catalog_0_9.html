@@ -76,7 +76,7 @@
           <a href="#Acquisition_Feeds">7.3. Acquisition Feeds</a>
         </li>
         <li>
-          <a href="#Catalog_Relations">7.4. Catalog Relations</a>
+          <a href="#Catalog_Relations">7.4. OPDS Catalog Relations</a>
         </li>
         <li>
           <a href="#Search">7.5. Search</a>
@@ -294,7 +294,7 @@
     <div id="Document_Extensibility">
       <h2>6.1. Document Extensibility</h2>
       <p>Unrecognized markup in any Atom Feed or Atom Entry in an OPDS Catalog is considered "foreign markup" as defined in Section 6 of the Atom Syndication Format <tt><a href="#RFC4287">RFC4287</a></tt>. Foreign markup can be used anywhere within an OPDS Catalog unless it is explicitly forbidden. Processors that encounter foreign markup MUST NOT stop processing and MUST NOT signal an error. Clients SHOULD preserve foreign markup when transmitting or aggregating such documents.</p>
-      <p>The namespace name "<a href="http://opds-spec.org/2010/catalog">http://opds-spec.org/2010/catalog</a>" is reserved for forward-compatible revisions of the Catalog format. This does not exclude the addition of elements and attributes that might not be recognized by processors conformant to this specification. Such unrecognized markup from the "<a href="http://opds-spec.org/2010/catalog">http://opds-spec.org/2010/catalog</a>" namespace MUST be treated as foreign markup.</p>
+      <p>The namespace name "<a href="http://opds-spec.org/2010/catalog">http://opds-spec.org/2010/catalog</a>" is reserved for forward-compatible revisions of the OPDS Catalog format. This does not exclude the addition of elements and attributes that might not be recognized by processors conformant to this specification. Such unrecognized markup from the "<a href="http://opds-spec.org/2010/catalog">http://opds-spec.org/2010/catalog</a>" namespace MUST be treated as foreign markup.</p>
     </div>
   </div>
   <div id="OPDS_Catalog_Feed_Documents">
@@ -315,16 +315,16 @@
     <div id="Navigation_Feeds">
       <h2>7.2. Navigation Feeds</h2>
       <p>A Navigation Feed is an OPDS Catalog Feed Document whose Atom Entries serve to create a suggested hierarchy for presentation and browsing. A Navigation Feed MUST NOT contain OPDS Catalog Entries but instead contains basic Atom Entries that link to other Navigation or Acquisition Feeds or other Resources. Each Atom Entry's atom:content SHOULD include a brief description of the linked Resource.</p>
-      <p>Links to Navigation Feeds SHOULD use the type attribute "application/atom+xml;type=feed;profile=opds-catalog". OPDS Catalog providers should choose the best relation for each Navigation Feed based on the relations in Catalog Relations. The relation "subsection" SHOULD be used if no other relation is more appropriate.</p>
+      <p>Links to Navigation Feeds SHOULD use the type attribute "application/atom+xml;type=feed;profile=opds-catalog". OPDS Catalog providers should choose the best relation for each Navigation Feed based on the relations in the section <a href="#Catalog_Relations">7.4. OPDS Catalog Relations</a>. The relation "subsection" SHOULD be used if no other relation is more appropriate.</p>
     </div>
     <div id="Acquisition_Feeds">
       <h2>7.3. Acquisition Feeds</h2>
-      <p>An Acquisition Feed is an OPDS Catalog Feed Document that collects OPDS Catalog Entries into a single, ordered set. The simplest complete OPDS Catalog would be a single Acquisition Feed listing all of the available OPDS Catalog Entries from that provider. In more complex Catalogs, Acquisition Feeds are used to present and organize sets of related OPDS Catalog Entries for browsing and discovery by clients and aggregators.</p>
+      <p>An Acquisition Feed is an OPDS Catalog Feed Document that collects OPDS Catalog Entries into a single, ordered set. The simplest complete OPDS Catalog would be a single Acquisition Feed listing all of the available OPDS Catalog Entries from that provider. In more complex OPDS Catalogs, Acquisition Feeds are used to present and organize sets of related OPDS Catalog Entries for browsing and discovery by clients and aggregators.</p>
       <p>Links to Acquisition Feeds SHOULD use the type attribute "application/atom+xml;type=feed;profile=opds-catalog".</p>
       <p>For further details on limiting the size of Acquisition Feeds through pagination, Partial Catalog Entries, and compression, see Section <a href="#Listing_Acquisition_Feeds">10.1. Listing Acquisition Feeds</a>.</p>
     </div>
     <div id="Catalog_Relations">
-      <h2>7.4. Catalog Relations</h2>
+      <h2>7.4. OPDS Catalog Relations</h2>
       <p>OPDS Catalog Feed Documents SHOULD include links to other available Acquisition and Navigation Feeds and other related Resources to encourage independent navigation. This specification defines six new relations for linking from OPDS Catalog Feed Documents at the atom:feed level:</p>
       <ul>
         <li>"<a href="http://opds-spec.org/bookshelf">http://opds-spec.org/bookshelf</a>": A Resource that includes a user's existing set of Publications, which MAY be represented as an OPDS Catalog.</li>
@@ -336,7 +336,7 @@
       </ul>
       <p>The following relations are derived from <tt><a href="#DRAFT-Web-Linking">DRAFT-Web-Linking</a></tt>, with some clarification:</p>
       <ul>
-        <li>"alternate": This Catalog in another format.</li>
+        <li>"alternate": This OPDS Catalog in another format.</li>
         <li>"first": The initial page in a paginated Acquisition Feed.</li>
         <li>"help": A Resource that describes how the OPDS Catalog or Publications may be used.</li>
         <li>"last": The final page in a paginated Acquisition Feed.</li>
@@ -347,15 +347,15 @@
         <li>"self": This Atom Feed.</li>
         <li>"start": The OPDS Catalog Root.</li>
         <li>"subsection": A Navigation Feed not better described by a more specific relation.</li>
-        <li>"up": The parent of this Catalog in a Navigation Feed.</li>
+        <li>"up": The parent Navigation Feed of this Navigation Feed.</li>
       </ul>
     </div>
     <div id="Search">
       <h2>7.5. Search</h2>
-      <p>An OPDS Catalog MAY provide a search facility through an <tt><a href="#OpenSearch">OpenSearch</a></tt> Description Document. Links to <tt><a href="#OpenSearch">OpenSearch</a></tt> Description documents MUST use the "search" relation value and the "application/opensearchdescription+xml" media type as defined in the "Autodiscovery" section of the <tt><a href="#OpenSearch">OpenSearch</a></tt> specification.</p>
+      <p>An OPDS Catalog MAY provide a search facility through an <tt><a href="#OpenSearch">OpenSearch</a></tt> description document. Links to <tt><a href="#OpenSearch">OpenSearch</a></tt> description documents MUST use the "search" relation value and the "application/opensearchdescription+xml" media type as defined in the "Autodiscovery" section of the <tt><a href="#OpenSearch">OpenSearch</a></tt> specification.</p>
       <pre>&lt;link rel="search" href="search.xml" type="application/opensearchdescription+xml"/&gt;</pre>
-      <p>In an <tt><a href="#OpenSearch">OpenSearch</a></tt> Description Document, the search interface SHOULD use the media type associated to OPDS Catalogs:</p>
-      <pre>&lt;Url type="application/atom+xml;profile=opds-catalog"
+      <p>In an <tt><a href="#OpenSearch">OpenSearch</a></tt> description document, the search interface SHOULD use the media type associated to OPDS Catalogs:</p>
+      <pre>&lt;Url type="application/atom+xml;type=feed;profile=opds-catalog"
       template="http://example.com/search?q={searchTerms}" /&gt;</pre>
       <p>OPDS Catalog Feed Documents MAY include elements from the <tt><a href="#OpenSearch">OpenSearch</a></tt> namespace such as "opensearch:totalResults" or "opensearch:itemsPerPage" in <tt><a href="#OpenSearch">OpenSearch</a></tt> responses.</p>
     </div>
@@ -506,7 +506,7 @@
       <h2>7.7. Element Definitions</h2>
       <div id="The_atom_feed_Element">
         <h3>7.7.1. The "atom:feed" Element</h3>
-        <p>The "atom:feed" element is the document (i.e., top-level) element of an OPDS Catalog Feed Document, acting as a container for metadata, hierarchy, and Publications associated with the Catalog. Its element children consist of metadata elements followed by zero or more atom:entry child elements.</p>
+        <p>The "atom:feed" element is the document (i.e., top-level) element of an OPDS Catalog Feed Document, acting as a container for metadata, hierarchy, and Publications associated with the OPDS Catalog. Its element children consist of metadata elements followed by zero or more atom:entry child elements.</p>
         <p>The following child elements are refined by this specification:</p>
         <ul>
           <li>OPDS Catalog Feed Documents SHOULD contain one atom:link element with a rel attribute value of "self". This is the preferred URI for retrieving the atom:feed representing this OPDS Catalog Feed Document.</li>
@@ -522,7 +522,7 @@
       <h2>8.1. Partial and Complete Catalog Entries</h2>
       <p>An OPDS Catalog Entry may be represented as either a Partial or Complete Catalog Entry. Partial Catalog Entries include only critical metadata elements to reduce the size of OPDS Catalog documents for bandwidth- and resource-limited clients and link to their alternate representation as a Complete Catalog Entries, which include all metadata elements.</p>
       <p>A Partial Catalog Entry MUST include an "alternate" link relation referencing the Complete Catalog Entry Resource and that atom:link MUST use the type attribute "application/atom+xml;type=entry;profile=opds-catalog".</p>
-      <p>Any Catalog Entry without a link to a Complete Catalog Entry MUST include all metadata elements.</p>
+      <p>Any OPDS Catalog Entry without a link to a Complete Catalog Entry MUST include all metadata elements.</p>
       <p>Partial Catalog Entries SHOULD include the following metadata elements, if available:</p>
       <ul>
         <li>atom:category</li>
@@ -538,7 +538,7 @@
     </div>
     <div id="Relationship_Between_Atom_and_Dublin_Core_Metadata">
       <h2>8.2. Relationship Between Atom and Dublin Core Metadata</h2>
-      <p>OPDS Catalog providers are encouraged to include metadata from the Dublin Core Metadata Initiative (DCMI) Metadata Terms <tt><a href="#DCTERMS">DCTERMS</a></tt> whenever appropriate. Some of the elements defined in <tt><a href="#DCTERMS">DCTERMS</a></tt> overlap in meaning with similar elements defined by Atom in <tt><a href="#RFC4287">RFC4287</a></tt>. In general, OPDS Catalog Entries prefer the Atom elements over the DCTERMS elements and the following rules SHOULD be used by OPDS Catalog providers when choosing elements:</p>
+      <p>OPDS Catalog providers are encouraged to include metadata from the Dublin Core Metadata Initiative (DCMI) Metadata Terms <tt><a href="#DCTERMS">DCTERMS</a></tt> whenever appropriate. Some of the elements defined in <tt><a href="#DCTERMS">DCTERMS</a></tt> overlap in meaning with similar elements defined by Atom in <tt><a href="#RFC4287">RFC4287</a></tt>. In general, OPDS Catalog Entries prefer the Atom elements over the DCTERMS elements and the following rules should be used by OPDS Catalog providers when choosing elements:</p>
       <ul>
         <li>OPDS Catalog Entries MUST be identified by an "atom:id". One or more "dc:identifier" elements SHOULD be used to identify the represented Publication, if appropriate metadata is available, and MUST NOT identify the OPDS Catalog Entry.</li>
         <li>OPDS Catalog Entries MUST include an "atom:updated" element indicating when the OPDS Catalog Entry was last updated. A "dc:issued" element SHOULD be used to indicate the first publication date of the Publication and MUST NOT represent any date related to the OPDS Catalog Entry.</li>
@@ -834,7 +834,7 @@
   </div>
   <div id="Discovering_OPDS_Catalogs">
     <h1>12. Discovering OPDS Catalogs</h1>
-    <p>OPDS Catalogs may referenced in HTML/XHTML pages, HTTP headers, or using other techniques. These links may reference both OPDS Catalog Entries or Feeds. Links to OPDS Catalog Entry Document Resources MUST use a type attribute of "application/atom+xml;type=entry;profile=opds-catalog". Links to OPDS Catalog Feed Document Resources MUST use a type attribute of "application/atom+xml;type=feed;profile=opds-catalog".</p>
+    <p>OPDS Catalogs may be referenced in HTML/XHTML pages, HTTP headers, or using other techniques. These links may reference both OPDS Catalog Entries or Feeds. Links to OPDS Catalog Entry Document Resources MUST use a type attribute of "application/atom+xml;type=entry;profile=opds-catalog". Links to OPDS Catalog Feed Document Resources MUST use a type attribute of "application/atom+xml;type=feed;profile=opds-catalog".</p>
     <p>The most common mechanism for encouraging the auto-discovery of OPDS Catalogs is to link from an HTML document to the OPDS Catalog Root Resource, using the auto-discovery pattern popularized by the syndicated feed community <tt><a href="#AUTODISCOVERY">AUTODISCOVERY</a></tt>.</p>
     <p>Multiple links to OPDS Catalog Resources MAY be expressed in a single HTML document.</p>
     <p>An example of two links inside an HTML page about the same Publication:</p>
@@ -852,7 +852,7 @@
   <div id="Securing_OPDS_Catalogs">
     <h1>13. Securing OPDS Catalogs</h1>
     <p>OPDS Catalogs are delivered over HTTP. Authentication requirements for HTTP are covered in Section 11 of <tt><a href="#RFC2616">RFC2616</a></tt>.</p>
-    <p>The type of authentication required for any OPDS Catalog is a decision to be made by the OPDS Catalog provider. OPDS Catalog clients are likely to face authentication schemes that vary across Catalogs. At a minimum, client and server implementations MUST be capable of being configured to use HTTP Basic Authentication <tt><a href="#RFC2617">RFC2617</a></tt> in conjunction with a connection made with TLS 1.0 <tt><a href="#RFC2246">RFC2246</a></tt> or a subsequent standards-track version of TLS supporting the conventions for using HTTP over TLS described in <tt><a href="#RFC2818">RFC2818</a></tt>. It is RECOMMENDED that OPDS Catalog clients be implemented in such a way that new authentication schemes can be deployed.</p>
+    <p>The type of authentication required for any OPDS Catalog is a decision to be made by the OPDS Catalog provider. OPDS Catalog clients are likely to face authentication schemes that vary across OPDS Catalogs. At a minimum, client and server implementations MUST be capable of being configured to use HTTP Basic Authentication <tt><a href="#RFC2617">RFC2617</a></tt> in conjunction with a connection made with TLS 1.0 <tt><a href="#RFC2246">RFC2246</a></tt> or a subsequent standards-track version of TLS supporting the conventions for using HTTP over TLS described in <tt><a href="#RFC2818">RFC2818</a></tt>. It is RECOMMENDED that OPDS Catalog clients be implemented in such a way that new authentication schemes can be deployed.</p>
     <p>Because this protocol uses HTTP response status codes as the primary means of reporting the result of a request, OPDS Catalog providers are advised to respond to unauthorized or unauthenticated requests using an appropriate 4xx HTTP response code (e.g., 401 "Unauthorized" or 403 "Forbidden") in accordance with <tt><a href="#RFC2617">RFC2617</a></tt>.</p>
   </div>
   <div id="Bandwidth_and_Processing_Considerations">

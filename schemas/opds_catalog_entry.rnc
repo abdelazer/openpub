@@ -26,16 +26,16 @@ include "atom.rnc" {
       attribute length { text }?,
       opdsPrice*,
       dcFormat*,
-      undefinedOPDSContent
+      undefinedOPDSContentExceptPrice
     }
 }
 
 start = atomEntry
 
-undefinedOPDSContent = (text|anyOPDSForeignElement)*
+undefinedOPDSContentExceptPrice = (text|anyOPDSForeignElementExceptPrice)*
 
-anyOPDSForeignElement =
-  element * - (atom:* | opds:*) {
+anyOPDSForeignElementExceptPrice =
+  element * - (atom:* | (opds:* - opds:price)) {
       (attribute * { text }
       | text
       | anyElement)*
@@ -43,13 +43,15 @@ anyOPDSForeignElement =
 
 dcFormat = 
   element dc:format {
-    text
+    atomCommonAttributes,
+    (text|anyElement)*
   }    
 
 opdsPrice = 
   element opds:price {
+    atomCommonAttributes,
     attribute currencycode { opdsPriceCurrencyCode },
-    text
+    (text|anyElement)*
   }
 
 opdsPriceCurrencyCode = xsd:string { pattern = "[A-Z]{3,3}" }

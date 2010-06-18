@@ -142,3 +142,5 @@ vs.
 
 Criticism:
   * New elements come at a high cost, but may be justified.
+  * Harder to filter out than only relying on type/dc:format
+  * OPDS namespace SHOULD NOT be about DRM information: if we add opds:rights-management, we'll also need other fields

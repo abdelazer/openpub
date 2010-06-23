@@ -116,6 +116,8 @@ Criticism:
   * Introducing new parameters is disliked by some, in part because it makes dispatching Publications based on media type into the proper processor break (in some contexts).
   * Doesn't encode the specifics of the exact type of DRM (server-side activation?, client-side, encrypted?)
 
+Status: rejected by author, see new proposal
+
 == Rights-Management Element (PS) ==
 
 Proposal:
@@ -148,11 +150,12 @@ Criticism:
 == Vendor types + Proprietary Rights-Management Element (HG) ==
 
 Proposal:
-{{{
+
 Based on all the above propositions, I believe that we should support the following things:
   * atom:link@type should point to a different mimetype than the unencrypted file types (for example, application/epub+zip should be strictly for DRM-free files). For ADEPT, it would be "application/vnd.adobe.adept+xml"
   * instead of creating DRM elements in the OPDS namespace, the full responsability for DRM metadata would be on the party providing the DRM solution. ADEPT has different limitations, types of enclosed files and type of encryption than another DRM solution, and we can't define those in the OPDS namespace.
 
+{{{
 <link type="application/vnd.adobe.adept+xml" 
           rel="http://opds-spec.org/acquisition"
           href="/product/9781449381806">

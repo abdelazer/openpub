@@ -167,13 +167,14 @@ Based on all the above propositions, I believe that we should support the follow
 Criticism:
   * It's up to the DRM-vendors to define elements in their own namespace
 
-== General element to represent required features/DRMs/extensions etc. ==
+== General element to represent required features/DRMs/extensions etc. (PS) ==
 
 Proposal:
 
 Let's not even talk about DRM per se. Look at the DRM system as a required reader feature or an EPUB extension of sorts. Let's invent an element that would provide a way to mark a link as requiring a particular feature/extension (identified by a URN) and add:
-* processing rule that all links which require features which are not understood or not supported should be ignored
-* an authoring rule that all content requiring a partucular EPUB extension or a DRM scheme explicitly states that requirement using the new element.
+
+  * processing rule that all links which require features which are not understood or not supported should be ignored
+  * an authoring rule that all content requiring a partucular EPUB extension or a DRM scheme explicitly states that requirement using the new element.
 
 Example:
 

@@ -4,54 +4,74 @@ namespace opds = "http://opds-spec.org/2010/catalog"
 namespace s = "http://www.ascc.net/xml/schematron"
 namespace local = ""
 
+#  This is used to describe an atomLink whose rel value is an atomNCName (no-colon name) 
+#  or any URI other than these from OPDS. In these cases, no opds:price element should appear
+atomUriExceptOPDS = string - ( string "http://opds-spec.org/acquisition/buy"
+                           | string "http://opds-spec.org/acquisition/borrow"
+                           | string "http://opds-spec.org/acquisition/subscribe"
+                           | string "http://opds-spec.org/acquisition/sample" )
+
+#  This is used to describe an atomLink whose rel value is from OPDS but is not ".../acquisition/buy" 
+#  In such cases, an opds:price element is optional
+OPDSUrisExceptBuy = string "http://opds-spec.org/acquisition/borrow"
+                  | string "http://opds-spec.org/acquisition/subscribe"
+                  | string "http://opds-spec.org/acquisition/sample"
+
+#  Instead of using Schematron to assert that any atom:link with a rel value of ".../acquisition/buy" must be
+#  accompanied by an opds:price element, here the situation is described as one of three situations:
+#  - the rel value is ".../acquisition/buy" and an opds:price element is required
+#  - the rel value is ".../acquisition/borrow" or ".../acquisition/subscribe" or ".../acquisition/sample", in
+#    case a single opds:price element may be included; or
+#  - the value of the rel attribute is any other URI or an Atom-defined no-colon name, and no opds:price element is permitted
+
+#  Note that this schema includes the atom.rnc schema, so that schema must be present for validation
+#  Note also that atom.rnc defines atomUri as text and not as xsd:anyURI, and so wherever the Atom spec
+#  requires an IRI, the schema will not check the value against any URI pattern or logic
+#  Probably we want to change this for the OPDS schema, perhaps using XSD v1.1
 include "atom.rnc" {
   atomLink =
-    [
-      s:rule [
-        context = "atom:link[@rel='http://opds-spec.org/acquisition/buy']"
-        s:assert [
-          test = "opds:price"
-          "An atom:link with a rel attribute of 'http://opds-spec.org/acquisition/buy' "
-          ~ "must have at least one opds:price element."
-        ]
-      ]
-    ]
     element atom:link {
-      atomCommonAttributes,
-      attribute href { atomUri },
-      attribute rel { atomNCName | atomUri }?,
-      attribute type { atomMediaType }?,
-      attribute hreflang { atomLanguageTag }?,
-      attribute title { text }?,
-      attribute length { text }?,
-      opdsPrice*,
-      dcFormat*,
+      atomCommonAttributes &
+      attribute href { atomUri } &
+      attribute type { atomMediaType }? &
+      attribute hreflang { atomLanguageTag }? &
+      attribute title { text }? &
+      attribute length { text }? &
+     ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice )
+     |
+     (attribute rel { OPDSUrisExceptBuy }, opdsPrice?)
+     |
+     (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? &
+      dcFormat* &
       undefinedOPDSContentExceptPrice
     }
 }
 
+
 start = atomEntry
 
-undefinedOPDSContentExceptPrice = (text|anyOPDSForeignElementExceptPrice)*
+undefinedOPDSContentExceptPrice = ( text | anyOPDSForeignElementExceptPrice )*
 
 anyOPDSForeignElementExceptPrice =
-  element * - (atom:* | (opds:* - opds:price)) {
-      (attribute * { text }
+  element * - ( atom:* | opds:* | dcFormat ) {
+      ( attribute * { text }
       | text
-      | anyElement)*
+      | anyElement )*
   }
+
 
 dcFormat = 
   element dc:format {
     atomCommonAttributes,
-    (text|anyElement)*
+    ( text | anyElement )*
   }    
 
 opdsPrice = 
   element opds:price {
     atomCommonAttributes,
     attribute currencycode { opdsPriceCurrencyCode },
-    (text|anyElement)*
+    ( text | anyElement )*
   }
 
+#  Perhaps we should specify the values under ISO4217 acceptable in this attribute
 opdsPriceCurrencyCode = xsd:string { pattern = "[A-Z]{3,3}" }

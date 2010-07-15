@@ -66,6 +66,9 @@ dcFormat =
     ( text | anyElement )*
   }    
 
+#  This is defined very loosely, presumably as a placeholder.
+#  Probably we want to restrict this to digits (Unicode characters other than roman 0-9 too?) and symbols representing the decimal point
+#  A note should be added concerning use of ISO4127 3-letter currency codes and not permitting currency symbols
 opdsPrice = 
   element opds:price {
     atomCommonAttributes,
@@ -74,4 +77,4 @@ opdsPrice =
   }
 
 #  Perhaps we should specify the values under ISO4217 acceptable in this attribute
-opdsPriceCurrencyCode = xsd:string { pattern = "[A-Z]{3,3}" }
+opdsPriceCurrencyCode = xsd:string { pattern = "[A-Z]{3}" }

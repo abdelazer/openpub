@@ -544,12 +544,9 @@ If the Publication was available in multiple formats as unique Resources, they w
 If the Publication requires payment, an opds:price element is required:
 
 {{{
-  <link type="text/html" 
+  <link type="application/pdf" 
         rel="http://opds-spec.org/acquisition/buy"
-        href="/product/9781449381806.EBOOK/buy">
-    <dc:format>application/pdf</dc:format> 
-    <dc:format>application/x-mobipocket-ebook</dc:format> 
-    <dc:format>application/epub+zip</dc:format> 
+        href="/product/9781449381806.EBOOK/buy"> 
     <opds:price currencycode="USD">17.99</opds:price> 
   </link> 
 }}}

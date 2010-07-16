@@ -16,16 +16,16 @@ This document is licensed under [http://creativecommons.org/licenses/by-sa/3.0/ 
 
 = Abstract =
 
-The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic content based on Atom and HTTP. OPDS Catalogs enable the aggregation, distribution, discovery, and acquisition of electronic publications. OPDS Catalogs use existing or emergent open standards and conventions, with a priority on simplicity. 
+The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic content based on Atom and HTTP. OPDS Catalogs enable the aggregation, distribution, discovery, and acquisition of electronic content. OPDS Catalogs use existing or emergent open standards and conventions, with a priority on simplicity. 
 
 = Introduction =
 
-The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publications based on Atom `[RFC4287]` and HTTP `[RFC2616]`. OPDS Catalogs enable available electronic publications to be:
+The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic content based on Atom `[RFC4287]` and HTTP `[RFC2616]`. OPDS Catalogs enable available electronic content to be:
 
   * discovered, using optional search or a range of optional browsing techniques
   * acquired, using direct downloads, lending, or vending
 
-An OPDS Catalog is a set of one or more Atom Feeds, which are themselves list of Atom Entries. The Atom Feeds that make up all OPDS Catalogs can be divided into two groups, Navigation Feeds, which create a hierarchy for browsing, and Acquisition Feeds, which list available electronic publications. Each Atom Entry in an Acquisition Feed includes basic metadata about the publication, the publication's format, and how the publication can be acquired. These Atom Entries may have a more extensive, standalone representation outside of the version included in the Acquisition Feed at a unique URI.
+An OPDS Catalog is a set of one or more Atom Feeds, which are themselves list of Atom Entries. The Atom Feeds that make up all OPDS Catalogs can be divided into two groups, Navigation Feeds, which create a hierarchy for browsing, and Acquisition Feeds, which list available electronic content. Each Atom Entry in an Acquisition Feed includes basic metadata about the content, the content's format, and how the content can be acquired. These Atom Entries may have a more extensive, standalone representation outside of the version included in the Acquisition Feed at a unique URI.
 
 OPDS Catalogs may be aggregated and combined into larger OPDS Catalogs.
 
@@ -50,7 +50,7 @@ Some sections of this specification are illustrated with fragments of a non-norm
 The following terminology is used by this specification:
 
   * Acquisition Feed - An Atom Feed whose Atom Entries are exclusively OPDS Catalog Entries.
-  * Acquisition Link - An atom:link element with a relation that begins with "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described Publication or the Resource through which it may be acquired for any OPDS Catalog Entry. See the Sections Acquisition Relations and Acquiring Publications. They are serialized as OPDS Catalog Feed Documents.
+  * Acquisition Link - An atom:link element with a relation that begins with "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described Content or the Resource through which it may be acquired for any OPDS Catalog Entry. See the Sections Acquisition Relations and Acquiring Publications. They are serialized as OPDS Catalog Feed Documents.
   * Complete Catalog Entry - An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry.
   * IRI - An Internationalized Resource Identifier as defined in `[RFC3987]`. 
   * Navigation Feed - An Atom Feed whose Atom Entries are not OPDS Catalog Entries but instead link to other Navigation Feeds, Acquisition Feeds, or other Resources to establish a hierarchical, browseable presentation of the OPDS Catalog. They are serialized as OPDS Catalog Feed Documents.
@@ -65,17 +65,6 @@ The following terminology is used by this specification:
   * Representation - An entity included with a request or response as defined in `[RFC2616]`.
   * Resource - A network-accessible data object or service identified by an IRI, as defined in `[RFC2616]`. See `[REC-webarch]` for further discussion on Resources.
   * URI - A Uniform Resource Identifier as defined in `[RFC3986]`. In this specification, the phrase "the URI of a document" is shorthand for "a URI which, when dereferenced, is expected to produce that document as a representation".
-  
-== Acquisition Types ==
-
-Additional terminology describes the acquisition scenario for a particular Publication:
-
-  * "Direct Acquisition" - The Acquisition Link will return the actual bytes of the Publication when dereferenced, either directly or via HTTP redirection.
-  * "Indirect Acquisition" - The Acquisition Link will lead to one or more intermediate Resources with media types that MAY differ from the Publication before the Publication is able to be acquired. 
-
-The most typical Indirect Acquisition scenario is an Acquisition Link to an (X)HTML page which prompts a user for authentication and/or payment. When the transaction is satisfactorily completed, the Publication's bytes are eventually returned.
-
-For more on acquisition, see the Section Acquiring Publications.
 
 = Document Types =
 
@@ -124,13 +113,13 @@ Each OPDS Catalog Feed Document SHOULD contain an atom:link element with a link 
 
 A Navigation Feed is an OPDS Catalog Feed Document whose Atom Entries serve to create a suggested hierarchy for presentation and browsing. A Navigation Feed MUST NOT contain OPDS Catalog Entries but instead contains basic Atom Entries that link to other Navigation or Acquisition Feeds or other Resources. Each Atom Entry's atom:content SHOULD include a brief description of the linked Resource.
 
-Links to Navigation Feeds SHOULD use the type attribute "application/atom+xml;type=feed;profile=opds-catalog". OPDS Catalog providers should choose the best relation for each Navigation Feed based on the relations in OPDS Catalog Relations. The relation "subsection" SHOULD be used if no other relation is more appropriate.
+Links to Navigation Feeds SHOULD use the type attribute "application/atom+xml;profile=opds-catalog". OPDS Catalog providers should choose the best relation for each Navigation Feed based on the relations in OPDS Catalog Relations. The relation "subsection" SHOULD be used if no other relation is more appropriate.
 
 == Acquisition Feeds ==
 
 An Acquisition Feed is an OPDS Catalog Feed Document that collects OPDS Catalog Entries into a single, ordered set. The simplest complete OPDS Catalog would be a single Acquisition Feed listing all of the available OPDS Catalog Entries from that provider. In more complex OPDS Catalogs, Acquisition Feeds are used to present and organize sets of related OPDS Catalog Entries for browsing and discovery by clients and aggregators. 
 
-Links to Acquisition Feeds SHOULD use the type attribute "application/atom+xml;type=feed;profile=opds-catalog".
+Links to Acquisition Feeds SHOULD use the type attribute "application/atom+xml;profile=opds-catalog".
 
 For further details on limiting the size of Acquisition Feeds through pagination, Partial Catalog Entries, and compression, see the Section Listing Acquisition Feeds.
 
@@ -138,7 +127,7 @@ For further details on limiting the size of Acquisition Feeds through pagination
 
 OPDS Catalog Feed Documents SHOULD include links to other available Acquisition and Navigation Feeds and other related Resources to encourage independent navigation. This specification defines six new relations for linking from OPDS Catalog Feed Documents at the atom:feed level:
 
-  * "http://opds-spec.org/bookshelf": A Resource that includes a user's existing set of Publications, which MAY be represented as an OPDS Catalog.
+  * "http://opds-spec.org/shelf": A Resource that includes a user's existing set of Acquired Content, which MAY be represented as an OPDS Catalog.
   * "http://opds-spec.org/crawlable": A complete OPDS Catalog in a single, unpaged atom:feed. See Complete Acquisition Feeds.
   * "http://opds-spec.org/sort/featured": An Acquisition Feed with featured OPDS Catalog Entries.
   * "http://opds-spec.org/sort/new": An Acquisition Feed with newly released OPDS Catalog Entries.
@@ -160,6 +149,8 @@ The following relations are derived from `[DRAFT-Web-Linking]`, with some clarif
   * "subsection": A Navigation Feed not better described by a more specific relation. 
   * "up": The parent Navigation Feed of this Navigation Feed.
 
+These relations MAY be used by clients to provide additional or alternative navigation, both in a Navigation Feed or an Acquisition Feed.
+
 == Search ==
 
 An OPDS Catalog MAY provide a search facility through an `[OpenSearch]` description document. Links to `[OpenSearch]` description documents MUST use the "search" relation value and the "application/opensearchdescription+xml" media type as defined in the "Autodiscovery" section of the `[OpenSearch]` specification.
@@ -170,7 +161,7 @@ An OPDS Catalog MAY provide a search facility through an `[OpenSearch]` descript
 
 In an `[OpenSearch]` description document, the search interface SHOULD use the media type associated to OPDS Catalogs:
 {{{
-<Url type="application/atom+xml;type=feed;profile=opds-catalog"
+<Url type="application/atom+xml;profile=opds-catalog"
       template="http://example.com/search?q={searchTerms}" />
 }}}
 
@@ -183,8 +174,8 @@ An OPDS Catalog Root that is the top of a set of Navigation Feeds references thr
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:uuid:2853dacf-ed79-42f5-8e8a-a7bb3d1ae6a2</id>
-  <link rel="self"  href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=opds-catalog"/>
-  <link rel="start" href="/opds-catalogs/root.xml" type="application/atom+xml;type=feed;profile=opds-catalog"/>
+  <link rel="self"  href="/opds-catalogs/root.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="start" href="/opds-catalogs/root.xml" type="application/atom+xml;profile=opds-catalog"/>
   <title>OPDS Catalog Root Example</title>
   <updated>2010-01-10T10:03:10Z</updated>
   <author>
@@ -194,21 +185,21 @@ An OPDS Catalog Root that is the top of a set of Navigation Feeds references thr
 
   <entry>
     <title>Popular Publications</title>
-    <link type="application/atom+xml;type=feed;profile=opds-catalog" rel="http://opds-spec.org/sort/popular" href="/opds-catalogs/popular.xml"/>
+    <link type="application/atom+xml;profile=opds-catalog" rel="http://opds-spec.org/sort/popular" href="/opds-catalogs/popular.xml"/>
     <updated>2010-01-10T10:01:01Z</updated>
     <id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56e</id>
     <content type="text">Popular publications from this catalog based on downloads.</content>
   </entry>
   <entry>
     <title>New Publications</title>
-    <link type="application/atom+xml;type=feed;profile=opds-catalog" rel="http://opds-spec.org/sort/new" href="/opds-catalogs/new.xml"/>
+    <link type="application/atom+xml;profile=opds-catalog" rel="http://opds-spec.org/sort/new" href="/opds-catalogs/new.xml"/>
     <updated>2010-01-10T10:02:00Z</updated>
     <id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
     <content type="text">Recent publications from this catalog.</content>
   </entry>
   <entry>
     <title>Unpopular Publications</title>
-    <link type="application/atom+xml;type=feed;profile=opds-catalog" rel="subsection" href="/opds-catalogs/unpopular.xml"/>
+    <link type="application/atom+xml;profile=opds-catalog" rel="subsection" href="/opds-catalogs/unpopular.xml"/>
     <updated>2010-01-10T10:01:00Z</updated>
     <id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56d</id>
     <content type="text">Publications that could use some love.</content>
@@ -223,10 +214,10 @@ An Acquisition Feed listing OPDS Catalog Entries from the "Unpopular Publication
       xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:433a5d6a-0b8c-4933-af65-4ca4f02763eb</id>
 
-  <link rel="related" href="/opds-catalogs/vampire.farming.xml" type="application/atom+xml;type=feed;profile=opds-catalog"/>
-  <link rel="self"    href="/opds-catalogs/unpopular.xml"       type="application/atom+xml;type=feed;profile=opds-catalog"/>
-  <link rel="start"   href="/opds-catalogs/root.xml"            type="application/atom+xml;type=feed;profile=opds-catalog"/>
-  <link rel="up"      href="/opds-catalogs/root.xml"            type="application/atom+xml;type=feed;profile=opds-catalog"/>
+  <link rel="related" href="/opds-catalogs/vampire.farming.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="self"    href="/opds-catalogs/unpopular.xml"       type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="start"   href="/opds-catalogs/root.xml"            type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up"      href="/opds-catalogs/root.xml"            type="application/atom+xml;profile=opds-catalog"/>
 
   <title>Unpopular Publications</title>
   <updated>2010-01-10T10:01:11Z</updated>
@@ -249,8 +240,8 @@ An Acquisition Feed listing OPDS Catalog Entries from the "Unpopular Publication
               term="FIC020000"
               label="FICTION / Men's Adventure"/>
     <summary>The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</summary>
-    <link type="image/png" rel="http://opds-spec.org/cover"     href="/covers/4561.lrg.png"/>
-    <link type="image/gif" rel="http://opds-spec.org/thumbnail" href="/covers/4561.thmb.gif"/>
+    <link type="image/png" rel="http://opds-spec.org/image/cover"     href="/covers/4561.lrg.png"/>
+    <link type="image/gif" rel="http://opds-spec.org/image/thumbnail" href="/covers/4561.thmb.gif"/>
 
     <link type="application/atom+xml;type=entry;profile=opds-catalog" 
           rel="alternate"
@@ -287,12 +278,11 @@ An Acquisition Feed listing OPDS Catalog Entries from the "Unpopular Publication
     <dc:language>en</dc:language>
     <dc:issued>2009-10-01</dc:issued>
     <content type="text">The definitive reference for the web-curious philatelist.</content>
-    <link type="image/jpeg" rel="http://opds-spec.org/cover" href="/covers/11241.lrg.jpg"/>
+    <link type="image/jpeg" rel="http://opds-spec.org/image/cover" href="/covers/11241.lrg.jpg"/>
 
-    <link type="text/html"           
+    <link type="application/epub+zip"           
           rel="http://opds-spec.org/acquisition/buy" 
           href="/content/buy/11241.epub">
-      <dc:format>application/epub+zip</dc:format>
       <opds:price currencycode="USD">18.99</opds:price>
     </link>
  </entry>
@@ -313,7 +303,7 @@ The following child elements are refined by this specification:
 
 OPDS Catalog Entry Documents are Atom `[RFC4287]` Entry documents that provide a complete representation of the metadata and data associated with an available Publication.
 
-Each OPDS Catalog Entry Document MUST include at least one Acquisition Link, which is an atom:link element with a relation that begins "http://opds-spec.org/acquisition". This link refers to the Resource which is the content of the Publication described by the OPDS Catalog Entry in a particular media type. Acquisition Links use one of the relations described in the Section Acquisition Relations.
+Each OPDS Catalog Entry Document MUST include at least one Acquisition Link, which is an atom:link element with a relation that begins "http://opds-spec.org/acquisition". This link refers to the Resource which is the content of the Resource described by the OPDS Catalog Entry in a particular media type. Acquisition Links use one of the relations described in the Section Acquisition Relations.
 
 == Partial and Complete Catalog Entries ==
 
@@ -325,7 +315,8 @@ Any OPDS Catalog Entry without a link to a Complete Catalog Entry MUST include a
 
 Partial Catalog Entries SHOULD include the following metadata elements, if available:
 
-  * atom:category 
+  * atom:category
+  * atom:contributor
   * atom:rights
   * opds:price 
 
@@ -341,7 +332,7 @@ If an OPDS Catalog Entry includes both "atom:content" and "atom:summary", the "a
 
 == Entry Relations ==
 
-OPDS Catalog Entry Documents SHOULD include links to related Resources. This specification defines five new relations for linking from OPDS Catalog Entry Documents. They are defined in the Sections Acquisition Relations and Covers and Artwork Relations.
+OPDS Catalog Entry Documents SHOULD include links to related Resources. This specification defines new relations for linking from OPDS Catalog Entry Documents. They are defined in the Sections Acquisition Relations and Covers and Artwork Relations.
 
 The following relations are derived from `[DRAFT-Web-Linking]`, with some clarification:
 
@@ -354,9 +345,10 @@ The following relations are derived from `[DRAFT-Web-Linking]`, with some clarif
 
 === Acquisition Relations ===
 
-Acquisition relations describe the extent of the content referred to by an Acquisition Link or the manner in which that Resource may be acquired. This specification defines five acquisition relations, which all begin with "http://opds-spec.org/acquisition": 
+Acquisition relations describe the extent of the content referred to by an Acquisition Link or the manner in which that Resource may be acquired. This specification defines six acquisition relations, which all begin with "http://opds-spec.org/acquisition": 
 
-  * "http://opds-spec.org/acquisition": Indicates that the complete representation of the content Resource may be retrieved without payment.
+  * "http://opds-spec.org/acquisition": A generic relation that indicates that the complete representation of the content Resource may be retrieved.
+  * "http://opds-spec.org/acquisition/open-access": Indicates that the complete representation of the Resource can be retrieved without any requirement, which includes payment and registration.
   * "http://opds-spec.org/acquisition/borrow": Indicates that the complete representation of the content Resource may be retrieved as part of a lending transaction.
   * "http://opds-spec.org/acquisition/buy": Indicates that the complete representation of the content Resource may be retrieved as part of a purchase.
   * "http://opds-spec.org/acquisition/sample": Indicates that a subset of the content Resource may be retrieved.
@@ -366,18 +358,20 @@ Acquisition relations describe the extent of the content referred to by an Acqui
 
 OPDS Catalog Entries MAY include atom:links to images that provide a visual representation of the Publication. For many Publications, these images will be the Publication's cover or other distinguishing artwork. These atom:links MUST use one of the following relations for these images:
 
-  * "http://opds-spec.org/cover": a high-quality version of the image 
-  * "http://opds-spec.org/thumbnail": a version of the image suitable for presentation at a small size
+  * "http://opds-spec.org/image": a generic relationship to indicate that a graphical Resource associated to the OPDS Catalog Entry
+  * "http://opds-spec.org/image/thumbnail": a version of the image suitable for presentation at a small size
 
 More than one atom:link with either relation SHOULD NOT be provided for a single OPDS Catalog Entry.
 
-The maximum size of the longest dimension of http://opds-spec.org/thumbnail images SHOULD be 120 pixels.
+The maximum size of the longest dimension of http://opds-spec.org/image/thumbnail images SHOULD be 120 pixels.
 
-The atom:links with these relations MUST include a type attribute of "image/gif", "image/jpeg", or "image/png" and the image Resources MUST be in GIF, JPEG, or PNG format.
+The atom:links with these relations MUST include at least one link with a type attribute of "image/gif", "image/jpeg", or "image/png" and the image Resources MUST be in GIF, JPEG, or PNG format.
+
+Additional atom:links MAY also include additional resources using a vector-based format.
 
 While either image Resource is optional and may be included independently, OPDS Catalog providers are encouraged to provide both these relations and Resources whenever possible. 
 
-Some OPDS Catalog providers MAY choose to provide http://opds-spec.org/thumbnail image Resources using the "data" URL scheme from `[RFC2397]`. OPDS Catalog clients SHOULD support the "data" URL scheme if they support Covers and Artwork relations.
+Some OPDS Catalog providers MAY choose to provide http://opds-spec.org/image/thumbnail image Resources using the "data" URL scheme from `[RFC2397]`. OPDS Catalog clients SHOULD support the "data" URL scheme if they support Covers and Artwork relations.
 
 == Entry Examples ==
 
@@ -397,8 +391,8 @@ An example of a Partial Catalog Entry (as would appear in an Acquisition Feed) f
               term="FIC020000"
               label="FICTION / Men's Adventure"/>
     <summary>The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</summary>
-    <link type="image/png" rel="http://opds-spec.org/cover"     href="/covers/4561.lrg.png"/>
-    <link type="image/gif" rel="http://opds-spec.org/thumbnail" href="/covers/4561.thmb.gif"/>
+    <link type="image/png" rel="http://opds-spec.org/image/cover"     href="/covers/4561.lrg.png"/>
+    <link type="image/gif" rel="http://opds-spec.org/image/thumbnail" href="/covers/4561.thmb.gif"/>
 
     <link type="application/atom+xml;type=entry;profile=opds-catalog" 
           rel="alternate"
@@ -436,8 +430,8 @@ The Complete Catalog Entry for the same Publication:
       Bob begins his humble life under the wandering eye of his senile mother, but quickly learns how to escape into the wilder world.
       Follow Bob as he uncovers his father's past and uses those lessons to improve the lives of others.</content>
 
-    <link type="image/png" rel="http://opds-spec.org/cover"     href="/covers/4561.lrg.png"/>
-    <link type="image/gif" rel="http://opds-spec.org/thumbnail" href="/covers/4561.thmb.gif"/>
+    <link type="image/png" rel="http://opds-spec.org/image/cover"     href="/covers/4561.lrg.png"/>
+    <link type="image/gif" rel="http://opds-spec.org/image/thumbnail" href="/covers/4561.thmb.gif"/>
 
     <link type="application/atom+xml;type=entry;profile=opds-catalog" 
           rel="self"
@@ -450,50 +444,6 @@ The Complete Catalog Entry for the same Publication:
           rel="http://opds-spec.org/acquisition" 
           href="/content/free/4561.mobi"/>
  </entry>
-}}}
-
-A Complete Catalog Entry with a complex, paid, Indirect Acquisition, where three formats are available for a single price:
-{{{
-  <entry> 
-    <title>Personal Investing: The Missing Manual</title> 
-    <id>http://apps.oreilly.com/opds/product/9781449381806.EBOOK</id> 
-    <updated>2010-05-20T13:17:29</updated>
-    <dc:identifier>urn:isbn:9781449381806</dc:identifier>
-    <dc:publisher>O'Reilly Media</dc:publisher>
-    <dc:issued>2010-05-12</dc:issued>
-    <author> 
-      <name>Bonnie Biafore</name> 
-    </author> 
-    <author> 
-      <name>Amy E. Buttell</name> 
-    </author> 
-    <author> 
-      <name>Carol Fabbri</name> 
-    </author> 
-    <link type="text/html" 
-          rel="alternate" 
-          href="http://oreilly.com/catalog/0636920001386"/>
-    <link type="text/html" 
-          rel="http://opds-spec.org/acquisition/buy"
-          href="/product/9781449381806.EBOOK/buy">
-      <dc:format>application/pdf</dc:format> 
-      <dc:format>application/x-mobipocket-ebook</dc:format> 
-      <dc:format>application/epub+zip</dc:format> 
-      <opds:price currencycode="USD">17.99</opds:price> 
-    </link> 
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <p>Did your personal investments take a hit in the recession? It's time to take control of your funds 
-          with <em>Personal Investing: The Missing Manual</em>. This lively and easy-to-understand guide provides 
-          the confidence, tools, and insight you need to evaluate and invest in financial products that target 
-          success over the long term. You'll learn how to set goals and research the types of investments -- 
-          mutual funds, stocks, bonds, and other financial products -- that can best help you achieve them.</p>
-      </div>
-    </content>
-
-    <link href="http://covers.oreilly.com/images/0636920001386/bkt.gif" type="image/gif" rel="http://opds-spec.org/thumbnail" /> 
-    <link href="http://covers.oreilly.com/images/0636920001386/cat.gif" type="image/gif" rel="http://opds-spec.org/cover" /> 
-  </entry> 
 }}}
 
 == Element Definitions ==
@@ -540,7 +490,6 @@ The following child elements are defined by this specification:
 
   * atom:link elements with a rel attribute value of "http://opds-spec.org/acquisition/buy" MUST contain one opds:price element.
   * atom:link elements with a rel attribute of "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample" MAY contain one opds:price element.
-  * atom:link elements with a rel attribute that begins with "http://opds-spec.org/acquisition" MAY contain one or more dc:format elements.
 
 === The "opds:price" Element ===
 
@@ -567,17 +516,13 @@ The goal of OPDS Catalogs is to make Publications both discoverable and straight
 
 All Acquisition Links MUST include a "type" attribute that advises clients on the media type of the representation that is expected to be returned when the value of the href attribute is dereferenced. As with Atom, the value of the type attribute MUST conform to the syntax of a MIME media type `[MIMEREG]`.
 
-If the Publication is available using Direct Acquisition, the type attribute of the Acquisition Link MUST represent the media type of the Publication Resource itself. These Acquisition Link elements MAY contain a "dc:format" element, but in this scenario it is optional. For Acquisition Links using Direct Acquisition, the dc:format element MUST contain the same content value as the type parameter of its parent.
+Publications in a format using Digital Rights Management SHOULD use a different value for the type attribute of the Acquisition Link than the same format without Digital Rights Management.
 
-If the Publication is available using Indirect Acquisition, the type attribute of the Acquisition Link SHOULD represent the media type of the first Resource a client must dereference to begin the acquisition. These Acquisition Link elements MUST contain one or more "dc:format" elements which describe the media type(s) of the Publication Resource(s) that will be available following a successful acquisition. This scenario may require human interaction to complete.
-
-Publications in a format using Digital Rights Management SHOULD use a different value for the type attribute or dc:format child of the Acquisition Link than the same format without Digital Rights Management.
-
-OPDS Catalog clients may only support a subset of all possible Publication media types. These clients will need to filter both the type attribute and dc:format children of Acquisition Links to support both Direct and Indirect Acquisition. Support for Indirect Acquisition is OPTIONAL.
+OPDS Catalog clients may only support a subset of all possible Publication media types. These clients will need to filter both the type attribute of Acquisition Links.
 
 == Acquisition Examples ==
 
-The simplest case is a Publication available by Direct Acquisition in one format:
+The simplest case is a Publication available in one format:
 
 {{{
   <link type="application/x-mobipocket-ebook" 
@@ -596,19 +541,7 @@ If the Publication was available in multiple formats as unique Resources, they w
         href="/content/borrow/4561.epub"/>
 }}}
 
-If the Publication is available using Indirect Acquisition, a dc:format element is required:
-
-{{{
-  <link type="text/html" 
-        rel="http://opds-spec.org/acquisition/sample"
-        href="/product/9781449381806.EBOOK/sample">
-    <dc:format>application/pdf</dc:format> 
-    <dc:format>application/x-mobipocket-ebook</dc:format> 
-    <dc:format>application/epub+zip</dc:format> 
-  </link> 
-}}}
-
-If the Publication is requires payment, an opds:price element is required:
+If the Publication requires payment, an opds:price element is required:
 
 {{{
   <link type="text/html" 
@@ -643,7 +576,7 @@ OPDS Catalogs may be aggregated using the same techniques as Atom Feeds. Aggrega
 
 OPDS Catalogs may be referenced in HTML/XHTML pages, HTTP headers, or using other techniques. These links may reference both OPDS Catalog Entries or Feeds.
  
-Links to OPDS Catalog Entry Document Resources MUST use a type attribute of "application/atom+xml;type=entry;profile=opds-catalog". Links to OPDS Catalog Feed Document Resources MUST use a type attribute of "application/atom+xml;type=feed;profile=opds-catalog".
+Links to OPDS Catalog Entry Document Resources MUST use a type attribute of "application/atom+xml;type=entry;profile=opds-catalog". Links to OPDS Catalog Feed Document Resources MUST use a type attribute of "application/atom+xml;profile=opds-catalog".
 
 The most common mechanism for encouraging the auto-discovery of OPDS Catalogs is to link from an HTML document to the OPDS Catalog Root Resource, using the auto-discovery pattern popularized by the syndicated feed community `[AUTODISCOVERY]`.
 
@@ -651,7 +584,7 @@ Multiple links to OPDS Catalog Resources MAY be expressed in a single HTML docum
 
 An example of two links inside an HTML page about the same Publication:
 {{{
-<link rel="related"   type="application/atom+xml;type=feed;profile=opds-catalog"  href="/opds-catalogs/root" title="Example OPDS Catalog" /> 
+<link rel="related"   type="application/atom+xml;profile=opds-catalog"  href="/opds-catalogs/root" title="Example OPDS Catalog" /> 
 
 <link rel="alternate" type="application/atom+xml;type=entry;profile=opds-catalog" href="/entry/1"            title="Example OPDS Entry" /> 
 }}}
@@ -707,7 +640,7 @@ application/atom+xml;type=entry;profile=opds-catalog
 
 The complete media type for a relation to an OPDS Catalog Feed Document Resource SHOULD be:
 
-application/atom+xml;type=feed;profile=opds-catalog
+application/atom+xmld;profile=opds-catalog
 
 = References =
 

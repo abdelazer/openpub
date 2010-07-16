@@ -332,7 +332,7 @@ If an OPDS Catalog Entry includes both "atom:content" and "atom:summary", the "a
 
 == Entry Relations ==
 
-OPDS Catalog Entry Documents SHOULD include links to related Resources. This specification defines new relations for linking from OPDS Catalog Entry Documents. They are defined in the Sections Acquisition Relations and Covers and Artwork Relations.
+OPDS Catalog Entry Documents SHOULD include links to related Resources. This specification defines new relations for linking from OPDS Catalog Entry Documents. They are defined in the Sections Acquisition Relations and Artwork Relations.
 
 The following relations are derived from `[DRAFT-Web-Linking]`, with some clarification:
 
@@ -354,9 +354,9 @@ Acquisition relations describe the extent of the content referred to by an Acqui
   * "http://opds-spec.org/acquisition/sample": Indicates that a subset of the content Resource may be retrieved.
   * "http://opds-spec.org/acquisition/subscribe": Indicates that the complete representation of the content Resource may be retrieved as part of a subscription.
 
-=== Covers and Artwork Relations ===
+=== Artwork Relations ===
 
-OPDS Catalog Entries MAY include atom:links to images that provide a visual representation of the Publication. For many Publications, these images will be the Publication's cover or other distinguishing artwork. These atom:links MUST use one of the following relations for these images:
+OPDS Catalog Entries MAY include atom:links to images that provide a visual representation of the Publication. For many Publications, these images will be the Publication's artwork. These atom:links MUST use one of the following relations for these images:
 
   * "http://opds-spec.org/image": a generic relationship to indicate that a graphical Resource associated to the OPDS Catalog Entry
   * "http://opds-spec.org/image/thumbnail": a version of the image suitable for presentation at a small size
@@ -371,7 +371,7 @@ Additional atom:links MAY also include additional resources using a vector-based
 
 While either image Resource is optional and may be included independently, OPDS Catalog providers are encouraged to provide both these relations and Resources whenever possible. 
 
-Some OPDS Catalog providers MAY choose to provide http://opds-spec.org/image/thumbnail image Resources using the "data" URL scheme from `[RFC2397]`. OPDS Catalog clients SHOULD support the "data" URL scheme if they support Covers and Artwork relations.
+Some OPDS Catalog providers MAY choose to provide http://opds-spec.org/image/thumbnail image Resources using the "data" URL scheme from `[RFC2397]`. OPDS Catalog clients SHOULD support the "data" URL scheme if they support Artwork relations.
 
 == Entry Examples ==
 

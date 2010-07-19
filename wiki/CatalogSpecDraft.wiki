@@ -375,7 +375,7 @@ Some OPDS Catalog providers MAY choose to provide http://opds-spec.org/image/thu
 
 == Entry Examples ==
 
-An example of a Partial Catalog Entry (as would appear in an Acquisition Feed) for a Publication available in two formats using Direct Acquisition:
+An example of a Partial Catalog Entry (as would appear in an Acquisition Feed) for a Publication available in two formats:
 {{{
   <entry>
     <title>Bob, Son of Bob</title>

@@ -16,16 +16,16 @@ This document is licensed under [http://creativecommons.org/licenses/by-sa/3.0/ 
 
 = Abstract =
 
-The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic content based on Atom and HTTP. OPDS Catalogs enable the aggregation, distribution, discovery, and acquisition of electronic content. OPDS Catalogs use existing or emergent open standards and conventions, with a priority on simplicity. 
+The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publicaion based on Atom and HTTP. OPDS Catalogs enable the aggregation, distribution, discovery, and acquisition of electronic publication. OPDS Catalogs use existing or emergent open standards and conventions, with a priority on simplicity. 
 
 = Introduction =
 
-The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic content based on Atom `[RFC4287]` and HTTP `[RFC2616]`. OPDS Catalogs enable available electronic content to be:
+The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publication based on Atom `[RFC4287]` and HTTP `[RFC2616]`. OPDS Catalogs enable available electronic publication to be:
 
   * discovered, using optional search or a range of optional browsing techniques
   * acquired, using direct downloads, lending, or vending
 
-An OPDS Catalog is a set of one or more Atom Feeds, which are themselves list of Atom Entries. The Atom Feeds that make up all OPDS Catalogs can be divided into two groups, Navigation Feeds, which create a hierarchy for browsing, and Acquisition Feeds, which list available electronic content. Each Atom Entry in an Acquisition Feed includes basic metadata about the content, the content's format, and how the content can be acquired. These Atom Entries may have a more extensive, standalone representation outside of the version included in the Acquisition Feed at a unique URI.
+An OPDS Catalog is a set of one or more Atom Feeds, which are themselves list of Atom Entries. The Atom Feeds that make up all OPDS Catalogs can be divided into two groups, Navigation Feeds, which create a hierarchy for browsing, and Acquisition Feeds, which list available electronic publication. Each Atom Entry in an Acquisition Feed includes basic metadata about the publication, the publication's format, and how the publication can be acquired. These Atom Entries may have a more extensive, standalone representation outside of the version included in the Acquisition Feed at a unique URI.
 
 OPDS Catalogs may be aggregated and combined into larger OPDS Catalogs.
 
@@ -50,7 +50,7 @@ Some sections of this specification are illustrated with fragments of a non-norm
 The following terminology is used by this specification:
 
   * Acquisition Feed - An Atom Feed whose Atom Entries are exclusively OPDS Catalog Entries.
-  * Acquisition Link - An atom:link element with a relation that begins with "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described Content or the Resource through which it may be acquired for any OPDS Catalog Entry. See the Sections Acquisition Relations and Acquiring Publications. They are serialized as OPDS Catalog Feed Documents.
+  * Acquisition Link - An atom:link element with a relation that begins with "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described Publication or the Resource through which it may be acquired for any OPDS Catalog Entry. See the Sections Acquisition Relations and Acquiring Publications. They are serialized as OPDS Catalog Feed Documents.
   * Complete Catalog Entry - An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry.
   * IRI - An Internationalized Resource Identifier as defined in `[RFC3987]`. 
   * Navigation Feed - An Atom Feed whose Atom Entries are not OPDS Catalog Entries but instead link to other Navigation Feeds, Acquisition Feeds, or other Resources to establish a hierarchical, browseable presentation of the OPDS Catalog. They are serialized as OPDS Catalog Feed Documents.
@@ -525,9 +525,9 @@ OPDS Catalog clients may only support a subset of all possible Publication media
 The simplest case is a Publication available in one format:
 
 {{{
-  <link type="application/x-mobipocket-ebook" 
+  <link type="video/mp4v-es" 
         rel="http://opds-spec.org/acquisition" 
-        href="/content/free/4561.mobi"/>
+        href="/content/free/4561.mp4"/>
 }}}
 
 If the Publication was available in multiple formats as unique Resources, they would simply be listed:
@@ -544,10 +544,10 @@ If the Publication was available in multiple formats as unique Resources, they w
 If the Publication requires payment, an opds:price element is required:
 
 {{{
-  <link type="application/pdf" 
+  <link type="audio/mpeg" 
         rel="http://opds-spec.org/acquisition/buy"
-        href="/product/9781449381806.EBOOK/buy"> 
-    <opds:price currencycode="USD">17.99</opds:price> 
+        href="/product/song1.mp3"> 
+    <opds:price currencycode="USD">1.99</opds:price> 
   </link> 
 }}}
 

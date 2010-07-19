@@ -481,7 +481,6 @@ The "atom:link" element defines a reference from an Atom Entry or Atom Feed to a
       attribute title { text }?,
       attribute length { text }?,
       opdsPrice*,
-      dcFormat*,
       undefinedOPDSContent
     }
 }}}
@@ -555,13 +554,25 @@ If the Publication requires payment, an opds:price element is required:
 
 == Listing Acquisition Feeds ==
 
-OPDS Catalog Feed Documents, especially Acquisition Feeds, may contain large numbers of Atom Entries. A client such as a web spider or web browser might be overwhelmed if the response to a GET contained every Atom Entry in an Acquisition Feed -- in turn the server might also waste bandwidth and processing time on generating a response that cannot be handled. For this reason, servers MAY respond to Acquisition Feed GET requests with a paginated response: an OPDS Catalog Feed Document containing a partial list of the Acquisition Feed's member Atom Entries and a link to the next partial Acquisition Feed, if it exists, as defined in Section 3 of `[RFC5005]`. 
+OPDS Catalog Feed Documents, especially Acquisition Feeds, may contain large numbers of Atom Entries. 
 
-OPDS Catalog providers SHOULD use Partial Catalog Entries in all Acquisition Feeds except Complete Acquisition Feeds, which are intended for crawling and are referenced using the http://opds-spec.org/crawlable relation. Clients MUST NOT assume that an OPDS Catalog Entry returned in the Acquisition Feed is a full representation of an OPDS Catalog Entry Resource, as described in the Section Partial and Complete Entries. 
+A client such as a web spider or web browser might be overwhelmed if the response to a GET contained every Atom Entry in an Acquisition Feed -- in turn the server might also waste bandwidth and processing time on generating a response that cannot be handled. For this reason, servers MAY respond to Acquisition Feed GET requests with a paginated response: an OPDS Catalog Feed Document containing a partial list of the Acquisition Feed's member Atom Entries and a link to the next partial Acquisition Feed, if it exists, as defined in Section 3 of `[RFC5005]`. 
+
+OPDS Catalog providers SHOULD use Partial Catalog Entries in all Acquisition Feeds except Complete Acquisition Feeds, which are intended for crawling and are referenced using the http://opds-spec.org/crawlable relation. 
+
+Clients MUST NOT assume that an OPDS Catalog Entry returned in the Acquisition Feed is a full representation of an OPDS Catalog Entry Resource, as described in the Section Partial and Complete Entries. 
 
 == Complete Acquisition Feeds ==
 
-An OPDS Catalog provider MAY provide a single, consolidated Acquisition Feed that includes the complete representation of every unique OPDS Catalog Entry Document in an OPDS Catalog in a single, unpaged atom:feed to faciliate crawling and aggregation. This representation is called a Complete Acquisition Feed and each OPDS Catalog Entry MUST be ordered by atom:updated, with the most recently updated Atom Entries coming first in the document order. If available, each OPDS Catalog Feed Document in the OPDS Catalog SHOULD contain an atom:link element with a the relation of "http://opds-spec.org/crawlable" that references the Complete Acquisition Feed Resource. A Complete Acquisition Feed MUST include a fh:complete element from `[RFC5005]`. See Section 2 of `[RFC5005]` for the specification of the fh:complete element. OPDS Catalog providers SHOULD use a compressed Content-Encoding when transmitting Complete Acquisition Feeds over HTTP. See Section 14.11 of `[RFC2616]` for more on compression.
+An OPDS Catalog provider MAY provide a single, consolidated Acquisition Feed that includes the complete representation of every unique OPDS Catalog Entry Document in an OPDS Catalog in a single, unpaged atom:feed to faciliate crawling and aggregation. 
+
+This representation is called a Complete Acquisition Feed and each OPDS Catalog Entry MUST be ordered by atom:updated, with the most recently updated Atom Entries coming first in the document order. 
+
+If available, each OPDS Catalog Feed Document in the OPDS Catalog SHOULD contain an atom:link element with a the relation of "http://opds-spec.org/crawlable" that references the Complete Acquisition Feed Resource. 
+
+A Complete Acquisition Feed MUST include a fh:complete element from `[RFC5005]`. See Section 2 of `[RFC5005]` for the specification of the fh:complete element. 
+
+OPDS Catalog providers SHOULD use a compressed Content-Encoding when transmitting Complete Acquisition Feeds over HTTP. See Section 14.11 of `[RFC2616]` for more on compression.
 
 OPDS Catalog providers MUST include Complete Catalog Entries when serializing a Complete Acquisition Feed.
 

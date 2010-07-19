@@ -43,22 +43,24 @@ include "atom.rnc" {
      |
      (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? &
       dcFormat* &
-      undefinedOPDSContentExceptPrice
+      anyOPDSForeignElement* & 
+      text
+
     }
+    # Modifies xsd:anyURI in XSD 1.0 to exclude ASCII characters not valid in 1.1 or IRI's without being escaped
+    #  This matches the OPDS and Atom specs, but not the non-normative atom.rnc 
+    atomUri = xsd:anyURI - xsd:string {pattern = ".*[ <>{}|^`#x22\\\n\r\t].*"}
 }
 
 
 start = atomEntry
 
-undefinedOPDSContentExceptPrice = ( text | anyOPDSForeignElementExceptPrice )*
-
-anyOPDSForeignElementExceptPrice =
-  element * - ( atom:* | opds:* | dcFormat ) {
+anyOPDSForeignElement =
+  element * - ( atom:* | opds:* | dc:format ) {
       ( attribute * { text }
       | text
       | anyElement )*
   }
-
 
 dcFormat = 
   element dc:format {
@@ -76,5 +78,6 @@ opdsPrice =
     ( text | anyElement )*
   }
 
-#  Perhaps we should specify the values under ISO4217 acceptable in this attribute
+#  This pattern describes possible values for currency codes under ISO4217 but does not flag values that are not actually assigned codes
+
 opdsPriceCurrencyCode = xsd:string { pattern = "[A-Z]{3}" }

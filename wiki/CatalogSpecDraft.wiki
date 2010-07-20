@@ -16,7 +16,7 @@ This document is licensed under [http://creativecommons.org/licenses/by-sa/3.0/ 
 
 = Abstract =
 
-The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publicaion based on Atom and HTTP. OPDS Catalogs enable the aggregation, distribution, discovery, and acquisition of electronic publication. OPDS Catalogs use existing or emergent open standards and conventions, with a priority on simplicity. 
+The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publication based on Atom and HTTP. OPDS Catalogs enable the aggregation, distribution, discovery, and acquisition of electronic publication. OPDS Catalogs use existing or emergent open standards and conventions, with a priority on simplicity. 
 
 = Introduction =
 
@@ -25,7 +25,7 @@ The Open Publication Distribution System (OPDS) Catalog format is a syndication 
   * discovered, using optional search or a range of optional browsing techniques
   * acquired, using direct downloads, lending, or vending
 
-An OPDS Catalog is a set of one or more Atom Feeds, which are themselves list of Atom Entries. The Atom Feeds that make up all OPDS Catalogs can be divided into two groups, Navigation Feeds, which create a hierarchy for browsing, and Acquisition Feeds, which list available electronic publication. Each Atom Entry in an Acquisition Feed includes basic metadata about the publication, the publication's format, and how the publication can be acquired. These Atom Entries may have a more extensive, standalone representation outside of the version included in the Acquisition Feed at a unique URI.
+An OPDS Catalog is a set of one or more Atom Feeds, which are themselves listings of Atom Entries. The Atom Feeds that make up all OPDS Catalogs can be divided into two groups: Navigation Feeds, which create a hierarchy for browsing, and Acquisition Feeds, which list available electronic publication. Each Atom Entry in an Acquisition Feed includes basic metadata about the publication, the publication's format, and how the publication can be acquired. These Atom Entries may have a more extensive, standalone representation outside of the version included in the Acquisition Feed at a unique URI.
 
 OPDS Catalogs may be aggregated and combined into larger OPDS Catalogs.
 
@@ -49,22 +49,22 @@ Some sections of this specification are illustrated with fragments of a non-norm
 
 The following terminology is used by this specification:
 
-  * Acquisition Feed - An Atom Feed whose Atom Entries are exclusively OPDS Catalog Entries.
-  * Acquisition Link - An atom:link element with a relation that begins with "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described Publication or the Resource through which it may be acquired for any OPDS Catalog Entry. See the Sections Acquisition Relations and Acquiring Publications. They are serialized as OPDS Catalog Feed Documents.
-  * Complete Catalog Entry - An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry.
-  * IRI - An Internationalized Resource Identifier as defined in `[RFC3987]`. 
-  * Navigation Feed - An Atom Feed whose Atom Entries are not OPDS Catalog Entries but instead link to other Navigation Feeds, Acquisition Feeds, or other Resources to establish a hierarchical, browseable presentation of the OPDS Catalog. They are serialized as OPDS Catalog Feed Documents.
-  * OPDS Catalog - All of the Atom Feeds (Acquisition and Navigation) and Entries (Partial and Complete) following this specification published together to describe a consolidated group of available Publications.
-  * OPDS Catalog Entry - An Atom Entry that provides a representation of an available Publication and includes an Acquisition Link. They are serialized as OPDS Catalog Entry Documents.
-  * OPDS Catalog Entry Document - The formal name for the XML documents that are the a refinement of an "atom:entry" from the Atom Syndication Format `[RFC4287]` that this specification defines.
-  * OPDS Catalog Feed Document - The formal name for XML documents that are the refinement of an "atom:feed" from the Atom Syndication Format `[RFC4287]` that this specification defines.
-  * OPDS Catalog Root - The Atom Feed that represents either the complete OPDS Catalog (a single Acquisition Feed) or the Atom Feed that starts a set of Navigation Feeds. External links to the OPDS Catalog SHOULD reference the OPDS Catalog Root Resource.
-  * Partial Catalog Entry - An OPDS Catalog Entry that includes the minimal required metadata about the described Publication but no other metadata and links to the Complete Catalog Entry. 
+  * Acquisition Feed -- An Atom Feed whose Atom Entries are exclusively OPDS Catalog Entries.
+  * Acquisition Link -- An atom:link element with a relation that begins with "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described Publication or the Resource through which it may be acquired for any OPDS Catalog Entry. See the Sections Acquisition Relations and Acquiring Publications. They are serialized as OPDS Catalog Feed Documents.
+  * Complete Catalog Entry -- An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry.
+  * IRI -- An Internationalized Resource Identifier as defined in `[RFC3987]`. 
+  * Navigation Feed -- An Atom Feed whose Atom Entries are not OPDS Catalog Entries but instead link to other Navigation Feeds, Acquisition Feeds, or other Resources to establish a hierarchical, browseable presentation of the OPDS Catalog. They are serialized as OPDS Catalog Feed Documents.
+  * OPDS Catalog -- All of the Atom Feeds (Acquisition and Navigation) and Entries (Partial and Complete) following this specification published together to describe a consolidated group of available Publications.
+  * OPDS Catalog Entry -- An Atom Entry that provides a representation of an available Publication and includes an Acquisition Link. They are serialized as OPDS Catalog Entry Documents.
+  * OPDS Catalog Entry Document -- The formal name for the XML documents that are the a refinement of an "atom:entry" from the Atom Syndication Format `[RFC4287]` that this specification defines.
+  * OPDS Catalog Feed Document -- The formal name for XML documents that are the refinement of an "atom:feed" from the Atom Syndication Format `[RFC4287]` that this specification defines.
+  * OPDS Catalog Root -- The Atom Feed that represents either the complete OPDS Catalog (a single Acquisition Feed) or the Atom Feed that starts a set of Navigation Feeds. External links to the OPDS Catalog SHOULD reference the OPDS Catalog Root Resource.
+  * Partial Catalog Entry --- An OPDS Catalog Entry that includes the minimal required metadata about the described Publication but no other metadata and links to the Complete Catalog Entry. 
   * Publication - An electronic document, typically available as a single file. OPDS Catalogs are agnostic about the particular format of Publications.
-  * relation (or "relation of") - Refers to the "rel" attribute value of an atom:link element.
-  * Representation - An entity included with a request or response as defined in `[RFC2616]`.
-  * Resource - A network-accessible data object or service identified by an IRI, as defined in `[RFC2616]`. See `[REC-webarch]` for further discussion on Resources.
-  * URI - A Uniform Resource Identifier as defined in `[RFC3986]`. In this specification, the phrase "the URI of a document" is shorthand for "a URI which, when dereferenced, is expected to produce that document as a representation".
+  * relation (or "relation of") -- Refers to the "rel" attribute value of an atom:link element.
+  * Representation -- An entity included with a request or response as defined in `[RFC2616]`.
+  * Resource -- A network-accessible data object or service identified by an IRI, as defined in `[RFC2616]`. See `[REC-webarch]` for further discussion on Resources.
+  * URI -- A Uniform Resource Identifier as defined in `[RFC3986]`. In this specification, the phrase "the URI of a document" is shorthand for "a URI which, when dereferenced, is expected to produce that document as a representation".
 
 = Document Types =
 
@@ -462,26 +462,21 @@ The "atom:link" element defines a reference from an Atom Entry or Atom Feed to a
 
 {{{
   atomLink =
-    [
-      s:rule [
-        context = "atom:link[@rel='http://opds-spec.org/acquisition/buy']"
-        s:assert [
-          test = "opds:price"
-          "An atom:link with a rel attribute of 'http://opds-spec.org/acquisition/buy' "
-          ~ "must have at least one opds:price element."
-        ]
-      ]
-    ]
     element atom:link {
-      atomCommonAttributes,
-      attribute href { atomUri },
-      attribute rel { atomNCName | atomUri }?,
-      attribute type { atomMediaType }?,
-      attribute hreflang { atomLanguageTag }?,
-      attribute title { text }?,
-      attribute length { text }?,
-      opdsPrice*,
-      undefinedOPDSContent
+      atomCommonAttributes &
+      attribute href { atomUri } &
+      attribute type { atomMediaType }? &
+      attribute hreflang { atomLanguageTag }? &
+      attribute title { text }? &
+      attribute length { text }? &
+     ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice )
+     |
+     (attribute rel { OPDSUrisExceptBuy }, opdsPrice?)
+     |
+     (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? &
+      dcFormat* &
+      anyOPDSForeignElement* & 
+      text
     }
 }}}
 
@@ -499,7 +494,7 @@ The content of opds:price is text describing a currency value.
 {{{
 opdsPrice = 
   element opds:price {
-    attribute currencycode xsd:string { pattern = "[A-Z]{3,3}" },
+    attribute currencycode xsd:string { pattern = "[A-Z]{3}" },
     text
   }
 

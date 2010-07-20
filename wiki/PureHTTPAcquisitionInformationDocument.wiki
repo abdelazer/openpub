@@ -5,13 +5,13 @@
 
 ==Status of this document==
 
-This document is an information document. Information documents are meant to be a proposed common solution to peripheral issues related to OPDS Spec usage. This document is non normative, implementing the OPDS spec is not a requirement to use it, neither is its implementation required to implement the OPDS protocol.
+This document is an information document, which are meant to be a proposed common solution to peripheral issues related to OPDS Spec usage. This document is non-normative; implementing the OPDS spec is not a requirement to use it, neither is its implementation required to implement the OPDS protocol.
 
 ==Goals==
 
 The OPDS Specification defines a way to list and discover publications leaving aside issues related to the acquisition flow. Currently, after browsing 
-through an OPDS Catalog, customers are often redirected to a general purpose Internet browser to complete their acquisition. 
-The scenarios proposed by this document should enable customers to perform acquisitions without leaving the application. 
+through an OPDS Catalog, customers are often redirected to a general-purpose Internet browser to complete an acquisition. 
+The scenarios proposed by this document should enable customers to perform acquisitions without having to leave the application. 
 
 ==Environment==
 
@@ -21,26 +21,26 @@ This document is tailored toward services that provide OPDS endpoints for acquis
 
 The primary scenario is nothing more than an HTTP authentication request before acquiring the requested file.
 
-*Prerequisite:* The user already has a valid account sets up (including payment information).
+*Prerequisite:* The user already has a valid account set up (including payment information).
 
 *Steps:*
-  # Browsing the store’s OPDS Catalog the user follows an acquisition URL.
+  # Browsing the store’s OPDS Catalog, the user follows an acquisition URL.
   # The application sends a GET request to the URL
   # The store server replies with a 401 (Unauthorized) response with WWW-Authenticate header to enable HTTP authentication.
-  #The application SHOULD ask the user to confirm its credentials to authorize the acquisition
-  # The application resend the GET request with credentials set.
+  # The application SHOULD ask the user to confirm its credentials to authorize the acquisition
+  # The application resends the GET request with credentials set.
   # The store performs the acquisition and sends the requested file (200 OK response).
 
 
 ==Scenario 2: Registered, but missing payment information==
 
-In this scenario, the user’s identity has been confirmed but the store is missing the payment’s information (new user, invalid or outdated credit card for example) to perform the acquisition.
+In this scenario, the user’s identity has been confirmed but the store is missing the payment’s information (as with a new user, for example, or invalid or outdated credit card) to perform the acquisition.
 
-*Prerequisite:* The user already has a valid account sets up but the payment’s information is either missing or invalid.
+*Prerequisite:* The user already has a valid account set up but the payment’s information is either missing or invalid.
 
 *Steps:* (1-5 are the same as the primary case)
  6. The store sends a 402 response (Payment required) with a Location header set towards a web page where the user can add the missing information.
- 7. The user fills in the required information and sends them back to the server
+ 7. The user fills in the required information and sends it back to the server
  8. The store registers the new info, performs the acquisition and sends the requested file (200 OK response)
 
 

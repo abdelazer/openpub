@@ -15,9 +15,10 @@ A number of book vendors possess a books which they have less than worldwide rig
 == Onix-Style Declaration (TJ) ==
 
 Proposal:
-{{{
-Similar to the Onix specification for regional rights, a feed may represent its rights as a series of allowable and disallowable regions and territories.  If an <included> block is included in the link specification, then only those countries or territories listed within may acquire the book from the OPDS catalog provider.  In any case, all territories and countries in the excluded block are excluded from acquiring the book from the OPDS catalog provider.
 
+  Similar to the Onix specification for regional rights, a feed may represent its rights as a series of allowable and  disallowable regions and territories.  If an `<included>` block is included in the link specification, then only those countries or territories listed within may acquire the book from the OPDS catalog provider.  In any case, all territories  and countries in the excluded block are excluded from acquiring the book from the OPDS catalog provider.
+
+{{{
 <rights>
 	<included>
 		<country>us</country>
@@ -26,11 +27,11 @@ Similar to the Onix specification for regional rights, a feed may represent its 
 		<territory>US-TX</territory>
 	</excluded>
 </rights>
-
-Country elements would deliniated as 2 character custom codes according to ISO 3166-1 alpha 2 (http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
-
-Territory codes would match ONIX code list 49 which reads:
 }}}
+
+ Country elements would deliniated as 2 character custom codes according to ISO 3166-1 alpha 2 (http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+
+ Territory codes would match ONIX code list 49 which reads:
 
 
 ||AU-CT||Australian Capital Territory||

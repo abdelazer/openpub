@@ -10,9 +10,7 @@ We've had a lot of discussions about how we could handle indirect acquisition in
 == Inline dc:format ==
 
 {{{
-<link type="text/html"
-        href="/buy/1"
-        rel="http://opds-spec.org/acquisition/buy"
+<link type="text/html" href="/buy/1" rel="http://opds-spec.org/acquisition/buy">
   <dc:format>application/epub+zip</dc:format>
   <dc:format>application/pdf</dc:format>
   <opds:price currencycode="USD">8.99</opds:price>
@@ -27,9 +25,7 @@ Criticism:
 == RDF resources ==
 
 {{{
-<link type="text/html"
-        href="/buy/1"
-        rel="http://opds-spec.org/acquisition/buy"
+<link type="text/html" href="/buy/1" rel="http://opds-spec.org/acquisition/buy">
   <opds:price currencycode="USD">8.99</opds:price>
   <dcterms:hasFormat>http://www.website.com/buy/1.epub</dcterms:hasFormat>
   <dcterms:hasFormat>http://www.website.com/buy/1.pdf</dcterms:hasFormat>
@@ -50,9 +46,7 @@ Criticism:
 == Using another inline atom:link ==
 
 {{{
-<link type="text/html"
-        href="/buy/1"
-        rel="http://opds-spec.org/acquisition/buy"
+<link type="text/html" href="/buy/1" rel="http://opds-spec.org/acquisition/buy">
   <opds:price currencycode="USD">8.99</opds:price>
   <link href="http://www.website.com/buy/1.epub" type="application/epub+zip"> 
     <dc:extent>789 kbytes</dc:format> 

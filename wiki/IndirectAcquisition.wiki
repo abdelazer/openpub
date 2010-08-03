@@ -49,7 +49,7 @@ Criticism:
 <link type="text/html" href="/buy/1" rel="http://opds-spec.org/acquisition/buy">
   <opds:price currencycode="USD">8.99</opds:price>
   <link href="http://www.website.com/buy/1.epub" type="application/epub+zip"> 
-    <dc:extent>789 kbytes</dc:format> 
+    <dc:extent>789 kbytes</dc:extent> 
   </link>
   <link href="http://www.website.com/buy/1.pdf" type="application/pdf" /> 
 </link>

@@ -11,3 +11,31 @@ Partial Catalog Entries SHOULD include the following metadata elements, if avail
   * dc:publisher
 
 See the section "Relationship Between Atom and Dublin Core Metadata" in the OPDS Catalog 1.0 specification itself for more detail on when to use elements from the Atom vocabulary and when to use Dublin Core elements.
+
+= OPDS Catalog Relations =
+
+  * "alternate": This OPDS Catalog in another format.
+  * "first": The initial page in a paginated Acquisition Feed.
+  * "help": A Resource that describes how the OPDS Catalog or Publications may be used.
+  * "last": The final page in a paginated Acquisition Feed.
+  * "license": The license under which this OPDS Catalog is released.
+  * "next": The following page in a paginated Acquisition Feed.
+  * "previous": The previous page in a paginated Acquisition Feed.
+  * "related": A related or suggested Acquisition Feed. An example would be a "related" link from the newest releases in a category to the most popular in a category.
+  * "self": This Atom Feed.
+  * "start": The OPDS Catalog Root.
+  * "subsection": A Navigation Feed not better described by a more specific relation.
+  * "up": The parent Navigation Feed of this Navigation Feed.
+
+These relations MAY be used by clients to provide additional or alternative navigation, both in a Navigation Feed or an Acquisition Feed.
+
+= Entry Relations =
+
+The following relations are derived from [DRAFT-Web-Linking], with some clarification:
+
+  * "alternate": Identifies a Resource that describes this Publication in another format.
+  * "copyright": Refers to a copyright statement that applies to this OPDS Catalog Entry.
+  * "latest-version": Refers to a more recent version of the Publication described by this OPDS Catalog Entry.
+  * "license": Refers to a license associated with this OPDS Catalog Entry.
+  * "related": Refers to a similar OPDS Catalog Entry.
+  * "replies ": Refers to a comment on or discussion of this OPDS Catalog Entry.

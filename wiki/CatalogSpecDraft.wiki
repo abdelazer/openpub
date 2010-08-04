@@ -142,18 +142,8 @@ OPDS Catalog Feed Documents SHOULD include links to other available Acquisition 
 
 The following relations are derived from `[DRAFT-Web-Linking]`, with some clarification:
 
-  * "alternate": This OPDS Catalog in another format.
-  * "first": The initial page in a paginated Acquisition Feed.
-  * "help": A Resource that describes how the OPDS Catalog or Publications may be used.
-  * "last": The final page in a paginated Acquisition Feed.
-  * "license": The license under which this OPDS Catalog is released.
-  * "next": The following page in a paginated Acquisition Feed.
-  * "previous": The previous page in a paginated Acquisition Feed.
-  * "related": A related or suggested Acquisition Feed. An example would be a "related" link from the newest releases in a category to the most popular in a category.
-  * "self": This Atom Feed.
   * "start": The OPDS Catalog Root.
   * "subsection": A Navigation Feed not better described by a more specific relation. 
-  * "up": The parent Navigation Feed of this Navigation Feed.
 
 These relations MAY be used by clients to provide additional or alternative navigation, both in a Navigation Feed or an Acquisition Feed.
 
@@ -359,18 +349,11 @@ If an OPDS Catalog Entry includes both "atom:content" and "atom:summary", the "a
 
 OPDS Catalog Entry Documents SHOULD include links to related Resources. This specification defines new relations for linking from OPDS Catalog Entry Documents. They are defined in the Sections Acquisition Relations and Artwork Relations.
 
-The following relations are derived from `[DRAFT-Web-Linking]`, with some clarification:
-
-  * "alternate": Identifies a Resource that describes this Publication in another format.
-  * "copyright": Refers to a copyright statement that applies to this OPDS Catalog Entry.
-  * "latest-version": Refers to a more recent version of the Publication described by this OPDS Catalog Entry.
-  * "license": Refers to a license associated with this OPDS Catalog Entry.
-  * "related": Refers to a similar OPDS Catalog Entry.
-  * "replies ": Refers to a comment on or discussion of this OPDS Catalog Entry.
+OPDS Catalog providers are encouraged to use relations from `[DRAFT-Web-Linking]` inside OPDS Catalog Entry Documents where appropriate.
 
 === Acquisition Relations ===
 
-Acquisition relations describe the extent of the content referred to by an Acquisition Link or the manner in which that Resource may be acquired. This specification defines six acquisition relations, which all begin with "http://opds-spec.org/acquisition": 
+Acquisition relations describe the extent of the content referred to by an Acquisition Link or the manner in which that Resource may be acquired. This specification defines six Acquisition Relations, which all begin with "http://opds-spec.org/acquisition": 
 
   * "http://opds-spec.org/acquisition": A generic relation that indicates that the complete representation of the content Resource may be retrieved.
   * "http://opds-spec.org/acquisition/open-access": Indicates that the complete representation of the Resource can be retrieved without any requirement, which includes payment and registration.
@@ -381,16 +364,14 @@ Acquisition relations describe the extent of the content referred to by an Acqui
 
 === Artwork Relations ===
 
-OPDS Catalog Entries MAY include atom:links to images that provide a visual representation of the Publication. For many Publications, these images will be the Publication's artwork. These atom:links MUST use one of the following relations for these images:
+OPDS Catalog Entries MAY include atom:links to images that provide a visual representation of the Publication. For many Publications, these images will be the Publication's artwork. This specification defines two Artwork Relations, which begin with "http://opds-spec.org/image":
 
   * "http://opds-spec.org/image": a generic relationship to indicate that a graphical Resource associated to the OPDS Catalog Entry
   * "http://opds-spec.org/image/thumbnail": a version of the image suitable for presentation at a small size
 
-More than one atom:link with either relation SHOULD NOT be provided for a single OPDS Catalog Entry.
-
 The maximum size of the longest dimension of http://opds-spec.org/image/thumbnail images SHOULD be 120 pixels.
 
-The atom:links with these relations MUST include at least one link with a type attribute of "image/gif", "image/jpeg", or "image/png" and the image Resources MUST be in GIF, JPEG, or PNG format.
+The atom:links with these relations SHOULD include at least one link with a type attribute of "image/gif", "image/jpeg", or "image/png" and the image Resources MUST be in GIF, JPEG, or PNG format.
 
 Additional atom:links MAY also include additional resources using a vector-based format.
 

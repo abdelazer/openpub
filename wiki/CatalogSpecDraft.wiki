@@ -22,11 +22,11 @@ This document is licensed under [http://creativecommons.org/licenses/by-sa/3.0/ 
 
 = Abstract =
 
-The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publication based on Atom and HTTP. OPDS Catalogs enable the aggregation, distribution, discovery, and acquisition of electronic publication. OPDS Catalogs use existing or emergent open standards and conventions, with a priority on simplicity. 
+The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publications based on Atom and HTTP. OPDS Catalogs enable the aggregation, distribution, discovery, and acquisition of electronic publications. OPDS Catalogs use existing or emergent open standards and conventions, with a priority on simplicity. 
 
 = Introduction =
 
-The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publication based on Atom `[RFC4287]` and HTTP `[RFC2616]`. OPDS Catalogs enable available electronic publication to be:
+The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publications based on Atom `[RFC4287]` and HTTP `[RFC2616]`. OPDS Catalogs enable available electronic publications to be:
 
   * discovered, using optional search or a range of optional browsing techniques
   * acquired, using direct downloads, lending, or vending

@@ -17,10 +17,15 @@ Present: Roger, Keith, Tim, Hadrien, Peter B
 == Schedule for 1.0 ==
 
 Stable draft: 4 August
+
 Public call for comment: 4 August-17 August
+
 Schema finalized & embedded in spec: 11 August
+
 Change review call: 18 August
+
 Consensus call for final: 25 August
+
 1.0 published: 27 August
 
 == Artwork ==
@@ -65,7 +70,7 @@ Consensus call for final: 25 August
   * Keith to try to move toward "content" where possible and "publish" as a verb.
   * All: We need to review this Voss stuff: http://code.google.com/p/openpub/issues/detail?id=36
   * Keith to remove all of the OPDS Catalog Relations save "start" and "subsection"; DONE
-  * Hadrien to move the current Entry Relations & Catalog Relations clarifications out of the spec and into some other document.
+  * Hadrien to move the current Entry Relations & Catalog Relations clarifications out of the spec and into some other document.; DONE
   * Keith to remove the Entry Relations-clarifications list from the Spec and note that DRAFT-Web-Linking relations are swell.; DONE
   * Discuss Open Publishing Distribution System name change next time.
   * Hadrien will update the spec to group the OPDS Catalog Relations more meaningfully.

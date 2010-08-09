@@ -131,21 +131,39 @@ For further details on limiting the size of Acquisition Feeds through pagination
 
 == OPDS Catalog Relations ==
 
-OPDS Catalog Feed Documents SHOULD include links to other available Acquisition and Navigation Feeds and other related Resources to encourage independent navigation. This specification defines six new relations for linking from OPDS Catalog Feed Documents at the atom:feed level:
+OPDS Catalog Feed Documents SHOULD include links to other available Acquisition and Navigation Feeds and other related Resources to encourage independent navigation.
 
-  * "http://opds-spec.org/shelf": A Resource that includes a user's existing set of Acquired Content, which MAY be represented as an OPDS Catalog.
-  * "http://opds-spec.org/crawlable": A complete OPDS Catalog in a single, unpaged atom:feed. See Complete Acquisition Feeds.
-  * "http://opds-spec.org/sort/featured": An Acquisition Feed with featured OPDS Catalog Entries.
-  * "http://opds-spec.org/sort/new": An Acquisition Feed with newly released OPDS Catalog Entries.
-  * "http://opds-spec.org/sort/popular": An Acquisition Feed with popular OPDS Catalog Entries.
-  * "http://opds-spec.org/subscriptions": A Resource that includes a user's set of subscriptions, which MAY be represented as an OPDS Catalog.
+These relations MAY be used by clients to provide additional or alternative navigation, both in a Navigation Feed or an Acquisition Feed.
 
 The following relations are derived from `[DRAFT-Web-Linking]`, with some clarification:
 
   * "start": The OPDS Catalog Root.
-  * "subsection": A Navigation Feed not better described by a more specific relation. 
+  * "subsection": A Navigation Feed not better described by a more specific relation.
 
-These relations MAY be used by clients to provide additional or alternative navigation, both in a Navigation Feed or an Acquisition Feed.
+=== Sorting Relations ===
+
+This specification defines three new relations, which all begin with "http://opds-spec.org/sort", to describe how an Acquisition Feed is sorted.
+
+  * "http://opds-spec.org/sort/featured": An Acquisition Feed with featured OPDS Catalog Entries.
+  * "http://opds-spec.org/sort/new": An Acquisition Feed with newly released OPDS Catalog Entries.
+  * "http://opds-spec.org/sort/popular": An Acquisition Feed with popular OPDS Catalog Entries.
+
+=== Relations for Previously Acquired Content ===
+
+An OPDS catalog MAY track content that was previously acquired by the user. This specification defines two new relations to identify Acquisition Feeds listing such resources:
+
+  * "http://opds-spec.org/shelf": A Resource that includes a user's existing set of Acquired Content, which MAY be represented as an OPDS Catalog.
+  * "http://opds-spec.org/subscriptions": A Resource that includes a user's set of subscriptions, which MAY be represented as an OPDS Catalog.
+
+An OPDS client MAY use these links to automatically sync content to the user's local shelf or check for periodical content updates.
+
+=== Complete Feed Relation ===
+
+For aggregation or crawling purposes, an OPDS Catalog MAY link to an Acquisition Feed containing the full list of resources available. This specification defines one new relation for this goal:
+
+  * "http://opds-spec.org/crawlable": A complete OPDS Catalog in a single, unpaged atom:feed. See Complete Acquisition Feeds.
+
+  
 
 == Search ==
 

@@ -157,11 +157,11 @@ An OPDS catalog MAY track content that was previously acquired by the user. This
 
 An OPDS client MAY use these links to automatically sync content to the user's local shelf or check for periodical content updates.
 
-=== Complete Feed Relation ===
+=== Crawlable Feed Relation ===
 
-For aggregation or crawling purposes, an OPDS Catalog MAY link to an Acquisition Feed containing the full list of resources available. This specification defines one new relation for this goal:
+For aggregation or crawling purposes, an OPDS Catalog MAY link to an optimized Acquisition Feed. This specification defines one new relation for this goal: "http://opds-spec.org/crawlable".
 
-  * "http://opds-spec.org/crawlable": A complete OPDS Catalog in a single, unpaged atom:feed. See Complete Acquisition Feeds.
+See Complete Acquisition Feeds for more information about this feed.
 
   
 

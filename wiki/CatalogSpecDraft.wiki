@@ -31,7 +31,7 @@ The Open Publication Distribution System (OPDS) Catalog format is a syndication 
   * discovered, using optional search or a range of optional browsing techniques
   * acquired, using direct downloads, lending, or vending
 
-An OPDS Catalog is a set of one or more Atom Feeds, which are themselves listings of Atom Entries. The Atom Feeds that make up all OPDS Catalogs can be divided into two groups: Navigation Feeds, which create a hierarchy for browsing, and Acquisition Feeds, which list available electronic publication. Each Atom Entry in an Acquisition Feed includes basic metadata about the publication, the publication's format, and how the publication can be acquired. These Atom Entries may have a more extensive, standalone representation outside of the version included in the Acquisition Feed at a unique URI.
+An OPDS Catalog is a set of one or more Atom Feeds, which are themselves listings of Atom Entries. The Atom Feeds that make up all OPDS Catalogs can be divided into two groups: Navigation Feeds, which create a hierarchy for browsing, and Acquisition Feeds, which list available electronic publications. Each Atom Entry in an Acquisition Feed includes basic metadata about the publication, the publication's format, and how the publication can be acquired. These Atom Entries may have a more extensive, standalone representation outside of the version included in the Acquisition Feed at a unique URI.
 
 OPDS Catalogs may be aggregated and combined into larger OPDS Catalogs.
 
@@ -667,7 +667,7 @@ application/atom+xml;type=entry;profile=opds-catalog
 
 The complete media type for a relation to an OPDS Catalog Feed Document Resource SHOULD be:
 
-application/atom+xmld;profile=opds-catalog
+application/atom+xml;profile=opds-catalog
 
 = References =
 

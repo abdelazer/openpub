@@ -170,13 +170,15 @@ See Complete Acquisition Feeds for more information about this feed.
 An OPDS Catalog MAY provide a search facility through an `[OpenSearch]` description document. Links to `[OpenSearch]` description documents MUST use the "search" relation value and the "application/opensearchdescription+xml" media type as defined in the "Autodiscovery" section of the `[OpenSearch]` specification.
 
 {{{
-<link rel="search" href="search.xml" type="application/opensearchdescription+xml"/>
+<link rel="search" 
+      href="search.xml" 
+      type="application/opensearchdescription+xml"/>
 }}}
 
 In an `[OpenSearch]` description document, the search interface SHOULD use the media type associated to OPDS Catalogs:
 {{{
 <Url type="application/atom+xml;profile=opds-catalog"
-      template="http://example.com/search?q={searchTerms}" />
+     template="http://example.com/search?q={searchTerms}" />
 }}}
 
 OPDS Catalog Feed Documents MAY include elements from the `[OpenSearch]` namespace such as "opensearch:totalResults" or "opensearch:itemsPerPage" in `[OpenSearch]` responses.
@@ -188,8 +190,12 @@ An OPDS Catalog Root that is the top of a set of Navigation Feeds references thr
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:uuid:2853dacf-ed79-42f5-8e8a-a7bb3d1ae6a2</id>
-  <link rel="self"  href="/opds-catalogs/root.xml" type="application/atom+xml;profile=opds-catalog"/>
-  <link rel="start" href="/opds-catalogs/root.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="self"  
+        href="/opds-catalogs/root.xml" 
+        type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="start" 
+        href="/opds-catalogs/root.xml" 
+        type="application/atom+xml;profile=opds-catalog"/>
   <title>OPDS Catalog Root Example</title>
   <updated>2010-01-10T10:03:10Z</updated>
   <author>
@@ -199,21 +205,27 @@ An OPDS Catalog Root that is the top of a set of Navigation Feeds references thr
 
   <entry>
     <title>Popular Publications</title>
-    <link type="application/atom+xml;profile=opds-catalog" rel="http://opds-spec.org/sort/popular" href="/opds-catalogs/popular.xml"/>
+    <link rel="http://opds-spec.org/sort/popular" 
+          href="/opds-catalogs/popular.xml"
+          type="application/atom+xml;profile=opds-catalog"/>
     <updated>2010-01-10T10:01:01Z</updated>
     <id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56e</id>
     <content type="text">Popular publications from this catalog based on downloads.</content>
   </entry>
   <entry>
     <title>New Publications</title>
-    <link type="application/atom+xml;profile=opds-catalog" rel="http://opds-spec.org/sort/new" href="/opds-catalogs/new.xml"/>
+    <link rel="http://opds-spec.org/sort/new" 
+          href="/opds-catalogs/new.xml"
+          type="application/atom+xml;profile=opds-catalog"/>
     <updated>2010-01-10T10:02:00Z</updated>
     <id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
     <content type="text">Recent publications from this catalog.</content>
   </entry>
   <entry>
     <title>Unpopular Publications</title>
-    <link type="application/atom+xml;profile=opds-catalog" rel="subsection" href="/opds-catalogs/unpopular.xml"/>
+    <link rel="subsection" 
+          href="/opds-catalogs/unpopular.xml"
+          type="application/atom+xml;profile=opds-catalog"/>
     <updated>2010-01-10T10:01:00Z</updated>
     <id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56d</id>
     <content type="text">Publications that could use some love.</content>
@@ -229,10 +241,18 @@ An Acquisition Feed listing OPDS Catalog Entries from the "Unpopular Publication
       xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:433a5d6a-0b8c-4933-af65-4ca4f02763eb</id>
 
-  <link rel="related" href="/opds-catalogs/vampire.farming.xml" type="application/atom+xml;profile=opds-catalog"/>
-  <link rel="self"    href="/opds-catalogs/unpopular.xml"       type="application/atom+xml;profile=opds-catalog"/>
-  <link rel="start"   href="/opds-catalogs/root.xml"            type="application/atom+xml;profile=opds-catalog"/>
-  <link rel="up"      href="/opds-catalogs/root.xml"            type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="related" 
+        href="/opds-catalogs/vampire.farming.xml" 
+        type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="self"    
+        href="/opds-catalogs/unpopular.xml"
+        type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="start"   
+        href="/opds-catalogs/root.xml"
+        type="application/atom+xml;profile=opds-catalog"/>
+  <link rel="up"      
+        href="/opds-catalogs/root.xml"
+        type="application/atom+xml;profile=opds-catalog"/>
 
   <title>Unpopular Publications</title>
   <updated>2010-01-10T10:01:11Z</updated>
@@ -254,21 +274,26 @@ An Acquisition Feed listing OPDS Catalog Entries from the "Unpopular Publication
     <category scheme="http://www.bisg.org/standards/bisac_subject/index.html"
               term="FIC020000"
               label="FICTION / Men's Adventure"/>
-    <summary>The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</summary>
-    <link type="image/png" rel="http://opds-spec.org/image"     href="/covers/4561.lrg.png"/>
-    <link type="image/gif" rel="http://opds-spec.org/image/thumbnail" href="/covers/4561.thmb.gif"/>
+    <summary>The story of the son of the Bob and the gallant part he played in
+      the lives of a man and a woman.</summary>
+    <link rel="http://opds-spec.org/image"     
+          href="/covers/4561.lrg.png"
+          type="image/png"/> 
+    <link rel="http://opds-spec.org/image/thumbnail" 
+          href="/covers/4561.thmb.gif"
+          type="image/gif"/>
 
-    <link type="application/atom+xml;type=entry;profile=opds-catalog" 
-          rel="alternate"
+    <link rel="alternate"
           href="/opds-catalogs/entries/4571.complete.xml"
+          type="application/atom+xml;type=entry;profile=opds-catalog" 
           title="Complete Catalog Entry for Bob, Son of Bob"/>
 
-    <link type="application/epub+zip"           
-          rel="http://opds-spec.org/acquisition" 
-          href="/content/free/4561.epub"/>
-    <link type="application/x-mobipocket-ebook" 
-          rel="http://opds-spec.org/acquisition" 
-          href="/content/free/4561.mobi"/>
+    <link rel="http://opds-spec.org/acquisition" 
+          href="/content/free/4561.epub"
+          type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" 
+          href="/content/free/4561.mobi"
+          type="application/x-mobipocket-ebook"/>
  </entry>
 
  <entry>
@@ -292,12 +317,15 @@ An Acquisition Feed listing OPDS Catalog Entries from the "Unpopular Publication
     <dc:publisher>StampMeOnline, Inc.</dc:publisher>
     <dc:language>en</dc:language>
     <dc:issued>2009-10-01</dc:issued>
-    <content type="text">The definitive reference for the web-curious philatelist.</content>
-    <link type="image/jpeg" rel="http://opds-spec.org/image" href="/covers/11241.lrg.jpg"/>
+    <content type="text">The definitive reference for the web-curious
+      philatelist.</content>
+    <link rel="http://opds-spec.org/image"     
+          href="/covers/11241.lrg.jpg"
+          type="image/jpeg"/> 
 
-    <link type="application/epub+zip"           
-          rel="http://opds-spec.org/acquisition/buy" 
-          href="/content/buy/11241.epub">
+    <link rel="http://opds-spec.org/acquisition/buy" 
+          href="/content/buy/11241.epub"
+          type="application/epub+zip">
       <opds:price currencycode="USD">18.99</opds:price>
       <opds:price currencycode="GBP">11.99</opds:price>
     </link>
@@ -415,21 +443,26 @@ An example of a Partial Catalog Entry (as would appear in an Acquisition Feed) f
     <category scheme="http://www.bisg.org/standards/bisac_subject/index.html"
               term="FIC020000"
               label="FICTION / Men's Adventure"/>
-    <summary>The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</summary>
-    <link type="image/png" rel="http://opds-spec.org/image"     href="/covers/4561.lrg.png"/>
-    <link type="image/gif" rel="http://opds-spec.org/image/thumbnail" href="/covers/4561.thmb.gif"/>
+    <summary>The story of the son of the Bob and the gallant part he played in
+      the lives of a man and a woman.</summary>
+    <link rel="http://opds-spec.org/image"     
+          href="/covers/4561.lrg.png"
+          type="image/png"/> 
+    <link rel="http://opds-spec.org/image/thumbnail" 
+          href="/covers/4561.thmb.gif"
+          type="image/gif"/>
 
-    <link type="application/atom+xml;type=entry;profile=opds-catalog" 
-          rel="alternate"
+    <link rel="alternate"
           href="/opds-catalogs/entries/4571.complete.xml"
+          type="application/atom+xml;type=entry;profile=opds-catalog" 
           title="Complete Catalog Entry for Bob, Son of Bob"/>
 
-    <link type="application/epub+zip"           
-          rel="http://opds-spec.org/acquisition" 
-          href="/content/free/4561.epub"/>
-    <link type="application/x-mobipocket-ebook" 
-          rel="http://opds-spec.org/acquisition" 
-          href="/content/free/4561.mobi"/>
+    <link rel="http://opds-spec.org/acquisition" 
+          href="/content/free/4561.epub"
+          type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" 
+          href="/content/free/4561.mobi"
+          type="application/x-mobipocket-ebook"/>
  </entry>
 }}}
 
@@ -450,24 +483,31 @@ The Complete Catalog Entry for the same Publication:
               term="FIC020000"
               label="FICTION / Men's Adventure"/>
 
-    <summary>The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</summary>
-    <content type="text">The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.
-      Bob begins his humble life under the wandering eye of his senile mother, but quickly learns how to escape into the wilder world.
-      Follow Bob as he uncovers his father's past and uses those lessons to improve the lives of others.</content>
+    <summary>The story of the son of the Bob and the gallant part he played in
+      the lives of a man and a woman.</summary>
+    <content type="text">The story of the son of the Bob and the gallant part
+      he played in the lives of a man and a woman. Bob begins his humble life
+      under the wandering eye of his senile mother, but quickly learns how to
+      escape into the wilder world. Follow Bob as he uncovers his father's past
+      and uses those lessons to improve the lives of others.</content>
 
-    <link type="image/png" rel="http://opds-spec.org/image"     href="/covers/4561.lrg.png"/>
-    <link type="image/gif" rel="http://opds-spec.org/image/thumbnail" href="/covers/4561.thmb.gif"/>
+    <link rel="http://opds-spec.org/image"     
+          href="/covers/4561.lrg.png"
+          type="image/png"/> 
+    <link rel="http://opds-spec.org/image/thumbnail" 
+          href="/covers/4561.thmb.gif"
+          type="image/gif"/>
 
-    <link type="application/atom+xml;type=entry;profile=opds-catalog" 
-          rel="self"
-          href="/opds-catalogs/entries/4571.complete.xml"/>
+    <link rel="self"
+          href="/opds-catalogs/entries/4571.complete.xml"
+          type="application/atom+xml;type=entry;profile=opds-catalog"/>
 
-    <link type="application/epub+zip"           
-          rel="http://opds-spec.org/acquisition" 
-          href="/content/free/4561.epub"/>
-    <link type="application/x-mobipocket-ebook" 
-          rel="http://opds-spec.org/acquisition" 
-          href="/content/free/4561.mobi"/>
+    <link rel="http://opds-spec.org/acquisition" 
+          href="/content/free/4561.epub"
+          type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" 
+          href="/content/free/4561.mobi"
+          type="application/x-mobipocket-ebook"/>
  </entry>
 }}}
 
@@ -499,10 +539,14 @@ The "atom:link" element defines a reference from an Atom Entry or Atom Feed to a
      (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
      |
      (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? &
-      dcFormat* &
       anyOPDSForeignElement* & 
       text
+
     }
+    # Modifies xsd:anyURI in XSD 1.0 to exclude ASCII characters not valid in
+    # 1.1 or IRI's without being escaped. This matches the OPDS and Atom specs,
+    # but not the non-normative atom.rnc.
+    atomUri = xsd:anyURI - xsd:string {pattern = '.*[ <>{}|^`"\\\n\r\t].*'}
 }}}
 
 The following child elements are defined by this specification:
@@ -519,8 +563,9 @@ The content of opds:price is text describing a currency value. A currency sign M
 {{{
 opdsPrice = 
   element opds:price {
-    attribute currencycode xsd:string { pattern = "[A-Z]{3}" },
-    text
+    atomCommonAttributes,
+    attribute currencycode { opdsPriceCurrencyCode },
+    ( text | anyElement )*
   }
 
 }}}
@@ -544,28 +589,28 @@ OPDS Catalog clients may only support a subset of all possible Publication media
 The simplest case is a Publication available in one format:
 
 {{{
-  <link type="video/mp4v-es" 
-        rel="http://opds-spec.org/acquisition" 
+  <link rel="http://opds-spec.org/acquisition" 
+        type="video/mp4v-es" 
         href="/content/free/4561.mp4"/>
 }}}
 
 If the Publication was available in multiple formats as unique Resources, they would simply be listed:
 
 {{{
-  <link type="application/x-mobipocket-ebook" 
-        rel="http://opds-spec.org/acquisition/borrow" 
+  <link rel="http://opds-spec.org/acquisition/borrow" 
         href="/content/borrow/4561.mobi"/>
-  <link type="application/epub+zip" 
-        rel="http://opds-spec.org/acquisition/borrow" 
+        type="application/x-mobipocket-ebook" 
+  <link rel="http://opds-spec.org/acquisition/borrow" 
         href="/content/borrow/4561.epub"/>
+        type="application/epub+zip" 
 }}}
 
 If the Publication requires payment, at least one opds:price element is required:
 
 {{{
-  <link type="audio/mpeg" 
-        rel="http://opds-spec.org/acquisition/buy"
-        href="/product/song1.mp3"> 
+  <link rel="http://opds-spec.org/acquisition/buy"
+        href="/product/song1.mp3"
+        type="audio/mpeg">
     <opds:price currencycode="USD">1.99</opds:price> 
   </link> 
 }}}
@@ -612,9 +657,15 @@ Multiple links to OPDS Catalog Resources MAY be expressed in a single HTML docum
 
 An example of two links inside an HTML page about the same Publication:
 {{{
-<link rel="related"   type="application/atom+xml;profile=opds-catalog"  href="/opds-catalogs/root" title="Example OPDS Catalog" /> 
+<link rel="related"   
+      href="/opds-catalogs/root" 
+      type="application/atom+xml;profile=opds-catalog"  
+      title="Example OPDS Catalog" /> 
 
-<link rel="alternate" type="application/atom+xml;type=entry;profile=opds-catalog" href="/entry/1"            title="Example OPDS Entry" /> 
+<link rel="alternate" 
+      href="/entry/1"
+      type="application/atom+xml;type=entry;profile=opds-catalog" 
+      title="Example OPDS Entry" /> 
 }}}
 
 Auto-discovery links MAY also be expressed using HTTP headers as defined in `[DRAFT-Web-Linking]`.
@@ -713,16 +764,122 @@ This appendix is informative.
 
 The RELAX NG schema explicitly excludes elements in the OPDS Catalog namespace that are not defined in this revision of the specification. Requirements for Atom Protocol processors encountering such markup are given in Sections 6.2 and 6.3 of `[RFC4287]`.
 
-TODO
-
-The Schema for OPDS Catalog Feed Documents:
+The Schema for OPDS Catalog Feed & Entry Documents:
 {{{
-# -*- rnc -*- # RELAX NG Compact Syntax Grammar for OPDS Catalog Feed Documents:
-}}}
-http://openpub.googlecode.com/svn/trunk/schemas/opds_catalog_feed.rnc
+# -*- rnc -*- 
+# RELAX NG Compact Syntax Grammar for OPDS Catalog Feed & Entry Documents
+# Version 2010-08-11
+namespace atom = "http://www.w3.org/2005/Atom"
+namespace opds = "http://opds-spec.org/2010/catalog"
+namespace local = ""
 
-The Schema for OPDS Catalog Entry Documents:
-{{{
-# -*- rnc -*- # RELAX NG Compact Syntax Grammar for OPDS Catalog Entry Documents:
+# This is used to describe an atomLink whose rel value is an atomNCName
+# (no-colon name) or any URI other than these from OPDS. In these cases, no
+# opds:price element should appear.
+atomUriExceptOPDS = string - ( string "http://opds-spec.org/acquisition/buy"
+                           | string "http://opds-spec.org/acquisition/borrow"
+                           | string "http://opds-spec.org/acquisition/subscribe"
+                           | string "http://opds-spec.org/acquisition/sample" )
+
+# This is used to describe an atomLink whose rel value is from OPDS but is not
+# ".../acquisition/buy". In such cases, an opds:price element is optional.
+OPDSUrisExceptBuy = string "http://opds-spec.org/acquisition/borrow"
+                  | string "http://opds-spec.org/acquisition/subscribe"
+                  | string "http://opds-spec.org/acquisition/sample"
+
+# Instead of using Schematron to assert that any atom:link with a rel value of
+# ".../acquisition/buy" must be accompanied by one or more opds:price elements, here the
+# situation is described as one of three situations:
+# - the rel value is ".../acquisition/buy" and at least one opds:price element is required
+# - the rel value is ".../acquisition/borrow" or ".../acquisition/subscribe" or
+#   ".../acquisition/sample", in case opds:price elements may be
+#   included; or
+# - the value of the rel attribute is any other URI or an Atom-defined no-colon
+#   name, and no opds:price element is permitted
+
+# Note that this schema includes the atom.rnc schema, so that schema must be
+# present for validation.
+# Note also that atom.rnc defines atomUri as text and not as xsd:anyURI, and so
+# wherever the Atom spec requires an IRI, the schema will not check the value
+# against any URI pattern or logic. Probably we want to change this for the
+# OPDS schema, perhaps using XSD v1.1.
+include "atom.rnc" {
+  atomLink =
+    element atom:link {
+      atomCommonAttributes &
+      attribute href { atomUri } &
+      attribute type { atomMediaType }? &
+      attribute hreflang { atomLanguageTag }? &
+      attribute title { text }? &
+      attribute length { text }? &
+     ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
+     |
+     (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
+     |
+     (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? &
+      anyOPDSForeignElement* & 
+      text
+
+    }
+    # Modifies xsd:anyURI in XSD 1.0 to exclude ASCII characters not valid in
+    # 1.1 or IRI's without being escaped. This matches the OPDS and Atom specs,
+    # but not the non-normative atom.rnc.
+    atomUri = xsd:anyURI - xsd:string {pattern = '.*[ <>{}|^`"\\\n\r\t].*'}
+}
+
+
+anyOPDSForeignElement =
+  element * - ( atom:* | opds:* ) {
+      ( attribute * { text }
+      | text
+      | anyElement )*
+  }
+
+# This is defined very loosely, presumably as a placeholder. Possibly we want
+# to restrict this to digits (Unicode characters other than roman 0-9 too?)
+# and symbols representing the decimal point. A note should be added
+# concerning use of ISO4127 3-letter currency codes and not permitting
+# currency symbols
+opdsPrice = 
+  element opds:price {
+    atomCommonAttributes,
+    attribute currencycode { opdsPriceCurrencyCode },
+    ( text | anyElement )*
+  }
+
+#  This definition enumerates all legitimate values for currency codes under ISO4217, as of 2010-07-22
+opdsPriceCurrencyCode =  (   
+  "AED" | "AFN" | "ALL" | "AMD" | "ANG" | "AOA" | "ARS" | "AUD" | "AWG" | "AZN" | "BAM" | "BBD" | "BDT" | 
+  "BGN" | "BHD" | "BIF" | "BMD" | "BND" | "BOB" | "BOV" | "BRL" | "BSD" | "BTN" | "BWP" | "BYR" | "BZD" | 
+  "CAD" | "CDF" | "CHE" | "CHF" | "CHW" | "CLF" | "CLP" | "CNY" | "COP" | "COU" | "CRC" | "CUC" | "CUP" | 
+  "CVE" | "CZK" | "DJF" | "DKK" | "DOP" | "DZD" | "EEK" | "EGP" | "ERN" | "ETB" | "EUR" | "FJD" | "FKP" | 
+  "GBP" | "GEL" | "GHS" | "GIP" | "GMD" | "GNF" | "GTQ" | "GYD" | "HKD" | "HNL" | "HRK" | "HTG" | "HUF" | 
+  "IDR" | "ILS" | "INR" | "IQD" | "IRR" | "ISK" | "JMD" | "JOD" | "JPY" | "KES" | "KGS" | "KHR" | "KMF" | 
+  "KPW" | "KRW" | "KWD" | "KYD" | "KZT" | "LAK" | "LBP" | "LKR" | "LRD" | "LSL" | "LTL" | "LVL" | "LYD" | 
+  "MAD" | "MDL" | "MGA" | "MKD" | "MMK" | "MNT" | "MOP" | "MRO" | "MUR" | "MVR" | "MWK" | "MXN" | "MXV" | 
+  "MYR" | "MZN" | "NAD" | "NGN" | "NIO" | "NOK" | "NPR" | "NZD" | "OMR" | "PAB" | "PEN" | "PGK" | "PHP" | 
+  "PKR" | "PLN" | "PYG" | "QAR" | "RON" | "RSD" | "RUB" | "RWF" | "SAR" | "SBD" | "SCR" | "SDG" | "SEK" | 
+  "SGD" | "SHP" | "SLL" | "SOS" | "SRD" | "STD" | "SVC" | "SYP" | "SZL" | "THB" | "TJS" | "TMT" | "TND" | 
+  "TOP" | "TRY" | "TTD" | "TWD" | "TZS" | "UAH" | "UGX" | "USD" | "USN" | "USS" | "UYI" | "UYU" | "UZS" | 
+  "VEF" | "VND" | "VUV" | "WST" | "XAF" | "XAG" | "XAU" | "XBA" | "XBB" | "XBC" | "XBD" | "XCD" | "XDR" | 
+  "XFU" | "XOF" | "XPD" | "XPF" | "XPT" | "XTS" | "XXX" | "YER" | "ZAR" | "ZMK" | "ZWL" | "008" | "012" | 
+  "032" | "036" | "044" | "048" | "050" | "051" | "052" | "060" | "064" | "068" | "072" | "084" | "090" | 
+  "096" | "104" | "108" | "116" | "124" | "132" | "136" | "144" | "152" | "156" | "170" | "174" | "188" | 
+  "191" | "192" | "203" | "208" | "214" | "222" | "230" | "232" | "233" | "238" | "242" | "262" | "270" | 
+  "292" | "320" | "324" | "328" | "332" | "340" | "344" | "348" | "352" | "356" | "360" | "364" | "368" | 
+  "376" | "388" | "392" | "398" | "400" | "404" | "408" | "410" | "414" | "417" | "418" | "422" | "426" | 
+  "428" | "430" | "434" | "440" | "446" | "454" | "458" | "462" | "478" | "480" | "484" | "496" | "498" | 
+  "504" | "512" | "516" | "524" | "532" | "533" | "548" | "554" | "558" | "566" | "578" | "586" | "590" | 
+  "598" | "600" | "604" | "608" | "634" | "643" | "646" | "654" | "678" | "682" | "690" | "694" | "702" | 
+  "704" | "706" | "710" | "748" | "752" | "756" | "760" | "764" | "776" | "780" | "784" | "788" | "800" | 
+  "807" | "818" | "826" | "834" | "840" | "858" | "860" | "882" | "886" | "894" | "901" | "931" | "932" | 
+  "934" | "936" | "937" | "938" | "940" | "941" | "943" | "944" | "946" | "947" | "948" | "949" | "950" | 
+  "951" | "952" | "953" | "955" | "956" | "957" | "958" | "959" | "960" | "961" | "962" | "963" | "964" | 
+  "968" | "969" | "970" | "971" | "972" | "973" | "974" | "975" | "976" | "977" | "978" | "979" | "980" | 
+  "981" | "984" | "985" | "986" | "990" | "997" | "998" | "999"
+)
+
 }}}
-http://openpub.googlecode.com/svn/trunk/schemas/opds_catalog_entry.rnc
+
+This schema is also maintained in version control: http://openpub.googlecode.com/svn/trunk/schemas/opds_catalog_feed.rnc
+

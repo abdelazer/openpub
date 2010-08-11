@@ -299,6 +299,7 @@ An Acquisition Feed listing OPDS Catalog Entries from the "Unpopular Publication
           rel="http://opds-spec.org/acquisition/buy" 
           href="/content/buy/11241.epub">
       <opds:price currencycode="USD">18.99</opds:price>
+      <opds:price currencycode="GBP">11.99</opds:price>
     </link>
  </entry>
 </feed>
@@ -493,9 +494,9 @@ The "atom:link" element defines a reference from an Atom Entry or Atom Feed to a
       attribute hreflang { atomLanguageTag }? &
       attribute title { text }? &
       attribute length { text }? &
-     ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice )
+     ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
      |
-     (attribute rel { OPDSUrisExceptBuy }, opdsPrice?)
+     (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
      |
      (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? &
       dcFormat* &
@@ -506,14 +507,14 @@ The "atom:link" element defines a reference from an Atom Entry or Atom Feed to a
 
 The following child elements are defined by this specification:
 
-  * atom:link elements with a rel attribute value of "http://opds-spec.org/acquisition/buy" MUST contain one opds:price element.
-  * atom:link elements with a rel attribute of "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample" MAY contain one opds:price element.
+  * atom:link elements with a rel attribute value of "http://opds-spec.org/acquisition/buy" MUST contain at least one opds:price element.
+  * atom:link elements with a rel attribute of "http://opds-spec.org/acquisition/borrow", "http://opds-spec.org/acquisition/subscribe", or "http://opds-spec.org/acquisition/sample" MAY contain one or more opds:price elements.
 
 === The "opds:price" Element ===
 
-The "opds:price" element represents the acquisition price of an individual Publication in a particular format from a particular provider. This element can appear as a child of the atom:link element (in OPDS Catalog Entry Documents). 
+The "opds:price" element represents the acquisition price in a particular currency of an individual Publication in a particular format from a particular provider. This element can appear as a child of the atom:link element (in OPDS Catalog Entry Documents). 
 
-The content of opds:price is text describing a currency value.
+The content of opds:price is text describing a currency value. A currency sign MUST NOT be included.
 
 {{{
 opdsPrice = 
@@ -559,7 +560,7 @@ If the Publication was available in multiple formats as unique Resources, they w
         href="/content/borrow/4561.epub"/>
 }}}
 
-If the Publication requires payment, an opds:price element is required:
+If the Publication requires payment, at least one opds:price element is required:
 
 {{{
   <link type="audio/mpeg" 

@@ -21,7 +21,7 @@ class TestOPDSCatalogEntrySchema(object):
     def setup(self):
         self.testfiles_dir = os.path.join(os.path.dirname(__file__), 'files')
         self.schemas_dir = os.path.join(os.path.dirname(__file__), '..')
-        self.schema_fn = os.path.join(self.schemas_dir, 'opds_catalog_entry.rng')
+        self.schema_fn = os.path.join(self.schemas_dir, 'opds_catalog.rng')
         self.validator = helper.RelamesValidator(self.schema_fn)
 
     def test_xml_entry_files_pass_smoke(self):

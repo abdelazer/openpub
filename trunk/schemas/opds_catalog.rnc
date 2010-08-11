@@ -1,33 +1,38 @@
 namespace atom = "http://www.w3.org/2005/Atom"
-namespace dc = "http://purl.org/dc/terms/"
 namespace opds = "http://opds-spec.org/2010/catalog"
 namespace s = "http://www.ascc.net/xml/schematron"
 namespace local = ""
 
-#  This is used to describe an atomLink whose rel value is an atomNCName (no-colon name) 
-#  or any URI other than these from OPDS. In these cases, no opds:price element should appear
+# This is used to describe an atomLink whose rel value is an atomNCName
+# (no-colon name) or any URI other than these from OPDS. In these cases, no
+# opds:price element should appear.
 atomUriExceptOPDS = string - ( string "http://opds-spec.org/acquisition/buy"
                            | string "http://opds-spec.org/acquisition/borrow"
                            | string "http://opds-spec.org/acquisition/subscribe"
                            | string "http://opds-spec.org/acquisition/sample" )
 
-#  This is used to describe an atomLink whose rel value is from OPDS but is not ".../acquisition/buy" 
-#  In such cases, an opds:price element is optional
+# This is used to describe an atomLink whose rel value is from OPDS but is not
+# ".../acquisition/buy". In such cases, an opds:price element is optional.
 OPDSUrisExceptBuy = string "http://opds-spec.org/acquisition/borrow"
                   | string "http://opds-spec.org/acquisition/subscribe"
                   | string "http://opds-spec.org/acquisition/sample"
 
-#  Instead of using Schematron to assert that any atom:link with a rel value of ".../acquisition/buy" must be
-#  accompanied by an opds:price element, here the situation is described as one of three situations:
-#  - the rel value is ".../acquisition/buy" and an opds:price element is required
-#  - the rel value is ".../acquisition/borrow" or ".../acquisition/subscribe" or ".../acquisition/sample", in
-#    case a single opds:price element may be included; or
-#  - the value of the rel attribute is any other URI or an Atom-defined no-colon name, and no opds:price element is permitted
+# Instead of using Schematron to assert that any atom:link with a rel value of
+# ".../acquisition/buy" must be accompanied by one or more opds:price elements, here the
+# situation is described as one of three situations:
+# - the rel value is ".../acquisition/buy" and at least one opds:price element is required
+# - the rel value is ".../acquisition/borrow" or ".../acquisition/subscribe" or
+#   ".../acquisition/sample", in case opds:price elements may be
+#   included; or
+# - the value of the rel attribute is any other URI or an Atom-defined no-colon
+#   name, and no opds:price element is permitted
 
-#  Note that this schema includes the atom.rnc schema, so that schema must be present for validation
-#  Note also that atom.rnc defines atomUri as text and not as xsd:anyURI, and so wherever the Atom spec
-#  requires an IRI, the schema will not check the value against any URI pattern or logic
-#  Probably we want to change this for the OPDS schema, perhaps using XSD v1.1
+# Note that this schema includes the atom.rnc schema, so that schema must be
+# present for validation.
+# Note also that atom.rnc defines atomUri as text and not as xsd:anyURI, and so
+# wherever the Atom spec requires an IRI, the schema will not check the value
+# against any URI pattern or logic. Probably we want to change this for the
+# OPDS schema, perhaps using XSD v1.1.
 include "atom.rnc" {
   atomLink =
     element atom:link {
@@ -37,40 +42,34 @@ include "atom.rnc" {
       attribute hreflang { atomLanguageTag }? &
       attribute title { text }? &
       attribute length { text }? &
-     ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice )
+     ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
      |
-     (attribute rel { OPDSUrisExceptBuy }, opdsPrice?)
+     (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
      |
      (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? &
-      dcFormat* &
       anyOPDSForeignElement* & 
       text
 
     }
-    # Modifies xsd:anyURI in XSD 1.0 to exclude ASCII characters not valid in 1.1 or IRI's without being escaped
-    #  This matches the OPDS and Atom specs, but not the non-normative atom.rnc 
+    # Modifies xsd:anyURI in XSD 1.0 to exclude ASCII characters not valid in
+    # 1.1 or IRI's without being escaped. This matches the OPDS and Atom specs,
+    # but not the non-normative atom.rnc.
     atomUri = xsd:anyURI - xsd:string {pattern = '.*[ <>{}|^`"\\\n\r\t].*'}
 }
 
 
-start = atomEntry
-
 anyOPDSForeignElement =
-  element * - ( atom:* | opds:* | dc:format ) {
+  element * - ( atom:* | opds:* ) {
       ( attribute * { text }
       | text
       | anyElement )*
   }
 
-dcFormat = 
-  element dc:format {
-    atomCommonAttributes,
-    ( text | anyElement )*
-  }    
-
-#  This is defined very loosely, presumably as a placeholder.
-#  Possibly we want to restrict this to digits (Unicode characters other than roman 0-9 too?) and symbols representing the decimal point
-#  A note should be added concerning use of ISO4127 3-letter currency codes and not permitting currency symbols
+# This is defined very loosely, presumably as a placeholder. Possibly we want
+# to restrict this to digits (Unicode characters other than roman 0-9 too?)
+# and symbols representing the decimal point. A note should be added
+# concerning use of ISO4127 3-letter currency codes and not permitting
+# currency symbols
 opdsPrice = 
   element opds:price {
     atomCommonAttributes,

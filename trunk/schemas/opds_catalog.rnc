@@ -3,7 +3,6 @@
 # Version 2010-08-11
 namespace atom = "http://www.w3.org/2005/Atom"
 namespace opds = "http://opds-spec.org/2010/catalog"
-namespace s = "http://www.ascc.net/xml/schematron"
 namespace local = ""
 
 # This is used to describe an atomLink whose rel value is an atomNCName

@@ -103,7 +103,7 @@ OPDS Catalog Feed Documents are Atom `[RFC4287]` Feeds. They serve two purposes:
   * To create a browseable hierarchy of other OPDS Catalog Feed Documents and other Resources. These OPDS Catalog Feed Documents are referred to as Navigation Feeds.
   * To collect a set of OPDS Catalog Entries. These OPDS Catalog Feed Documents are referred to as Acquisition Feeds.
 
-While Navigation Feeds do provide a suggested hierarchy from the OPDS Catalog publisher, OPDS Catalog Feed Documents MAY contain other relations that allow for other methods of consumption and display.
+While Navigation Feeds do provide a suggested hierarchy from the OPDS Catalog publisher, OPDS Catalog Feed Documents MAY contain other relations that allow for other methods of consumption and display. See the Section OPDS Catalog Relations for more detail.
 
 Every OPDS Catalog Feed Document MUST either be an Acquisition Feed or a Navigation Feed. An Acquisition Feed can be identified by the presence of Acquisition Links in each Atom Entry.
 
@@ -119,7 +119,7 @@ Each OPDS Catalog Feed Document SHOULD contain an atom:link element with a link 
 
 A Navigation Feed is an OPDS Catalog Feed Document whose Atom Entries serve to create a suggested hierarchy for presentation and browsing. A Navigation Feed MUST NOT contain OPDS Catalog Entries but instead contains Atom Entries that link to other Navigation or Acquisition Feeds or other Resources. Each Atom Entry's atom:content SHOULD include a brief description of the linked Resource.
 
-Links to Navigation Feeds SHOULD use the type attribute "application/atom+xml;profile=opds-catalog". OPDS Catalog providers should choose the best relation for each Navigation Feed based on the relations in OPDS Catalog Relations. The relation "subsection" SHOULD be used if no other relation is more appropriate.
+Links to Navigation Feeds SHOULD use the type attribute "application/atom+xml;profile=opds-catalog". OPDS Catalog providers SHOULD choose the best relation for each Navigation Feed based on the relations in the section OPDS Catalog Relations. The relation "subsection" SHOULD be used if no other relation is more appropriate.
 
 == Acquisition Feeds ==
 
@@ -142,7 +142,7 @@ The following relations are derived from `[DRAFT-Web-Linking]`, with some clarif
 
 === Sorting Relations ===
 
-This specification defines three new relations, which all begin with "http://opds-spec.org/sort", to describe how an Acquisition Feed is sorted.
+This specification defines three new relations, which all begin with "http://opds-spec.org/sort", to describe how an Acquisition Feed is sorted. These relations SHOULD be used when creating Navigation Feeds and the OPDS Catalog Root.
 
   * "http://opds-spec.org/sort/featured": An Acquisition Feed with featured OPDS Catalog Entries.
   * "http://opds-spec.org/sort/new": An Acquisition Feed with newly released OPDS Catalog Entries.

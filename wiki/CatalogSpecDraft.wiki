@@ -31,7 +31,7 @@ The Open Publication Distribution System (OPDS) Catalog format is a syndication 
   * discovered, using optional search or a range of optional browsing techniques
   * acquired, using direct downloads, lending, or vending
 
-An OPDS Catalog is a set of one or more Atom Feeds, which are themselves listings of Atom Entries. The Atom Feeds that make up all OPDS Catalogs can be divided into two groups: Navigation Feeds, which create a hierarchy for browsing, and Acquisition Feeds, which list available electronic publications. Each Atom Entry in an Acquisition Feed includes basic metadata about the publication, the publication's format, and how the publication can be acquired. These Atom Entries may have a more extensive, standalone representation outside of the version included in the Acquisition Feed at a unique URI.
+An OPDS Catalog is a set of one or more Atom Feeds, which are themselves listings of Atom Entries. The Atom Feeds that make up all OPDS Catalogs can be divided into two groups: Navigation Feeds, which create a hierarchy for browsing, and Acquisition Feeds, which list available electronic publications. Each Atom Entry in an Acquisition Feed includes basic metadata about the publication, the publication's format, and how the publication can be acquired. These included Atom Entries may be minimal subsets of the complete metadata, with a link to a more extensive, standalone representation URI (see the Section Listing Acquisition Feeds for more).
 
 OPDS Catalogs may be aggregated and combined into larger OPDS Catalogs.
 
@@ -59,7 +59,7 @@ The following terminology is used by this specification:
   * Acquisition Link -- An atom:link element with a relation that begins with "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described Publication or the Resource through which it may be acquired for any OPDS Catalog Entry. See the Sections Acquisition Relations and Acquiring Publications. They are serialized as OPDS Catalog Feed Documents.
   * Complete Catalog Entry -- An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry.
   * IRI -- An Internationalized Resource Identifier as defined in `[RFC3987]`. 
-  * Navigation Feed -- An Atom Feed whose Atom Entries are not OPDS Catalog Entries but instead link to other Navigation Feeds, Acquisition Feeds, or other Resources to establish a hierarchical, browseable presentation of the OPDS Catalog. They are serialized as OPDS Catalog Feed Documents.
+  * Navigation Feed -- An Atom Feed whose Atom Entries are not OPDS Catalog Entries but instead links to other Navigation Feeds, Acquisition Feeds, or other Resources to establish a hierarchical, browseable presentation of the OPDS Catalog. 
   * OPDS Catalog -- All of the Atom Feeds (Acquisition and Navigation) and Entries (Partial and Complete) following this specification published together to describe a consolidated group of available Publications.
   * OPDS Catalog Entry -- An Atom Entry that provides a representation of an available Publication and includes an Acquisition Link. They are serialized as OPDS Catalog Entry Documents.
   * OPDS Catalog Entry Document -- The formal name for the XML documents that are the a refinement of an "atom:entry" from the Atom Syndication Format `[RFC4287]` that this specification defines.
@@ -117,7 +117,7 @@ Each OPDS Catalog Feed Document SHOULD contain an atom:link element with a link 
 
 == Navigation Feeds ==
 
-A Navigation Feed is an OPDS Catalog Feed Document whose Atom Entries serve to create a suggested hierarchy for presentation and browsing. A Navigation Feed MUST NOT contain OPDS Catalog Entries but instead contains basic Atom Entries that link to other Navigation or Acquisition Feeds or other Resources. Each Atom Entry's atom:content SHOULD include a brief description of the linked Resource.
+A Navigation Feed is an OPDS Catalog Feed Document whose Atom Entries serve to create a suggested hierarchy for presentation and browsing. A Navigation Feed MUST NOT contain OPDS Catalog Entries but instead contains Atom Entries that link to other Navigation or Acquisition Feeds or other Resources. Each Atom Entry's atom:content SHOULD include a brief description of the linked Resource.
 
 Links to Navigation Feeds SHOULD use the type attribute "application/atom+xml;profile=opds-catalog". OPDS Catalog providers should choose the best relation for each Navigation Feed based on the relations in OPDS Catalog Relations. The relation "subsection" SHOULD be used if no other relation is more appropriate.
 
@@ -629,13 +629,13 @@ Clients MUST NOT assume that an OPDS Catalog Entry returned in the Acquisition F
 
 == Complete Acquisition Feeds ==
 
-An OPDS Catalog provider MAY provide a single, consolidated Acquisition Feed that includes the complete representation of every unique OPDS Catalog Entry Document in an OPDS Catalog in a single, unpaged atom:feed to faciliate crawling and aggregation. 
+An OPDS Catalog provider MAY provide a single, consolidated Acquisition Feed that includes the complete representation of every unique OPDS Catalog Entry Document in an OPDS Catalog in an atom:feed to faciliate crawling and aggregation. Complete Acquisition Feeds SHOULD NOT be paginated unless they are extremely large.
 
 This representation is called a Complete Acquisition Feed and each OPDS Catalog Entry MUST be ordered by atom:updated, with the most recently updated Atom Entries coming first in the document order. 
 
 If available, each OPDS Catalog Feed Document in the OPDS Catalog SHOULD contain an atom:link element with a the relation of "http://opds-spec.org/crawlable" that references the Complete Acquisition Feed Resource. 
 
-A Complete Acquisition Feed MUST include a fh:complete element from `[RFC5005]`. See Section 2 of `[RFC5005]` for the specification of the fh:complete element. 
+A Complete Acquisition Feed MUST include a fh:complete element from `[RFC5005]` unless pagination is required. See Section 2 of `[RFC5005]` for the specification of the fh:complete element. 
 
 OPDS Catalog providers SHOULD use a compressed Content-Encoding when transmitting Complete Acquisition Feeds over HTTP. See Section 14.11 of `[RFC2616]` for more on compression.
 

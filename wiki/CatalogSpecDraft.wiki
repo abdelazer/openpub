@@ -781,41 +781,49 @@ The Schema for OPDS Catalog Feed & Entry Documents:
 {{{
 # -*- rnc -*- 
 # RELAX NG Compact Syntax Grammar for OPDS Catalog Feed & Entry Documents
-# Version 2010-08-11
+# Version 2010-08-18
 namespace atom = "http://www.w3.org/2005/Atom"
 namespace opds = "http://opds-spec.org/2010/catalog"
 namespace local = ""
 
-# This is used to describe an atomLink whose rel value is an atomNCName
-# (no-colon name) or any URI other than these from OPDS. In these cases, no
+# The OPDS Catalog spec extends Atom (RFC4287), and the additions require some
+# patterns not used in the Atom schema. The first is atomUriExceptOPDS, which
+# is used to describe an atomLink whose rel value is an atomNCName (no-colon
+# name) or any URI other than these from OPDS Catalogs. In these cases, no
 # opds:price element should appear.
 atomUriExceptOPDS = string - ( string "http://opds-spec.org/acquisition/buy"
-                           | string "http://opds-spec.org/acquisition/borrow"
-                           | string "http://opds-spec.org/acquisition/subscribe"
-                           | string "http://opds-spec.org/acquisition/sample" )
+                             | string "http://opds-spec.org/acquisition/borrow"
+                             | string "http://opds-spec.org/acquisition/subscribe"
+                             | string "http://opds-spec.org/acquisition/sample" )
 
-# This is used to describe an atomLink whose rel value is from OPDS but is not
-# ".../acquisition/buy". In such cases, an opds:price element is optional.
+# Next is OPDSUrisExceptBuy, which is used to describe an atomLink whose
+# rel value is from OPDS Catalogs but is not ".../acquisition/buy". In such
+# cases, an opds:price element is optional.
 OPDSUrisExceptBuy = string "http://opds-spec.org/acquisition/borrow"
                   | string "http://opds-spec.org/acquisition/subscribe"
                   | string "http://opds-spec.org/acquisition/sample"
 
-# Instead of using Schematron to assert that any atom:link with a rel value of
-# ".../acquisition/buy" must be accompanied by one or more opds:price elements, here the
-# situation is described as one of three situations:
-# - the rel value is ".../acquisition/buy" and at least one opds:price element is required
+# To simplify OPDS Catalog validation, we do not use Schematron to assert that
+# any atom:link with a rel value of ".../acquisition/buy" must be accompanied
+# by one or more opds:price elements.
+# Instead we rely on Relax NG to describe one of three situations:
+# - the rel value is ".../acquisition/buy" and at least one opds:price element
+#   is required
 # - the rel value is ".../acquisition/borrow" or ".../acquisition/subscribe" or
 #   ".../acquisition/sample", in case opds:price elements may be
 #   included; or
 # - the value of the rel attribute is any other URI or an Atom-defined no-colon
 #   name, and no opds:price element is permitted
 
-# Note that this schema includes the atom.rnc schema, so that schema must be
+# Note that this OPDS Catalog schema includes atom.rnc, so that schema must be
 # present for validation.
+# 
 # Note also that atom.rnc defines atomUri as text and not as xsd:anyURI, and so
 # wherever the Atom spec requires an IRI, the schema will not check the value
-# against any URI pattern or logic. Probably we want to change this for the
-# OPDS schema, perhaps using XSD v1.1.
+# against any URI pattern or logic. The OPDS Catalog schema overrides atom.rnc
+# to provide a relatively accurate test. With the approval of XSD 1.1, the
+# schema definition should change to xsd:anyURI to match what the spec text
+# says.
 include "atom.rnc" {
   atomLink =
     element atom:link {
@@ -825,19 +833,29 @@ include "atom.rnc" {
       attribute hreflang { atomLanguageTag }? &
       attribute title { text }? &
       attribute length { text }? &
-     ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
+    ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
      |
      (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
      |
      (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? &
       anyOPDSForeignElement* & 
       text
-
     }
-    # Modifies xsd:anyURI in XSD 1.0 to exclude ASCII characters not valid in
-    # 1.1 or IRI's without being escaped. This matches the OPDS and Atom specs,
-    # but not the non-normative atom.rnc.
+
+    # Here is where OPDS Catalogs use John Cowan's pragmatic evaluation of an
+    # IRI. This modifies xsd:anyURI in XSD 1.0 to exclude ASCII characters not
+    # valid in 1.1 or IRI's without being escaped. This matches the OPDS and Atom
+    # specs, but not the non-normative atom.rnc.
     atomUri = xsd:anyURI - xsd:string {pattern = '.*[ <>{}|^`"\\\n\r\t].*'}
+
+    # Here we override Atom to account for html abuse in the summary element,
+    # restricting it in OPDS Catalog to text:
+    atomSummary = 
+      element atom:summary {
+        atomCommonAttributes,
+        attribute type { "text" },
+        text
+     }
 }
 
 
@@ -848,11 +866,8 @@ anyOPDSForeignElement =
       | anyElement )*
   }
 
-# This is defined very loosely, presumably as a placeholder. Possibly we want
-# to restrict this to digits (Unicode characters other than roman 0-9 too?)
-# and symbols representing the decimal point. A note should be added
-# concerning use of ISO4127 3-letter currency codes and not permitting
-# currency symbols
+# An opds:price element should not contain a currency symbol, although this schema
+# does not test whether the price includes non-numeric characters.
 opdsPrice = 
   element opds:price {
     atomCommonAttributes,
@@ -860,7 +875,10 @@ opdsPrice =
     ( text | anyElement )*
   }
 
-#  This definition enumerates all legitimate values for currency codes under ISO4217, as of 2010-07-22
+# Instead of allowing every possible 3-letter or 3-digit combination as a currency code,
+# here the permissible codes (as identified in ISO4217 as of 2010-08-25) are enumerated.
+# In 2012 or so, that standard may add, remove or change some currency codes, thus 
+# requiring this schema to be updated. 
 opdsPriceCurrencyCode =  (   
   "AED" | "AFN" | "ALL" | "AMD" | "ANG" | "AOA" | "ARS" | "AUD" | "AWG" | "AZN" | "BAM" | "BBD" | "BDT" | 
   "BGN" | "BHD" | "BIF" | "BMD" | "BND" | "BOB" | "BOV" | "BRL" | "BSD" | "BTN" | "BWP" | "BYR" | "BZD" | 
@@ -891,8 +909,7 @@ opdsPriceCurrencyCode =  (
   "968" | "969" | "970" | "971" | "972" | "973" | "974" | "975" | "976" | "977" | "978" | "979" | "980" | 
   "981" | "984" | "985" | "986" | "990" | "997" | "998" | "999"
 )
-
 }}}
 
-This schema is also maintained in version control: http://openpub.googlecode.com/svn/trunk/schemas/opds_catalog_feed.rnc
+This schema is also maintained in version control: http://openpub.googlecode.com/svn/trunk/schemas/opds_catalog.rnc
 

@@ -140,7 +140,7 @@ The following relations are derived from `[DRAFT-Web-Linking]`, with some clarif
   * "start": The OPDS Catalog Root.
   * "subsection": A Navigation Feed not better described by a more specific relation.
 
-When creating an OPDS Catalog with Navigation and Acquisition Feeds, OPDS Catalog providers are encouraged to use the relations defined in this specification and `[DRAFT-Web-Linking]`. If no appropriate relation is found, the Feeds SHOULD use a descriptive "atom:title" element and the "atom:links" SHOULD use a descriptive "title" attribute.
+When creating an OPDS Catalog with Navigation and Acquisition Feeds, OPDS Catalog providers are encouraged to use the relations defined in this specification and `[DRAFT-Web-Linking]`. If no appropriate relation is found, the Feeds SHOULD use a descriptive "atom:title" element and the "atom:link"s SHOULD use a descriptive "title" attribute.
 
 === Sorting Relations ===
 

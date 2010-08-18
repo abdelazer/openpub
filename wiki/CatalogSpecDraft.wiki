@@ -456,7 +456,7 @@ An example of a Partial Catalog Entry (as would appear in an Acquisition Feed) f
     <category scheme="http://www.bisg.org/standards/bisac_subject/index.html"
               term="FIC020000"
               label="FICTION / Men's Adventure"/>
-    <summary>The story of the son of the Bob and the gallant part he played in
+    <summary type="text">The story of the son of the Bob and the gallant part he played in
       the lives of a man and a woman.</summary>
     <link rel="http://opds-spec.org/image"     
           href="/covers/4561.lrg.png"
@@ -496,7 +496,7 @@ The Complete Catalog Entry for the same Publication:
               term="FIC020000"
               label="FICTION / Men's Adventure"/>
 
-    <summary>The story of the son of the Bob and the gallant part he played in
+    <summary type="text">The story of the son of the Bob and the gallant part he played in
       the lives of a man and a woman.</summary>
     <content type="text">The story of the son of the Bob and the gallant part
       he played in the lives of a man and a woman. Bob begins his humble life
@@ -848,14 +848,14 @@ include "atom.rnc" {
     # specs, but not the non-normative atom.rnc.
     atomUri = xsd:anyURI - xsd:string {pattern = '.*[ <>{}|^`"\\\n\r\t].*'}
 
-    # Here we override Atom to account for html abuse in the summary element,
+    # Here we override Atom to account for HTML abuse in the summary element,
     # restricting it in OPDS Catalog to text:
     atomSummary = 
       element atom:summary {
         atomCommonAttributes,
-        attribute type { "text" },
+        attribute type { "text" }?,
         text
-     }
+    }
 }
 
 

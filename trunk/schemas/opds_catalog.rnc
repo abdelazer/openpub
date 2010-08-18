@@ -85,19 +85,20 @@ anyOPDSForeignElement =
       | anyElement )*
   }
 
-# An opds:price element should not contain a currency symbol, although this schema
-# does not test whether the price includes non-numeric characters.
+# An opds:price element should not contain a currency symbol; it is
+# restricted to non-negative decimal numbers.
 opdsPrice = 
   element opds:price {
     atomCommonAttributes,
     attribute currencycode { opdsPriceCurrencyCode },
-    ( text | anyElement )*
+    xsd:decimal { minInclusive="0.0" } 
   }
 
-# Instead of allowing every possible 3-letter or 3-digit combination as a currency code,
-# here the permissible codes (as identified in ISO4217 as of 2010-08-25) are enumerated.
-# In 2012 or so, that standard may add, remove or change some currency codes, thus 
-# requiring this schema to be updated. 
+# Instead of allowing every possible 3-letter or 3-digit combination as a
+# currency code, here the permissible codes (as identified in ISO4217 as of
+# 2010-08-25) are enumerated. In 2012 or so, that standard may add, remove or
+# change some currency codes, thus requiring this schema to be updated. Note
+# that codes for metals and funds are not included.
 opdsPriceCurrencyCode =  (   
   "AED" | "AFN" | "ALL" | "AMD" | "ANG" | "AOA" | "ARS" | "AUD" | "AWG" | "AZN" | "BAM" | "BBD" | "BDT" | 
   "BGN" | "BHD" | "BIF" | "BMD" | "BND" | "BOB" | "BOV" | "BRL" | "BSD" | "BTN" | "BWP" | "BYR" | "BZD" | 

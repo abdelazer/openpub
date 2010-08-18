@@ -140,13 +140,22 @@ The following relations are derived from `[DRAFT-Web-Linking]`, with some clarif
   * "start": The OPDS Catalog Root.
   * "subsection": A Navigation Feed not better described by a more specific relation.
 
+When creating an OPDS Catalog with Navigation and Acquisition Feeds, OPDS Catalog providers are encouraged to use the relations defined in this specification and `[DRAFT-Web-Linking]`. If no appropriate relation is found, the Feeds SHOULD use a descriptive "atom:title" element and the "atom:links" SHOULD use a descriptive "title" attribute.
+
 === Sorting Relations ===
 
-This specification defines three new relations, which all begin with "http://opds-spec.org/sort", to describe how an Acquisition Feed is sorted. These relations SHOULD be used when creating Navigation Feeds and the OPDS Catalog Root.
+This specification defines two new relations, which begin with "http://opds-spec.org/sort", to describe how an Acquisition Feed is sorted. These relations SHOULD be used when creating Navigation Feeds and the OPDS Catalog Root, if applicable.
 
-  * "http://opds-spec.org/sort/featured": An Acquisition Feed with featured OPDS Catalog Entries.
-  * "http://opds-spec.org/sort/new": An Acquisition Feed with newly released OPDS Catalog Entries.
-  * "http://opds-spec.org/sort/popular": An Acquisition Feed with popular OPDS Catalog Entries.
+  * "http://opds-spec.org/sort/new": An Acquisition Feed with newly released OPDS Catalog Entries. These Acquisition Feeds typically contain a subset of the OPDS Catalog Entries in an OPDS Catalog based on the publication date of the Publication.
+  * "http://opds-spec.org/sort/popular": An Acquisition Feed with popular OPDS Catalog Entries. These Acquisition Feeds typically contain a subset of the OPDS Catalog Entries in an OPDS Catalog based on a numerical ranking criteria.
+
+Acquisition Feeds using the "http://opds-spec.org/sort/new" relation SHOULD be ordered with the most recent items first. Acquisition Feeds using the "http://opds-spec.org/sort/popular" relation SHOULD be ordered with the most popular items first.
+
+=== Popular Relation ===
+
+This specification also defines a relation to describe an Acquisition Feed of featured items. This relation SHOULD be used when creating Navigation Feeds and the OPDS Catalog Root, if applicable.
+
+  * "http://opds-spec.org/featured": An Acquisition Feed with featured OPDS Catalog Entries. These Acquisition Feeds typically contain a subset of the OPDS Catalog Entries in an OPDS Catalog that have been selected for promotion by the OPDS Catalog provider. No order is implied.
 
 === Relations for Previously Acquired Content ===
 

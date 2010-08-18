@@ -8,14 +8,7 @@
       <name>Bob the Recursive</name>
       <uri>http://opds-spec.org/authors/1285</uri>
     </author>
-    <dc:language>en</dc:language>
-    <dc:issued>1917</dc:issued>
-    <category scheme="http://www.bisg.org/standards/bisac_subject/index.html"
-              term="FIC020000"
-              label="FICTION / Men's Adventure"/>
-    <summary type="text">The story of the son of the Bob and the gallant part he played in the lives of a man and a woman.</summary>
-    <link type="image/png" rel="http://opds-spec.org/image"     href="/covers/4561.lrg.png"/>
-    <link type="image/gif" rel="http://opds-spec.org/image/thumbnail" href="/covers/4561.thmb.gif"/>
+    <summary>This atom:summary element has no type attribute, but that is OKAY.</summary>
 
     <link type="application/atom+xml;type=entry;profile=opds-catalog" 
           rel="alternate"
@@ -25,7 +18,4 @@
     <link type="application/epub+zip"           
           rel="http://opds-spec.org/acquisition" 
           href="/content/free/4561.epub"/>
-    <link type="application/x-mobipocket-ebook" 
-          rel="http://opds-spec.org/acquisition" 
-          href="/content/free/4561.mobi"/>
 </entry>

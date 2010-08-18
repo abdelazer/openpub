@@ -413,10 +413,10 @@ Acquisition relations describe the extent of the content referred to by an Acqui
 
 OPDS Catalog Entries MAY include atom:links to images that provide a visual representation of the Publication. For many Publications, these images will be the Publication's artwork. This specification defines two Artwork Relations, which begin with "http://opds-spec.org/image":
 
-  * "http://opds-spec.org/image": a generic relationship to indicate that a graphical Resource associated to the OPDS Catalog Entry
-  * "http://opds-spec.org/image/thumbnail": a version of the image suitable for presentation at a small size
+  * "http://opds-spec.org/image": a graphical Resource associated to the OPDS Catalog Entry
+  * "http://opds-spec.org/image/thumbnail": a reduced-size version of a graphical Resource associated to the OPS Catalog Entry
 
-The maximum size of the longest dimension of http://opds-spec.org/image/thumbnail images SHOULD be 120 pixels.
+Image resources related by http://opds-spec.org/image/thumbnail SHOULD be suitable for presentation at a small size.
 
 The atom:links with these relations SHOULD include at least one link with a type attribute of "image/gif", "image/jpeg", or "image/png" and the image Resources MUST be in GIF, JPEG, or PNG format.
 

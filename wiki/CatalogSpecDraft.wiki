@@ -117,15 +117,15 @@ Each OPDS Catalog Feed Document SHOULD contain an atom:link element with a link 
 
 == Navigation Feeds ==
 
-A Navigation Feed is an OPDS Catalog Feed Document whose Atom Entries serve to create a suggested hierarchy for presentation and browsing. A Navigation Feed MUST NOT contain OPDS Catalog Entries but instead contains Atom Entries that link to other Navigation or Acquisition Feeds or other Resources. Each Atom Entry's atom:content SHOULD include a brief description of the linked Resource.
+A Navigation Feed is an OPDS Catalog Feed Document whose Atom Entries serve to create a suggested hierarchy for presentation and browsing. A Navigation Feed MUST NOT contain OPDS Catalog Entries but instead contains Atom Entries that link to other Navigation or Acquisition Feeds or other Resources. Each Atom Entry's "atom:content" element SHOULD include a brief description of the linked Resource.
 
-Links to Navigation Feeds SHOULD use the type attribute "application/atom+xml;profile=opds-catalog". OPDS Catalog providers SHOULD choose the best relation for each Navigation Feed based on the relations in the section OPDS Catalog Relations. The relation "subsection" SHOULD be used if no other relation is more appropriate.
+Links to Navigation Feeds SHOULD use the "type" attribute "application/atom+xml;profile=opds-catalog". OPDS Catalog providers SHOULD choose the best relation for each Navigation Feed based on the relations in the section OPDS Catalog Relations. The relation "subsection" SHOULD be used if no other relation is more appropriate.
 
 == Acquisition Feeds ==
 
 An Acquisition Feed is an OPDS Catalog Feed Document that collects OPDS Catalog Entries into a single, ordered set. The simplest complete OPDS Catalog would be a single Acquisition Feed listing all of the available OPDS Catalog Entries from that provider. In more complex OPDS Catalogs, Acquisition Feeds are used to present and organize sets of related OPDS Catalog Entries for browsing and discovery by clients and aggregators. 
 
-Links to Acquisition Feeds SHOULD use the type attribute "application/atom+xml;profile=opds-catalog".
+Links to Acquisition Feeds SHOULD use the "type" attribute "application/atom+xml;profile=opds-catalog".
 
 For further details on limiting the size of Acquisition Feeds through pagination, Partial Catalog Entries, and compression, see the Section Listing Acquisition Feeds.
 
@@ -341,7 +341,7 @@ The "atom:feed" element is the document (i.e., top-level) element of an OPDS Cat
 
 The following child elements are refined by this specification:
 
-  * OPDS Catalog Feed Documents SHOULD contain one atom:link element with a rel attribute value of "self". This is the preferred URI for retrieving the atom:feed representing this OPDS Catalog Feed Document.
+  * OPDS Catalog Feed Documents SHOULD contain one atom:link element with a "rel" attribute value of "self". This is the preferred URI for retrieving the atom:feed representing this OPDS Catalog Feed Document.
 
 = OPDS Catalog Entry Documents =
 
@@ -371,7 +371,7 @@ Following Atom `[RFC4287]` Section 4.2.6, the content of an "atom:id" identifyin
 
 An OPDS Catalog Entry may be represented as either a Partial or Complete Catalog Entry. Partial Catalog Entries include only critical metadata elements to reduce the size of OPDS Catalog documents for bandwidth- and resource-limited clients and link to their alternate representation as a Complete Catalog Entries, which include all metadata elements. 
 
-A Partial Catalog Entry MUST include an "alternate" link relation referencing the Complete Catalog Entry Resource and that atom:link MUST use the type attribute "application/atom+xml;type=entry;profile=opds-catalog". 
+A Partial Catalog Entry MUST include an "alternate" link relation referencing the Complete Catalog Entry Resource and that atom:link MUST use the "type" attribute "application/atom+xml;type=entry;profile=opds-catalog". 
 
 Any OPDS Catalog Entry without a link to a Complete Catalog Entry MUST include all metadata elements.
 
@@ -388,7 +388,11 @@ OPDS Catalog providers are strongly encouraged to limit metadata elements not re
 
 == Summary and Content ==
 
-OPDS Catalog Entries SHOULD include either "atom:summary" or "atom:content" elements or both to provide a description, summary, abstract, or excerpt of the Publication. The content of an "atom:summary" element MUST be text and SHOULD NOT duplicate the content of "atom:title" or "atom:content".
+OPDS Catalog Entries use "atom:content" and "atom:summary" elements to describe a Publication. This is a distinction from Atom `[RFC4287]`, which uses "atom:content" for the "content of the entry." Instead, OPDS Catalog Entries reference an electronic document with the Publication's content using Acquisition Links. OPDS Catalog Entries SHOULD include either "atom:summary" or "atom:content" elements or both to provide a description, summary, abstract, or excerpt of the Publication. 
+
+An "atom:summary" element in an OPDS Catalog Entry MUST use a "type" attribute of "text" and the content MUST NOT contain child elements. The content of an "atom:summary" element SHOULD NOT duplicate the content of "atom:title" or "atom:content". Such text is intended to be presented to humans in a readable fashion. The restriction of the content of "atom:summary" and the "type" attribute is a restriction of Atom `[RFC4287]`.
+
+An "atom:content" element in an OPDS Catalog Entry either contains or links to a description, summary, abstract, or excerpt of the Publication. The behavior or "atomOutOfLineContent" and the "src" attribute is defined in Section 4.1.3 of `[RFC4287]`.
 
 If an OPDS Catalog Entry includes both "atom:content" and "atom:summary", the "atom:content" SHOULD NOT be included in the Partial Catalog Entry. Both elements SHOULD be included in the Complete Catalog Entry.
 

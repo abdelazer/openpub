@@ -405,6 +405,15 @@ An "atom:content" element in an OPDS Catalog Entry either contains or links to a
 
 If an OPDS Catalog Entry includes both "atom:content" and "atom:summary", the "atom:content" SHOULD NOT be included in the Partial Catalog Entry. Both elements SHOULD be included in the Complete Catalog Entry.
 
+{{{
+atomSummary = 
+  element atom:summary {
+    atomCommonAttributes,
+    attribute type { "text" }?,
+    text
+}
+}}}
+
 == Entry Relations ==
 
 OPDS Catalog Entry Documents SHOULD include links to related Resources. This specification defines new relations for linking from OPDS Catalog Entry Documents. They are defined in the Sections Acquisition Relations and Artwork Relations.
@@ -539,27 +548,28 @@ The following child elements are refined by this specification:
 The "atom:link" element defines a reference from an Atom Entry or Atom Feed to a Resource. 
 
 {{{
-  atomLink =
-    element atom:link {
-      atomCommonAttributes &
-      attribute href { atomUri } &
-      attribute type { atomMediaType }? &
-      attribute hreflang { atomLanguageTag }? &
-      attribute title { text }? &
-      attribute length { text }? &
-     ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
-     |
-     (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
-     |
-     (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? &
-      anyOPDSForeignElement* & 
-      text
+atomLink =
+  element atom:link {
+    atomCommonAttributes &
+    attribute href { atomUri } &
+    attribute type { atomMediaType }? &
+    attribute hreflang { atomLanguageTag }? &
+    attribute title { text }? &
+    attribute length { text }? &
+  ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
+    |
+    (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
+    |
+    (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? &
+    anyOPDSForeignElement* & 
+    text
+  }
 
-    }
-    # Modifies xsd:anyURI in XSD 1.0 to exclude ASCII characters not valid in
-    # 1.1 or IRI's without being escaped. This matches the OPDS and Atom specs,
-    # but not the non-normative atom.rnc.
-    atomUri = xsd:anyURI - xsd:string {pattern = '.*[ <>{}|^`"\\\n\r\t].*'}
+  # Here is where OPDS Catalogs use John Cowan's pragmatic evaluation of an
+  # IRI. This modifies xsd:anyURI in XSD 1.0 to exclude ASCII characters not
+  # valid in 1.1 or IRI's without being escaped. This matches the OPDS and Atom
+  # specs, but not the non-normative atom.rnc.
+  atomUri = xsd:anyURI - xsd:string {pattern = '.*[ <>{}|^`"\\\n\r\t].*'}
 }}}
 
 The following child elements are defined by this specification:
@@ -578,9 +588,8 @@ opdsPrice =
   element opds:price {
     atomCommonAttributes,
     attribute currencycode { opdsPriceCurrencyCode },
-    ( text | anyElement )*
+    xsd:decimal { minInclusive="0.0" } 
   }
-
 }}}
 
 ==== The "currencycode" Attribute ====
@@ -602,30 +611,30 @@ OPDS Catalog clients may only support a subset of all possible Publication media
 The simplest case is a Publication available in one format:
 
 {{{
-  <link rel="http://opds-spec.org/acquisition" 
-        type="video/mp4v-es" 
-        href="/content/free/4561.mp4"/>
+<link rel="http://opds-spec.org/acquisition" 
+      type="video/mp4v-es" 
+      href="/content/free/4561.mp4"/>
 }}}
 
 If the Publication was available in multiple formats as unique Resources, they would simply be listed:
 
 {{{
-  <link rel="http://opds-spec.org/acquisition/borrow" 
-        href="/content/borrow/4561.mobi"/>
-        type="application/x-mobipocket-ebook" 
-  <link rel="http://opds-spec.org/acquisition/borrow" 
-        href="/content/borrow/4561.epub"/>
-        type="application/epub+zip" 
+<link rel="http://opds-spec.org/acquisition/borrow" 
+      href="/content/borrow/4561.mobi"/>
+      type="application/x-mobipocket-ebook" 
+<link rel="http://opds-spec.org/acquisition/borrow" 
+      href="/content/borrow/4561.epub"/>
+      type="application/epub+zip" 
 }}}
 
 If the Publication requires payment, at least one opds:price element is required:
 
 {{{
-  <link rel="http://opds-spec.org/acquisition/buy"
-        href="/product/song1.mp3"
-        type="audio/mpeg">
-    <opds:price currencycode="USD">1.99</opds:price> 
-  </link> 
+<link rel="http://opds-spec.org/acquisition/buy"
+      href="/product/song1.mp3"
+      type="audio/mpeg">
+  <opds:price currencycode="USD">1.99</opds:price> 
+</link> 
 }}}
 
 = Feed Handling =
@@ -866,19 +875,20 @@ anyOPDSForeignElement =
       | anyElement )*
   }
 
-# An opds:price element should not contain a currency symbol, although this schema
-# does not test whether the price includes non-numeric characters.
+# An opds:price element should not contain a currency symbol; it is
+# restricted to non-negative decimal numbers.
 opdsPrice = 
   element opds:price {
     atomCommonAttributes,
     attribute currencycode { opdsPriceCurrencyCode },
-    ( text | anyElement )*
+    xsd:decimal { minInclusive="0.0" } 
   }
 
-# Instead of allowing every possible 3-letter or 3-digit combination as a currency code,
-# here the permissible codes (as identified in ISO4217 as of 2010-08-25) are enumerated.
-# In 2012 or so, that standard may add, remove or change some currency codes, thus 
-# requiring this schema to be updated. 
+# Instead of allowing every possible 3-letter or 3-digit combination as a
+# currency code, here the permissible codes (as identified in ISO4217 as of
+# 2010-08-25) are enumerated. In 2012 or so, that standard may add, remove or
+# change some currency codes, thus requiring this schema to be updated. Note
+# that codes for metals and funds are not included.
 opdsPriceCurrencyCode =  (   
   "AED" | "AFN" | "ALL" | "AMD" | "ANG" | "AOA" | "ARS" | "AUD" | "AWG" | "AZN" | "BAM" | "BBD" | "BDT" | 
   "BGN" | "BHD" | "BIF" | "BMD" | "BND" | "BOB" | "BOV" | "BRL" | "BSD" | "BTN" | "BWP" | "BYR" | "BZD" | 

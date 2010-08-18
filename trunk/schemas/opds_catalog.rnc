@@ -67,14 +67,14 @@ include "atom.rnc" {
     # specs, but not the non-normative atom.rnc.
     atomUri = xsd:anyURI - xsd:string {pattern = '.*[ <>{}|^`"\\\n\r\t].*'}
 
-    # Here we override Atom to account for html abuse in the summary element,
+    # Here we override Atom to account for HTML abuse in the summary element,
     # restricting it in OPDS Catalog to text:
     atomSummary = 
       element atom:summary {
         atomCommonAttributes,
-        attribute type { "text" },
+        attribute type { "text" }?,
         text
-     }
+    }
 }
 
 

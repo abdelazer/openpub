@@ -40,7 +40,9 @@ In this scenario, the user’s identity has been confirmed but the store is miss
 
 *Steps:* (1-5 are the same as the primary case)
  6. The store sends a 402 response (Payment required) with a Location header set towards a web page where the user can add the missing information.
+
  7. The user fills in the required information and sends it back to the server
+
  8. The store registers the new info, performs the acquisition and sends the requested file (200 OK response)
 
 

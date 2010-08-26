@@ -1,18 +1,9 @@
-﻿#summary Draft of version 1.0 of the OPDS Catalog specification. Version 0.9 has been published: http://opds-spec.org/specs/opds-catalog-0-9
+﻿#summary Draft of version 1.1 of the OPDS Catalog specification. Version 1.0 has been published: http://opds-spec.org/specs/opds-catalog-1-0
 #labels Featured,Phase-Design
-
-= 1.0 Release Schedule (Tentative) =
-
-  # Stable draft: 4 August
-  # Public call for comment: 4 August-17 August
-  # Schema finalized & embedded in spec: 11 August
-  # Change review call: 18 August
-  # Consensus call for final: 25 August
-  # 1.0 published: 27 August
 
 = Status of this Draft =
 
-This document specifies the 1.0 draft of the OPDS Catalog specification.
+This document specifies the 1.1 draft of the OPDS Catalog specification.
 
 <wiki:toc max_depth="4" />
 
@@ -924,4 +915,3 @@ opdsPriceCurrencyCode =  (
 }}}
 
 This schema is also maintained in version control: http://openpub.googlecode.com/svn/trunk/schemas/opds_catalog.rnc
-

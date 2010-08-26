@@ -59,11 +59,11 @@ The following terminology is used by this specification:
   * Acquisition Link -- An atom:link element with a relation that begins with "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described Publication or the Resource through which it may be acquired for any OPDS Catalog Entry. See the Sections Acquisition Relations and Acquiring Publications. They are serialized as OPDS Catalog Feed Documents.
   * Complete Catalog Entry -- An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry.
   * IRI -- An Internationalized Resource Identifier as defined in `[RFC3987]`. 
-  * Navigation Feed -- An Atom Feed whose Atom Entries are not OPDS Catalog Entries but instead links to other Navigation Feeds, Acquisition Feeds, or other Resources to establish a hierarchical, browseable presentation of the OPDS Catalog. 
+  * Navigation Feed -- An Atom Feed whose Atom Entries are not OPDS Catalog Entries but instead links to other Navigation Feeds, Acquisition Feeds, or other Resources to establish a hierarchical, browsable presentation of the OPDS Catalog. 
   * OPDS Catalog -- All of the Atom Feeds (Acquisition and Navigation) and Entries (Partial and Complete) following this specification published together to describe a consolidated group of available Publications.
   * OPDS Catalog Entry -- An Atom Entry that provides a representation of an available Publication and includes an Acquisition Link. They are serialized as OPDS Catalog Entry Documents.
-  * OPDS Catalog Entry Document -- The formal name for the XML documents that are the a refinement of an "atom:entry" from the Atom Syndication Format `[RFC4287]` that this specification defines.
-  * OPDS Catalog Feed Document -- The formal name for XML documents that are the refinement of an "atom:feed" from the Atom Syndication Format `[RFC4287]` that this specification defines.
+  * OPDS Catalog Entry Document -- The formal name for the XML documents that are a refinement of an "atom:entry" from the Atom Syndication Format `[RFC4287]` that this specification defines.
+  * OPDS Catalog Feed Document -- The formal name for XML documents that are a refinement of an "atom:feed" from the Atom Syndication Format `[RFC4287]` that this specification defines.
   * OPDS Catalog Root -- The Atom Feed that represents either the complete OPDS Catalog (a single Acquisition Feed) or the Atom Feed that starts a set of Navigation Feeds. External links to the OPDS Catalog SHOULD reference the OPDS Catalog Root Resource.
   * Partial Catalog Entry --- An OPDS Catalog Entry that includes the minimal required metadata about the described Publication but no other metadata and links to the Complete Catalog Entry. 
   * Publication - An electronic document, typically available as a single file. OPDS Catalogs are agnostic about the particular format of Publications.
@@ -100,7 +100,7 @@ The namespace name "http://opds-spec.org/2010/catalog" is reserved for forward-c
 
 OPDS Catalog Feed Documents are Atom `[RFC4287]` Feeds. They serve two purposes:
 
-  * To create a browseable hierarchy of other OPDS Catalog Feed Documents and other Resources. These OPDS Catalog Feed Documents are referred to as Navigation Feeds.
+  * To create a browsable hierarchy of other OPDS Catalog Feed Documents and other Resources. These OPDS Catalog Feed Documents are referred to as Navigation Feeds.
   * To collect a set of OPDS Catalog Entries. These OPDS Catalog Feed Documents are referred to as Acquisition Feeds.
 
 While Navigation Feeds do provide a suggested hierarchy from the OPDS Catalog publisher, OPDS Catalog Feed Documents MAY contain other relations that allow for other methods of consumption and display. See the Section OPDS Catalog Relations for more detail.
@@ -360,11 +360,11 @@ Each OPDS Catalog Entry Document MUST include at least one Acquisition Link, whi
 
 == Relationship Between Atom and Dublin Core Metadata ==
 
-OPDS Catalog providers are encouraged to include metadata from the Dublin Core Metadata Initiative (DCMI) Metadata Terms `[DCTERMS]` whenever appropriate. However, these elements are not required. Some of the elements defined in `[DCTERMS]` overlap in meaning with similar elements defined by Atom in `[RFC4287]`. In general, OPDS Catalog Entries prefer the Atom elements over the DCTERMS elements and the following rules should be used by OPDS Catalog providers when choosing elements:
+OPDS Catalog providers are encouraged to include metadata from the Dublin Core Metadata Initiative (DCMI) Metadata Terms `[DCTERMS]` whenever appropriate. However, these elements are not required. Some of the elements defined in `[DCTERMS]` overlap in meaning with similar elements defined by Atom in `[RFC4287]`. In general, OPDS Catalog Entries prefer the Atom elements over the `[DCTERMS]` elements and the following rules should be used by OPDS Catalog providers when choosing elements:
 
   * OPDS Catalog Entries MUST be identified by an "atom:id". One or more "dc:identifier" elements SHOULD be used to identify the represented Publication, if appropriate metadata is available, and MUST NOT identify the OPDS Catalog Entry.
   * OPDS Catalog Entries MUST include an "atom:updated" element indicating when the OPDS Catalog Entry was last updated. A "dc:issued" element SHOULD be used to indicate the first publication date of the Publication and MUST NOT represent any date related to the OPDS Catalog Entry.
-  * OPDS Catalog Entries MUST inlcude an "atom:title" representing the Publication's title and MUST NOT use "dc:title".
+  * OPDS Catalog Entries MUST include an "atom:title" representing the Publication's title and MUST NOT use "dc:title".
   * OPDS Catalog Entries SHOULD use "atom:author" to represent the Publication's creators and SHOULD NOT use "dc:creator".
   * OPDS Catalog Entries SHOULD use "atom:category" to represent the Publication's category, keywords, key phrases, or classification codes and SHOULD NOT use "dc:subject".
   * OPDS Catalog Entries SHOULD use "atom:rights" to represent rights held in and over the Publication and SHOULD NOT use "dc:rights".
@@ -594,7 +594,7 @@ opdsPrice =
 
 ==== The "currencycode" Attribute ====
 
-On the opds:price element, the value of the "currencycode" attribute MUST be an active code from `[ISO4127]` representing a currency. It defines the currency used for the content of the opds:price element.
+On the opds:price element, the value of the "currencycode" attribute MUST be an active code from `[ISO4217]` representing a currency. It defines the currency used for the content of the opds:price element.
 
 = Acquiring Publications =
 
@@ -651,11 +651,11 @@ Clients MUST NOT assume that an OPDS Catalog Entry returned in the Acquisition F
 
 == Complete Acquisition Feeds ==
 
-An OPDS Catalog provider MAY provide a single, consolidated Acquisition Feed that includes the complete representation of every unique OPDS Catalog Entry Document in an OPDS Catalog in an atom:feed to faciliate crawling and aggregation. Complete Acquisition Feeds SHOULD NOT be paginated unless they are extremely large.
+An OPDS Catalog provider MAY provide a single, consolidated Acquisition Feed that includes the complete representation of every unique OPDS Catalog Entry Document in an OPDS Catalog in an atom:feed to facilitate crawling and aggregation. Complete Acquisition Feeds SHOULD NOT be paginated unless they are extremely large.
 
 This representation is called a Complete Acquisition Feed and each OPDS Catalog Entry MUST be ordered by atom:updated, with the most recently updated Atom Entries coming first in the document order. 
 
-If available, each OPDS Catalog Feed Document in the OPDS Catalog SHOULD contain an atom:link element with a the relation of "http://opds-spec.org/crawlable" that references the Complete Acquisition Feed Resource. 
+If available, each OPDS Catalog Feed Document in the OPDS Catalog SHOULD contain an atom:link element with a relation of "http://opds-spec.org/crawlable" that references the Complete Acquisition Feed Resource. 
 
 A Complete Acquisition Feed MUST include a fh:complete element from `[RFC5005]` unless pagination is required. See Section 2 of `[RFC5005]` for the specification of the fh:complete element. 
 
@@ -737,11 +737,15 @@ Relations to OPDS Catalog Feed Document and OPDS Catalog Entry Document Resource
 
 The complete media type for a relation to an OPDS Catalog Entry Document Resource SHOULD be:
 
+{{{
 application/atom+xml;type=entry;profile=opds-catalog
+}}}
 
 The complete media type for a relation to an OPDS Catalog Feed Document Resource SHOULD be:
 
+{{{
 application/atom+xml;profile=opds-catalog
+}}}
 
 = References =
 
@@ -761,13 +765,11 @@ application/atom+xml;profile=opds-catalog
   * `[RFC2616]` Fielding, R., Gettys, J., Mogul, J., Frystyk, H., Masinter, L., Leach, P., and T. Berners-Lee, "Hypertext Transfer Protocol -- HTTP/1.1", RFC 2616, June 1999.
   * `[RFC2617]` Franks, J., Hallam-Baker, P., Hostetler, J., Lawrence, S., Leach, P., Luotonen, A., and L. Stewart, "HTTP Authentication: Basic and Digest Access Authentication", RFC 2617, June 1999.
   * `[RFC2818]` Rescorla, E., "HTTP Over TLS", RFC 2818, May 2000.
-  * `[RFC3187]` J. Hakala, J. and H. Walravens, "Using International Standard Book Numbers as Uniform Resource Names", RFC 3187, October 2001.
   * `[RFC3986]` Berners-Lee, T., Fielding, R., and L. Masinter, "Uniform Resource Identifier (URI): Generic Syntax", STD 66, RFC 3986, January 2005.
   * `[RFC3987]` Duerst, M. and M. Suignard, "Internationalized Resource Identifiers (IRIs)", RFC 3987, January 2005.
   * `[RFC4287]` Nottingham, M. and R. Sayre, "The Atom Syndication Format", RFC 4287, December 2005.  
   * `[RFC4288]` Freed, N. and J. Klensin, "Media Type Specifications and Registration Procedures", RFC 4288, December 2005.  
   * `[RFC5005]` Nottingham, M., "Feed Paging and Archiving", RFC 5005, September 2007.   
-  * `[RFC5012]` Gregorio, J. and B. de hOra, "The Atom Publishing Protocol", RFC 5023, October 2007.
 
 == Informative References ==
 
@@ -778,7 +780,7 @@ application/atom+xml;profile=opds-catalog
 
 = Appendix A. Contributors =
 
-The content and concepts within are a product of the openpub community.
+The content and concepts within this specification are a product of the openpub community.
 
 = Appendix B. RELAX NG Compact Schema =
 

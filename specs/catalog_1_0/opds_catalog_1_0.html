@@ -279,59 +279,67 @@ defined in this specification and <tt>[DRAFT-Web-Linking]</tt>. If
 no appropriate relation is found, the Feeds SHOULD use a
 descriptive "atom:title" element and the "atom:link"s SHOULD use a
 descriptive "title" attribute.</p>
-      <h3><a id="Sorting_Relations"/>Sorting Relations</h3>
-      <p>This specification defines two new relations, which begin with
+      <div id="Sorting_Relations">
+        <h3>Sorting Relations</h3>
+        <p>This specification defines two new relations, which begin with
 "<a href="http://opds-spec.org/sort" rel="nofollow">http://opds-spec.org/sort</a>", to describe how an
 Acquisition Feed is sorted. These relations SHOULD be used when
 creating Navigation Feeds and the OPDS Catalog Root, if
 applicable.</p>
-      <ul>
-        <li>"<a href="http://opds-spec.org/sort/new" rel="nofollow">http://opds-spec.org/sort/new</a>": An Acquisition Feed
+        <ul>
+          <li>"<a href="http://opds-spec.org/sort/new" rel="nofollow">http://opds-spec.org/sort/new</a>": An Acquisition Feed
 with newly released OPDS Catalog Entries. These Acquisition Feeds
 typically contain a subset of the OPDS Catalog Entries in an OPDS
 Catalog based on the publication date of the Publication.</li>
-        <li>"<a href="http://opds-spec.org/sort/popular" rel="nofollow">http://opds-spec.org/sort/popular</a>": An Acquisition
+          <li>"<a href="http://opds-spec.org/sort/popular" rel="nofollow">http://opds-spec.org/sort/popular</a>": An Acquisition
 Feed with popular OPDS Catalog Entries. These Acquisition Feeds
 typically contain a subset of the OPDS Catalog Entries in an OPDS
 Catalog based on a numerical ranking criteria.</li>
-      </ul>
-      <p>Acquisition Feeds using the "<a href="http://opds-spec.org/sort/new" rel="nofollow">http://opds-spec.org/sort/new</a>" relation SHOULD be
+        </ul>
+        <p>Acquisition Feeds using the "<a href="http://opds-spec.org/sort/new" rel="nofollow">http://opds-spec.org/sort/new</a>" relation SHOULD be
 ordered with the most recent items first. Acquisition Feeds using
 the "<a href="http://opds-spec.org/sort/popular" rel="nofollow">http://opds-spec.org/sort/popular</a>" relation SHOULD
 be ordered with the most popular items first.</p>
-      <h3><a id="Popular_Relation"/>Popular Relation</h3>
-      <p>This specification also defines a relation to describe an
+      </div>
+      <div id="Popular_Relation">
+        <h3>Popular Relation</h3>
+        <p>This specification also defines a relation to describe an
 Acquisition Feed of featured items. This relation SHOULD be used
 when creating Navigation Feeds and the OPDS Catalog Root, if
 applicable.</p>
-      <ul>
-        <li>"<a href="http://opds-spec.org/featured" rel="nofollow">http://opds-spec.org/featured</a>": An Acquisition Feed
+        <ul>
+          <li>"<a href="http://opds-spec.org/featured" rel="nofollow">http://opds-spec.org/featured</a>": An Acquisition Feed
 with featured OPDS Catalog Entries. These Acquisition Feeds
 typically contain a subset of the OPDS Catalog Entries in an OPDS
 Catalog that have been selected for promotion by the OPDS Catalog
 provider. No order is implied.</li>
-      </ul>
-      <h3><a id="Relations_for_Previously_Acquired_Content"/>Relations for Previously Acquired Content</h3>
-      <p>An OPDS catalog MAY track content that was previously acquired
+        </ul>
+      </div>
+      <div id="Relations_for_Previously_Acquired_Content">
+        <h3>Relations for Previously Acquired Content</h3>
+        <p>An OPDS catalog MAY track content that was previously acquired
 by the user. This specification defines two new relations to
 identify Acquisition Feeds listing such resources:</p>
-      <ul>
-        <li>"<a href="http://opds-spec.org/shelf" rel="nofollow">http://opds-spec.org/shelf</a>": A Resource that
+        <ul>
+          <li>"<a href="http://opds-spec.org/shelf" rel="nofollow">http://opds-spec.org/shelf</a>": A Resource that
 includes a user's existing set of Acquired Content, which MAY be
 represented as an OPDS Catalog.</li>
-        <li>"<a href="http://opds-spec.org/subscriptions" rel="nofollow">http://opds-spec.org/subscriptions</a>": A Resource that
+          <li>"<a href="http://opds-spec.org/subscriptions" rel="nofollow">http://opds-spec.org/subscriptions</a>": A Resource that
 includes a user's set of subscriptions, which MAY be represented as
 an OPDS Catalog.</li>
-      </ul>
-      <p>An OPDS client MAY use these links to automatically sync content
+        </ul>
+        <p>An OPDS client MAY use these links to automatically sync content
 to the user's local shelf or check for periodical content
 updates.</p>
-      <h3><a id="Crawlable_Feed_Relation"/>Crawlable Feed Relation</h3>
-      <p>For aggregation or crawling purposes, an OPDS Catalog MAY link
+      </div>
+      <div id="Crawlable_Feed_Relation">
+        <h3>Crawlable Feed Relation</h3>
+        <p>For aggregation or crawling purposes, an OPDS Catalog MAY link
 to an optimized Acquisition Feed. This specification defines one
 new relation for this goal: "<a href="http://opds-spec.org/crawlable" rel="nofollow">http://opds-spec.org/crawlable</a>".</p>
-      <p>See Complete Acquisition Feeds for more information about this
+        <p>See Complete Acquisition Feeds for more information about this
 feed.</p>
+      </div>
     </div>
     <div id="Search">
       <h2>Search</h2>
@@ -511,21 +519,22 @@ Feeds references three Acquisition Feeds using atom:links:</p>
     </div>
     <div id="Element_Definitions">
       <h2>Element Definitions</h2>
-      <h3><a id="The_&quot;atom:feed&quot;_Element"/>The "atom:feed"
-Element</h3>
-      <p>The "atom:feed" element is the document (i.e., top-level)
+      <div id="The_atom_feed_Element">
+        <h3>The "atom:feed" Element</h3>
+        <p>The "atom:feed" element is the document (i.e., top-level)
 element of an OPDS Catalog Feed Document, acting as a container for
 metadata, hierarchy, and Publications associated with the OPDS
 Catalog. Its element children consist of metadata elements followed
 by zero or more atom:entry child elements.</p>
-      <p>The following child elements are refined by this
+        <p>The following child elements are refined by this
 specification:</p>
-      <ul>
-        <li>OPDS Catalog Feed Documents SHOULD contain one atom:link
+        <ul>
+          <li>OPDS Catalog Feed Documents SHOULD contain one atom:link
 element with a "rel" attribute value of "self". This is the
 preferred URI for retrieving the atom:feed representing this OPDS
 Catalog Feed Document.</li>
-      </ul>
+        </ul>
+      </div>
     </div>
   </div>
   <div id="OPDS_Catalog_Entry_Documents">
@@ -660,59 +669,63 @@ Acquisition Relations and Artwork Relations.</p>
       <p>OPDS Catalog providers are encouraged to use relations from
 <tt>[DRAFT-Web-Linking]</tt> inside OPDS Catalog Entry Documents
 where appropriate.</p>
-      <h3><a id="Acquisition_Relations"/>Acquisition Relations</h3>
-      <p>Acquisition relations describe the extent of the content
+      <div id="Acquisition_Relations">
+        <h3>Acquisition Relations</h3>
+        <p>Acquisition relations describe the extent of the content
 referred to by an Acquisition Link or the manner in which that
 Resource may be acquired. This specification defines six
 Acquisition Relations, which all begin with "<a href="http://opds-spec.org/acquisition" rel="nofollow">http://opds-spec.org/acquisition</a>":</p>
-      <ul>
-        <li>"<a href="http://opds-spec.org/acquisition" rel="nofollow">http://opds-spec.org/acquisition</a>": A generic
+        <ul>
+          <li>"<a href="http://opds-spec.org/acquisition" rel="nofollow">http://opds-spec.org/acquisition</a>": A generic
 relation that indicates that the complete representation of the
 content Resource may be retrieved.</li>
-        <li>"<a href="http://opds-spec.org/acquisition/open-access" rel="nofollow">http://opds-spec.org/acquisition/open-access</a>":
+          <li>"<a href="http://opds-spec.org/acquisition/open-access" rel="nofollow">http://opds-spec.org/acquisition/open-access</a>":
 Indicates that the complete representation of the Resource can be
 retrieved without any requirement, which includes payment and
 registration.</li>
-        <li>"<a href="http://opds-spec.org/acquisition/borrow" rel="nofollow">http://opds-spec.org/acquisition/borrow</a>": Indicates
+          <li>"<a href="http://opds-spec.org/acquisition/borrow" rel="nofollow">http://opds-spec.org/acquisition/borrow</a>": Indicates
 that the complete representation of the content Resource may be
 retrieved as part of a lending transaction.</li>
-        <li>"<a href="http://opds-spec.org/acquisition/buy" rel="nofollow">http://opds-spec.org/acquisition/buy</a>": Indicates
+          <li>"<a href="http://opds-spec.org/acquisition/buy" rel="nofollow">http://opds-spec.org/acquisition/buy</a>": Indicates
 that the complete representation of the content Resource may be
 retrieved as part of a purchase.</li>
-        <li>"<a href="http://opds-spec.org/acquisition/sample" rel="nofollow">http://opds-spec.org/acquisition/sample</a>": Indicates
+          <li>"<a href="http://opds-spec.org/acquisition/sample" rel="nofollow">http://opds-spec.org/acquisition/sample</a>": Indicates
 that a subset of the content Resource may be retrieved.</li>
-        <li>"<a href="http://opds-spec.org/acquisition/subscribe" rel="nofollow">http://opds-spec.org/acquisition/subscribe</a>":
+          <li>"<a href="http://opds-spec.org/acquisition/subscribe" rel="nofollow">http://opds-spec.org/acquisition/subscribe</a>":
 Indicates that the complete representation of the content Resource
 may be retrieved as part of a subscription.</li>
-      </ul>
-      <h3><a id="Artwork_Relations"/>Artwork Relations</h3>
-      <p>OPDS Catalog Entries MAY include atom:links to images that
+        </ul>
+      </div>
+      <div id="Artwork_Relations">
+        <h3>Artwork Relations</h3>
+        <p>OPDS Catalog Entries MAY include atom:links to images that
 provide a visual representation of the Publication. For many
 Publications, these images will be the Publication's artwork. This
 specification defines two Artwork Relations, which begin with
 "<a href="http://opds-spec.org/image" rel="nofollow">http://opds-spec.org/image</a>":</p>
-      <ul>
-        <li>"<a href="http://opds-spec.org/image" rel="nofollow">http://opds-spec.org/image</a>": a graphical Resource
+        <ul>
+          <li>"<a href="http://opds-spec.org/image" rel="nofollow">http://opds-spec.org/image</a>": a graphical Resource
 associated to the OPDS Catalog Entry</li>
-        <li>"<a href="http://opds-spec.org/image/thumbnail" rel="nofollow">http://opds-spec.org/image/thumbnail</a>": a
+          <li>"<a href="http://opds-spec.org/image/thumbnail" rel="nofollow">http://opds-spec.org/image/thumbnail</a>": a
 reduced-size version of a graphical Resource associated to the OPS
 Catalog Entry</li>
-      </ul>
-      <p>Image resources related by <a href="http://opds-spec.org/image/thumbnail" rel="nofollow">http://opds-spec.org/image/thumbnail</a> SHOULD be
+        </ul>
+        <p>Image resources related by <a href="http://opds-spec.org/image/thumbnail" rel="nofollow">http://opds-spec.org/image/thumbnail</a> SHOULD be
 suitable for presentation at a small size.</p>
-      <p>The atom:links with these relations SHOULD include at least one
+        <p>The atom:links with these relations SHOULD include at least one
 link with a type attribute of "image/gif", "image/jpeg", or
 "image/png" and the image Resources MUST be in GIF, JPEG, or PNG
 format.</p>
-      <p>Additional atom:links MAY also include additional resources
+        <p>Additional atom:links MAY also include additional resources
 using a vector-based format.</p>
-      <p>While either image Resource is optional and may be included
+        <p>While either image Resource is optional and may be included
 independently, OPDS Catalog providers are encouraged to provide
 both these relations and Resources whenever possible.</p>
-      <p>Some OPDS Catalog providers MAY choose to provide <a href="http://opds-spec.org/image/thumbnail" rel="nofollow">http://opds-spec.org/image/thumbnail</a> image Resources
+        <p>Some OPDS Catalog providers MAY choose to provide <a href="http://opds-spec.org/image/thumbnail" rel="nofollow">http://opds-spec.org/image/thumbnail</a> image Resources
 using the "data" URL scheme from <tt>[RFC2397]</tt>. OPDS Catalog
 clients SHOULD support the "data" URL scheme if they support
 Artwork relations.</p>
+      </div>
     </div>
     <div id="Entry_Examples">
       <h2>Entry Examples</h2>
@@ -801,21 +814,24 @@ Acquisition Feed) for a Publication available in two formats:</p>
     </div>
     <div id="Element_Definitions">
       <h2>Element Definitions</h2>
-      <h3><a id="The_atom_entry_Element"/>The "atom:entry" Element</h3>
-      <p>The "atom:entry" element is the document (i.e., top-level)
+      <div id="The_atom_entry_Element">
+        <h3>The "atom:entry" Element</h3>
+        <p>The "atom:entry" element is the document (i.e., top-level)
 element of an OPDS Catalog Entry Document, acting as a container
 for metadata and data associated with an available Publication.</p>
-      <p>The following child elements are refined by this
+        <p>The following child elements are refined by this
 specification:</p>
-      <ul>
-        <li>OPDS Catalog Entry Documents MUST contain at least one
+        <ul>
+          <li>OPDS Catalog Entry Documents MUST contain at least one
 Acquisition Link, an atom:link element with a rel attribute that
 begins with "<a href="http://opds-spec.org/acquisition" rel="nofollow">http://opds-spec.org/acquisition</a>".</li>
-      </ul>
-      <h3><a id="The_atom_link_Element"/>The "atom:link" Element</h3>
-      <p>The "atom:link" element defines a reference from an Atom Entry
+        </ul>
+      </div>
+      <div id="The_atom_link_Element">
+        <h3>The "atom:link" Element</h3>
+        <p>The "atom:link" element defines a reference from an Atom Entry
 or Atom Feed to a Resource.</p>
-      <pre class="prettyprint">
+        <pre class="prettyprint">
 atomLink =
   element atom:link {
     atomCommonAttributes &amp;
@@ -839,24 +855,26 @@ atomLink =
   # specs, but not the non-normative atom.rnc.
   atomUri = xsd:anyURI - xsd:string {pattern = '.*[ &lt;&gt;{}|^`"\\\n\r\t].*'}
 </pre>
-      <p>The following child elements are defined by this
+        <p>The following child elements are defined by this
 specification:</p>
-      <ul>
-        <li>atom:link elements with a rel attribute value of "<a href="http://opds-spec.org/acquisition/buy" rel="nofollow">http://opds-spec.org/acquisition/buy</a>" MUST contain
+        <ul>
+          <li>atom:link elements with a rel attribute value of "<a href="http://opds-spec.org/acquisition/buy" rel="nofollow">http://opds-spec.org/acquisition/buy</a>" MUST contain
 at least one opds:price element.</li>
-        <li>atom:link elements with a rel attribute of "<a href="http://opds-spec.org/acquisition/borrow" rel="nofollow">http://opds-spec.org/acquisition/borrow</a>", "<a href="http://opds-spec.org/acquisition/subscribe" rel="nofollow">http://opds-spec.org/acquisition/subscribe</a>", or
+          <li>atom:link elements with a rel attribute of "<a href="http://opds-spec.org/acquisition/borrow" rel="nofollow">http://opds-spec.org/acquisition/borrow</a>", "<a href="http://opds-spec.org/acquisition/subscribe" rel="nofollow">http://opds-spec.org/acquisition/subscribe</a>", or
 "<a href="http://opds-spec.org/acquisition/sample" rel="nofollow">http://opds-spec.org/acquisition/sample</a>" MAY contain
 one or more opds:price elements.</li>
-      </ul>
-      <h3><a id="The_opds_price_Element"/>The "opds:price" Element</h3>
-      <p>The "opds:price" element represents the acquisition price in a
+        </ul>
+      </div>
+      <div id="The_opds_price_Element">
+        <h3>The "opds:price" Element</h3>
+        <p>The "opds:price" element represents the acquisition price in a
 particular currency of an individual Publication in a particular
 format from a particular provider. This element can appear as a
 child of the atom:link element (in OPDS Catalog Entry
 Documents).</p>
-      <p>The content of opds:price is text describing a currency value. A
+        <p>The content of opds:price is text describing a currency value. A
 currency sign MUST NOT be included.</p>
-      <pre class="prettyprint">
+        <pre class="prettyprint">
 opdsPrice = 
   element opds:price {
     atomCommonAttributes,
@@ -864,11 +882,14 @@ opdsPrice =
     xsd:decimal { minInclusive="0.0" } 
   }
 </pre>
-      <h4><a id="The_currencycode_Attribute"/>The "currencycode" Attribute</h4>
-      <p>On the opds:price element, the value of the "currencycode"
+        <div id="The_currencycode_Attribute">
+          <h4>The "currencycode" Attribute</h4>
+          <p>On the opds:price element, the value of the "currencycode"
 attribute MUST be an active code from <tt>[ISO4217]</tt>
 representing a currency. It defines the currency used for the
 content of the opds:price element.</p>
+        </div>
+      </div>
     </div>
   </div>
   <div id="Acquiring_Publications">

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <div>
   <div id="Status_of_this_Document">
-    <h1>Status of this Document</h1>
+    <h1 class="nonum">Status of this Document</h1>
     <p>This document specifies version 1.0 of the OPDS Catalog specification.</p>
     <p>Published: 30 August 2010</p>
     <dl>
@@ -37,7 +37,7 @@ with a priority on simplicity.</p>
     <!-- FIXME -->
   </div>
   <div id="Introduction">
-    <h1>Introduction</h1>
+    <h1>1. Introduction</h1>
     <p>The Open Publication Distribution System (OPDS) Catalog format
 is a syndication format for electronic publications based on Atom
 <tt>[RFC4287]</tt> and HTTP <tt>[RFC2616]</tt>. OPDS Catalogs
@@ -62,16 +62,16 @@ more).</p>
 Catalogs.</p>
   </div>
   <div id="Notational_Conventions">
-    <h1>Notational Conventions</h1>
+    <h1>2. Notational Conventions</h1>
     <p>The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL
 NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL"
 in this document are to be interpreted as described in
 <tt>[RFC2119]</tt>.</p>
   </div>
   <div id="XML-Related_Conventions">
-    <h1>XML-Related Conventions</h1>
+    <h1>3. XML-Related Conventions</h1>
     <div id="Referring_to_Information_Items">
-      <h2>Referring to Information Items</h2>
+      <h2>3.1. Referring to Information Items</h2>
       <p>The OPDS Catalog format is specified in terms of the XML
 Information Set <tt>[REC-xml-infoset]</tt>, serialized as XML 1.0
 <tt>[REC-xml]</tt>.</p>
@@ -84,7 +84,7 @@ Information Item.</p>
     </div>
   </div>
   <div id="RELAX_NG_Schema">
-    <h1>RELAX NG Schema</h1>
+    <h1>4. RELAX NG Schema</h1>
     <p>Some sections of this specification are illustrated with
 fragments of a non-normative RELAX NG Compact schema
 <tt>[RNC]</tt>. However, the text of this specification provides
@@ -92,7 +92,7 @@ the definition of conformance. Complete schemas appear in Appendix
 B.</p>
   </div>
   <div id="Terminology">
-    <h1>Terminology</h1>
+    <h1>5. Terminology</h1>
     <p>The following terminology is used by this specification:</p>
     <ul>
       <li>Acquisition Feed -- An Atom Feed whose Atom Entries are
@@ -152,7 +152,7 @@ expected to produce that document as a representation".</li>
     </ul>
   </div>
   <div id="Document_Types">
-    <h1>Document Types</h1>
+    <h1>6. Document Types</h1>
     <p>This specification defines two kinds of documents -- OPDS
 Catalog Feed Documents and OPDS Catalog Entry Documents.</p>
     <p>An OPDS Catalog Feed Document is a refinement of an "atom:feed"
@@ -180,7 +180,7 @@ significant.</p>
 Documents and OPDS Catalog Entry Documents that are conformant to
 both Atom and the OPDS Catalog RELAX NG schemas.</p>
     <div id="Document_Extensibility">
-      <h2>Document Extensibility</h2>
+      <h2>6.1. Document Extensibility</h2>
       <p>Unrecognized markup in any Atom Feed or Atom Entry in an OPDS
 Catalog is considered "foreign markup" as defined in Section 6 of
 the Atom Syndication Format <tt>[RFC4287]</tt>. Foreign markup can
@@ -197,7 +197,7 @@ treated as foreign markup.</p>
     </div>
   </div>
   <div id="OPDS_Catalog_Feed_Documents">
-    <h1>OPDS Catalog Feed Documents</h1>
+    <h1>7. OPDS Catalog Feed Documents</h1>
     <p>OPDS Catalog Feed Documents are Atom <tt>[RFC4287]</tt> Feeds.
 They serve two purposes:</p>
     <ul>
@@ -216,7 +216,7 @@ detail.</p>
 Feed or a Navigation Feed. An Acquisition Feed can be identified by
 the presence of Acquisition Links in each Atom Entry.</p>
     <div id="OPDS_Catalog_Root">
-      <h2>OPDS Catalog Root</h2>
+      <h2>7.1. OPDS Catalog Root</h2>
       <p>The OPDS Catalog Root is the top-level OPDS Catalog Feed
 Document. It is either a single Acquisition Feed in the simple case
 or the start of a set of Navigation Feeds. Every OPDS Catalog MUST
@@ -228,7 +228,7 @@ element with a link relation of "start", which references the OPDS
 Catalog Root Resource.</p>
     </div>
     <div id="Navigation_Feeds">
-      <h2>Navigation Feeds</h2>
+      <h2>7.2. Navigation Feeds</h2>
       <p>A Navigation Feed is an OPDS Catalog Feed Document whose Atom
 Entries serve to create a suggested hierarchy for presentation and
 browsing. A Navigation Feed MUST NOT contain OPDS Catalog Entries
@@ -244,7 +244,7 @@ the relations in the section OPDS Catalog Relations. The relation
 appropriate.</p>
     </div>
     <div id="Acquisition_Feeds">
-      <h2>Acquisition Feeds</h2>
+      <h2>7.3. Acquisition Feeds</h2>
       <p>An Acquisition Feed is an OPDS Catalog Feed Document that
 collects OPDS Catalog Entries into a single, ordered set. The
 simplest complete OPDS Catalog would be a single Acquisition Feed
@@ -259,7 +259,7 @@ through pagination, Partial Catalog Entries, and compression, see
 the Section Listing Acquisition Feeds.</p>
     </div>
     <div id="OPDS_Catalog_Relations">
-      <h2>OPDS Catalog Relations</h2>
+      <h2>7.4. OPDS Catalog Relations</h2>
       <p>OPDS Catalog Feed Documents SHOULD include links to other
 available Acquisition and Navigation Feeds and other related
 Resources to encourage independent navigation.</p>
@@ -280,7 +280,7 @@ no appropriate relation is found, the Feeds SHOULD use a
 descriptive "atom:title" element and the "atom:link"s SHOULD use a
 descriptive "title" attribute.</p>
       <div id="Sorting_Relations">
-        <h3>Sorting Relations</h3>
+        <h3>7.4.1. Sorting Relations</h3>
         <p>This specification defines two new relations, which begin with
 "<a href="http://opds-spec.org/sort" rel="nofollow">http://opds-spec.org/sort</a>", to describe how an
 Acquisition Feed is sorted. These relations SHOULD be used when
@@ -302,7 +302,7 @@ the "<a href="http://opds-spec.org/sort/popular" rel="nofollow">http://opds-spec
 be ordered with the most popular items first.</p>
       </div>
       <div id="Popular_Relation">
-        <h3>Popular Relation</h3>
+        <h3>7.4.2. Popular Relation</h3>
         <p>This specification also defines a relation to describe an
 Acquisition Feed of featured items. This relation SHOULD be used
 when creating Navigation Feeds and the OPDS Catalog Root, if
@@ -316,7 +316,7 @@ provider. No order is implied.</li>
         </ul>
       </div>
       <div id="Relations_for_Previously_Acquired_Content">
-        <h3>Relations for Previously Acquired Content</h3>
+        <h3>7.4.3. Relations for Previously Acquired Content</h3>
         <p>An OPDS catalog MAY track content that was previously acquired
 by the user. This specification defines two new relations to
 identify Acquisition Feeds listing such resources:</p>
@@ -333,7 +333,7 @@ to the user's local shelf or check for periodical content
 updates.</p>
       </div>
       <div id="Crawlable_Feed_Relation">
-        <h3>Crawlable Feed Relation</h3>
+        <h3>7.4.4. Crawlable Feed Relation</h3>
         <p>For aggregation or crawling purposes, an OPDS Catalog MAY link
 to an optimized Acquisition Feed. This specification defines one
 new relation for this goal: "<a href="http://opds-spec.org/crawlable" rel="nofollow">http://opds-spec.org/crawlable</a>".</p>
@@ -342,7 +342,7 @@ feed.</p>
       </div>
     </div>
     <div id="Search">
-      <h2>Search</h2>
+      <h2>7.5. Search</h2>
       <p>An OPDS Catalog MAY provide a search facility through an
 <tt>[OpenSearch]</tt> description document. Links to
 <tt>[OpenSearch]</tt> description documents MUST use the "search"
@@ -367,7 +367,7 @@ or "opensearch:itemsPerPage" in <tt>[OpenSearch]</tt>
 responses.</p>
     </div>
     <div id="Feed_Examples">
-      <h2>Feed Examples</h2>
+      <h2>7.6. Feed Examples</h2>
       <p>An OPDS Catalog Root that is the top of a set of Navigation
 Feeds references three Acquisition Feeds using atom:links:</p>
       <pre class="prettyprint">
@@ -518,9 +518,9 @@ Feeds references three Acquisition Feeds using atom:links:</p>
 </pre>
     </div>
     <div id="Element_Definitions">
-      <h2>Element Definitions</h2>
+      <h2>7.7. Element Definitions</h2>
       <div id="The_atom_feed_Element">
-        <h3>The "atom:feed" Element</h3>
+        <h3>7.7.1. The "atom:feed" Element</h3>
         <p>The "atom:feed" element is the document (i.e., top-level)
 element of an OPDS Catalog Feed Document, acting as a container for
 metadata, hierarchy, and Publications associated with the OPDS
@@ -538,7 +538,7 @@ Catalog Feed Document.</li>
     </div>
   </div>
   <div id="OPDS_Catalog_Entry_Documents">
-    <h1>OPDS Catalog Entry Documents</h1>
+    <h1>8. OPDS Catalog Entry Documents</h1>
     <p>OPDS Catalog Entry Documents are Atom <tt>[RFC4287]</tt> Entry
 documents that provide a complete representation of the metadata
 and data associated with an available Publication.</p>
@@ -550,7 +550,7 @@ the OPDS Catalog Entry in a particular media type. Acquisition
 Links use one of the relations described in the Section Acquisition
 Relations.</p>
     <div id="Relationship_Between_Atom_and_Dublin_Core_Metadata">
-      <h2>Relationship Between Atom and Dublin Core Metadata</h2>
+      <h2>8.1. Relationship Between Atom and Dublin Core Metadata</h2>
       <p>OPDS Catalog providers are encouraged to include metadata from
 the Dublin Core Metadata Initiative (DCMI) Metadata Terms
 <tt>[DCTERMS]</tt> whenever appropriate. However, these elements
@@ -597,7 +597,7 @@ republished, exported, or imported" and "MUST be created in a way
 that assures uniqueness."</p>
     </div>
     <div id="Partial_and_Complete_Catalog_Entries">
-      <h2>Partial and Complete Catalog Entries</h2>
+      <h2>8.2. Partial and Complete Catalog Entries</h2>
       <p>An OPDS Catalog Entry may be represented as either a Partial or
 Complete Catalog Entry. Partial Catalog Entries include only
 critical metadata elements to reduce the size of OPDS Catalog
@@ -626,7 +626,7 @@ to include metadata elements from other vocabularies in Complete
 Catalog Entries.</p>
     </div>
     <div id="Summary_and_Content">
-      <h2>Summary and Content</h2>
+      <h2>8.3. Summary and Content</h2>
       <p>OPDS Catalog Entries use "atom:content" and "atom:summary"
 elements to describe a Publication. This is a distinction from Atom
 <tt>[RFC4287]</tt>, which uses "atom:content" for the "content of
@@ -661,7 +661,7 @@ atomSummary =
 </pre>
     </div>
     <div id="Entry_Relations">
-      <h2>Entry Relations</h2>
+      <h2>8.4. Entry Relations</h2>
       <p>OPDS Catalog Entry Documents SHOULD include links to related
 Resources. This specification defines new relations for linking
 from OPDS Catalog Entry Documents. They are defined in the Sections
@@ -670,7 +670,7 @@ Acquisition Relations and Artwork Relations.</p>
 <tt>[DRAFT-Web-Linking]</tt> inside OPDS Catalog Entry Documents
 where appropriate.</p>
       <div id="Acquisition_Relations">
-        <h3>Acquisition Relations</h3>
+        <h3>8.4.1. Acquisition Relations</h3>
         <p>Acquisition relations describe the extent of the content
 referred to by an Acquisition Link or the manner in which that
 Resource may be acquired. This specification defines six
@@ -697,7 +697,7 @@ may be retrieved as part of a subscription.</li>
         </ul>
       </div>
       <div id="Artwork_Relations">
-        <h3>Artwork Relations</h3>
+        <h3>8.4.2. Artwork Relations</h3>
         <p>OPDS Catalog Entries MAY include atom:links to images that
 provide a visual representation of the Publication. For many
 Publications, these images will be the Publication's artwork. This
@@ -728,7 +728,7 @@ Artwork relations.</p>
       </div>
     </div>
     <div id="Entry_Examples">
-      <h2>Entry Examples</h2>
+      <h2>8.5. Entry Examples</h2>
       <p>An example of a Partial Catalog Entry (as would appear in an
 Acquisition Feed) for a Publication available in two formats:</p>
       <pre class="prettyprint">
@@ -813,9 +813,9 @@ Acquisition Feed) for a Publication available in two formats:</p>
 </pre>
     </div>
     <div id="Element_Definitions">
-      <h2>Element Definitions</h2>
+      <h2>8.6. Element Definitions</h2>
       <div id="The_atom_entry_Element">
-        <h3>The "atom:entry" Element</h3>
+        <h3>8.6.1. The "atom:entry" Element</h3>
         <p>The "atom:entry" element is the document (i.e., top-level)
 element of an OPDS Catalog Entry Document, acting as a container
 for metadata and data associated with an available Publication.</p>
@@ -828,7 +828,7 @@ begins with "<a href="http://opds-spec.org/acquisition" rel="nofollow">http://op
         </ul>
       </div>
       <div id="The_atom_link_Element">
-        <h3>The "atom:link" Element</h3>
+        <h3>8.6.2. The "atom:link" Element</h3>
         <p>The "atom:link" element defines a reference from an Atom Entry
 or Atom Feed to a Resource.</p>
         <pre class="prettyprint">
@@ -866,7 +866,7 @@ one or more opds:price elements.</li>
         </ul>
       </div>
       <div id="The_opds_price_Element">
-        <h3>The "opds:price" Element</h3>
+        <h3>8.6.3. The "opds:price" Element</h3>
         <p>The "opds:price" element represents the acquisition price in a
 particular currency of an individual Publication in a particular
 format from a particular provider. This element can appear as a
@@ -883,7 +883,7 @@ opdsPrice =
   }
 </pre>
         <div id="The_currencycode_Attribute">
-          <h4>The "currencycode" Attribute</h4>
+          <h4>8.6.3.1. The "currencycode" Attribute</h4>
           <p>On the opds:price element, the value of the "currencycode"
 attribute MUST be an active code from <tt>[ISO4217]</tt>
 representing a currency. It defines the currency used for the
@@ -893,7 +893,7 @@ content of the opds:price element.</p>
     </div>
   </div>
   <div id="Acquiring_Publications">
-    <h1>Acquiring Publications</h1>
+    <h1>9. Acquiring Publications</h1>
     <p>The goal of OPDS Catalogs is to make Publications both
 discoverable and straightforward to acquire on a range of devices
 and platforms. To support that goal, this specification strives to
@@ -913,7 +913,7 @@ Link than the same format without Digital Rights Management.</p>
 Publication media types. These clients will need to filter both the
 type attribute of Acquisition Links.</p>
     <div id="Acquisition_Examples">
-      <h2>Acquisition Examples</h2>
+      <h2>9.1. Acquisition Examples</h2>
       <p>The simplest case is a Publication available in one format:</p>
       <pre class="prettyprint">
 &lt;link rel="http://opds-spec.org/acquisition" 
@@ -942,9 +942,9 @@ element is required:</p>
     </div>
   </div>
   <div id="Feed_Handling">
-    <h1>Feed Handling</h1>
+    <h1>10. Feed Handling</h1>
     <div id="Listing_Acquisition_Feeds">
-      <h2>Listing Acquisition Feeds</h2>
+      <h2>10.1. Listing Acquisition Feeds</h2>
       <p>OPDS Catalog Feed Documents, especially Acquisition Feeds, may
 contain large numbers of Atom Entries.</p>
       <p>A client such as a web spider or web browser might be
@@ -965,7 +965,7 @@ Entry Resource, as described in the Section Partial and Complete
 Entries.</p>
     </div>
     <div id="Complete_Acquisition_Feeds">
-      <h2>Complete Acquisition Feeds</h2>
+      <h2>10.2. Complete Acquisition Feeds</h2>
       <p>An OPDS Catalog provider MAY provide a single, consolidated
 Acquisition Feed that includes the complete representation of every
 unique OPDS Catalog Entry Document in an OPDS Catalog in an
@@ -992,14 +992,14 @@ when serializing a Complete Acquisition Feed.</p>
     </div>
   </div>
   <div id="Aggregating_OPDS_Catalogs">
-    <h1>Aggregating OPDS Catalogs</h1>
+    <h1>11. Aggregating OPDS Catalogs</h1>
     <p>OPDS Catalogs may be aggregated using the same techniques as
 Atom Feeds. Aggregators SHOULD use the atom:source element from
 Section 4.2.11 of <tt>[RFC4287]</tt> to include information about
 the original OPDS Catalog.</p>
   </div>
   <div id="Discovering_OPDS_Catalogs">
-    <h1>Discovering OPDS Catalogs</h1>
+    <h1>12. Discovering OPDS Catalogs</h1>
     <p>OPDS Catalogs may be referenced in HTML/XHTML pages, HTTP
 headers, or using other techniques. These links may reference both
 OPDS Catalog Entries or Feeds. Links to OPDS Catalog Entry Document
@@ -1030,7 +1030,7 @@ Publication:</p>
 defined in <tt>[DRAFT-Web-Linking]</tt>.</p>
   </div>
   <div id="Securing_OPDS_Catalogs">
-    <h1>Securing OPDS Catalogs</h1>
+    <h1>13. Securing OPDS Catalogs</h1>
     <p>OPDS Catalogs are delivered over HTTP. Authentication
 requirements for HTTP are covered in Section 11 of
 <tt>[RFC2616]</tt>.</p>
@@ -1053,7 +1053,7 @@ requests using an appropriate 4xx HTTP response code (e.g., 401
 <tt>[RFC2617]</tt>.</p>
   </div>
   <div id="Bandwidth_and_Processing_Considerations">
-    <h1>Bandwidth and Processing Considerations</h1>
+    <h1>14. Bandwidth and Processing Considerations</h1>
     <p>Many OPDS Catalog clients operate in mobile environments, which
 may impose strict limitations on bandwidth and processing
 resources. OPDS Catalog publishers are strongly encouraged to
@@ -1065,12 +1065,12 @@ at the time of deployment. See <tt>[CACHING]</tt> for more on
 caching techniques.</p>
   </div>
   <div id="Security_Considerations">
-    <h1>Security Considerations</h1>
+    <h1>15. Security Considerations</h1>
     <p>OPDS Catalogs are Atom documents delivered over HTTP and thus
 subject to the security considerations found in Section 15 of
 <tt>[RFC2616]</tt> and Section 5 of <tt>[RFC4287]</tt>.</p>
     <div id="Linked_Resources">
-      <h2>Linked Resources</h2>
+      <h2>15.1. Linked Resources</h2>
       <p>OPDS Catalogs can contain XML External Entities as defined in
 Section 4.2.2 of <tt>[REC-xml]</tt>. OPDS Catalog implementations
 are not required to load external entities. External entities are
@@ -1080,13 +1080,13 @@ Catalog Entry Document. The same issues exist for Resources linked
 to by elements such as atom:link and atom:content.</p>
     </div>
     <div id="URIs_and_IRIs">
-      <h2>URIs and IRIs</h2>
+      <h2>15.2. URIs and IRIs</h2>
       <p>OPDS Catalog implementations handle URIs and IRIs. See Section 7
 of <tt>[RFC3986]</tt> and Section 8 of <tt>[RFC3987]</tt> for
 security considerations related to their handling and use.</p>
     </div>
     <div id="Code_Injection_and_Cross_Site_Scripting">
-      <h2>Code Injection and Cross Site Scripting</h2>
+      <h2>15.3. Code Injection and Cross Site Scripting</h2>
       <p>OPDS Catalogs can contain a broad range of content types
 including code that might be executable in some contexts. Malicious
 publishers could attempt to attack servers or other clients by
@@ -1102,7 +1102,7 @@ be found in Section 8.1 of <tt>[RFC4287]</tt>.</p>
     </div>
   </div>
   <div id="The_Atom_Format_Type_Parameter">
-    <h1>The Atom Format Type Parameter</h1>
+    <h1>16. The Atom Format Type Parameter</h1>
     <p>The Atom Publishing Protocol <tt>[RFC5023]</tt> defines the Atom
 Format Type Parameter.</p>
     <p>Publishers of OPDS Catalogs SHOULD use the "type" parameter to
@@ -1110,7 +1110,7 @@ help clients distinguish between relations to OPDS Catalog Entries
 and OPDS Catalog Feeds.</p>
   </div>
   <div id="The_OPDS_Catalog_Profile_Parameter">
-    <h1>The OPDS Catalog Profile Parameter</h1>
+    <h1>17. The OPDS Catalog Profile Parameter</h1>
     <p>Relations to OPDS Catalog Feed Document and OPDS Catalog Entry
 Document Resources SHOULD use a "profile" parameter following
 Section 4.3 of <tt>[RFC4288]</tt> with the value "opds-catalog".
@@ -1128,9 +1128,9 @@ application/atom+xml;profile=opds-catalog
 </pre>
   </div>
   <div id="References">
-    <h1>References</h1>
+    <h1>18. References</h1>
     <div id="Normative_References">
-      <h2>Normative References</h2>
+      <h2>18.1. Normative References</h2>
       <ul>
         <li><tt>[DRAFT-Web-Linking]</tt> Nottingham, M., "Web Linking",
 draft-nottingham-http-link-header-10, May 2010, <a href="http://tools.ietf.org/html/draft-nottingham-http-link-header" rel="nofollow">http://tools.ietf.org/html/draft-nottingham-http-link-header</a>.</li>
@@ -1186,7 +1186,7 @@ RFC 5005, September 2007.</li>
       </ul>
     </div>
     <div id="Informative_References">
-      <h2>Informative References</h2>
+      <h2>18.2. Informative References</h2>
       <ul>
         <li><tt>[AUTODISCOVERY]</tt> Cadenhead, R., Holderness, J., Morin,
 R., "RSS Autodiscovery", November 2006, <a href="http://www.rssboard.org/rss-autodiscovery" rel="nofollow">http://www.rssboard.org/rss-autodiscovery</a>.</li>

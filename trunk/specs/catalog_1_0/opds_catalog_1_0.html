@@ -34,7 +34,204 @@ with a priority on simplicity.</p>
   </div>
   <div id="toc">
     <h1 class="nonum">Table of Contents</h1>
-    <!-- FIXME -->
+    <ul>
+      <li>
+        <a href="#Status_of_this_Document">Status of this Document</a>
+      </li>
+      <li>
+        <a href="#License">License</a>
+      </li>
+      <li>
+        <a href="#Abstract">Abstract</a>
+      </li>
+      <li>
+        <a href="#toc">Table of Contents</a>
+      </li>
+      <li>
+        <a href="#Introduction">1. Introduction</a>
+      </li>
+      <li>
+        <a href="#Notational_Conventions">2. Notational Conventions</a>
+      </li>
+      <li>
+        <a href="#XML-Related_Conventions">3. XML-Related Conventions</a>
+      </li>
+      <ul>
+        <li>
+          <a href="#Referring_to_Information_Items">3.1. Referring to Information Items</a>
+        </li>
+      </ul>
+      <li>
+        <a href="#RELAX_NG_Schema">4. RELAX NG Schema</a>
+      </li>
+      <li>
+        <a href="#Terminology">5. Terminology</a>
+      </li>
+      <li>
+        <a href="#Document_Types">6. Document Types</a>
+      </li>
+      <ul>
+        <li>
+          <a href="#Document_Extensibility">6.1. Document Extensibility</a>
+        </li>
+      </ul>
+      <li>
+        <a href="#OPDS_Catalog_Feed_Documents">7. OPDS Catalog Feed Documents</a>
+      </li>
+      <ul>
+        <li>
+          <a href="#OPDS_Catalog_Root">7.1. OPDS Catalog Root</a>
+        </li>
+        <li>
+          <a href="#Navigation_Feeds">7.2. Navigation Feeds</a>
+        </li>
+        <li>
+          <a href="#Acquisition_Feeds">7.3. Acquisition Feeds</a>
+        </li>
+        <li>
+          <a href="#OPDS_Catalog_Relations">7.4. OPDS Catalog Relations</a>
+        </li>
+        <ul>
+          <li>
+            <a href="#Sorting_Relations">7.4.1. Sorting Relations</a>
+          </li>
+          <li>
+            <a href="#Popular_Relation">7.4.2. Popular Relation</a>
+          </li>
+          <li>
+            <a href="#Relations_for_Previously_Acquired_Content">7.4.3. Relations for Previously Acquired Content</a>
+          </li>
+          <li>
+            <a href="#Crawlable_Feed_Relation">7.4.4. Crawlable Feed Relation</a>
+          </li>
+        </ul>
+        <li>
+          <a href="#Search">7.5. Search</a>
+        </li>
+        <li>
+          <a href="#Feed_Examples">7.6. Feed Examples</a>
+        </li>
+        <li>
+          <a href="#Element_Definitions">7.7. Element Definitions</a>
+        </li>
+        <ul>
+          <li>
+            <a href="#The_atom_feed_Element">7.7.1. The "atom:feed" Element</a>
+          </li>
+        </ul>
+      </ul>
+      <li>
+        <a href="#OPDS_Catalog_Entry_Documents">8. OPDS Catalog Entry Documents</a>
+      </li>
+      <ul>
+        <li>
+          <a href="#Relationship_Between_Atom_and_Dublin_Core_Metadata">8.1. Relationship Between Atom and Dublin Core Metadata</a>
+        </li>
+        <li>
+          <a href="#Partial_and_Complete_Catalog_Entries">8.2. Partial and Complete Catalog Entries</a>
+        </li>
+        <li>
+          <a href="#Summary_and_Content">8.3. Summary and Content</a>
+        </li>
+        <li>
+          <a href="#Entry_Relations">8.4. Entry Relations</a>
+        </li>
+        <ul>
+          <li>
+            <a href="#Acquisition_Relations">8.4.1. Acquisition Relations</a>
+          </li>
+          <li>
+            <a href="#Artwork_Relations">8.4.2. Artwork Relations</a>
+          </li>
+        </ul>
+        <li>
+          <a href="#Entry_Examples">8.5. Entry Examples</a>
+        </li>
+        <li>
+          <a href="#Element_Definitions">8.6. Element Definitions</a>
+        </li>
+        <ul>
+          <li>
+            <a href="#The_atom_entry_Element">8.6.1. The "atom:entry" Element</a>
+          </li>
+          <li>
+            <a href="#The_atom_link_Element">8.6.2. The "atom:link" Element</a>
+          </li>
+          <li>
+            <a href="#The_opds_price_Element">8.6.3. The "opds:price" Element</a>
+          </li>
+          <ul/>
+        </ul>
+      </ul>
+      <li>
+        <a href="#Acquiring_Publications">9. Acquiring Publications</a>
+      </li>
+      <ul>
+        <li>
+          <a href="#Acquisition_Examples">9.1. Acquisition Examples</a>
+        </li>
+      </ul>
+      <li>
+        <a href="#Feed_Handling">10. Feed Handling</a>
+      </li>
+      <ul>
+        <li>
+          <a href="#Listing_Acquisition_Feeds">10.1. Listing Acquisition Feeds</a>
+        </li>
+        <li>
+          <a href="#Complete_Acquisition_Feeds">10.2. Complete Acquisition Feeds</a>
+        </li>
+      </ul>
+      <li>
+        <a href="#Aggregating_OPDS_Catalogs">11. Aggregating OPDS Catalogs</a>
+      </li>
+      <li>
+        <a href="#Discovering_OPDS_Catalogs">12. Discovering OPDS Catalogs</a>
+      </li>
+      <li>
+        <a href="#Securing_OPDS_Catalogs">13. Securing OPDS Catalogs</a>
+      </li>
+      <li>
+        <a href="#Bandwidth_and_Processing_Considerations">14. Bandwidth and Processing Considerations</a>
+      </li>
+      <li>
+        <a href="#Security_Considerations">15. Security Considerations</a>
+      </li>
+      <ul>
+        <li>
+          <a href="#Linked_Resources">15.1. Linked Resources</a>
+        </li>
+        <li>
+          <a href="#URIs_and_IRIs">15.2. URIs and IRIs</a>
+        </li>
+        <li>
+          <a href="#Code_Injection_and_Cross_Site_Scripting">15.3. Code Injection and Cross Site Scripting</a>
+        </li>
+      </ul>
+      <li>
+        <a href="#The_Atom_Format_Type_Parameter">16. The Atom Format Type Parameter</a>
+      </li>
+      <li>
+        <a href="#The_OPDS_Catalog_Profile_Parameter">17. The OPDS Catalog Profile Parameter</a>
+      </li>
+      <li>
+        <a href="#References">18. References</a>
+      </li>
+      <ul>
+        <li>
+          <a href="#Normative_References">18.1. Normative References</a>
+        </li>
+        <li>
+          <a href="#Informative_References">18.2. Informative References</a>
+        </li>
+      </ul>
+      <li>
+        <a href="#Appendix_A._Contributors">Appendix A. Contributors</a>
+      </li>
+      <li>
+        <a href="#Appendix_B._RELAX_NG_Compact_Schema">Appendix B. RELAX NG Compact Schema</a>
+      </li>
+    </ul>
   </div>
   <div id="Introduction">
     <h1>1. Introduction</h1>

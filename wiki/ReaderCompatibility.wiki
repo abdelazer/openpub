@@ -3,7 +3,8 @@
 (Let's keep the list alphabetical by Name...)
 
 || *Name* || *Platform* || *OPDS Version* || *Notes* ||
-|| Aldiko || Android || 0.9?|| ||
-|| FBReader || Android || 1.0 || Supports purchase links ||
+|| Aldiko || Android || 0.9?|| No OpenSearch support; No full entry support; No support for OPDS 1.0 image rel; No DRM support||
+|| FBReader || Android || 1.0 || Supports purchase links; No DRM support ||
 || Ibis Reader || Web + HTML5 App || 1.0 || No indirect/purchase links; No DRM support ||
-|| Megareader || iPhone || 1.0 || No purchase links; Possible problems with some link types (need info) ||
+|| Megareader || iPhone || 1.0 || No purchase links; Possible problems with some link types (need info); No DRM support ||
+|| Stanza || iOS || pre-0.9|| No OpenSearch support; No full entry support; No support for OPDS 1.0 image rel; No support for most acquisition rel; No support for rel values in acquisitions feeds; No DRM support||

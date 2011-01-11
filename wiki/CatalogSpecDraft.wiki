@@ -611,11 +611,11 @@ If the Publication was available in multiple formats as unique Resources, they w
 
 {{{
 <link rel="http://opds-spec.org/acquisition/borrow" 
-      href="/content/borrow/4561.mobi"/>
-      type="application/x-mobipocket-ebook" 
+      href="/content/borrow/4561.mobi"
+      type="application/x-mobipocket-ebook" />
 <link rel="http://opds-spec.org/acquisition/borrow" 
-      href="/content/borrow/4561.epub"/>
-      type="application/epub+zip" 
+      href="/content/borrow/4561.epub"
+      type="application/epub+zip" />
 }}}
 
 If the Publication requires payment, at least one opds:price element is required:

@@ -21,9 +21,9 @@
     <xsl:value-of select="pid"/>
     <li>
       <a>
-      <xsl:attribute name="href"><xsl:value-of select="concat('#', $pid)"/></xsl:attribute>
+        <xsl:attribute name="href"><xsl:value-of select="concat('#', $pid)"/></xsl:attribute>
+        <xsl:value-of select="*[1]"/>
       </a>
-      <xsl:value-of select="*[1]"/>
     </li>
     <xsl:if test=".//h2">
       <ul>
@@ -36,9 +36,9 @@
     <xsl:value-of select="pid"/>
     <li>
       <a>
-      <xsl:attribute name="href"><xsl:value-of select="concat('#', $pid)"/></xsl:attribute>
+        <xsl:attribute name="href"><xsl:value-of select="concat('#', $pid)"/></xsl:attribute>
+        <xsl:value-of select="*[1]"/>
       </a>
-      <xsl:value-of select="*[1]"/>
     </li>
     <xsl:if test=".//h3">
       <ul>
@@ -51,9 +51,9 @@
     <xsl:value-of select="pid"/>
     <li>
       <a>
-      <xsl:attribute name="href"><xsl:value-of select="concat('#', $pid)"/></xsl:attribute>
+        <xsl:attribute name="href"><xsl:value-of select="concat('#', $pid)"/></xsl:attribute>
+        <xsl:value-of select="*[1]"/>
       </a>
-      <xsl:value-of select="*[1]"/>
     </li>
     <xsl:if test=".//h4">
       <ul>

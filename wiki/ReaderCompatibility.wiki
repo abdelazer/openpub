@@ -3,7 +3,8 @@
 (Let's keep the list alphabetical by Name...)
 
 || *Name* || *Platform* || *OPDS Version* || *Notes* ||
-|| Aldiko || Android || 0.9?|| No OpenSearch support; No full entry support; No support for OPDS 1.0 image rel; No DRM support||
+|| Aldiko 2.0 || Android || 1.0 || DRM Support; In-App direct acquisition support; No OpenSearch support;||
+|| Bluefire Reader || iOS || 1.0 || DRM Support; Indirect acquisition through Safari for purchase;||
 || FBReader || Android || 1.0 || Supports purchase links; No DRM support ||
 || Ibis Reader || Web + HTML5 App || 1.0 || No indirect/purchase links; No DRM support ||
 || MegaReader || iOS || 1.0 / 0.9 / pre-0.9 || No purchase links; No DRM support; ||
@@ -14,7 +15,7 @@
 
 == User Agent Strings ==
 
-|| Aldiko || Mozilla/5.0 (Linux; U; Android 2.2; en-us; PC36100 Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 Aldiko/1.2.13 ||
+|| Aldiko || Mozilla/5.0 (Linux; U; Android 2.2.1; fr-fr; A70S Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 Aldiko/2.0-standard ||
 || FBReader || FBReader/0.7.8(java) ||
 || Stanza (iPad) || Stanza/3.0.3 iPhone OS/3.2.2/iPad catalog/3.0.3 ||
 || Stanza (iPhone) || Stanza/3.0.3 iPhone OS/4.0/iPhone catalog/3.0.3 ||

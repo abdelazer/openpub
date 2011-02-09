@@ -142,7 +142,7 @@ This specification defines two new relations, which begin with "http://opds-spec
 
 Acquisition Feeds using the "http://opds-spec.org/sort/new" relation SHOULD be ordered with the most recent items first. Acquisition Feeds using the "http://opds-spec.org/sort/popular" relation SHOULD be ordered with the most popular items first.
 
-=== Popular Relation ===
+=== Featured Relation ===
 
 This specification also defines a relation to describe an Acquisition Feed of featured items. This relation SHOULD be used when creating Navigation Feeds and the OPDS Catalog Root, if applicable.
 

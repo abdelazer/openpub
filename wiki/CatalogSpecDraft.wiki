@@ -126,12 +126,12 @@ OPDS Catalog Feed Documents SHOULD include links to other available Acquisition 
 
 These relations MAY be used by clients to provide additional or alternative navigation, both in a Navigation Feed or an Acquisition Feed.
 
-The following relations are derived from `[DRAFT-Web-Linking]`, with some clarification:
+The following relations are derived from `[RFC5988]`, with some clarification:
 
   * "start": The OPDS Catalog Root.
   * "subsection": A Navigation Feed not better described by a more specific relation.
 
-When creating an OPDS Catalog with Navigation and Acquisition Feeds, OPDS Catalog providers are encouraged to use the relations defined in this specification and `[DRAFT-Web-Linking]`. If no appropriate relation is found, the Feeds SHOULD use a descriptive "atom:title" element and the "atom:link"s SHOULD use a descriptive "title" attribute.
+When creating an OPDS Catalog with Navigation and Acquisition Feeds, OPDS Catalog providers are encouraged to use the relations defined in this specification and `[RFC5988]`. If no appropriate relation is found, the Feeds SHOULD use a descriptive "atom:title" element and the "atom:link"s SHOULD use a descriptive "title" attribute.
 
 === Sorting Relations ===
 
@@ -467,7 +467,7 @@ atomSummary =
 
 OPDS Catalog Entry Documents SHOULD include links to related Resources. This specification defines new relations for linking from OPDS Catalog Entry Documents. They are defined in the Sections Acquisition Relations and Artwork Relations.
 
-OPDS Catalog providers are encouraged to use relations from `[DRAFT-Web-Linking]` inside OPDS Catalog Entry Documents where appropriate.
+OPDS Catalog providers are encouraged to use relations from `[RFC5988]` inside OPDS Catalog Entry Documents where appropriate.
 
 === Acquisition Relations ===
 
@@ -739,7 +739,7 @@ An example of two links inside an HTML page about the same Publication:
       title="Example OPDS Entry" /> 
 }}}
 
-Auto-discovery links MAY also be expressed using HTTP headers as defined in `[DRAFT-Web-Linking]`.
+Auto-discovery links MAY also be expressed using HTTP headers as defined in `[RFC5988]`.
 
 = Securing OPDS Catalogs =
 
@@ -800,7 +800,6 @@ application/atom+xml;profile=opds-catalog
 
 == Normative References =
 
-  * `[DRAFT-Web-Linking]` Nottingham, M., "Web Linking", draft-nottingham-http-link-header-10, May 2010, http://tools.ietf.org/html/draft-nottingham-http-link-header.
   * `[DCTERMS]` DCMI Usage Board, "DCMI Metadata Terms", January 2008, http://dublincore.org/documents/dcmi-terms/.
   * `[ISO4217]` "ISO 4217 currency and funds name and code elements", International Standard ISO 4217, http://www.iso.org/iso/en/prods-services/popstds/currencycodeslist.html.
   * `[MIMEREG]` Freed, N. and J. Klensin, "Media Type Specifications and Registration Procedures", BCP 13, RFC 4288, December 2005.
@@ -810,7 +809,7 @@ application/atom+xml;profile=opds-catalog
   * `[REC-xml-names]` Hollander, D., Bray, T., Tobin, R., and A. Layman, "Namespaces in XML 1.0 (Second Edition)", World Wide Web Consortium Recommendation REC-xml-names-20060816, August 2006, http://www.w3.org/TR/2006/REC-xml-names-20060816.
   * `[RFC2119]` Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997.
   * `[RFC2246]` Dierks, T. and C. Allen, "The TLS Protocol Version 1.0", RFC 2246, January 1999.
-  * `[RFC2397]` L. Masinter, "The 'data' URL scheme", RFC 2397, August 1998.
+  * `[RFC2397]` Masinter, L., "The 'data' URL scheme", RFC 2397, August 1998.
   * `[RFC2616]` Fielding, R., Gettys, J., Mogul, J., Frystyk, H., Masinter, L., Leach, P., and T. Berners-Lee, "Hypertext Transfer Protocol -- HTTP/1.1", RFC 2616, June 1999.
   * `[RFC2617]` Franks, J., Hallam-Baker, P., Hostetler, J., Lawrence, S., Leach, P., Luotonen, A., and L. Stewart, "HTTP Authentication: Basic and Digest Access Authentication", RFC 2617, June 1999.
   * `[RFC2818]` Rescorla, E., "HTTP Over TLS", RFC 2818, May 2000.
@@ -818,8 +817,9 @@ application/atom+xml;profile=opds-catalog
   * `[RFC3987]` Duerst, M. and M. Suignard, "Internationalized Resource Identifiers (IRIs)", RFC 3987, January 2005.
   * `[RFC4287]` Nottingham, M. and R. Sayre, "The Atom Syndication Format", RFC 4287, December 2005.  
   * `[RFC4288]` Freed, N. and J. Klensin, "Media Type Specifications and Registration Procedures", RFC 4288, December 2005.
-  * `[RFC4685]` J. Snell, "Atom Threading Extensions", RFC 4685, September 2006.
+  * `[RFC4685]` Snell, J., "Atom Threading Extensions", RFC 4685, September 2006.
   * `[RFC5005]` Nottingham, M., "Feed Paging and Archiving", RFC 5005, September 2007.   
+  * `[RFC5988]` Nottingham, M., "Web Linking", RFC5988, October 2010.
 
 == Informative References ==
 

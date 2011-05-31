@@ -157,12 +157,67 @@ An OPDS catalog MAY track content that was previously acquired by the user. This
 
 An OPDS client MAY use these links to automatically sync content to the user's local shelf or check for periodical content updates.
 
+=== Facets ===
+
+An Acquisition Feed MAY offer multiple links to reorder the Publications listed in the feed or limit them to a subset. This specification defines one new relation to identify such links as facets:
+  * "http://opds-spec.org/facet": An Acquisition Feed with a subset or an alternate order of the Publications listed. 
+
+Links using this relation MUST only appear in Acquisition Feeds.
+
+Facets can also be aggregated in named groups using an OPDS specific attribute : "opds:facetGroup". 
+The value of this attribute is the name of the group.
+
+Every facet SHALL be contained in one and only named group.
+
+{{{
+<link rel="http://opds-spec.org/facet" 
+      href="/sci-fi" 
+      title="Science-Fiction" 
+      opds:facetGroup="Categories" />
+<link rel="http://opds-spec.org/facet" 
+      href="/romance" 
+      title="Romance"  
+      opds:facetGroup="Categories" />
+}}}
+
+When a facet is active, the catalog provider SHOULD provide this information using another OPDS specific attribute : "opds:activeFacet", set to "true".
+
+When inactive the whole attribute SHOULD NOT appear in the link.
+
+In a facet group, only a single facet CAN be marked as active.
+
+{{{
+<link rel="http://opds-spec.org/facet" 
+      href="/sci-fi" 
+      title="Science-Fiction" 
+      opds:facetGroup="Categories" 
+      opds:activeFacet="true" />
+<link rel="http://opds-spec.org/facet" 
+      href="/romance" 
+      title="Romance"  
+      opds:facetGroup="Categories" />
+}}}
+
+To improve the experience, catalog publishers CAN announce the number of Publications expected using an attribute extracted from the Atom Threading Extension [RFC4685] : "thr:count".
+
+{{{
+<link rel="http://opds-spec.org/facet" 
+      href="/sci-fi" 
+      title="Science-Fiction" 
+      opds:facetGroup="Categories" 
+      opds:activeFacet="true" />
+<link rel="http://opds-spec.org/facet" 
+      href="/romance" 
+      title="Romance"  
+      opds:facetGroup="Categories" 
+      thr:count="600" />
+}}}
+
 === Crawlable Feed Relation ===
 
 For aggregation or crawling purposes, an OPDS Catalog MAY link to an optimized Acquisition Feed. This specification defines one new relation for this goal: "http://opds-spec.org/crawlable".
 
 See Complete Acquisition Feeds for more information about this feed.
-
   
 
 == Search ==

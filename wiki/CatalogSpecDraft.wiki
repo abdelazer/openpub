@@ -796,7 +796,7 @@ The complete media type for a relation to an OPDS Catalog Feed Document Resource
 application/atom+xml;profile=opds-catalog
 }}}
 
-= The OPDS Kind Profile Parameter ==
+= The OPDS Kind Parameter ==
 
 In addition to the new "profile" parameter, this specification also introduces a new "kind" parameter following Section 4.3 of `[RFC4288]` with the value "acquisition" or "navigation". This "kind" parameter provides clients with an advisory hint whether the Resource should be an  Acquisition Feed or a Navigation Feed.
 

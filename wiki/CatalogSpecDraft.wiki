@@ -48,7 +48,7 @@ The following terminology is used by this specification:
 
   * Acquisition Feed -- An Atom Feed whose Atom Entries are exclusively OPDS Catalog Entries.
   * Acquisition Link -- An atom:link element with a relation that begins with "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described Publication or the Resource through which it may be acquired for any OPDS Catalog Entry. See the Sections Acquisition Relations and Acquiring Publications. They are serialized as OPDS Catalog Feed Documents.
-  * Complete Catalog Entry -- An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry.
+  * Complete Catalog Entry -- An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry. 
   * IRI -- An Internationalized Resource Identifier as defined in `[RFC3987]`. 
   * Navigation Feed -- An Atom Feed whose Atom Entries are not OPDS Catalog Entries but instead links to other Navigation Feeds, Acquisition Feeds, or other Resources to establish a hierarchical, browsable presentation of the OPDS Catalog. 
   * OPDS Catalog -- All of the Atom Feeds (Acquisition and Navigation) and Entries (Partial and Complete) following this specification published together to describe a consolidated group of available Publications.
@@ -645,6 +645,23 @@ opdsPrice =
 
 On the opds:price element, the value of the "currencycode" attribute MUST be an active code from `[ISO4217]` representing a currency. It defines the currency used for the content of the opds:price element.
 
+=== The "opds:indirectAcquisition" Element ===
+
+In some cases, the catalog provider MAY force the client to go through another Resource before they can acquire the Publication.
+This can be the case for example with containers (archive formats, multimedia containers for various formats) or when a payment is required (need to go through a series of HTML pages to handle the transaction).
+
+The "opds:indirectAcquisition" element represents these secondary media types `[MIMEREG]` that the client can expect to acquire if they follow the Acquisition Link.
+
+{{{
+opdsIndirectAcquisition = 
+  element opds:indirectAcquisition {
+    atomCommonAttributes,
+    attribute type { atomMediaType },
+    anyOPDSForeignElement* & 
+    opdsIndirectAcquisition* 
+  }
+}}}
+
 = Acquiring Publications =
 
 The goal of OPDS Catalogs is to make Publications both discoverable and straightforward to acquire on a range of devices and platforms. To support that goal, this specification strives to provide a framework for describing how a Publication may be acquired while not attempting to constrain this very complex topic. Commonly-used acquisition scenarios may be specified in an update to this specification.
@@ -671,12 +688,13 @@ If the Publication was available in multiple formats as unique Resources, they w
 <link rel="http://opds-spec.org/acquisition/borrow" 
       href="/content/borrow/4561.mobi"
       type="application/x-mobipocket-ebook" />
+
 <link rel="http://opds-spec.org/acquisition/borrow" 
       href="/content/borrow/4561.epub"
       type="application/epub+zip" />
 }}}
 
-If the Publication requires payment, at least one opds:price element is required:
+If the Publication requires payment, at least one "opds:price" element is required:
 
 {{{
 <link rel="http://opds-spec.org/acquisition/buy"
@@ -684,6 +702,30 @@ If the Publication requires payment, at least one opds:price element is required
       type="audio/mpeg">
   <opds:price currencycode="USD">1.99</opds:price> 
 </link> 
+}}}
+
+If the same Publication requires a payment through an HTML page, then an "opds:indirectAcquisition" element is required:
+
+{{{
+<link rel="http://opds-spec.org/acquisition/buy"
+      href="/product/1"
+      type="text/html">
+  <opds:price currencycode="USD">1.99</opds:price>
+  <opds:indirectAcquisition type="audio/mpeg" />
+</link> 
+}}}
+
+Multiple "opds:indirectAcquisition" elements can also be used as child elements of an Acquisition Link or another "opds:indirectAcquisition" when this is necessary (a bundle would be a good example):
+
+{{{
+<link type="text/html" rel="http://opds-spec.org/acquisition/buy" href="/item/1111/buy/">
+  <opds:price currencycode="EUR">10.99</opds:price>
+  <opds:indirectAcquisition type="application/zip">
+    <opds:indirectAcquisition type="application/epub+zip" />
+    <opds:indirectAcquisition type="application/pdf" />
+    <opds:indirectAcquisition type="application/x-mobipocket-ebook" />
+  </opds:indirectAcquisition>
+</link>
 }}}
 
 = Feed Handling =

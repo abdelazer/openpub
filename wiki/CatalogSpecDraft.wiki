@@ -952,11 +952,14 @@ include "atom.rnc" {
       attribute hreflang { atomLanguageTag }? &
       attribute title { text }? &
       attribute length { text }? &
+      attribute opds:facetGroup { text }? &
+      attribute opds:activeFacet { "true" }? &
     ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
      |
      (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
      |
      (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? &
+      opdsIndirectAcquisition* & 
       anyOPDSForeignElement* & 
       text
     }
@@ -985,6 +988,18 @@ anyOPDSForeignElement =
       | anyElement )*
   }
 
+
+# An opds:indirectAcquisition should use strictly MIME media type for
+#its type attribute
+opdsIndirectAcquisition = 
+  element opds:indirectAcquisition {
+    atomCommonAttributes,
+    attribute type { atomMediaType },
+    anyOPDSForeignElement* & 
+    opdsIndirectAcquisition* 
+  }
+
+
 # An opds:price element should not contain a currency symbol; it is
 # restricted to non-negative decimal numbers.
 opdsPrice = 
@@ -993,6 +1008,7 @@ opdsPrice =
     attribute currencycode { opdsPriceCurrencyCode },
     xsd:decimal { minInclusive="0.0" } 
   }
+
 
 # Instead of allowing every possible 3-letter or 3-digit combination as a
 # currency code, here the permissible codes (as identified in ISO4217 as of

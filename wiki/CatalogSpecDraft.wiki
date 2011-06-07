@@ -599,19 +599,22 @@ The "atom:link" element defines a reference from an Atom Entry or Atom Feed to a
 {{{
 atomLink =
   element atom:link {
-    atomCommonAttributes &
-    attribute href { atomUri } &
-    attribute type { atomMediaType }? &
-    attribute hreflang { atomLanguageTag }? &
-    attribute title { text }? &
-    attribute length { text }? &
+    atomCommonAttributes ,
+    attribute href { atomUri },
+    attribute type { atomMediaType }? ,
+    attribute hreflang { atomLanguageTag }? ,
+    attribute title { text }? ,
+    attribute length { text }? ,
+    attribute opds:facetGroup { text }? ,
+    attribute opds:activeFacet { "true" }? ,
   ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
-    |
-    (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
-    |
-    (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? &
-    anyOPDSForeignElement* & 
-    text
+   |
+   (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
+   |
+   (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? ,
+    (opdsIndirectAcquisition & 
+    anyOPDSForeignElement & 
+    text)*
   }
 
   # Here is where OPDS Catalogs use John Cowan's pragmatic evaluation of an
@@ -944,24 +947,28 @@ OPDSUrisExceptBuy = string "http://opds-spec.org/acquisition/borrow"
 # schema definition should change to xsd:anyURI to match what the spec text
 # says.
 include "atom.rnc" {
+
+undefinedAttribute =
+  attribute * - (xml:base | xml:lang | local:*| opds:* ) { text }
+
   atomLink =
     element atom:link {
-      atomCommonAttributes &
-      attribute href { atomUri } &
-      attribute type { atomMediaType }? &
-      attribute hreflang { atomLanguageTag }? &
-      attribute title { text }? &
-      attribute length { text }? &
-      attribute opds:facetGroup { text }? &
-      attribute opds:activeFacet { "true" }? &
+      atomCommonAttributes ,
+      attribute href { atomUri },
+      attribute type { atomMediaType }? ,
+      attribute hreflang { atomLanguageTag }? ,
+      attribute title { text }? ,
+      attribute length { text }? ,
+      attribute opds:facetGroup { text }? ,
+      attribute opds:activeFacet { "true" }? ,
     ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
      |
      (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
      |
-     (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? &
-      opdsIndirectAcquisition* & 
-      anyOPDSForeignElement* & 
-      text
+     (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? ,
+      (opdsIndirectAcquisition & 
+      anyOPDSForeignElement & 
+      text)*
     }
 
     # Here is where OPDS Catalogs use John Cowan's pragmatic evaluation of an
@@ -995,8 +1002,8 @@ opdsIndirectAcquisition =
   element opds:indirectAcquisition {
     atomCommonAttributes,
     attribute type { atomMediaType },
-    (anyOPDSForeignElement & 
-    opdsIndirectAcquisition)* 
+    (anyOPDSForeignElement &
+    opdsIndirectAcquisition )*
   }
 
 

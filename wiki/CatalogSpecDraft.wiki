@@ -657,8 +657,8 @@ opdsIndirectAcquisition =
   element opds:indirectAcquisition {
     atomCommonAttributes,
     attribute type { atomMediaType },
-    anyOPDSForeignElement* & 
-    opdsIndirectAcquisition* 
+    (anyOPDSForeignElement & 
+    opdsIndirectAcquisition)* 
   }
 }}}
 

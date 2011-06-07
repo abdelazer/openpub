@@ -110,13 +110,13 @@ Each OPDS Catalog Feed Document SHOULD contain an atom:link element with a link 
 
 A Navigation Feed is an OPDS Catalog Feed Document whose Atom Entries serve to create a suggested hierarchy for presentation and browsing. A Navigation Feed MUST NOT contain OPDS Catalog Entries but instead contains Atom Entries that link to other Navigation or Acquisition Feeds or other Resources. Each Atom Entry's "atom:content" element SHOULD include a brief description of the linked Resource.
 
-Links to Navigation Feeds SHOULD use the "type" attribute "application/atom+xml;profile=opds-catalog". OPDS Catalog providers SHOULD choose the best relation for each Navigation Feed based on the relations in the section OPDS Catalog Relations. The relation "subsection" SHOULD be used if no other relation is more appropriate.
+Links to Navigation Feeds SHOULD use the "type" attribute "application/atom+xml;profile=opds-catalog;kind=navigation". OPDS Catalog providers SHOULD choose the best relation for each Navigation Feed based on the relations in the section OPDS Catalog Relations. The relation "subsection" SHOULD be used if no other relation is more appropriate.
 
 == Acquisition Feeds ==
 
 An Acquisition Feed is an OPDS Catalog Feed Document that collects OPDS Catalog Entries into a single, ordered set. The simplest complete OPDS Catalog would be a single Acquisition Feed listing all of the available OPDS Catalog Entries from that provider. In more complex OPDS Catalogs, Acquisition Feeds are used to present and organize sets of related OPDS Catalog Entries for browsing and discovery by clients and aggregators. 
 
-Links to Acquisition Feeds SHOULD use the "type" attribute "application/atom+xml;profile=opds-catalog".
+Links to Acquisition Feeds SHOULD use the "type" attribute "application/atom+xml;profile=opds-catalog;kind=acquisition".
 
 For further details on limiting the size of Acquisition Feeds through pagination, Partial Catalog Entries, and compression, see the Section Listing Acquisition Feeds.
 
@@ -250,10 +250,10 @@ An OPDS Catalog Root that is the top of a set of Navigation Feeds references thr
   <id>urn:uuid:2853dacf-ed79-42f5-8e8a-a7bb3d1ae6a2</id>
   <link rel="self"  
         href="/opds-catalogs/root.xml" 
-        type="application/atom+xml;profile=opds-catalog"/>
+        type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="start" 
         href="/opds-catalogs/root.xml" 
-        type="application/atom+xml;profile=opds-catalog"/>
+        type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <title>OPDS Catalog Root Example</title>
   <updated>2010-01-10T10:03:10Z</updated>
   <author>
@@ -265,7 +265,7 @@ An OPDS Catalog Root that is the top of a set of Navigation Feeds references thr
     <title>Popular Publications</title>
     <link rel="http://opds-spec.org/sort/popular" 
           href="/opds-catalogs/popular.xml"
-          type="application/atom+xml;profile=opds-catalog"/>
+          type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
     <updated>2010-01-10T10:01:01Z</updated>
     <id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56e</id>
     <content type="text">Popular publications from this catalog based on downloads.</content>
@@ -274,7 +274,7 @@ An OPDS Catalog Root that is the top of a set of Navigation Feeds references thr
     <title>New Publications</title>
     <link rel="http://opds-spec.org/sort/new" 
           href="/opds-catalogs/new.xml"
-          type="application/atom+xml;profile=opds-catalog"/>
+          type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
     <updated>2010-01-10T10:02:00Z</updated>
     <id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56c</id>
     <content type="text">Recent publications from this catalog.</content>
@@ -283,7 +283,7 @@ An OPDS Catalog Root that is the top of a set of Navigation Feeds references thr
     <title>Unpopular Publications</title>
     <link rel="subsection" 
           href="/opds-catalogs/unpopular.xml"
-          type="application/atom+xml;profile=opds-catalog"/>
+          type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
     <updated>2010-01-10T10:01:00Z</updated>
     <id>urn:uuid:d49e8018-a0e0-499e-9423-7c175fa0c56d</id>
     <content type="text">Publications that could use some love.</content>
@@ -301,16 +301,16 @@ An Acquisition Feed listing OPDS Catalog Entries from the "Unpopular Publication
 
   <link rel="related" 
         href="/opds-catalogs/vampire.farming.xml" 
-        type="application/atom+xml;profile=opds-catalog"/>
+        type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="self"    
         href="/opds-catalogs/unpopular.xml"
-        type="application/atom+xml;profile=opds-catalog"/>
+        type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start"   
         href="/opds-catalogs/root.xml"
-        type="application/atom+xml;profile=opds-catalog"/>
+        type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up"      
         href="/opds-catalogs/root.xml"
-        type="application/atom+xml;profile=opds-catalog"/>
+        type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 
   <title>Unpopular Publications</title>
   <updated>2010-01-10T10:01:11Z</updated>

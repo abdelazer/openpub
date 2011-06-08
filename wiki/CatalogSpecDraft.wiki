@@ -675,6 +675,9 @@ Publications in a format using Digital Rights Management SHOULD use a different 
 
 OPDS Catalog clients may only support a subset of all possible Publication media types. These clients will need to filter both the type attribute of Acquisition Links.
 
+OPDS Catalogs may only provide certain Publications through an Indirect Acquisition, either through a container or a different Acquisition workflow.
+In such cases, it is up to the clients to filter these publications based on both the "opds:indirectAcquisition" and "atom:link" type attributes.
+
 == Acquisition Examples ==
 
 The simplest case is a Publication available in one format:

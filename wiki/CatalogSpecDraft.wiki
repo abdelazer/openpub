@@ -148,6 +148,12 @@ This specification also defines a relation to describe an Acquisition Feed of fe
 
   * "http://opds-spec.org/featured": An Acquisition Feed with featured OPDS Catalog Entries. These Acquisition Feeds typically contain a subset of the OPDS Catalog Entries in an OPDS Catalog that have been selected for promotion by the OPDS Catalog provider. No order is implied.
 
+=== Recommendations ===
+
+This specification also defines a relation to describe an Acquisition Feed of recommended items. Since recommendations can be customized for the user, such feed may require some kind of prior authentication. This relation SHOULD be used when creating Navigation Feeds and the OPDS Catalog Root, if applicable.
+
+  * "http://opds-spec.org/recommended": An Acquisition Feed with recommended OPDS Catalog Entries. These Acquisition Feeds typically contain a subset of the OPDS Catalog Entries in an OPDS Catalog that have been selected specifically for the user. Acquisition Feeds using the "http://opds-spec.org/recommended" relation SHOULD be ordered with the most recommended items first.
+
 === Relations for Previously Acquired Content ===
 
 An OPDS catalog MAY track content that was previously acquired by the user. This specification defines two new relations to identify Acquisition Feeds listing such resources:

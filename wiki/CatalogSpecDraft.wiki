@@ -245,16 +245,24 @@ In an `[OpenSearch]` description document, the search interface SHOULD use the m
      template="http://example.com/search?q={searchTerms}" />
 }}}
 
-An OPDS Catalog MAY also provide more advanced possibilities for its search endpoint, using fully qualified parameters from the Atom namespace such as:
+An OPDS Catalog MAY also provide more advanced possibilities for its search endpoint, using one or more fully qualified parameters from the Atom namespace such as:
  * atom:author
  * atom:contributor
  * atom:title
+
+For example with the following template:
 
 {{{
 <Url type="application/atom+xml;profile=opds-catalog"
      xmlns:atom="http://www.w3.org/2005/Atom"
      template="http://example.com/search?q={searchTerms}&author={atom:author}&contributor={atom:contributor}&title={atom:title}" />
 }}}
+
+An OPDS Client may do the following searches:
+ * http://example.com/search?q=gardening
+ * http://example.com/search?q=gardening&author=smith
+ * http://example.com/search?author=drucker
+ * http://example.com/search?author=ferriss&title=four
 
 OPDS Catalog Feed Documents MAY include elements from the `[OpenSearch]` namespace such as "opensearch:totalResults" or "opensearch:itemsPerPage" in `[OpenSearch]` responses.
 

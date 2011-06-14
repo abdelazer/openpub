@@ -637,8 +637,8 @@ atomLink =
    (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
    |
    (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? ,
-    (opdsIndirectAcquisition & 
-    anyOPDSForeignElement & 
+    (opdsIndirectAcquisition |
+    anyOPDSForeignElement |
     text)*
   }
 
@@ -685,8 +685,8 @@ opdsIndirectAcquisition =
   element opds:indirectAcquisition {
     atomCommonAttributes,
     attribute type { atomMediaType },
-    (anyOPDSForeignElement & 
-    opdsIndirectAcquisition)* 
+    (  anyOPDSForeignElement | 
+      opdsIndirectAcquisition) *
   }
 }}}
 
@@ -994,8 +994,8 @@ undefinedAttribute =
      (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
      |
      (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? ,
-      (opdsIndirectAcquisition & 
-      anyOPDSForeignElement & 
+      (opdsIndirectAcquisition |
+      anyOPDSForeignElement |
       text)*
     }
 
@@ -1021,7 +1021,7 @@ anyOPDSForeignElement =
       ( attribute * { text }
       | text
       | anyElement )*
-  }
+  } 
 
 
 # An opds:indirectAcquisition should use strictly MIME media type for
@@ -1030,8 +1030,8 @@ opdsIndirectAcquisition =
   element opds:indirectAcquisition {
     atomCommonAttributes,
     attribute type { atomMediaType },
-    (anyOPDSForeignElement &
-    opdsIndirectAcquisition )*
+    (  anyOPDSForeignElement | 
+      opdsIndirectAcquisition) *
   }
 
 
@@ -1080,6 +1080,7 @@ opdsPriceCurrencyCode =  (
   "968" | "969" | "970" | "971" | "972" | "973" | "974" | "975" | "976" | "977" | "978" | "979" | "980" | 
   "981" | "984" | "985" | "986" | "990" | "997" | "998" | "999"
 )
+
 }}}
 
 This schema is also maintained in version control: http://openpub.googlecode.com/svn/trunk/schemas/opds_catalog.rnc

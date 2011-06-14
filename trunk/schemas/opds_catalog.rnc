@@ -44,21 +44,28 @@ OPDSUrisExceptBuy = string "http://opds-spec.org/acquisition/borrow"
 # schema definition should change to xsd:anyURI to match what the spec text
 # says.
 include "atom.rnc" {
+
+undefinedAttribute =
+  attribute * - (xml:base | xml:lang | local:*| opds:* ) { text }
+
   atomLink =
     element atom:link {
-      atomCommonAttributes &
-      attribute href { atomUri } &
-      attribute type { atomMediaType }? &
-      attribute hreflang { atomLanguageTag }? &
-      attribute title { text }? &
-      attribute length { text }? &
+      atomCommonAttributes ,
+      attribute href { atomUri },
+      attribute type { atomMediaType }? ,
+      attribute hreflang { atomLanguageTag }? ,
+      attribute title { text }? ,
+      attribute length { text }? ,
+      attribute opds:facetGroup { text }? ,
+      attribute opds:activeFacet { "true" }? ,
     ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
      |
      (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
      |
-     (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? &
-      anyOPDSForeignElement* & 
-      text
+     (attribute rel { atomNCName | ( atomUriExceptOPDS ) } ))? ,
+      (opdsIndirectAcquisition |
+      anyOPDSForeignElement |
+      text)*
     }
 
     # Here is where OPDS Catalogs use John Cowan's pragmatic evaluation of an
@@ -83,7 +90,19 @@ anyOPDSForeignElement =
       ( attribute * { text }
       | text
       | anyElement )*
+  } 
+
+
+# An opds:indirectAcquisition should use strictly MIME media type for
+#its type attribute
+opdsIndirectAcquisition = 
+  element opds:indirectAcquisition {
+    atomCommonAttributes,
+    attribute type { atomMediaType },
+    (  anyOPDSForeignElement | 
+      opdsIndirectAcquisition) *
   }
+
 
 # An opds:price element should not contain a currency symbol; it is
 # restricted to non-negative decimal numbers.
@@ -93,6 +112,7 @@ opdsPrice =
     attribute currencycode { opdsPriceCurrencyCode },
     xsd:decimal { minInclusive="0.0" } 
   }
+
 
 # Instead of allowing every possible 3-letter or 3-digit combination as a
 # currency code, here the permissible codes (as identified in ISO4217 as of

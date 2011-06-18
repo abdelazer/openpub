@@ -630,9 +630,9 @@ atomLink =
     attribute hreflang { atomLanguageTag }? ,
     attribute title { text }? ,
     attribute length { text }? ,
-    attribute opds:facetGroup { text }? ,
-    attribute opds:activeFacet { "true" }? ,
-  ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
+  ((attribute rel { "http://opds-spec.org/facet" }, (attribute opds:facetGroup { text }? & attribute opds:activeFacet { "true" }? ))
+    |
+   (attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
    |
    (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
    |
@@ -987,9 +987,9 @@ undefinedAttribute =
       attribute hreflang { atomLanguageTag }? ,
       attribute title { text }? ,
       attribute length { text }? ,
-      attribute opds:facetGroup { text }? ,
-      attribute opds:activeFacet { "true" }? ,
-    ((attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
+    ((attribute rel { "http://opds-spec.org/facet" }, (attribute opds:facetGroup { text }? & attribute opds:activeFacet { "true" }? ))
+      |
+     (attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
      |
      (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)
      |
@@ -1080,7 +1080,6 @@ opdsPriceCurrencyCode =  (
   "968" | "969" | "970" | "971" | "972" | "973" | "974" | "975" | "976" | "977" | "978" | "979" | "980" | 
   "981" | "984" | "985" | "986" | "990" | "997" | "998" | "999"
 )
-
 }}}
 
 This schema is also maintained in version control: http://openpub.googlecode.com/svn/trunk/schemas/opds_catalog.rnc

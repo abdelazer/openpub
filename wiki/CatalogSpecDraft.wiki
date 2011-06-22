@@ -250,7 +250,11 @@ An OPDS Catalog MAY also provide more advanced possibilities for its search endp
  * atom:contributor
  * atom:title
 
-For example with the following template:
+OPDS Catalog Feed Documents MAY include elements from the `[OpenSearch]` namespace such as "opensearch:totalResults" or "opensearch:itemsPerPage" in `[OpenSearch]` responses.
+
+=== Search Example == 
+
+In order to provide a search endpoint that supports both basic (keyword based) search and advanced example, an OPDS Catalog could provide the following template in its OpenSearch Description document:
 
 {{{
 <Url type="application/atom+xml;profile=opds-catalog"
@@ -258,13 +262,11 @@ For example with the following template:
      template="http://example.com/search?q={searchTerms}&author={atom:author}&contributor={atom:contributor}&title={atom:title}" />
 }}}
 
-An OPDS Client may do the following searches:
+With such a template, an OPDS Client could for example support the following search queries:
  * http://example.com/search?q=gardening
  * http://example.com/search?q=gardening&author=smith
  * http://example.com/search?author=drucker
  * http://example.com/search?author=ferriss&title=four
-
-OPDS Catalog Feed Documents MAY include elements from the `[OpenSearch]` namespace such as "opensearch:totalResults" or "opensearch:itemsPerPage" in `[OpenSearch]` responses.
 
 == Feed Examples ==
 
@@ -675,10 +677,12 @@ On the opds:price element, the value of the "currencycode" attribute MUST be an 
 
 === The "opds:indirectAcquisition" Element ===
 
-In some cases, the catalog provider MAY force the client to go through another Resource before they can acquire the Publication.
+In some cases, the OPDS Catalog provider MAY require the client to acquire an intermediate Resource before acquiring the final Publication.
 This can be the case for example with containers (archive formats, multimedia containers for various formats) or when a payment is required (need to go through a series of HTML pages to handle the transaction).
 
 The "opds:indirectAcquisition" element represents these secondary media types `[MIMEREG]` that the client can expect to acquire if they follow the Acquisition Link.
+
+These "opds:indirectAcquisition" elements CAN be arbitrarily nested to represent several levels of indirection.
 
 {{{
 opdsIndirectAcquisition = 
@@ -735,7 +739,8 @@ If the Publication requires payment, at least one "opds:price" element is requir
 </link> 
 }}}
 
-If the same Publication requires a payment through an HTML page, then an "opds:indirectAcquisition" element is required:
+If the same Publication requires a payment through an HTML page, then an "opds:indirectAcquisition" element is required to
+describe the content type of the final Publication Representation:
 
 {{{
 <link rel="http://opds-spec.org/acquisition/buy"
@@ -987,8 +992,9 @@ undefinedAttribute =
       attribute hreflang { atomLanguageTag }? ,
       attribute title { text }? ,
       attribute length { text }? ,
-    ((attribute rel { "http://opds-spec.org/facet" }, (attribute opds:facetGroup { text }? & attribute opds:activeFacet { "true" }? ))
-      |
+    ((attribute rel { "http://opds-spec.org/facet" }, (attribute
+       opds:facetGroup { text }? & attribute opds:activeFacet { "true" }? ))
+     |
      (attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
      |
      (attribute rel { OPDSUrisExceptBuy }, opdsPrice*)

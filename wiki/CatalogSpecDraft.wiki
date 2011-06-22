@@ -48,7 +48,8 @@ The following terminology is used by this specification:
 
   * Acquisition Feed -- An Atom Feed whose Atom Entries are exclusively OPDS Catalog Entries.
   * Acquisition Link -- An atom:link element with a relation that begins with "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described Publication or the Resource through which it may be acquired for any OPDS Catalog Entry. See the Sections Acquisition Relations and Acquiring Publications. They are serialized as OPDS Catalog Feed Documents.
-  * Complete Catalog Entry -- An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry. 
+  * Complete Catalog Entry -- An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry.
+  * Facet -- An attribute of an item that can be used for navigation.
   * IRI -- An Internationalized Resource Identifier as defined in `[RFC3987]`. 
   * Navigation Feed -- An Atom Feed whose Atom Entries are not OPDS Catalog Entries but instead links to other Navigation Feeds, Acquisition Feeds, or other Resources to establish a hierarchical, browsable presentation of the OPDS Catalog. 
   * OPDS Catalog -- All of the Atom Feeds (Acquisition and Navigation) and Entries (Partial and Complete) following this specification published together to describe a consolidated group of available Publications.
@@ -165,48 +166,35 @@ An OPDS client MAY use these links to automatically sync content to the user's l
 
 === Facets ===
 
-An Acquisition Feed MAY offer multiple links to reorder the Publications listed in the feed or limit them to a subset. This specification defines one new relation to identify such links as facets:
+An Acquisition Feed MAY offer multiple links to reorder the Publications listed in the feed or limit them to a subset. This specification defines one new relation to identify such links as Facets:
   * "http://opds-spec.org/facet": An Acquisition Feed with a subset or an alternate order of the Publications listed. 
 
 Links using this relation MUST only appear in Acquisition Feeds.
 
-Facets can also be aggregated in named groups using an OPDS specific attribute : "opds:facetGroup". 
-The value of this attribute is the name of the group.
+==== The "opds:facetGroup" Attribute ====
 
-Every facet SHALL be contained in one and only named group.
+Facets CAN be grouped together by the OPDS Catalog provider using an "opds:facetGroup" attribute. The value of this attribute is the name of the group.
 
-{{{
-<link rel="http://opds-spec.org/facet" 
-      href="/sci-fi" 
-      title="Science-Fiction" 
-      opds:facetGroup="Categories" />
+A Facet MUST NOT appear in more than a single group.
 
-<link rel="http://opds-spec.org/facet" 
-      href="/romance" 
-      title="Romance"  
-      opds:facetGroup="Categories" />
-}}}
+==== The "opds:activeFacet" Attribute ====
 
-When a facet is active, the catalog provider SHOULD provide this information using another OPDS specific attribute : "opds:activeFacet", set to "true".
+A Facet is considered active, if the attribute associated to the Facet is already being used to filter Publications in the current Acquisition Feed.
 
-When inactive the whole attribute SHOULD NOT appear in the link.
+The OPDS Catalog provider SHOULD indicate that a Facet is active using the "opds:activeFacet" attribute set to "true".
 
-In a facet group, only a single facet CAN be marked as active.
+If the Facet is not active, the "opds:activeFacet" attribute SHOULD NOT appear in the link.
 
-{{{
-<link rel="http://opds-spec.org/facet" 
-      href="/sci-fi" 
-      title="Science-Fiction" 
-      opds:facetGroup="Categories" 
-      opds:activeFacet="true" />
+In a group of Facets, an OPDS Catalog provider MUST NOT mark more than one Facet as active.
 
-<link rel="http://opds-spec.org/facet" 
-      href="/romance" 
-      title="Romance"  
-      opds:facetGroup="Categories" />
-}}}
 
-To improve the experience, catalog publishers CAN announce the number of Publications expected using an attribute extracted from `[RFC4685]` : "thr:count".
+==== The "thr:count" Attribute ====
+
+The OPDS Catalog provider MAY provide an additional hint about the number of items expected in the Acquisition Feed, if an OPDS client follows a link.
+
+The "thr:count" attribute, extracted from `[RFC4685]` MAY be added to a Facet in order to provide this information.
+
+==== Example of Facets ====
 
 {{{
 <link rel="http://opds-spec.org/facet" 
@@ -220,6 +208,24 @@ To improve the experience, catalog publishers CAN announce the number of Publica
       title="Romance"  
       opds:facetGroup="Categories" 
       thr:count="600" />
+
+<link rel="http://opds-spec.org/facet" 
+      href="/thrillers" 
+      title="Thrillers"  
+      opds:facetGroup="Categories" 
+      thr:count="1200" />
+
+<link rel="http://opds-spec.org/facet" 
+      href="/sci-fi/english" 
+      title="English" 
+      opds:facetGroup="Language" 
+      opds:activeFacet="true" />
+
+<link rel="http://opds-spec.org/facet" 
+      href="/sci-fi/french" 
+      title="French"  
+      opds:facetGroup="Language" 
+      thr:count="40" />
 }}}
 
 === Crawlable Feed Relation ===

@@ -260,7 +260,7 @@ OPDS Catalog Feed Documents MAY include elements from the `[OpenSearch]` namespa
 
 === Search Example == 
 
-In order to provide a search endpoint that supports both basic (keyword based) search and advanced example, an OPDS Catalog could provide the following template in its `[OpenSearch]` Description document:
+In order to provide a search endpoint that supports both basic (keyword based) and advanced search, an OPDS Catalog could provide the following template in its `[OpenSearch]` Description document:
 
 {{{
 <Url type="application/atom+xml;profile=opds-catalog"

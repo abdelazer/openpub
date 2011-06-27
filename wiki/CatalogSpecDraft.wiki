@@ -49,7 +49,7 @@ The following terminology is used by this specification:
   * Acquisition Feed -- An Atom Feed whose Atom Entries are exclusively OPDS Catalog Entries.
   * Acquisition Link -- An atom:link element with a relation that begins with "http://opds-spec.org/acquisition" and refers to the Resource which holds the content of the described Publication or the Resource through which it may be acquired for any OPDS Catalog Entry. See the Sections Acquisition Relations and Acquiring Publications. They are serialized as OPDS Catalog Feed Documents.
   * Complete Catalog Entry -- An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry.
-  * Facet -- An attribute of an item that can be used for navigation. In an OPDS Catalog, a Facet is represented as an atom:link in an Acquisition Feed.
+  * Facet -- A subset or an alternate order for an Acquisition Feed. In an OPDS Catalog, a Facet is represented as an atom:link in an Acquisition Feed.
   * IRI -- An Internationalized Resource Identifier as defined in `[RFC3987]`. 
   * Navigation Feed -- An Atom Feed whose Atom Entries are not OPDS Catalog Entries but instead links to other Navigation Feeds, Acquisition Feeds, or other Resources to establish a hierarchical, browsable presentation of the OPDS Catalog. 
   * OPDS Catalog -- All of the Atom Feeds (Acquisition and Navigation) and Entries (Partial and Complete) following this specification published together to describe a consolidated group of available Publications.

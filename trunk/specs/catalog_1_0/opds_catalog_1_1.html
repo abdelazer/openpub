@@ -3,15 +3,15 @@
   <div id="Status_of_this_Document">
     <h1 class="nonum">Status of this Document</h1>
     <p>This document specifies version 1.1 of the OPDS Catalog specification.</p>
-    <p>Published: 28 June 2011</p>
+    <p>Published: 27 June 2011</p>
     <dl>
       <dt>This version</dt>
       <dd>
-        <a href="http://opds-spec.org/specs/opds-catalog-1-1">http://opds-spec.org/specs/opds-catalog-1-1</a>
+        <a href="http://opds-spec.org/specs/opds-catalog-1-1-20110627">http://opds-spec.org/specs/opds-catalog-1-1-20110627</a>
       </dd>
       <dt>Latest version</dt>
       <dd>
-        <a href="http://opds-spec.org/specs/opds-catalog-1-0">http://opds-spec.org/specs/opds-catalog-1-1</a>
+        <a href="http://opds-spec.org/specs/opds-catalog-1-1">http://opds-spec.org/specs/opds-catalog-1-1</a>
       </dd>
       <dt>Previous version</dt>
       <dd>
@@ -92,8 +92,11 @@
         <li><a href="#The_atom_entry_Element">8.6.1. The "atom:entry" Element</a></li>
         <li><a href="#The_atom_link_Element">8.6.2. The "atom:link" Element</a></li>
         <li><a href="#The_opds_price_Element">8.6.3. The "opds:price" Element</a></li>
-      <ul/>
-      <li><a href="#The_opds_indirectAcquisition_Element">8.6.4. The "opds:indirectAcquisition" Element</a></li>
+        <ul>
+          <li><a href="#The_currencycode_Attribute">8.6.3.1. The "currencycode" Attribute</a></li>
+        </ul>
+        <li><a href="#The_opds_indirectAcquisition_Element">8.6.4. The "opds:indirectAcquisition" Element</a></li>
+      </ul>
     </ul>
     <li><a href="#Acquiring_Publications">9. Acquiring Publications</a></li>
     <ul>
@@ -168,7 +171,7 @@
       <dd>An OPDS Catalog Entry that includes all known metadata about the described Publication and is referenced by a Partial Catalog Entry.</dd>
       
       <dt>Facet</dt>
-      <dd>An attribute of an item that can be used for navigation. In an OPDS Catalog, a Facet is represented as an atom:link in an Acquisition Feed.</dd>
+      <dd>A subset or an alternate order for an Acquisition Feed. In an OPDS Catalog, a Facet is represented as an atom:link in an Acquisition Feed.</dd>
         
       <dt>IRI</dt>
       <dd>An Internationalized Resource Identifier as defined in <tt>[RFC3987]</tt>.</dd>
@@ -324,34 +327,34 @@
         <div id="example_facets">
           <h3>7.4.5.4. Example of Facets</h3>
 <pre lang="xml" escaped="true">&lt;link rel="http://opds-spec.org/facet" 
-  href="/sci-fi" 
-  title="Science-Fiction" 
-  opds:facetGroup="Categories" 
-  opds:activeFacet="true" /&gt;
+      href="/sci-fi" 
+      title="Science-Fiction" 
+      opds:facetGroup="Categories" 
+      opds:activeFacet="true" /&gt;
          
 &lt;link rel="http://opds-spec.org/facet" 
-  href="/romance" 
-  title="Romance"  
-  opds:facetGroup="Categories" 
-  thr:count="600" /&gt;
+      href="/romance" 
+      title="Romance"  
+      opds:facetGroup="Categories" 
+      thr:count="600" /&gt;
          
 &lt;link rel="http://opds-spec.org/facet" 
-  href="/thrillers" 
-  title="Thrillers"  
-  opds:facetGroup="Categories" 
-  thr:count="1200" /&gt;
+      href="/thrillers" 
+      title="Thrillers"  
+      opds:facetGroup="Categories" 
+      thr:count="1200" /&gt;
          
 &lt;link rel="http://opds-spec.org/facet" 
-  href="/sci-fi/english" 
-  title="English" 
-  opds:facetGroup="Language" 
-  opds:activeFacet="true" /&gt;
+      href="/sci-fi/english" 
+      title="English" 
+      opds:facetGroup="Language" 
+      opds:activeFacet="true" /&gt;
          
 &lt;link rel="http://opds-spec.org/facet" 
-  href="/sci-fi/french" 
-  title="French"  
-  opds:facetGroup="Language" 
-  thr:count="40" /&gt;
+      href="/sci-fi/french" 
+      title="French"  
+      opds:facetGroup="Language" 
+      thr:count="40" /&gt;
 </pre>
       </div>
       <div id="Crawlable_Feed_Relation">
@@ -364,12 +367,12 @@
       <h2>7.5. Search</h2>
       <p>An OPDS Catalog MAY provide a search facility through an <tt>[OpenSearch]</tt> description document. Links to <tt>[OpenSearch]</tt> description documents MUST use the "search" relation value and the "application/opensearchdescription+xml" media type as defined in the "Autodiscovery" section of the <tt>[OpenSearch]</tt> specification.</p>
         <pre lang="xml" escaped="true">&lt;link rel="search" 
-  href="search.xml" 
-  type="application/opensearchdescription+xml"/&gt;
+      href="search.xml" 
+      type="application/opensearchdescription+xml"/&gt;
       </pre>
       <p>In an <tt>[OpenSearch]</tt> description document, the search interface SHOULD use the media type associated to OPDS Catalogs:</p>
       <pre lang="xml" escaped="true">&lt;Url type="application/atom+xml;profile=opds-catalog"
-  template="http://example.com/search?q={searchTerms}" /&gt;
+    template="http://example.com/search?q={searchTerms}" /&gt;
       </pre>
       <p>An OPDS Catalog MAY also provide more advanced possibilities for its search endpoint, using one or more fully qualified parameters from the Atom namespace such as:</p>
       <ul>
@@ -382,8 +385,8 @@
         <h3>7.5.1. Search Example</h3>
         <p>In order to provide a search endpoint that supports both basic (keyword based) and advanced search, an OPDS Catalog could provide the following template in its <tt>[OpenSearch]</tt> Description document:</p>
         <pre lang="xml" escaped="true">&lt;Url type="application/atom+xml;profile=opds-catalog"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  template="http://example.com/search?q={searchTerms}&amp;author={atom:author}&amp;contributor={atom:contributor}&amp;title={atom:title}" /&gt;
+      xmlns:atom="http://www.w3.org/2005/Atom"
+      template="http://example.com/search?q={searchTerms}&amp;author={atom:author}&amp;contributor={atom:contributor}&amp;title={atom:title}" /&gt;
       </pre>
         <p>With such a template, an OPDS Client could for example support the following search queries:</p>
         <ul>
@@ -480,21 +483,21 @@
     &lt;dc:language&gt;en&lt;/dc:language&gt;
     &lt;dc:issued&gt;1917&lt;/dc:issued&gt;
     &lt;category scheme="http://www.bisg.org/standards/bisac_subject/index.html"
-      term="FIC020000"
-      label="FICTION / Men's Adventure"/&gt;
+              term="FIC020000"
+              label="FICTION / Men's Adventure"/&gt;
     &lt;summary&gt;The story of the son of the Bob and the gallant part he played in
       the lives of a man and a woman.&lt;/summary&gt;
     &lt;link rel="http://opds-spec.org/image"     
-      href="/covers/4561.lrg.png"
-      type="image/png"/&gt; 
+          href="/covers/4561.lrg.png"
+          type="image/png"/&gt; 
     &lt;link rel="http://opds-spec.org/image/thumbnail" 
-      href="/covers/4561.thmb.gif"
-      type="image/gif"/&gt;
+          href="/covers/4561.thmb.gif"
+          type="image/gif"/&gt;
      
     &lt;link rel="alternate"
-      href="/opds-catalogs/entries/4571.complete.xml"
-      type="application/atom+xml;type=entry;profile=opds-catalog" 
-      title="Complete Catalog Entry for Bob, Son of Bob"/&gt;
+          href="/opds-catalogs/entries/4571.complete.xml"
+          type="application/atom+xml;type=entry;profile=opds-catalog" 
+          title="Complete Catalog Entry for Bob, Son of Bob"/&gt;
      
     &lt;link rel="http://opds-spec.org/acquisition" 
           href="/content/free/4561.epub"
@@ -528,12 +531,12 @@
     &lt;content type="text"&gt;The definitive reference for the web-curious
       philatelist.&lt;/content&gt;
     &lt;link rel="http://opds-spec.org/image"     
-      href="/covers/11241.lrg.jpg"
-      type="image/jpeg"/&gt; 
+          href="/covers/11241.lrg.jpg"
+          type="image/jpeg"/&gt; 
      
     &lt;link rel="http://opds-spec.org/acquisition/buy" 
-      href="/content/buy/11241.epub"
-      type="application/epub+zip"&gt;
+          href="/content/buy/11241.epub"
+          type="application/epub+zip"&gt;
       &lt;opds:price currencycode="USD"&gt;18.99&lt;/opds:price&gt;
       &lt;opds:price currencycode="GBP"&gt;11.99&lt;/opds:price&gt;
     &lt;/link&gt;
@@ -646,28 +649,28 @@
   &lt;dc:language&gt;en&lt;/dc:language&gt;
   &lt;dc:issued&gt;1917&lt;/dc:issued&gt;
   &lt;category scheme="http://www.bisg.org/standards/bisac_subject/index.html"
-    term="FIC020000"
-    label="FICTION / Men's Adventure"/&gt;
+            term="FIC020000"
+            label="FICTION / Men's Adventure"/&gt;
   &lt;summary type="text"&gt;The story of the son of the Bob and the gallant part he played in
     the lives of a man and a woman.&lt;/summary&gt;
   &lt;link rel="http://opds-spec.org/image"     
-    href="/covers/4561.lrg.png"
-    type="image/png"/&gt; 
+        href="/covers/4561.lrg.png"
+        type="image/png"/&gt; 
   &lt;link rel="http://opds-spec.org/image/thumbnail" 
-    href="/covers/4561.thmb.gif"
-    type="image/gif"/&gt;
+        href="/covers/4561.thmb.gif"
+        type="image/gif"/&gt;
      
   &lt;link rel="alternate"
-    href="/opds-catalogs/entries/4571.complete.xml"
-    type="application/atom+xml;type=entry;profile=opds-catalog" 
-    title="Complete Catalog Entry for Bob, Son of Bob"/&gt;
+        href="/opds-catalogs/entries/4571.complete.xml"
+        type="application/atom+xml;type=entry;profile=opds-catalog" 
+        title="Complete Catalog Entry for Bob, Son of Bob"/&gt;
      
   &lt;link rel="http://opds-spec.org/acquisition" 
-    href="/content/free/4561.epub"
-    type="application/epub+zip"/&gt;
+        href="/content/free/4561.epub"
+        type="application/epub+zip"/&gt;
   &lt;link rel="http://opds-spec.org/acquisition" 
-    href="/content/free/4561.mobi"
-    type="application/x-mobipocket-ebook"/&gt;
+        href="/content/free/4561.mobi"
+        type="application/x-mobipocket-ebook"/&gt;
 &lt;/entry&gt;</pre>
     
       <p>The Complete Catalog Entry for the same Publication:</p>
@@ -683,8 +686,8 @@
   &lt;dc:language&gt;en&lt;/dc:language&gt;
   &lt;dc:issued&gt;1917&lt;/dc:issued&gt;
   &lt;category scheme="http://www.bisg.org/standards/bisac_subject/index.html"
-    term="FIC020000"
-    label="FICTION / Men's Adventure"/&gt;
+            term="FIC020000"
+            label="FICTION / Men's Adventure"/&gt;
      
   &lt;summary type="text"&gt;The story of the son of the Bob and the gallant part he played in
     the lives of a man and a woman.&lt;/summary&gt;
@@ -695,22 +698,22 @@
     and uses those lessons to improve the lives of others.&lt;/content&gt;
      
   &lt;link rel="http://opds-spec.org/image"     
-    href="/covers/4561.lrg.png"
-    type="image/png"/&gt; 
+        href="/covers/4561.lrg.png"
+        type="image/png"/&gt; 
   &lt;link rel="http://opds-spec.org/image/thumbnail" 
-    href="/covers/4561.thmb.gif"
-    type="image/gif"/&gt;
+        href="/covers/4561.thmb.gif"
+        type="image/gif"/&gt;
      
   &lt;link rel="self"
-    href="/opds-catalogs/entries/4571.complete.xml"
-    type="application/atom+xml;type=entry;profile=opds-catalog"/&gt;
+        href="/opds-catalogs/entries/4571.complete.xml"
+        type="application/atom+xml;type=entry;profile=opds-catalog"/&gt;
      
   &lt;link rel="http://opds-spec.org/acquisition" 
-    href="/content/free/4561.epub"
-    type="application/epub+zip"/&gt;
+        href="/content/free/4561.epub"
+        type="application/epub+zip"/&gt;
   &lt;link rel="http://opds-spec.org/acquisition" 
-    href="/content/free/4561.mobi"
-    type="application/x-mobipocket-ebook"/&gt;
+        href="/content/free/4561.mobi"
+        type="application/x-mobipocket-ebook"/&gt;
 &lt;/entry&gt;
 </pre>
     </div>
@@ -735,7 +738,8 @@
     attribute hreflang { atomLanguageTag }? ,
     attribute title { text }? ,
     attribute length { text }? ,
-    ((attribute rel { "http://opds-spec.org/facet" }, (attribute opds:facetGroup { text }? &amp; attribute opds:activeFacet { "true" }? ))
+    ((attribute rel { "http://opds-spec.org/facet" }, (attribute 
+    opds:facetGroup { text }? &amp; attribute opds:activeFacet { "true" }? ))
     |
     (attribute rel { "http://opds-spec.org/acquisition/buy" }, opdsPrice+ )
     |
@@ -800,34 +804,36 @@
       <h2>9.1. Acquisition Examples</h2>
       <p>The simplest case is a Publication available in one format:</p>
       <pre lang="xml" escaped="true">&lt;link rel="http://opds-spec.org/acquisition" 
-  type="video/mp4v-es" 
-  href="/content/free/4561.mp4"/&gt;</pre>
+      type="video/mp4v-es" 
+      href="/content/free/4561.mp4"/&gt;</pre>
       <p>If the Publication was available in multiple formats as unique Resources, they would simply be listed:</p>
       <pre lang="xml" escaped="true">&lt;link rel="http://opds-spec.org/acquisition/borrow" 
-  href="/content/borrow/4561.mobi"
-  type="application/x-mobipocket-ebook" /&gt;
+      href="/content/borrow/4561.mobi"
+      type="application/x-mobipocket-ebook" /&gt;
      
 &lt;link rel="http://opds-spec.org/acquisition/borrow" 
-  href="/content/borrow/4561.epub"
-  type="application/epub+zip" /&gt;</pre>
+      href="/content/borrow/4561.epub"
+      type="application/epub+zip" /&gt;</pre>
     
       <p>If the Publication requires payment, at least one "opds:price" element is required:</p>
       <pre lang="xml" escaped="true">&lt;link rel="http://opds-spec.org/acquisition/buy"
-  href="/product/song1.mp3"
-  type="audio/mpeg"&gt;
+      href="/product/song1.mp3"
+      type="audio/mpeg"&gt;
   &lt;opds:price currencycode="USD"&gt;1.99&lt;/opds:price&gt; 
 &lt;/link&gt;</pre>
     
       <p>If the same Publication requires a payment through an HTML page, then an "opds:indirectAcquisition" element is required to describe the content type of the final Publication Representation:</p>
       <pre lang="xml" escaped="true">&lt;link rel="http://opds-spec.org/acquisition/buy"
-  href="/product/1"
-  type="text/html"&gt;
+      href="/product/1"
+      type="text/html"&gt;
   &lt;opds:price currencycode="USD"&gt;1.99&lt;/opds:price&gt;
   &lt;opds:indirectAcquisition type="audio/mpeg" /&gt;
 &lt;/link&gt; </pre>
     
       <p>Multiple "opds:indirectAcquisition" elements can also be used as child elements of an Acquisition Link or another "opds:indirectAcquisition" when this is necessary (a bundle would be a good example):</p>
-      <pre lang="xml" escaped="true">&lt;link type="text/html" rel="http://opds-spec.org/acquisition/buy" href="/item/1111/buy/"&gt;
+      <pre lang="xml" escaped="true">&lt;link type="text/html" 
+      rel="http://opds-spec.org/acquisition/buy" 
+      href="/item/1111/buy/"&gt;
   &lt;opds:price currencycode="EUR"&gt;10.99&lt;/opds:price&gt;
   &lt;opds:indirectAcquisition type="application/zip"&gt;
     &lt;opds:indirectAcquisition type="application/epub+zip" /&gt;
@@ -867,14 +873,14 @@
     <p>Multiple links to OPDS Catalog Resources MAY be expressed in a single HTML document.</p>
     <p>An example of two links inside an HTML page about the same Publication:</p>
     <pre lang="xml" escaped="true">&lt;link rel="related"   
-  href="/opds-catalogs/root" 
-  type="application/atom+xml;profile=opds-catalog"  
-  title="Example OPDS Catalog" /&gt; 
+      href="/opds-catalogs/root" 
+      type="application/atom+xml;profile=opds-catalog"  
+      title="Example OPDS Catalog" /&gt; 
    
 &lt;link rel="alternate" 
-  href="/entry/1"
-  type="application/atom+xml;type=entry;profile=opds-catalog" 
-  title="Example OPDS Entry" /&gt;</pre>
+      href="/entry/1"
+      type="application/atom+xml;type=entry;profile=opds-catalog" 
+      title="Example OPDS Entry" /&gt;</pre>
   
     <p>Auto-discovery links MAY also be expressed using HTTP headers as defined in <tt>[RFC5988]</tt>.</p>
   </div>

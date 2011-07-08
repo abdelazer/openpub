@@ -837,6 +837,46 @@ The type of authentication required for any OPDS Catalog is a decision to be mad
 
 Because this protocol uses HTTP response status codes as the primary means of reporting the result of a request, OPDS Catalog providers are advised to respond to unauthorized or unauthenticated requests using an appropriate 4xx HTTP response code (e.g., 401 "Unauthorized" or 403 "Forbidden") in accordance with `[RFC2617]`.
 
+= Media Type Considerations =
+
+== The Atom Format Type Parameter ==
+
+The Atom Publishing Protocol `[RFC5023]` defines the Atom Format Type Parameter.
+
+Publishers of OPDS Catalogs SHOULD use the "type" parameter to help clients distinguish between relations to OPDS Catalog Entries and OPDS Catalog Feeds. 
+
+== The OPDS Catalog Profile Parameter ==
+
+Relations to OPDS Catalog Feed Document and OPDS Catalog Entry Document Resources SHOULD use a "profile" parameter following Section 4.3 of `[RFC4288]` with the value "opds-catalog". This profile parameter provides clients with an advisory hint that the Resource should be a component of an OPDS Catalog.
+
+The complete media type for a relation to an OPDS Catalog Entry Document Resource SHOULD be:
+
+{{{
+application/atom+xml;type=entry;profile=opds-catalog
+}}}
+
+The complete media type for a relation to an OPDS Catalog Feed Document Resource SHOULD be:
+
+{{{
+application/atom+xml;profile=opds-catalog
+}}}
+
+== The OPDS Kind Parameter ==
+
+In addition to the new "profile" parameter, this specification also introduces a new "kind" parameter following Section 4.3 of `[RFC4288]` with the value "acquisition" or "navigation". This "kind" parameter provides clients with an advisory hint whether the Resource should be an  Acquisition Feed or a Navigation Feed.
+
+The complete media type for a relation to an Acquisition Feed SHOULD be:
+
+{{{
+application/atom+xml;profile=opds-catalog;kind=acquisition
+}}}
+
+The complete media type for a relation to a Navigation Feed SHOULD be:
+
+{{{
+application/atom+xml;profile=opds-catalog;kind=navigation
+}}}
+
 = Bandwidth and Processing Considerations =
 
 Many OPDS Catalog clients operate in mobile environments, which may impose strict limitations on bandwidth and processing resources. OPDS Catalog publishers are strongly encouraged to publish their OPDS Catalogs using compression and caching techniques and the partial feeds described in the Section Listing Acquisition Feeds. Implementers are encouraged to investigate and use alternative mechanisms regarded as equivalently good or better at the time of deployment. See `[CACHING]` for more on caching techniques.
@@ -862,43 +902,6 @@ Server implementations are strongly encouraged to verify that external content i
 
 Additional information about XHTML and HTML content safety can be found in Section 8.1 of `[RFC4287]`.
 
-= The Atom Format Type Parameter =
-
-The Atom Publishing Protocol `[RFC5023]` defines the Atom Format Type Parameter.
-
-Publishers of OPDS Catalogs SHOULD use the "type" parameter to help clients distinguish between relations to OPDS Catalog Entries and OPDS Catalog Feeds. 
-
-= The OPDS Catalog Profile Parameter ==
-
-Relations to OPDS Catalog Feed Document and OPDS Catalog Entry Document Resources SHOULD use a "profile" parameter following Section 4.3 of `[RFC4288]` with the value "opds-catalog". This profile parameter provides clients with an advisory hint that the Resource should be a component of an OPDS Catalog.
-
-The complete media type for a relation to an OPDS Catalog Entry Document Resource SHOULD be:
-
-{{{
-application/atom+xml;type=entry;profile=opds-catalog
-}}}
-
-The complete media type for a relation to an OPDS Catalog Feed Document Resource SHOULD be:
-
-{{{
-application/atom+xml;profile=opds-catalog
-}}}
-
-= The OPDS Kind Parameter ==
-
-In addition to the new "profile" parameter, this specification also introduces a new "kind" parameter following Section 4.3 of `[RFC4288]` with the value "acquisition" or "navigation". This "kind" parameter provides clients with an advisory hint whether the Resource should be an  Acquisition Feed or a Navigation Feed.
-
-The complete media type for a relation to an Acquisition Feed SHOULD be:
-
-{{{
-application/atom+xml;profile=opds-catalog;kind=acquisition
-}}}
-
-The complete media type for a relation to a Navigation Feed SHOULD be:
-
-{{{
-application/atom+xml;profile=opds-catalog;kind=navigation
-}}}
 
 = References =
 

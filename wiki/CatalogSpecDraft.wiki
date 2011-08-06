@@ -1,9 +1,9 @@
-﻿#summary Draft of version 1.1.1 of the OPDS Catalog specification. Version 1.1 has been published: http://opds-spec.org/specs/opds-catalog-1-1
+﻿#summary Draft of version 1.2 of the OPDS Catalog specification. Version 1.1 has been published: http://opds-spec.org/specs/opds-catalog-1-1
 #labels Featured,Phase-Design
 
 = Status of this Draft =
 
-This document specifies the 1.1.1 draft of the OPDS Catalog specification.
+This document specifies the 1.2 draft of the OPDS Catalog specification.
 
 <wiki:toc max_depth="4" />
 
@@ -87,6 +87,49 @@ Producers of OPDS Catalogs SHOULD produce OPDS Catalog Feed Documents and OPDS C
 Unrecognized markup in any Atom Feed or Atom Entry in an OPDS Catalog is considered "foreign markup" as defined in Section 6 of the Atom Syndication Format `[RFC4287]`. Foreign markup can be used anywhere within an OPDS Catalog unless it is explicitly forbidden. Processors that encounter foreign markup MUST NOT stop processing and MUST NOT signal an error. Clients SHOULD preserve foreign markup when transmitting or aggregating such documents.
 
 The namespace name "http://opds-spec.org/2010/catalog" is reserved for forward-compatible revisions of the OPDS Catalog format. This does not exclude the addition of elements and attributes that might not be recognized by processors conformant to this specification. Such unrecognized markup from the "http://opds-spec.org/2010/catalog" namespace MUST be treated as foreign markup.
+
+= Media Type Considerations =
+
+== The Atom Format Type Parameter ==
+
+The Atom Publishing Protocol `[RFC5023]` defines the Atom Format Type Parameter.
+
+Publishers of OPDS Catalogs SHOULD use the "type" parameter to help clients distinguish between relations to OPDS Catalog Entries and OPDS Catalog Feeds. 
+
+== The OPDS Catalog Profile Parameter ==
+
+Relations to OPDS Catalog Feed Document and OPDS Catalog Entry Document Resources SHOULD use a "profile" parameter following Section 4.3 of `[RFC4288]` with the value "opds-catalog". This profile parameter provides clients with an advisory hint that the Resource should be a component of an OPDS Catalog.
+
+The complete media type for a relation to an OPDS Catalog Entry Document Resource SHOULD be:
+
+{{{
+application/atom+xml;type=entry;profile=opds-catalog
+}}}
+
+The complete media type for a relation to an OPDS Catalog Feed Document Resource SHOULD be:
+
+{{{
+application/atom+xml;profile=opds-catalog
+}}}
+
+== The OPDS Kind Parameter ==
+
+In addition to the new "profile" parameter, this specification also introduces a new "kind" parameter following Section 4.3 of `[RFC4288]` with the value "acquisition" or "navigation". This "kind" parameter provides clients with an advisory hint whether the Resource should be an  Acquisition Feed or a Navigation Feed.
+
+This value is intended to make it easier for OPDS clients to display basic contextual information about the feed without requiring that those clients dereference, parse, and analyze linked resources.
+That said, the client MUST NOT assume this parameter to provide completely accurate information about the nature of the feed. Feed publishers SHOULD make an effort to ensure that this value is accurate.
+
+The complete media type for a relation to an Acquisition Feed SHOULD be:
+
+{{{
+application/atom+xml;profile=opds-catalog;kind=acquisition
+}}}
+
+The complete media type for a relation to a Navigation Feed SHOULD be:
+
+{{{
+application/atom+xml;profile=opds-catalog;kind=navigation
+}}}
 
 = OPDS Catalog Feed Documents =
 
@@ -836,46 +879,6 @@ OPDS Catalogs are delivered over HTTP. Authentication requirements for HTTP are 
 The type of authentication required for any OPDS Catalog is a decision to be made by the OPDS Catalog provider. OPDS Catalog clients are likely to face authentication schemes that vary across OPDS Catalogs. At a minimum, client and server implementations MUST be capable of being configured to use HTTP Basic Authentication `[RFC2617]` in conjunction with a connection made with TLS 1.0 `[RFC2246]` or a subsequent standards-track version of TLS supporting the conventions for using HTTP over TLS described in `[RFC2818]`. It is RECOMMENDED that OPDS Catalog clients be implemented in such a way that new authentication schemes can be deployed.
 
 Because this protocol uses HTTP response status codes as the primary means of reporting the result of a request, OPDS Catalog providers are advised to respond to unauthorized or unauthenticated requests using an appropriate 4xx HTTP response code (e.g., 401 "Unauthorized" or 403 "Forbidden") in accordance with `[RFC2617]`.
-
-= Media Type Considerations =
-
-== The Atom Format Type Parameter ==
-
-The Atom Publishing Protocol `[RFC5023]` defines the Atom Format Type Parameter.
-
-Publishers of OPDS Catalogs SHOULD use the "type" parameter to help clients distinguish between relations to OPDS Catalog Entries and OPDS Catalog Feeds. 
-
-== The OPDS Catalog Profile Parameter ==
-
-Relations to OPDS Catalog Feed Document and OPDS Catalog Entry Document Resources SHOULD use a "profile" parameter following Section 4.3 of `[RFC4288]` with the value "opds-catalog". This profile parameter provides clients with an advisory hint that the Resource should be a component of an OPDS Catalog.
-
-The complete media type for a relation to an OPDS Catalog Entry Document Resource SHOULD be:
-
-{{{
-application/atom+xml;type=entry;profile=opds-catalog
-}}}
-
-The complete media type for a relation to an OPDS Catalog Feed Document Resource SHOULD be:
-
-{{{
-application/atom+xml;profile=opds-catalog
-}}}
-
-== The OPDS Kind Parameter ==
-
-In addition to the new "profile" parameter, this specification also introduces a new "kind" parameter following Section 4.3 of `[RFC4288]` with the value "acquisition" or "navigation". This "kind" parameter provides clients with an advisory hint whether the Resource should be an  Acquisition Feed or a Navigation Feed.
-
-The complete media type for a relation to an Acquisition Feed SHOULD be:
-
-{{{
-application/atom+xml;profile=opds-catalog;kind=acquisition
-}}}
-
-The complete media type for a relation to a Navigation Feed SHOULD be:
-
-{{{
-application/atom+xml;profile=opds-catalog;kind=navigation
-}}}
 
 = Bandwidth and Processing Considerations =
 

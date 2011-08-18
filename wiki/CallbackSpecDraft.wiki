@@ -1,0 +1,144 @@
+#summary First draft for OPDS Callback, a new spec document based on OPDS 1.1+: http://opds-spec.org/specs/opds-catalog-1-1
+
+= Status of this Draft =
+
+This document specifies the first draft of the OPDS Callback specification.
+
+<wiki:toc max_depth="3" />
+
+= License =
+
+This document is licensed under [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-Share Alike].
+
+= Abstract =
+
+The Open Publication Distribution System (OPDS) Callback specification is based on the `[OPDS-Catalog]` format.
+It provides an easy way for any content provider to redirect a user to a native or a Web application in order to consume a publication.
+
+= Introduction =
+
+Through an OPDS Catalog, a client can browse and acquire publications. But in some cases, the user must finalize the acquisition outside of the OPDS client, for example in order to pay for a book or subscribe to a magazine.
+In the end, the publication is usually delivered to the client, without any method to open the publication in the client where the acquisition started.
+
+This specification introduces two new Callbacks, one for native applications and another for Web applications, to redirect the user to a client where the publication can be consumed.
+
+These Callbacks MAY be used independently from an OPDS Catalog, although they require the content provider to produce OPDS Callback Entry Documents.
+
+= Notational Conventions =
+
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in `[RFC2119]`.
+
+= Terminology =
+
+This specification uses the same terminology found in the Terminology section of the `[OPDS-Catalog]` format.
+Additionally, the following terms are also introduced:
+
+  * Callback -- A method to redirect a user to a client where a publication can be consumed.
+  * OPDS Callback Entry Document -- An OPDS Catalog Entry Document provided by the content provider to the client in order to acquire a Publication.
+  * OPDS Callback Link -- An URI that points to an OPDS Callback Entry Document.
+  
+= OPDS Callback Entry Document =
+
+In the `[OPDS-Catalog]` format, OPDS Catalog Entry Documents describe Publications. Each entry provides:
+  * Metadata about the Publication
+  * At least one Acquisition link where the client can acquire the Publication
+  * Additional links either for navigation or service discovery purposes
+
+Acquisition Links in `[OPDS-Catalog]` can be separated into three main groups:
+  * those that MAY require a transaction or authentication of some kind (buy, borrow, subscribe, sample)
+  * those that MUST NOT require any transaction or authentication (open-access)
+  * and a generic link (acquisition)
+
+Each type of link is identified by a relationship value as defined in the Acquisition Relations section of `[OPDS-Catalog]`.
+
+An OPDS Callback Entry Document is an OPDS Catalog Entry Document with one additional condition. An OPDS Callback Entry Document MUST have at least one generic Acquisition Link.
+
+This generic Acquisition Link MUST NOT require any subsequent authentication and MUST link directly to the publication and not an intermediate resource.
+
+OPDS Callback providers MAY make these Acquisition Links time-sensitive in order to secure the access to these Publications. While this specification doesn't recommend a duration for such time-sensitive links, OPDS Callback providers SHOULD make this duration comfortable enough for clients that may download these Publications from a slow connection (such as mobile devices).
+
+== OPDS Callback Entry Document Example ==
+
+{{{
+<entry>
+  <title>Bob, Son of Bob</title>
+  <id>urn:uuid:6409a00b-7bf2-405e-826c-3fdff0fd0734</id>
+  <updated>2010-01-10T10:01:11Z</updated>
+
+  <author>
+    <name>Bob the Recursive</name>
+    <uri>http://opds-spec.org/authors/1285</uri>
+  </author>
+  <dc:language>en</dc:language>
+  <dc:issued>1989</dc:issued>
+  <category scheme="http://www.bisg.org/standards/bisac_subject/index.html"
+            term="FIC020000"
+            label="FICTION / Men's Adventure"/>
+
+  <summary type="text">The story of the son of the Bob and the gallant part he played in
+    the lives of a man and a woman.</summary>
+  <content type="text">The story of the son of the Bob and the gallant part
+    he played in the lives of a man and a woman. Bob begins his humble life
+    under the wandering eye of his senile mother, but quickly learns how to
+    escape into the wilder world. Follow Bob as he uncovers his father's past
+    and uses those lessons to improve the lives of others.</content>
+
+  <link rel="http://opds-spec.org/image"     
+        href="/covers/4561.lrg.png"
+        type="image/png"/> 
+  <link rel="http://opds-spec.org/image/thumbnail" 
+        href="/covers/4561.thmb.gif"
+        type="image/gif"/>
+
+  <link rel="http://opds-spec.org/acquisition" 
+        href="/content/4561.epub?hash=3580979e2de35fe8e42a3ee20ebb0301"
+        type="application/epub+zip"/>
+</entry>
+}}}
+
+== Service Discovery ==
+
+Aside from a generic Acquisition Link, an OPDS Callback Entry Document MAY contain additional links.
+
+It is RECOMMENDED to use such links in order to enable service discovery through the identification by the client of certain relationship and media type combination.
+
+=== Service Discovery Examples ===
+
+An OPDS Callback provider with a full OPDS Catalog available could provide a link to the OPDS Catalog Root:
+{{{
+<link rel="start" 
+      href="/opds-catalog/root.xml" 
+      type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+}}}
+
+If the Callback is for a Publication that the user just bought, a link to the bookshelf could be useful:
+{{{
+<link rel="http://opds-spec.org/shelf" 
+      href="/shelf.atom" 
+      type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+}}}
+
+If the user just subscribed to a Publication, the Callback could also include a link to all of the user's subscriptions:
+{{{
+<link rel="http://opds-spec.org/subscriptions" 
+      href="/subscriptions" 
+      type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+}}}
+
+= OPDS Callback Link =
+
+== Native applications ==
+
+== Web applications ==
+
+= Examples =
+
+== Callback for a native application ==
+
+== Callback for a Web application ==
+
+= References =
+
+== Normative References ==
+
+  * `[OPDS-Catalog]` The openpub community, "Open Publication Distribution System", June 2011, http://opds-spec.org/specs/opds-catalog-1-1.

@@ -141,6 +141,10 @@ An OPDS Callback Link can either use:
   * An OPDS URI Scheme, which is more suited for Native Applications that can register the OPDS URI Scheme
   * An Application Callback URI, which is more suited for Web Applications
 
+An OPDS Callback Link MUST NOT require additional authentication to access the OPDS Callback Entry Document referenced.
+
+OPDS Callback providers MAY make these OPDS Callback Links time-sensitive in order to secure the access to these Publications. While this specification doesn't recommend a duration for such time-sensitive links, OPDS Callback providers SHOULD make this duration comfortable enough for clients that may download these Publications from a slow connection (such as mobile devices).
+
 == OPDS URI Scheme ==
 
 The OPDS URI Scheme is a URI Scheme as defined in `[RFC3986]` and in the OPDS URI Scheme section of `[OPDS-Catalog]`.
@@ -202,14 +206,14 @@ An OPDS Callback Entry Document MAY contain more than a single generic Acquisiti
 
 == OPDS URI Scheme ==
 
-A user just bought "Bob, Son of Bob", and finalized the transaction through a Web page. In the HTML page, the Callback provider includes a time-sensitive callback using the opds:// scheme:
+A user just bought "Bob, Son of Bob", and finalized the transaction through a Web page. In the HTML page, the Callback provider includes a time-sensitive callback using the OPDS URI Scheme:
 {{{
 <a href="opds://opds-example.org/example.opds?hash=2c8b6d72435c8664c1cf383971f8e244">
   Open this Publication
 </a>
 }}}
 
-The native application detects the opds:// URI scheme and opens the resource associated to the link at "opds-example.org/example.opds?hash=2c8b6d72435c8664c1cf383971f8e244":
+The native application detects the OPDS URI Scheme and opens the resource associated to the link at "opds-example.org/example.opds?hash=2c8b6d72435c8664c1cf383971f8e244":
 
 {{{
 <entry xmlns="http://www.w3.org/2005/Atom" 
@@ -369,6 +373,10 @@ In the background, the client opens and parses the OPDS Callback Entry Document:
 The client finds the Acquisition Link and downloads the Publication.
 
 The Publication is displayed to the user.
+
+= Security Considerations =
+
+OPDS Callback Entry Documents are OPDS Catalog Entry Documentsthus subject to the security considerations found in `[OPDS-Catalog]`.
 
 = References =
 

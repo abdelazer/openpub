@@ -62,7 +62,9 @@ OPDS Callback providers MAY make these Acquisition Links time-sensitive in order
 == OPDS Callback Entry Document Example ==
 
 {{{
-<entry xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:dc="http://purl.org/dc/terms/">
+<entry xmlns="http://www.w3.org/2005/Atom" 
+       xmlns:opds="http://opds-spec.org/2010/catalog" 
+       xmlns:dc="http://purl.org/dc/terms/">
   <title>Bob, Son of Bob</title>
   <id>urn:uuid:6409a00b-7bf2-405e-826c-3fdff0fd0734</id>
   <updated>2010-01-10T10:01:11Z</updated>
@@ -95,6 +97,10 @@ OPDS Callback providers MAY make these Acquisition Links time-sensitive in order
   <link rel="http://opds-spec.org/acquisition" 
         href="/content/4561.epub?hash=3580979e2de35fe8e42a3ee20ebb0301"
         type="application/epub+zip"/>
+
+  <link rel="http://opds-spec.org/shelf" 
+        href="/shelf.atom" 
+        type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 </entry>
 }}}
 
@@ -150,7 +156,9 @@ Any application MAY register this URI Scheme to detect an OPDS Callback Link, op
 An OPDS Callback Link to "opds-example.org/example.opds?hash=2c8b6d72435c8664c1cf383971f8e244" would be:
 
 {{{
-<a href="opds://opds-example.org/example.opds?hash=2c8b6d72435c8664c1cf383971f8e244">Open this Publication</a>
+<a href="opds://opds-example.org/example.opds?hash=2c8b6d72435c8664c1cf383971f8e244">
+  Open this Publication
+</a>
 }}}
 
 == Application Callback URI ==
@@ -179,7 +187,9 @@ At the end of the transaction, the Publication provider wants to points the user
 
 The following OPDS Callback Link is displayed:
 {{{
-<a href="http://opds-reader.com/?callback=http%3a%2f%2fopds-example.org%2fexample.opds%3fhash%3d2c8b6d72435c8664c1cf383971f8e244">Open this Publication</a>
+<a href="http://opds-reader.com/?callback=http%3a%2f%2fopds-example.org%2fexample.opds%3fhash%3d2c8b6d72435c8664c1cf383971f8e244">
+  Open this Publication
+</a>
 }}}
 
 = Acquiring Publications =
@@ -194,13 +204,17 @@ An OPDS Callback Entry Document MAY contain more than a single generic Acquisiti
 
 A user just bought "Bob, Son of Bob", and finalized the transaction through a Web page. In the HTML page, the Callback provider includes a time-sensitive callback using the opds:// scheme:
 {{{
-<a href="opds://opds-example.org/example.opds?hash=2c8b6d72435c8664c1cf383971f8e244">Open this Publication</a>
+<a href="opds://opds-example.org/example.opds?hash=2c8b6d72435c8664c1cf383971f8e244">
+  Open this Publication
+</a>
 }}}
 
 The native application detects the opds:// URI scheme and opens the resource associated to the link at "opds-example.org/example.opds?hash=2c8b6d72435c8664c1cf383971f8e244":
 
 {{{
-<entry xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:dc="http://purl.org/dc/terms/">
+<entry xmlns="http://www.w3.org/2005/Atom" 
+       xmlns:opds="http://opds-spec.org/2010/catalog" 
+       xmlns:dc="http://purl.org/dc/terms/">
   <title>Bob, Son of Bob</title>
   <id>urn:uuid:6409a00b-7bf2-405e-826c-3fdff0fd0734</id>
   <updated>2010-01-10T10:01:11Z</updated>
@@ -233,6 +247,10 @@ The native application detects the opds:// URI scheme and opens the resource ass
   <link rel="http://opds-spec.org/acquisition" 
         href="/content/4561.epub?hash=a4592f10dab48f60dc7b256d25ccc243"
         type="application/epub+zip"/>
+
+  <link rel="http://opds-spec.org/shelf" 
+        href="/shelf.atom" 
+        type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 </entry>
 }}}
 
@@ -245,7 +263,9 @@ The Publication is added to the user's local shelf and then opened.
 The user is browsing an OPDS Catalog using a Web Application and selects "Bob, Son of Bob":
 
 {{{
-<entry xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:dc="http://purl.org/dc/terms/">
+<entry xmlns="http://www.w3.org/2005/Atom" 
+       xmlns:opds="http://opds-spec.org/2010/catalog" 
+       xmlns:dc="http://purl.org/dc/terms/">
   <title>Bob, Son of Bob</title>
   <id>urn:uuid:6409a00b-7bf2-405e-826c-3fdff0fd0734</id>
   <updated>2010-01-10T10:01:11Z</updated>
@@ -295,14 +315,18 @@ The Publication provider checks if the Application Callback is authorized in its
 
 At the end of the transaction, the Publication provider displays the following link:
 {{{
-<a href="http://opds-reader.com/?callback=http%3a%2f%2fopds-example.org%2fexample.opds%3fhash%3d2c8b6d72435c8664c1cf383971f8e244">Open this Publication</a>
+<a href="http://opds-reader.com/?callback=http%3a%2f%2fopds-example.org%2fexample.opds%3fhash%3d2c8b6d72435c8664c1cf383971f8e244">
+  Open this Publication
+</a>
 }}}
 
 The user is redirected to the initial Web client.
 In the background, the client opens and parses the OPDS Callback Entry Document:
 
 {{{
-<entry xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:dc="http://purl.org/dc/terms/">
+<entry xmlns="http://www.w3.org/2005/Atom" 
+       xmlns:opds="http://opds-spec.org/2010/catalog" 
+       xmlns:dc="http://purl.org/dc/terms/">
   <title>Bob, Son of Bob</title>
   <id>urn:uuid:6409a00b-7bf2-405e-826c-3fdff0fd0734</id>
   <updated>2010-01-10T10:01:11Z</updated>
@@ -335,6 +359,10 @@ In the background, the client opens and parses the OPDS Callback Entry Document:
   <link rel="http://opds-spec.org/acquisition" 
         href="/content/4561.epub?hash=a4592f10dab48f60dc7b256d25ccc243"
         type="application/epub+zip"/>
+
+  <link rel="http://opds-spec.org/shelf" 
+        href="/shelf.atom" 
+        type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 </entry>
 }}}
 

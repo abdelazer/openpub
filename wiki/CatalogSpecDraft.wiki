@@ -872,6 +872,14 @@ An example of two links inside an HTML page about the same Publication:
 
 Auto-discovery links MAY also be expressed using HTTP headers as defined in `[RFC5988]`.
 
+= OPDS URI Scheme =
+
+In order to link directly to an OPDS Catalog Feed or an OPDS Catalog Entry Document, this specification introduces a new URI scheme as defined in Section 3.1 of `[RFC3986]`.
+
+This scheme SHOULD only be used when none of the other discovery methods are available.
+
+The full details are available under the "IANA Registration of opds URI Scheme" section of this specification.
+
 = Securing OPDS Catalogs =
 
 OPDS Catalogs are delivered over HTTP. Authentication requirements for HTTP are covered in Section 11 of `[RFC2616]`.
@@ -905,6 +913,58 @@ Server implementations are strongly encouraged to verify that external content i
 
 Additional information about XHTML and HTML content safety can be found in Section 8.1 of `[RFC4287]`.
 
+= IANA Registration of opds URI Scheme =
+
+In accordance with `[RFC4395]`, this section provides the information required to register the opds URI scheme.
+
+== URI Scheme Name == 
+
+opds
+
+== Status ==
+
+permanent
+
+== URI Scheme Syntax ==
+
+The 'opds' URI takes the form of the opds-uri rule below as specified using ABNF from `[RFC5234]`:
+
+{{{
+opds-uri = "opds://" absolute-URI
+}}}
+
+== URI Scheme Semantics ==
+
+The opds URI Scheme identifies Open Publication Distribution System (OPDS) resources that can be consumed by dedicated clients, and provides the location to these resources.
+
+Each application implementing the 'opds' URI scheme is permitted to choose how to handle the OPDS Document associated to the URI.
+The current practice is to either display the information available in the OPDS Document or to start the acquisition of the resource if a link is provided.
+
+This scheme is associated to either OPDS Feed Documents (identified by the "application/atom+xml;profile=opds-catalog" media type) or OPDS Entry Documents (identified by the "application/atom+xml;profile=opds-catalog;type=entry" media type).
+
+== Encoding Considerations ==
+
+There are no encoding considerations for 'opds' URIs other than those discussed in `[RFC3986]`.
+
+== Applications/Protocols That Use This URI Scheme Name ==
+
+The opds URI scheme is intended to be used by OPDS clients.
+
+== Interoperability Considerations ==
+
+There are no known interoperability concerns related to use of the opds URI scheme.
+
+== Security Considerations ==
+
+See the Security Considerations section of this document.
+
+== Contact ==
+
+... [mailto:xxx@yyy]
+
+== Author/Change Controller ==
+
+... [mailto:xxx@yyy]
 
 = References =
 

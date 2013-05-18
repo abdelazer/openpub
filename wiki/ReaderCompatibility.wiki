@@ -1,21 +1,7 @@
 #summary Track the support among readers for OPDS.
 
-(Let's keep the list alphabetical by Name...)
+This Wiki page is now deprecated.
 
-|| *Name* || *Platform* || *OPDS Version* || *Notes* ||
-|| Aldiko 2.0 || Android || 1.0 || DRM Support; In-App direct acquisition support; No OpenSearch support;||
-|| Bluefire Reader || iOS || 1.0 || DRM Support; Indirect acquisition through Safari for purchase;||
-|| FBReader || Android || 1.0 || Supports purchase links; No DRM support ||
-|| Ibis Reader || Web + HTML5 App || 1.0 || No indirect/purchase links; No DRM support ||
-|| MegaReader || iOS || 1.0 / 0.9 / pre-0.9 || No purchase links; No DRM support; ||
-|| QuickReader || iOS || 1.0 / 0.9 / pre-0.9 || No purchase links; No DRM support ||
-|| Stanza || iOS || pre-0.9|| No OpenSearch support; No full entry support; No support for OPDS 1.0 image rel; No support for most acquisition rel; No support for rel values in acquisitions feeds; No DRM support||
+To test OPDS client support, use: http://feedbooks.github.io/opds-test-catalog/
 
-
-
-== User Agent Strings ==
-
-|| Aldiko || Mozilla/5.0 (Linux; U; Android 2.2.1; fr-fr; A70S Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 Aldiko/2.0-standard ||
-|| FBReader || FBReader/0.7.8(java) ||
-|| Stanza (iPad) || Stanza/3.0.3 iPhone OS/3.2.2/iPad catalog/3.0.3 ||
-|| Stanza (iPhone) || Stanza/3.0.3 iPhone OS/4.0/iPhone catalog/3.0.3 ||
+For an always up-to-date document on clients, the following comparaison is available: https://docs.google.com/spreadsheet/ccc?key=0AiWt3tA8qtyMdFpkZ0lxV011MXV6X3JJRFUxa050SHc
